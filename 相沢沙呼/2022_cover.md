@@ -1,6 +1,6 @@
 # 相沢沙呼『invert II 覗き窓の死角』(2022)
 
-<img src=covers/2022_invert_II_覗き窓の死角.jpg width=250/>
+<img src=images/2022_cover.jpg width=250/>
 
 ## 1. 生者の言伝
 
