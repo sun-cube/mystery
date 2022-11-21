@@ -1,4 +1,4 @@
-# Tom Mead, *Death and the Conjuror* (2022)
+# Tom Mead, <i>Death and the Conjuror</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
 
