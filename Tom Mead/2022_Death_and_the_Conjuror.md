@@ -32,4 +32,6 @@ Stenhouse 把 Pete 迷晕放在五楼屋顶，脖子上套了一个绳圈，绳�
 
 :link: 5629
 
+:file_folder: English mystery
+
 :label: impossible crime, locked room
