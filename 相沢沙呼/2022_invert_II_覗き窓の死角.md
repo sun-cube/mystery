@@ -39,4 +39,6 @@ X在下雨前吃蛋糕，因为如果下雨后还有时间吃蛋糕，肯定来�
 
 :link: 5590
 
+:file_folder: Japanese mystery
+
 :label: inverted mystery
