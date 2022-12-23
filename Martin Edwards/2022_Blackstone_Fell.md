@@ -18,10 +18,10 @@ Huckerby 的妻子 Gloria 多年前精神失常自杀，Huckerby 为此常年自
 
 Nell 死前不久其好友 Peggy Needham 曾赶来劝她回家。Peggy 看到 Nell 被男人跟踪，并在黑石塔的窗口看到 Harold Lejune，所以可以肯定跟踪者不是 Harold。Peggy 怀疑 Harold 有可能看到凶手面目，并意图敲诈。Harold 失踪。
 
-Rachel 在溪流石缝中找到 Harold 尸体，脸被打烂。Quintus Royle 常年对妻子 Judith 家暴，Judith 开枪打死 Quintus 后自杀。有传言说 Harold Lejune 与 Judith 出轨，因为无法修成正果所以自杀。
+Rachel 在溪流石缝中找到 Harold 尸体，脸被打烂。Quintus Royle 常年对妻子 Judith 家暴，Judith 开枪打死 Quintus 后自杀。有传言说 Harold Lejune 与 Judith 出轨，因无法转正而自杀。
 
 <details><summary>密室解答</summary>
-Robert 是一名间谍，和 Edmund 说壁炉后面有秘道，Edmund 进入秘道后掉入地上的陷阱身亡。壁炉上有一行字 aabaaabbaabaaababaaaabbbb，是 Baconian 密文，翻译出来就是 EMRIP，意为“Edmund Mellor RIP”。Alfred 发现秘道后坠入同一陷阱。
+Robert 是一名间谍，和 Edmund 说壁炉后面有秘道，Edmund 进入秘道后掉入地上的陷阱身亡。壁炉上有一行字 aabaaabbaabaaababaaaabbbb，是 Baconian 密文，翻译出来就是 EMRIP，意为 Edmund Mellor RIP。Alfred 发现秘道后坠入同一陷阱。
 </details>
 
 Rachel 邀请 Oakes 在镇上举行通灵仪式，Sambrook 家三人、Carrodus、Peggy、Jacob、Trueman 一起参加。仪式中 Nell Fagan 说自己死于谋杀，并且 Gloria Huckerby、Clodagh Hamill、Joshua Flood、Violet Beagrie、Ursula Baker、Vernon Murray 均死于谋杀。
@@ -31,6 +31,8 @@ Patrick Hamill 害死妻子与秘书结婚，Alan Walker 抢夺 Joshua Flood 的
 
 Harold Lejeune 杀死 Nell，其真实身份是害死 Nathan 的银行家 Ormond Weaver，真正的 Harold 早已得病身亡。前妻 Chiara 死后，Weaver 开始与 Judith Royle 交往。Nell 曾在法庭上见过 Weaver，所以认出 Weaver 假冒他人。Judith 收到的匿名信是她自己所写。Nathan 其实是 Peggy 和 Randolph Fagan 的儿子，Randolph 的最后一本小说书名 <i>The Mystery of Hannah Tart</i> 重新排列组合就是 Nathan Hart。Peggy 杀死 Weaver 为儿子复仇。
 </details>
+
+监视密室纯粹凑数，当代案件的复杂度靠人物数量堆砌。结尾的线索列表虽然保障了公平性，但整体缺乏新意，令人失望。
 
 :link: 5727
 
