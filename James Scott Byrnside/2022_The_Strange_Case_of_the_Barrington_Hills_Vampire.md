@@ -39,6 +39,8 @@ Madelaine 再次梦游，Rowan 跟踪，在一个壁橱里发现死猫尸体。H
 
 Madelaine 承认案发当日与 Sinclair 在森林中相会。Belby 被杀，尸体丢弃地的墙上写着 Browning 的名字。Madelaine 的大腿上刻了 Bugs Benny 的首字母 BB。
 
+结尾由 Rowan 的老师 Genevieve Pond 解释案情。
+
 <details><summary>无足迹杀人真相</summary>
 吉普赛管家 Belby 害怕吸血鬼，所以在家具上刻雏菊轮图案。传说在壁炉边埋鞋子可以捉住从烟囱下来的吸血鬼，他没法埋鞋子所以退而求其次，偷了阁楼里 Thomas 的两双鞋子，一双放在屋顶，另一双放在车库顶上。凶手在 Thomas 的牛奶中下了番木鳖碱。Thomas 爬梯子上车库去拿自己的鞋子，下来的时候毒发摔下。凶手用叉子在 Thomas 脖子上留下吸血鬼印记，穿着 Thomas 从屋顶拿下来的鞋子，倒着走回厨房。Madelaine 差不多同一时间离开房子，凶手的脚印压在她的脚印上面。Madelaine 看到 Thomas 与透明人搏斗是毒发挣扎。
 </details>
