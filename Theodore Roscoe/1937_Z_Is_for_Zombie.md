@@ -1,4 +1,4 @@
-# Theodore Roscoe, <i>Z Is for Zombie</i> (20xx)
+# Theodore Roscoe, <i>Z Is for Zombie</i> (1937)
 
 <img src=images/1937_cover.jpg width=250/>
 
