@@ -21,3 +21,9 @@ Harrman 尸体消失是被 Kavanaugh 藏在壁橱里。Marcelline 和 Brown 来�
 </details>
 
 密室圣经漏网作品。一人A在众人环视的不可能状态下中刀，奄奄一息，送到医院后护士竟说自己亲手在14年前将其下葬，眼前的A是活尸！大家去A的墓地查验，却在那里发现B的尸体，去B的墓地又发现C的尸体，层层迭代……如此生动而不失诡异的谜题在最后得到了完美的逻辑解决，作者不愧是廉价小说 (pulp fiction) 中的 John Dickson Carr!
+
+:link: 5792
+
+:file_folder: English mystery
+
+:label: impossible crime, locked room
