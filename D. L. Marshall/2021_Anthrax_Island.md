@@ -10,62 +10,14 @@ John 偷偷摸进工头 Greenbow 的办公室，发现钥匙串上少了两把�
 
 John 在 Hurley 的衣柜里发现一条裤子上有个四个洞，还在柜子的木板上发现一个洞。Gambetta 在实验室壁橱里藏了一把无声 PPK 手枪，枪套在其卧室床头柜中。Ingrid 的房间窗玻璃上有两个洞，因为手枪只开了一枪，所以开枪时窗户打开，凶手从窗户进屋。Demeter 有房门密码无需走窗户，说明 Demeter 不是凶手。闭路监视的内存卡消失不见。Demeter 的尸体在水管下方出现。Dash 曾向 Demeter 借钱。
 
-岛上断电。John 布置了一个自动点火装置，一来电便会。John 被人开枪追杀，被迫跳崖逃生。John 开枪将 Greenbow 打伤。
+岛上断电。John 布置了一个自动点火装置，一来电便会在装有病毒样品的房间引发火灾，届时赶去灭火的人便是犯人。John 被人开枪追杀，被迫跳崖逃生。John 开枪将 Greenbow 打伤。Hurley 进屋灭火。John 与 Hurley 枪战，Hurley 逃跑，John 穷追不舍。
 
-Donald Clay. Project head. 
-Dasharath Chaudhary. Dash. Facility specialist. 
-Marie Leroux. Bacteriologist. 
-Greenbow. Project head. 
-Evan Hurley. American. 
-Alice. 
-Gambetta. French. 
-Demeter. My roommate. Worked at Sverdlovsk, Russian military factory. 
-El Capitan  
-Ingrid. Viking. 4 PhDs. 
-Hanna. Ingrid's sister. 
-Gambetta found Andy's body.  
-I asked Ingrid to check whether soil sample is contaminated. 
-Tide cannot reach Kyle. Kyle was murdered.
-Demeter
-Aliced asked to take soil samples.
-Alice String
+<details><summary>密室真相</summary>
+Gambetta 杀死 Ingrid 和 Demeter，穿着工作服伪装成 Demeter 进入无线电室，将防毒面具等装备藏入地板下方暗室，砸坏发报机，并把自己划伤。Gambetta 原计划打开窗户，大声呼救，谎称自己受到 Demeter 的袭击，但窗户锁死无法打开。Hurley 和 Alice 联手杀死 Gambetta。Hurley 开枪制造枪响（因为窗户锁死，只好将子弹射入壁橱），然后在楼道里大声喊叫，伪造不在场证明。Alice 第一个进屋，在进门的一刹那用无声手枪杀死 Gambetta，事后故意触摸手枪，掩盖枪上有自己的指纹的事实。
+</details>
 
-Demeter making his report to Gambetta in the radio room. Heard argument. Banging the door.
+:link: 5xxx
 
+:file_folder: English mystery
 
-Missing key from Greenbow's drawer.
-Gambetta saw divers in the bay this morning.
-Ingrid was shot in the head in the radio room.
-Bates. 
-Jarrett. Radio operator. 
-Ingrid was killed first, with Demeter making his way back to X-Base immediately after to kill Gambetta.
-Trapdoor near the door leading to the utility compartment under the floor. Found Demeter's gear. Tea sample for Ingrid to test. Sandwich bag. Melted usb stick. 
-Alice found blackmail note in Viktor Demeter's book. Russian spy?
-Dr Donald Clay was dead in bed. Could be the drink. 
-Hurley wardrobe. Four holes in trouser. One hole in the solid wood base. 
-Gun missing from Gambetta's room. 
-Ingrid said sample contains unknown anthrax strain. Links to Andy Kyle. 
-Ingrid room. Two bullet holes on window. Only one shot so the window was open. Demeter had the code to the door. Killer came in from window. Demeter was not the killer. 
-CCTV stick was missing. 
-Why Eric Gambetta had hidden his silenced Walther PPK on top of a cupboard here in this lab?
-Holster was in Gambetta's bedroom drawer. 
-Found Demeter's body under pipe. 
-Dash had Demeter's watch on wrist. Actually Dash's watch. Dash owed Demeter money. 
-Dirt in the generator. Power out. 
-I set a fire device. If power is back on, murderer will need to run to radio room to save the sample vial. 
-Dash accidentally cut his leg. 
-Someone tried to shoot me. I jumped off cliff to escape. 
-I'm a mercenary. 
-I shot Greenbow in the leg because he pointed a gun at me. 
-Hurley in the radio room trying to save vial. 
-Gun fight. Hurley escaped from boat. I saved Marie. 
-Gamebetta and Demeter didn't have alibi for killing Ingrid. 
-I chased Hurley to village. Killed him. 
-Marie took the other window key. Gave my gun to Hurley instead of killing him.  
-Alice shot Gambetta. 
-
-“Once inside the comms room, Gambetta went into overdrive, tearing off the red suit, throwing it and the gas mask under the floor. He took a lighter to the USB stick from the CCTV, because it would have shown that it was him, not Demeter, decontaminating. He smashed the radio, gave himself a couple of scratches and a bloody nose along the way, made it look like he’d been attacked.”
-Tried to open window but failed. 
-Hurley and Alice killed him. 
-The gunshot we heard was from Hurley. Couldn't open window so fired into wardrobe. Head out of room shouting, creating alibi. 
-We ran into radio room. Alice killed Gambetta with silenced pistol. Screamed to cover up sound. 
+:label: impossible crime, locked room
