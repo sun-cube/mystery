@@ -16,6 +16,8 @@ John 在 Hurley 的衣柜里发现一条裤子上有个四个洞，还在柜子�
 Gambetta 杀死 Ingrid 和 Demeter，穿着工作服伪装成 Demeter 进入无线电室，将防毒面具等装备藏入地板下方暗室，砸坏发报机，并把自己划伤。Gambetta 原计划打开窗户，大声呼救，谎称自己受到 Demeter 的袭击，但窗户锁死无法打开。Hurley 和 Alice 联手杀死 Gambetta。Hurley 开枪制造枪响（因为窗户锁死，只好将子弹射入壁橱），然后在楼道里大声喊叫，伪造不在场证明。Alice 第一个进屋，在进门的一刹那用无声手枪杀死 Gambetta，事后故意触摸手枪，掩盖枪上有自己的指纹的事实。
 </details>
 
+密室的布局还算过硬，看到地板下方出现秘道时心中一凉，还好最后挺住了。侦探冷硬风，结尾动作戏。
+
 :link: 5798
 
 :file_folder: English mystery
