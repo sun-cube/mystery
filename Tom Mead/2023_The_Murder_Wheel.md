@@ -8,15 +8,15 @@ Ibbs 询问了摩天轮售票员 Miklos Varga 和证实 Dean 死亡的医生 Hug
 
 Flint 警长认为臭名昭著的黑老大 Titus Pilgrim 与银行劫案相关，因为他曾策划好几起类似的劫案。Ibbs 怀疑 Dominic Dean 和 Pilgrim 里应外合，后被 Pilgrim 灭口。Ibbs 向魔术师侦探 Joseph Spector 寻求帮助。
 
-Ibbs 观看魔术师 Paolini 的表演。Paolini 让观众中的 Ibbs 上台对着自己开枪，枪响过后 Paolini 安然无恙。Paolini 让助手 Martha 展示大木箱中的一副空盔甲，表演盔甲走路，结果打开木箱的刹那掉出 Miklos Varga 的尸体。这个魔术的奥秘是木箱里有一个夹层，由舞台管理 Sidney Draper 将助手 Kenneth Fabris 藏入夹层中的另外一副盔甲，却不知为何混入一具尸体。Fabris 人在盔甲中，听不见周围动静。Varga 的尸体左臂戴了一个护臂，右臂却带了两个护臂。Paolini 的替身 Max Toomey 一直在小巷里抽烟。看门人 Alf 证实没有人溜进后台，自己在和 Toomey 打牌。剧院老板 Benjamin Teasel 有偷窥歌唱团女生的黑历史。Paolini 指控 Draper 为凶手，Draper 否认。Martha 给 Flint 警长解释盔甲走路的秘密。 
+Ibbs 观看魔术师 Paolini 的表演。Paolini 让观众中的 Ibbs 上台对着自己开枪，枪响过后 Paolini 安然无恙。Paolini 让助手 Martha 展示大木箱中的一副空盔甲，表演盔甲走路，结果打开木箱的刹那掉出 Miklos Varga 的尸体。这个魔术的奥秘是木箱里有一个夹层，由舞台管理 Sidney Draper 将助手 Kenneth Fabris 藏入夹层中的另外一副盔甲，却不知为何混入一具尸体。Fabris 人在盔甲中，听不见周围动静。Varga 的尸体左臂戴了一个护臂，右臂却带了两个护臂。看门人 Alf 证实没有人溜进后台，自己在和Paolini 的替身 Max Toomey 打牌。剧院老板 Benjamin Teasel 有偷窥歌唱团女生的黑历史。Paolini 指控 Draper 为凶手，Draper 否认。Martha 给 Flint 警长解释盔甲走路的秘密。 
 
 <img src=images/2023_crate_illusion.jpg width=400/>
 
-Draper 说木箱总共有两个，有人用备用木箱调换了原先的木箱。Ibbs 撞见 Martha 的前夫 Ned Winchester，Martha 在演出前把他从防火门放进后台。Ned 承认自己来找 Toomey，因为 Toomey 老对 Martha 纠缠不清。Draper 是 Ned 的舅舅，案发前让 Ned 登高，把打了结的六号幕布绳子剪断。7:50 Ned 从防火门把 Varga 放进后台。8:00 演出开始。9:15 Ned Ned 目睹 Draper 辅助 Fabris 钻进箱子，听到二人对话，Fabris 还问了一句“Ned，是你在那儿吗？”Fabris 证词与 Ned 相符，他确实在进箱子时听到 Ned 说话，进了盔甲后便不再能听到声音。Ibbs 曾目睹 Varga 和 Titus Pilgrim 在一起，但 Pilgrim 当晚有不在场证明。灯光师 Cope 一直在调光，没有机会犯案。
+Draper 说木箱总共有两个，有人用备用木箱调换了原先的木箱。Ibbs 撞见 Martha 的前夫 Ned Winchester，Martha 在演出前把他从防火门放进后台。Ned 承认自己来找 Toomey，因为 Toomey 老对 Martha 纠缠不清。Draper 是 Ned 的舅舅，案发前让 Ned 登高，把打了结的六号幕布绳子剪断。7:50 Ned 从防火门把 Varga 放进后台。8:00 演出开始。9:15 Ned Ned 目睹 Draper 辅助 Fabris 钻进箱子，听到二人对话，Fabris 还问了一句“Ned，是你在那儿吗？”Fabris 证词与 Ned 相符，他确实在进箱子时听到 Ned 说话，进了盔甲后便不再能听到声音。Ibbs 曾在 Old Bailey 街目睹 Varga 和 Titus Pilgrim 会面，说明二人认识，但 Pilgrim 当晚有不在场证明。灯光师 Cope 一直在调光，没有机会犯案。
 
 <img src=images/2023_theater.jpg width=500/>
 
-Paolini 把 Ibbs 叫进自己的更衣室，锁上门后说知道关于 Dean 的事情。就在这时 Paolini 看到 Ibbs 身后有人，Ibbs 刚一转身便被打晕。他醒来后发现手上用强力胶水粘了一把手枪，Paolini 太阳穴中枪伤死在房间另外一边，身后墙上有一处弹孔。Ibbs 打开自内锁住的屋门，Flint、Spector 等人已在门外聚集。Flint 以谋杀罪将 Ibbs 逮捕。更衣室只有一扇门和两扇窗户，门外一直有警察监视无人经过，窗户都生了锈打不开，而且窗外装有栏杆，无法容人通过。Paolini 身上的枪伤是从近距离射击所致，如果从外面的小巷向窗内射击则距离太远。更衣室隔壁是一间空屋，有一扇门通向 Martha 的更衣室，但门锁坏了打不开。Ned 在小巷里抽烟，说漏嘴暴露知道 Paolini 被手枪打死。Martha 证实手枪平时锁在后台的一个木箱中，凶手破坏了木箱的锁取走手枪和子弹。
+Paolini 把 Ibbs 叫进自己的更衣室，锁上门后说知道关于 Dean 的事情。就在这时 Paolini 看到 Ibbs 身后有人，Ibbs 刚一转身便被打晕。他醒来后发现手上用强力胶水粘了一把手枪，Paolini 太阳穴中枪死在自己身旁，其身后墙上有一处弹孔。Ibbs 打开自内锁住的屋门，Flint、Spector 等人早已在门外聚集。更衣室只有一扇门和两扇窗户，门外一直有警察监视无人经过，窗户都生了锈打不开，而且窗外装有栏杆，无法容人通过。Paolini 身上的枪伤是从近距离射击所致，如果从外面的小巷向窗内射击则距离太远。更衣室隔壁是一间空屋，有一扇门通向 Martha 的更衣室，但门锁坏了打不开。Ned 在小巷里抽烟，说漏嘴暴露知道 Paolini 被手枪打死。Martha 证实手枪平时锁在后台的一个木箱中，凶手破坏了木箱的锁取走手枪和子弹。
 
 <details><summary>Ibbs 提出摩天轮密室解答</summary>
 Dominic Dean 在摩天轮内看到下面的 Boyd Remiston，为了躲避追捕，取出藏在妻子包中的手枪对天射击，然后倒地装死。Dean 回到地面后 Remiston 开枪将其打死。
