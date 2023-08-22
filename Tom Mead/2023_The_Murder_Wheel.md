@@ -49,3 +49,9 @@ Paolini 受到 <i>The Problem of Thor Bridge</i> 启发，认为 Dominic Dean �
 </details>
 
 三起不可能犯罪。一、妻子在摩天轮中听见枪响，丈夫中弹身亡。二、魔术表演“盔甲走路”，舞台上突然掉出尸体。三、主人公与魔术师会面，一转头被打晕，醒来发现魔术师近距离中弹身亡，自己手里粘了一把手枪，屋门自内上锁，外面有人敲门。三起案件环环相扣，人物关系复杂，诡计与布局深度结合，读出巅峰 Carr 的味道。强烈推荐！
+
+:link: 5925
+
+:file_folder: English mystery
+
+:label: impossible crime, locked room
