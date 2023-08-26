@@ -6,13 +6,13 @@
 
 Ibbs 询问了摩天轮售票员 Miklos Varga 和证实 Dean 死亡的医生 Hugh Ransome，二人都证实见到跛足男人。Dean 的老板 Felix Draven 说 Dean 在死亡前夕心神不宁，因为他们供职的银行刚刚遭遇抢劫，Dean 安排值班的守卫 Arthur Morrison 被劫犯殴打至死。收银员 Cash 说在 Dean 死后有一人 Boyd Remiston 来问了许多问题。
 
-Flint 警长认为臭名昭著的黑老大 Titus Pilgrim 与银行劫案相关，因为他曾策划好几起类似的劫案。Ibbs 怀疑 Dominic Dean 和 Pilgrim 里应外合，后被 Pilgrim 灭口。Ibbs 向魔术师侦探 Joseph Spector 寻求帮助。
+Flint 警长认为臭名昭著的黑老大 Titus Pilgrim 与银行劫案相关，因为他曾策划过好几起类似的劫案。Ibbs 怀疑 Dominic Dean 和 Pilgrim 里应外合，后被 Pilgrim 灭口。Ibbs 向魔术师侦探 Joseph Spector 寻求帮助。
 
-Ibbs 观看魔术师 Paolini 的表演。Paolini 让观众中的 Ibbs 上台对着自己开枪，枪响过后 Paolini 安然无恙。Paolini 让助手 Martha 展示大木箱中的一副空盔甲，表演盔甲走路，结果打开木箱的刹那掉出 Miklos Varga 的尸体。这个魔术的奥秘是木箱里有一个夹层，由舞台管理 Sidney Draper 将助手 Kenneth Fabris 藏入夹层中的另外一副盔甲，却不知为何混入一具尸体。Fabris 人在盔甲中，听不见周围动静。Varga 的尸体左臂戴了一个护臂，右臂却带了两个护臂。看门人 Alf 证实没有人溜进后台，自己在和Paolini 的替身 Max Toomey 打牌。剧院老板 Benjamin Teasel 有偷窥歌唱团女生的黑历史。Paolini 指控 Draper 为凶手，Draper 否认。Martha 给 Flint 警长解释盔甲走路的秘密。 
+Ibbs 观看魔术师 Paolini 的表演。Paolini 让观众中的 Ibbs 上台对着自己开枪，枪响过后 Paolini 安然无恙。Paolini 让助手 Martha 展示大木箱中的一副空盔甲，表演盔甲走路，结果打开木箱的刹那掉出 Miklos Varga 的尸体。这个魔术的奥秘是木箱里有一个夹层，由舞台管理 Sidney Draper 将助手 Kenneth Fabris 藏入夹层中的另外一副盔甲，却不知为何混入一具尸体。Fabris 人在盔甲中，听不见周围动静。Varga 的尸体左臂戴了一个护臂，右臂却带了两个护臂。看门人 Alf 证实没有人溜进后台，自己在和 Paolini 的替身 Max Toomey 打牌。剧院老板 Benjamin Teasel 有偷窥歌唱团女生的黑历史。Paolini 指控 Draper 为凶手，Draper 否认。Martha 给 Flint 警长解释盔甲走路的秘密。 
 
 <img src=images/2023_crate_illusion.jpg width=400/>
 
-Draper 说木箱总共有两个，有人用备用木箱调换了原先的木箱。Ibbs 撞见 Martha 的前夫 Ned Winchester，Martha 在演出前把他从防火门放进后台。Ned 承认自己来找 Toomey，因为 Toomey 老对 Martha 纠缠不清。Draper 是 Ned 的舅舅，案发前让 Ned 登高，把打了结的六号幕布绳子剪断。7:50 Ned 从防火门把 Varga 放进后台。8:00 演出开始。9:15 Ned Ned 目睹 Draper 辅助 Fabris 钻进箱子，听到二人对话，Fabris 还问了一句“Ned，是你在那儿吗？”Fabris 证词与 Ned 相符，他确实在进箱子时听到 Ned 说话，进了盔甲后便不再能听到声音。Ibbs 曾在 Old Bailey 街目睹 Varga 和 Titus Pilgrim 会面，说明二人认识，但 Pilgrim 当晚有不在场证明。灯光师 Cope 一直在调光，没有机会犯案。
+Draper 说木箱总共有两个，有人用备用木箱调换了原先的木箱。Ibbs 撞见 Martha 的前夫 Ned Winchester，Martha 在演出前把他从防火门放进后台。Ned 承认自己来找 Toomey，因为 Toomey 老对 Martha 纠缠不清。Draper 是 Ned 的舅舅，案发前让 Ned 登高，把打了结的六号幕布绳子剪断。7:50 Ned 从防火门把 Varga 放进后台。8:00 演出开始。9:15 Ned Ned 目睹 Draper 辅助 Fabris 钻进箱子，听到二人对话，Fabris 还问了一句“Ned，是你在那儿吗？”Fabris 证词与 Ned 相符，他确实在进箱子时听到 Ned 说话，进了盔甲后便与外界隔绝。Ibbs 曾在 Old Bailey 街目睹 Varga 和 Titus Pilgrim 会面，说明二人认识，但 Pilgrim 当晚有不在场证明。灯光师 Cope 一直在调光，没有机会犯案。
 
 <img src=images/2023_theater.jpg width=500/>
 
@@ -33,7 +33,7 @@ Carla 开枪杀死丈夫 Dominic，因为戴了手套所以手上没有硝烟反
 Pilgrim 指控 Ibbs 杀死 Paolini，但 Ibbs 坚决否认。Pilgrim 否认杀死 Varga，但承认从 Varga 的死亡获益。Pilgrim 命令手下将 Ibbs 带到摩天轮处死。Spector 和 Martha 赶到游乐场，及时叫来警察，救下 Ibbs。警察再次逮捕 Ibbs。
 
 <details><summary>舞台尸体真相</summary>
-Varga 捡到 Carla 掉落的手套，知道 Carla 是真凶。Pilgrim 指使 Draper 除掉 Varga。Draper 杀死 Varga 之后将尸体吊到空中，如果有人看到 Draper 便可以谎称他在吊起替身 Toomey。Ned 剪错绳子，Varga 的尸体掉落，Varga 只好将尸体藏进木箱。他选用舞台木箱而不是备用木箱是为了扰乱局面，不然如果备用木箱里发现尸体，自己的嫌疑更大。Fabris 穿上盔甲进入木箱A，中间还和 Ned 打了个招呼。后来 Ned 从高处下来，Draper 交换木箱B和木箱A，利用 Varga 的尸体重新表演了 Fabris 进入木箱（B）的一幕（所以 Varga 的尸体上有三件护臂），并假冒 Fabris 的声音和 Ned 打招呼。Fabris 和 Ned 的口供一致，但两个人的经历其实发生在不同的时间点！
+Varga 捡到 Carla 掉落的手套，知道 Carla 是真凶。Pilgrim 指使 Draper 除掉 Varga。Draper 杀死 Varga 之后将尸体吊到空中，如果被人看到，Draper 可以谎称正在吊起替身 Toomey。Ned 剪错绳子，Varga 的尸体掉落，Draper 只好将尸体藏进木箱。他选用舞台木箱而不是备用木箱是为了扰乱局面，不然如果备用木箱里发现尸体，自己的嫌疑更大。Fabris 穿上盔甲进入木箱A，中间还和 Ned 打了个招呼。后来 Ned 从高处下来，Draper 交换木箱B和木箱A，利用 Varga 的尸体重新表演了 Fabris 进入木箱（B）的一幕（所以 Varga 的尸体上有三件护臂），并假冒 Fabris 的声音和 Ned 打招呼。Fabris 和 Ned 的口供一致，但两个人的经历其实发生在不同的时间点！
 
 <img src=images/2023_crate_illusion_2.jpg width=500/>
 </details>
