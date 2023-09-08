@@ -35,7 +35,7 @@ Madelaine 醒来后回忆在车库后窗看到丈夫与透明人搏斗。Rowan �
 
 Madelaine 再次梦游，Rowan 跟踪，在一个壁橱里发现死猫尸体。Hådd 在密闭卧室中被杀，双手被切断，房门钥匙挂在床上。尸体在死亡后五个小时发现，这期间 Rowan 一直在走廊里监视。Rowan 和 Walter 跟踪 Madelaine 的脚印跟丢，二人分道而行，Rowan 在暴雪中走丢，来到 Cuchla 的房子，险被钉入棺材活埋，幸亏 Walter 等人赶到将其救下。Thomas 家烧掉。
  
-时尚杂志 Style 刊登了 Rowan 的家居设计，主编说 Rowan 在 Barrington 和在 Chicago 的家设计完全不同。黑帮老大 Bugs Benny 喜欢 Madeline，将情敌 Richard Blake 在家中杀死分尸，尸块用塑料袋运出，手留在卧室为了警告别人不可以染指 Madeline。邻居没有看到别人进出是被迫作伪证。Madelaine 惊吓中逃入墓地，以梦游做掩饰。Clark Geologies 的地上勘探报告发给了 Thomas 和 Hådd，地下勘探报告却发给了 G. K. Chesterton Financial，其背后的神秘买家竟为 Gertrude。
+时尚杂志 <i>Style</i> 刊登了 Rowan 的家居设计，主编说 Rowan 在 Barrington 和在 Chicago 的家设计完全不同。黑帮老大 Bugs Benny 喜欢 Madeline，将情敌 Richard Blake 在家中杀死分尸，尸块用塑料袋运出，手留在卧室为了警告别人不可以染指 Madelaine。邻居没有看到别人进出是被迫作伪证。Madelaine 惊吓中逃入墓地，以梦游做掩饰。Clark Geologies 的地上勘探报告发给了 Thomas 和 Hådd，地下勘探报告却发给了 G. K. Chesterton Financial，其背后的神秘买家竟为 Gertrude。
 
 Madelaine 承认案发当日与 Sinclair 在森林中相会。Belby 被杀，尸体丢弃地的墙上写着 Browning 的名字。Madelaine 的大腿上刻了 Bugs Benny 的首字母 BB。
 
