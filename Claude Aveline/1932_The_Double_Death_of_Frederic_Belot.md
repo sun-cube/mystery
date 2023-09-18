@@ -30,7 +30,7 @@ Leon Ferroux 是一名会计师，被贪污主管设计陷害丢了工作。Ferr
 冒牌 Belot 病情恶化，临终时和 Simon 说“不要杀他”、“他疯了”，随后咽气。现场射出的六发子弹均来自 Belot 的枪。Simon 再度家访 Deguise，Delluc 医生还是不让见。Delluc 说 Belot 曾收到威胁信。Simon 请 Delluc 到家中比对文件，Delluc 同意，临走时让厨子送了一封信。Simon 把 Delluc 带到 Belot 家，Morin 太太证实 Delluc 就是那日来访的陌生男人。
 
 <details><summary>真相</summary>
-Delluc 是 Deguise 的同父异母哥哥，住在 Deguise 隔壁。Ferroux 给了 Deguise 自己的手枪防身。Deguise 偷了 Ferroux 的钥匙，拿着手枪到公寓找 Ferroux，计划以自杀逼婚。Belot 看到持枪的 Deguise，抽出手枪让她举手投降，Deguise 惊慌之下开枪误杀了 Belot。这时 Ferroux 从背后出现，Deguise 以为看到鬼魂，疯狂射击击伤 Ferroux。Delluc 在 Deguise 之后来到公寓，发现妹妹杀人，迅速让她离开现场，并为她掩护揽下罪行。Delluc 没有看到帘子后面的 Belot。
+Delluc 是 Deguise 的同父异母哥哥，住在 Deguise 隔壁。Ferroux 给了 Deguise 自己的手枪防身。Deguise 偷了 Ferroux 的钥匙，拿着手枪到公寓找 Ferroux，计划以自杀逼婚。Belot 看到持枪的 Deguise，抽出手枪让她举手投降，Deguise 惊慌之下开枪误杀了 Belot。这时 Ferroux 从背后出现，Deguise 以为看到鬼魂，疯狂射击击伤 Ferroux。Delluc 在 Deguise 之后来到公寓，发现妹妹杀人，迅速让她离开现场，并从 Belot 拿了一张警局的信纸伪造了警局的信，让 Deguise 有借口以生病为由不见外人。Delluc 没有看到帘子后面的 Belot。
 </details>
 
 警官 Belot 头部中弹奄奄一息，倒在自家公寓里，隔壁房间竟然躺着一具相貌相同的尸体！两人身旁各掉落一把同样口径的手枪，究竟孰真孰假？Belot 下午回家，当时公寓里没有其他人，此后到发现尸体期间只有两人短暂来访，公寓一直为监视密室，冒牌 Belot 如何进入公寓？1932 年的法国不可能犯罪，故事曲折不拖沓，既在意料之外，又在情理之中，具有鲜明的法国特色。强烈推荐！
