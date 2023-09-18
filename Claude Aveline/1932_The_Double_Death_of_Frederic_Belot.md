@@ -10,11 +10,16 @@
 
 Morin 太太说 Belot 前两天刚丢了公寓钥匙，正准备换锁。当日下午 2 点 Belot 回家，5 点Deguise 来访，之后来了一个陌生男人。下午 3:30 Morin 太太把房间所有百叶窗关闭，确认没有外人，之后一直监视公寓入口，车库门有铁栏杆，不清楚冒牌 Belot 如何进入公寓。Simon 家访 Deguise 女士，但 Delluc 医生说 Deguise 刚听说 Belot 中枪的事情，身心状态极差，不便见客。Simon 好奇消息为何走漏得这么快，原来昨天夜里 11 点有一个出租司机给 Deguise 送了一封警局的信，里面说了 Belot 的事情。Simon 回到警局查问，秘书 Truflot 证实信纸确实是警局的信纸，但从来没有人写过这样一封信。
 
-Morin 太太说 Belot 两年前把二楼重新装修租给一个房客，但自己从未见过这名房客。Simon 发现二楼有一个衣柜，里面的衣服和一楼换衣间的衣服一样。装修工人说有一扇门被改装成了滑动门。Simon 通过滑动门进入另一侧的公寓，在里面发现一个钱包，身份证上的名字为 Jean Martin。对面公寓楼的管理员说有一个名为 Lesueur 的女佣帮 Martin 定期打扫卫生。
-
 <img src=images/1932_street_view.png width=400/>
+
+Morin 太太说 Belot 两年前把二楼重新装修租给一个房客，但自己从未见过这名房客。Simon 发现二楼有一个衣柜，里面的衣服和一楼换衣间的衣服一样。Simon 破解密室。
+
+<details><summary>密室真相</summary>
+装修工人将一扇门改装成了滑动门。Simon 通过滑动门进入另一侧的公寓，在里面发现一个钱包，身份证上的名字为 Jean Martin。真假 Belot 分别住在滑动门的两侧。
+
 <img src=images/1932_upper_half.png width=400/>
 <img src=images/1932_lower_half.png width=400/>
+</details>
 
 Simon 家访 Belot 的母亲，给她看了冒牌 Belot 的照片，问她是否认识。Belot 的母亲却说照片里的人是真 Belot！Simon 感到无比混乱。与此同时，身份管理部门的警察 Cavagioli 也有了新发现。警察局长给 Simon 和 Cavagioli 讲了一个故事。
 
