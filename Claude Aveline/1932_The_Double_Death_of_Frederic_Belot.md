@@ -24,7 +24,7 @@ Morin 太太说 Belot 两年前把二楼重新装修租给一个房客，但自�
 Simon 家访 Belot 的母亲，给她看了冒牌 Belot 的照片，问她是否认识。Belot 的母亲却说照片里的人是真 Belot！Simon 感到无比混乱。与此同时，身份管理部门的警察 Cavagioli 也有了新发现。警察局长给 Simon 和 Cavagioli 讲了一个故事。
 
 <details><summary>局长的故事</summary>
-Leon Ferroux 是一名会计师，被贪污主管设计陷害丢了工作。Ferroux 发现自己长得和 Belot 十分相像，于是找到 Belot 讲了自己的故事。Picard 升任局长需要 Belot 接替自己的旧职，但 Belot 不想整日坐办公桌，提出让 Ferroux 冒充自己白天上班。Picard 起先不同意，但后来让步。Belot 请了假给 Ferroux 特训，并且改变自己的日常行为让二人行为一致。Belot 让 Ferroux 佩戴自己的枪。Ferroux 爱上了 Deguise，但觉得会影响工作所以想退出，但 Belot 支持二人交往，并允许 Ferroux 在公寓与 Deguise 见面。
+Leon Ferroux 是一名会计师，被贪污主管设计陷害丢了工作。Ferroux 发现自己长得和 Belot 十分相像，于是找到 Belot 讲了自己的故事。Picard 升任局长需要 Belot 接替自己的旧职，但 Belot 不想整日坐办公桌，提出让 Ferroux 冒充自己白天上班。Picard 起先不同意，但后来让步。Belot 请了假给 Ferroux 特训，并且改变自己的日常行为让二人行为一致。Belot 让 Ferroux 佩戴自己的枪。Ferroux 爱上了 Deguise，但觉得会影响工作所以想退出，没想到 Belot 支持二人交往，并允许 Ferroux 在公寓与 Deguise 见面。
 </details>
 
 冒牌 Belot 病情恶化，临终时和 Simon 说“不要杀他”、“他疯了”，随后咽气。现场射出的六发子弹均来自 Belot 的枪。Simon 再度家访 Deguise，Delluc 医生还是不让见。Delluc 说 Belot 曾收到威胁信。Simon 请 Delluc 到家中比对文件，Delluc 同意，临走时让厨子送了一封信。Simon 把 Delluc 带到 Belot 家，Morin 太太证实 Delluc 就是那日来访的陌生男人。
