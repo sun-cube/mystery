@@ -2,7 +2,7 @@
 
 <img src=images/1932_cover.jpg width=250/>
 
-故事主人公 Simon Rivière 是一名法国警察，其干爹 Frederic Belot 是警察局的高官，与 Simon 死去的父亲、警察局长 M. Picard 为过命之交。Belot 47岁，为人豪爽，不拘小节，长期信奉独身主义，但最近与一个名为 Deguise 的年轻寡妇交往。Picard 追捕大盗 Merkowicz，下午五点给 Belot 打电话让他到警局，但 Belot 直到晚上八点仍未现身。Simon 去 Belot 家公寓查看，管理员 Morin 太太给开了门。Simon 上了二楼，只见 Belot 头部中枪奄奄一息，身旁掉落一把手枪，Simon 慌忙叫了救护车。Simon 拉开通往隔壁房间的帘子，只见地下还倒着一具 Belot 的尸体，身旁也掉落一把手枪！
+故事主人公 Simon Rivière 是一名法国警察，其干爹 Frederic Belot 是警察局的高官，与 Simon 死去的父亲、警察局长 M. Picard 为过命之交。Belot 47岁，为人豪爽，不拘小节，长期信奉独身主义，但最近与一个名为 Deguise 的年轻寡妇交往。Picard 追捕大盗 Merkowicz，下午 5 点给 Belot 打电话让他到警局，但 Belot 直到晚上 8 点仍未现身。Simon 去 Belot 家公寓查看，管理员 Morin 太太给开了门。Simon 上了二楼，只见 Belot 头部中枪奄奄一息，身旁掉落一把手枪，Simon 慌忙叫了救护车。Simon 拉开通往隔壁房间的帘子，只见地下还倒着一具 Belot 的尸体，身旁也掉落一把手枪！
 
 <img src=images/1932_murder_scene.png width=400/>
 
