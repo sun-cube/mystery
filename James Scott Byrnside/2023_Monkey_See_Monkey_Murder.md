@@ -13,7 +13,7 @@ Rinehardt 在书房被分尸，尸块被水泥封在三个木桶里，洗手间�
 助手 Walter Williams 的眼线 Tom Mckee 在 Venal 被杀的星期一早上看到他和 Terrence Scott 对话。Davenport 在小报上看到 Cooke，原来她就是 Lulu 的金发女友。Rowen 指出 Terrence 卖了 Rinehardt 的钢琴，Terrence 承认受 Rinehardt 委托带给 Venal 一个信封，钢琴是给自己的回报。Rowen 注意到三幅油画中有一副装在不同的画框里，是 Cooke 订婚时送给 Rinehardt 的礼物，她后来雇了 Lulu 和 Venal 偷画。David 说三幅油画均为赝品，怀疑被 Robin Banks 掉包。Tom 跟踪 Terrence 到了一处地址，在那里发现了 Robin 的尸体，浴室里有一瓶氰化物。
 
 <details><summary>真相</summary>
-凶手是 Raymond Banks，他得了三期梅毒面部溃烂，得知 Reinhardt 被猴子袭击毁容，于是杀死 Reinhardt 冒充。Rowen 见到的 Reinhardt 是 Raymond 冒充（伏线：书房里有三女神像应该不信上帝，但 Raymond 言语中提到上帝）。他把尸体用水泥封存，装在中空的青铜雕像里，尸块上的黑线是雕像留下的痕迹。他为了偷画换钱，假装不喜欢 David 的装修，把房间装潢重新布置。Venal 溜进家中偷拍了 Raymond 的照片卖给小报，Raymond 担心自己假冒身份曝光，委托 Terrence 付给 Raymond 一千块换回照片，他从楼梯下来的时候说“不要”是让管家“不要打电话报警”。Raymond 从黑市走私了猕猴，制造猕猴袭击的假象，Florkowski 手下带来的猕猴只袭击 Raymond 一人是因为在他身上闻到了异种猕猴的气味。
+凶手是 Raymond Banks，他得了三期梅毒面部溃烂，得知 Reinhardt 被猴子袭击毁容，于是杀死 Reinhardt 冒充。Rowen 见到的 Reinhardt 是 Raymond 冒充（伏线：书房里有三女神像应该不信上帝，但 Raymond 言语中提到上帝）。他把尸体用水泥封存，装在中空的青铜雕像里，尸块上的黑线是雕像留下的痕迹。他为了偷画换钱，假装不喜欢 David 的装修，把房间装潢重新布置。Venal 溜进家中偷拍了 Raymond 的照片卖给小报，Raymond 担心自己假冒身份曝光，委托 Terrence 花一千块买回照片。Raymond 从楼梯下来的时候说“不要”是让管家不要打电话报警。Raymond 从黑市走私了猕猴，制造猕猴袭击的假象，Florkowski 手下带来的猕猴只袭击 Raymond 一人是因为在他身上闻到了异种猕猴的气味。
 
 案发前日，Raymond 从雕像中取出 Reinhardt 的尸块，放入木桶中，浇入新的水泥。他卸下窗玻璃进入书房，将房门自内上锁，凶器丢入壁炉内，给猕猴打了镇静剂留在房间里，然后从窗户离开，装回窗框。案发当日，Raymond 从画室的对讲机抱怨书房洗手间的通风管道有响声，造成自己在书房的假象。Raymond 欺骗 Terrence 自己为了不被 Florkowski 杀死，用实验室的尸体布置了假死局。Raymond 藏在钢琴里，让 Terrence 运走钢琴的时候将他一起运走。Robin Banks 被丈夫传染了梅毒（伏线：生病），浴室里的砷化物是用来治疗的药物。
 </details>
