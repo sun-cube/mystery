@@ -24,17 +24,15 @@ Fanette 和一个名为 James 的美国老画家秘密约会。Fanette 想参加
 
 Alysson Murer 有个祖母 Kate 住在 Sark 岛上，曾收藏一幅 Monet 的睡莲复制品。Morval 主动借给 Kate 五万英镑，Kate 想送给他复制品作为回报。Alysson 请画商 Amadou Kandy 鉴定，得知画是真品。Kate 最后将画捐给博物馆。Patricia 给退休警官 Laurentin 打电话，让他登录一个名为“旧友”的网站，查找“Giverny 1935-1937”的相关线索。Fanette 告诉 James 自己要画年轻人的睡莲。有人在 James 的软木颜料盒上留下死亡威胁：“在这里她是我的，现在是永远都是。”“我”后悔告诉 Patricia 凶手身份。“我”看见 Farnette 跑回家。Farnette 的妈妈不鼓励她参加绘画比赛。Farnette 不知道自己爸爸是谁。
 
-1937 年，一个名为 Albert Rosalba 的小男孩以和 Morval 一样的方式在河中溺亡。Jacques 的靴子丢失，其尺码和河边鞋印一致，他声称被人偷走。案发清晨 Jacques 没有去打猎。James 被人用石头打倒后刺杀。
+1937 年，一个名为 Albert Rosalba 的小男孩在河中溺亡，死状和 Morval 一样。Jacques 的靴子丢失，其尺码和河边鞋印一致，他声称被人偷走。案发清晨 Jacques 没有去打猎。James 被人用石头打倒后刺杀。
 
-Farnette 和 Paul 亲吻，被 Vincent 看见。Farnette 在麦田里发现 James 的尸体，跑回去叫妈妈，二人回到麦田却发现尸体不见。妈妈让 Farnette 不要打扰警察，因为警察正在调查真正的凶杀案。Farnette 决定找 Paul 帮助。Bénavides 找到 Aline Malétras，她在 22 岁时为 Morval 流过一个孩子。
+Farnette 和 Paul 亲吻，被 Vincent 看见。Farnette 在麦田里发现 James 的尸体，跑回去叫妈妈，二人回到麦田却发现尸体不见。妈妈让 Farnette 不要打扰警察，因为警察正在调查真正的凶杀案，Farnette 只好向 Paul 求助。Bénavides 找到 Aline Malétras，她在 22 岁时为 Morval 流过一个孩子。
 
 警察在河床中打捞上来一个软木颜料盒，约在十天前沉入泥沙中，上面刻着一行字：“在这里她是我的，现在是永远都是。”Paul 和 Farnette 去麦田调查，Paul 爬树取下一条银丝带送给 Farnette，还说老师头上也扎着一条银丝带，那是 Giverny 公主的标志。Paul 鼓励 Farnette 参加绘画比赛。
 
-Sérénac 认为 Jacques 是凶手，动机是情杀。Laurentin 在“旧友”网站查到 Albert Rosalba 的合照，他的母亲 Louise Rosalba 仍然在世，已经 102 岁。警察逮捕 Jacques。Stéphanie 出面替 Jacques 作证，说案发早上二人在家中做爱，但 Sérénac 不相信。笔迹鉴定专家判断颜料盒上的文字是小孩刻上去的。Farentte 给 Paul 看自己的秘密基地，说 James 或许是自己想象出来的人物。Bénavides 破解照片编码的含义。15-03 的意思是二人约会了 15 次，03 代表约会等级为“上床”，所以五个女孩中有两个和 Morval 上过床。
+Sérénac 认为 Jacques 是凶手，动机是情杀。Laurentin 在“旧友”网站查到 Albert Rosalba 的合照，他的母亲 Louise Rosalba 仍然在世，已经 102 岁。警察逮捕 Jacques。Stéphanie 出面替 Jacques 作证，说案发早上二人在家中做爱，但 Sérénac 不相信。笔迹鉴定专家判断颜料盒上的文字是小孩刻上去的，Jacques 被释放。Farentte 给 Paul 看自己的秘密基地，说 James 或许是自己想象出来的人物。Bénavides 破解照片编码的含义。15-03 的意思是二人约会了 15 次，03 代表约会等级为“上床”，所以五个女孩中有两个和 Morval 上过床。
 
-Stéphanie 与 Sérénac 约会，让他带自己走。Laurentin 拜访 Louise Rosalba，Lousie 说儿子死时还有另外一人在水边，说着指向合照中一人。
-
-Jacques 用枪逼迫 Sérénac 写下和 Stéphanie 的分手信，Sérénac 不从，Jacques 一枪打死狗狗 Neptune。Farnette 让 Paul 帮自己取回藏在秘密基地里的参赛画，Paul 取画时被 Vincent 发现，二人扭打时 Paul 不慎摔入河中。Stéphanie 读到 Sérénac 的分手信，只好绝望地和 Jacques 回家。
+Stéphanie 与 Sérénac 约会，让他带自己走。Laurentin 拜访 Louise Rosalba，Lousie 说儿子死时还有另外一人在水边，说着指向合照中一人。Jacques 用枪逼迫 Sérénac 写下和 Stéphanie 的分手信，Sérénac 不从，Jacques 一枪打死狗狗 Neptune。Farnette 让 Paul 帮忙取回藏在秘密基地里的参赛画，Paul 取画时被 Vincent 发现，与 Vincent 争斗时不慎摔入河中。Stéphanie 读到 Sérénac 的分手信，绝望地和 Jacques 回家。
 
 <details><summary>叙述性诡计</summary>
 人名误导，Stéphanie 给班上的同学起了印象派画家的名字：
