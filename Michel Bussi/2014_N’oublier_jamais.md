@@ -37,8 +37,7 @@ Mona 认为 Jamal 的经历都是臆想，同意和他一起找 Le Medef 和 Den
 <li>Jeanine Dubois：Myrtille 的奶奶，代理秘书。</li>
 <li>Alina Masson：Myrtille 的好朋友，会计。</li>
 </ul>
-他们查到 Jamal 曾在2004年6月订了 Yport 的旅馆，并在2004年8月去了 Isigny-sur-Mer，所以认定他是凶手，但其实 Jamal 退了 Yport 的旅馆。Jeanine Dubois 扮演 Denise Joubain，Fréd Saint-Michel 扮演 Christian Le Medef
-FRED SAINT-MICHEL，Alina Masson 扮演 Mona Salinas，狗狗 Ronald 改名为 Arnold。Océane 扮演 Verron 跳崖，其实是定点跳伞。
+他们查到 Jamal 曾在2004年6月订了 Yport 的旅馆，并在2004年8月去了 Isigny-sur-Mer，所以认定他是凶手，但其实 Jamal 退了 Yport 的旅馆。Jeanine Dubois 扮演 Denise Joubain，Fréd Saint-Michel 扮演 Christian Le Medef，Alina Masson 扮演 Mona Salinas，狗狗 Ronald 改名为 Arnold。Océane 扮演 Verron 跳崖，其实是定点跳伞。
 
 Piroz 查出 Jamal 的 DNA 和凶手不同，知道抓错了人，但让 Jamal 继续配合演戏。
 </details>
