@@ -8,13 +8,13 @@
 
 主人公 Jamal Salaoui 是一名装假腿的残疾人，刻苦训练准备参加残奥会。2014年2月，Jamal 入住美人鱼客栈。14日早上，他晨练时看到一个女孩裙子撕破，独自在悬崖上哭泣。Jamal 伸出捡到的围巾让女孩抓住，但女孩突然扯过围巾跳崖。Jamal 赶忙跑到崖下，女孩已绝气身亡，脖子上竟然系着围巾！现场有两名目击者，男子 Christian Le Medef 和老太太 Denise Joubain，二人都只看到女孩坠崖，没看到悬崖上发生的事情。警察 Piroz 赶到。女孩裙子里面什么都没穿，大腿上有伤痕，似曾遭受强奸。女孩皮肤有盐味，不久前洗过海水澡，但衣服是干的。
 
-Jamal 收到一封匿名信，寄信人显然知道美人鱼客栈的地址，信里夹着一张2004年6月10日的报纸。2004年6月6日，警察在 Yport 的悬崖下发现 19 岁女孩 Morgane Avril 的尸体，她在早 5-6 点之间被强奸，然后被勒死，从悬崖上扔下，她穿的丁字裤在几十米远外找到。她在遇害前曾洗过海水浴，洗完重新套上裙子。凶手的作案工具是一条红色名贵 Burberry 羊毛围巾。Morgane 没有父亲，是母亲 Carmen Avril 的试管婴儿，她和朋友来 Yport 是参加当地的音乐节。
+Jamal 收到一封匿名信，寄信人显然知道美人鱼客栈的地址，信里夹着一张2004年6月10日的报纸。2004年6月6日，警察在 Yport 的悬崖下发现 19 岁女孩 Morgane Avril 的尸体，她在早 5-6 点之间被强奸，然后被勒死，从悬崖扔下，几十米外找到她的丁字裤。她在遇害前曾洗过海水浴，洗完重新套上裙子。凶手的作案工具是一条红色 Burberry 羊毛围巾。Morgane 没有父亲，是母亲 Carmen Avril 的试管婴儿，她和朋友来 Yport 是参加当地的音乐节。
 
-警方查出坠崖女孩名叫 Magali Verron，是某药品公司职员。Jamal 在一家青少年治疗中心工作。Jamal 在 Piroz 桌上看到一个表哥，里面有奇怪的数字。Jamal 在警署留下精液样本，遇到申请鹅卵石开采证的女孩 Mona Salinas。
+警方查出坠崖女孩名叫 Magali Verron，是某药品公司职员。Jamal 在一家青少年治疗中心工作。Jamal 在 Piroz 桌上看到一个表格，里面有奇怪的数字。Jamal 在警署留下精液样本，遇到申请鹅卵石开采证的女孩 Mona Salinas。
 
 <img src=images/2014_square.jpg width=100/>
 
-Jaml 收到新的信。在 Morgane 遇害后的三天之内，警察采取了 Yport 地区 90% 男性的 DNA 样本，无人与凶手吻合。证人证实 Morgane 在案发当晚趁着酒兴在海滩上跳脱衣舞。有多人目睹 Morgane 与一戴围巾的男人一起跳舞，男人将围巾留给 Morgane 当纪念品。
+Jaml 收到新的信。在 Morgane 遇害后的三天之内，警察采取了 Yport 地区 90% 男性的 DNA 样本，无人与凶手吻合。多人证实 Morgane 在案发当晚趁着酒兴在海滩上跳脱衣舞，一个戴围巾的男人和她走得很近，还将围巾留给 Morgane 当纪念品。
 
 Jamal 在美人鱼客栈遇到 Mona，二人上床。Jamal 上网查资料，得知2004年8月26日，有第二名女孩 Myrtille Camus 在 Isigny-sur-Mer 的活动中心遇害，也是先洗了一个海水浴，然后被凶手强奸，用红色 Burberry 围巾勒死，丢下悬崖，内裤在第二天发现。DNA 检测表明杀死 Myrtille 和 Morgane 的是同一名凶手，疑似一名戴鸭舌帽的男人。Jamal 收到新的信，里面记述 Myrtille 案的详情。Myrtille 的父亲 Charles Camus 和母亲 Louise 在当地深受爱戴，Myrtille 计划与未婚夫 Frédéric Saint-Michel 在10月结婚，她与 Morgane 完全没有交集。Jamal 在沙滩上看到目击证人 Le Medef，他查出 Verron 跳肚皮舞。Jamal 查出 Verron 和 Morgane 都跳肚皮舞，上了同样的学校，都学了医学专业。二人都是5月10日生日，Verron 晚出生十年。Morgane 出生于法国的 Neufchâtel-en-Bray 市，而 Verron 出生于加拿大的 Neufchâtel-en-Bray 市，简直就是 Morgane 的转世！
 
