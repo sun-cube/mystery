@@ -28,6 +28,6 @@ Colin 以为是自己父亲的人其实是 Maxime，伸手摸 Jessica 屁股的�
 
 少年冒险题材的悬疑小说。篡改记忆的诡计不错，连续几次逆转扣人心弦，还是靠双线切换、悬念停顿的技法吸引读者，但 Simon 线相对较弱。
 
-:link: xxxx
+:link: 6113
 
 :file_folder: French mystery
