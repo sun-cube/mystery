@@ -41,7 +41,7 @@ Theo 赶到 Kathy 情人的住所，在那里遇到了他的妻子 Alicia。之�
 
 本作同时采用了两种叙述性诡计：
 <ul>
-<li>不可靠记述者（unreliable narrator）</li>
+<li>不可靠叙述者（unreliable narrator）</li>
 <li>时间线误导（timeline misdirection）</li>
 </ul>
 </details>
