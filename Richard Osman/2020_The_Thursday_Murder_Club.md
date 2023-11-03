@@ -45,6 +45,4 @@ Joanna 说服董事成员买下 Ian 的公司，Bramley 是 Joanna 小时候毛�
 
 :link: 6146
 
-:file_folder: French mystery
-
-:label: narrative trick
+:file_folder: English mystery
