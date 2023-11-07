@@ -20,7 +20,10 @@ Swann 知道 Judy 死于小口径子弹，只有他知道 Judy 家的地址（�
 
 ## 3. Finding Joe Finch
 
-Leopold 和 Molly Calendar 订婚。
-Fletcher's wife Carol. Carol's brother Joe Finch. Wife Stella Finch.
-Connie Trent.
-Marvin Wise security guard got killed.
+Leopold 和 Molly Calendar 订婚。Fletcher 的大舅子 Joe Finch 中午没回家吃饭，老婆 Stella 报警。当日中午 Joe 工作的工厂发生抢劫杀人案。劫匪头戴滑雪面罩，持枪劫走五万块，并开枪击毙一名保安，整个过程一言未发。前台 Kevin Bryer 证实劫匪身形偏瘦，脖子露出一截白色皮肤，应为白人。Leopold 打开 Joe 的锁柜，在里面发现一个滑雪面罩，上面有油渍，但没有沾上头发。Joe 停在停车场的车不见，疑似抢完钱后逃跑。Leopold 询问工头 Bernie McGrath 和女工 Gert Provest，Gert 说自己中午一直在加班，Joe 出去之后就没再回来。Stella 说 Joe 原计划去警局申请持枪证。
+
+<details><summary>真相</summary>
+Gert 抢钱被 Joe 看到，所以将其灭口，把尸体从滑道丢入下方容器，并盖上塑料元件隐藏。Joe 有大胡子，戴面罩也会露出胡子，而 Gert 不会。面罩上的油渍是 Gert 脸上的药膏，没有沾上头发是因为她把头发扎起来。Gert 把 Joe 的车开到河边。
+</details>
+
+## 4. The Murder in Room 1010
