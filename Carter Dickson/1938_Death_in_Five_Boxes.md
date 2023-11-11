@@ -12,14 +12,14 @@ Masters 问起为什么三人身上有奇怪的物品。Sinclair 夫人说她给
 
 验尸表明 Haye 死于晚 11:00-12:00，据推测凶手一直藏在屋里，下药并刺死了 Haye。随后他在 12:30 闯入律师办公室，拿走盒子里的东西，返回 Haye 家，把四只手表放在 Blystone 身上，闹钟放在 Schumann 身上，生石灰和磷放在 Sinclair 夫人身上。这样说来 Marcia 说父亲出门前戴了四块手表是撒谎。
 
-Sanders 和 Marcia 搜查 Sinclair 夫人家。Sanders 演示用生石灰加水使玻璃雾化，并用磷当室内光源，原来这两样东西是小偷入室行窃的道具。二人在屋内遇见 Ferguson，他的真实身份是一名飞贼。Ferguson 开枪打伤 Sanders。H.M. 及时赶到，揭露 Ferguson 是 Sinclair 夫人的丈夫，一年前假装死亡。H.M. 之前在暗中看到一个戴棕色手套的人和 Ferguson 说话并在他的牛奶中下毒，Ferguson 喝下牛奶毒发身亡。Sinclair 夫人从事假画诈骗。她号称并不知道 Ferguson 还活着，直到上礼拜 Ferguson 忽然出现在家中，以保险金敲诈的罪名对她实施勒索。H.M. 看到 Marcia 偷偷拿走了 Ferguson 写下字的两张纸。Sinclair 是扒手，四只手表是他的盗窃赃物。
+Sanders 和 Marcia 搜查 Sinclair 夫人家。Sanders 演示用生石灰加水使玻璃雾化，并用磷当室内光源，原来这两样东西是小偷入室行窃的道具。二人在屋内遇见 Ferguson，他的真实身份是一名飞贼。Ferguson 开枪打伤 Sanders。H.M. 及时赶到，揭露 Ferguson 是 Sinclair 夫人的丈夫，一年前假装死亡。H.M. 之前在暗中看到一个戴棕色手套的人和 Ferguson 说话并在他的牛奶中下毒，不知内情的 Ferguson 喝下牛奶毒发身亡。Sinclair 夫人从事假画诈骗。她号称并不知道 Ferguson 还活着，直到上礼拜 Ferguson 忽然出现在家中，以保险金敲诈的罪名对她实施勒索。H.M. 看到 Marcia 偷偷拿走了 Ferguson 写下字的两张纸。Sinclair 是扒手，四只手表是他的盗窃赃物。
 
-Ferguson 的信中指控 Schumann 曾纵火烧掉自己的仓库，目的是除掉竞争对手 El Hakim，仓库废墟中发现了 El 的尸骨，闹铃是他的定时点火装置，好给自己制造不在场证明。Sinclair 夫人告诉 Ferguson，Haye 搜集了对他们不利的证据，让 Ferguson 潜入夜间派对。Ferguson 在 11:10 溜进 Hayes 家，看到四人喝酒晕倒，于是回到楼下 Schumann 办公室。Ferguson 听到有人下楼，便尾随在后，见那人从后门离开去了律所，在 12:15 爬进窗户，三分钟后离开。Ferguson 在 12:30 回到公寓，但后门被人锁上无法进入，只好从排水管爬回 Schumann 的办公室，装成是公司职员。
+Ferguson 的信中指控 Schumann 曾纵火烧掉自己的仓库，目的是除掉竞争对手 El Hakim，仓库废墟中发现了 El 的尸骨，闹铃是他的定时点火装置，好给自己制造不在场证明。Sinclair 夫人告诉 Ferguson，Haye 搜集了对他们不利的证据，让 Ferguson 潜入夜间派对调查。Ferguson 在 11:10 溜进 Hayes 家，看到四人喝酒晕倒，于是回到楼下 Schumann 办公室。Ferguson 听到有人下楼，便尾随在后，见那人从后门离开去了律所，在 12:15 爬进窗户，三分钟后离开。Ferguson 在 12:30 回到公寓，但后门被人锁上无法进入，只好从排水管爬回 Schumann 的办公室，装成是公司职员。
 
 Haye 书房里有一本书《龙穴》，作者为 Judith Adams，扉页上署着 Judith 的签名。出版社证实 Judith 早已过世。Schumann 说 Hakim 没有死，下午还跟警察说了话，装死只是为了逃避债主，火灾现场的骨头是木乃伊。看门人 Timothy 承认偷喝了 Haye 家的威士忌，回地下室睡着了，半夜 12:15 被吵醒，发现不知是谁打开了后门，便把门栓从里面锁好。
 
 <details><summary>真相</summary>
-对 Blystone、Sinclair 夫人、Shumann 三人的指控均不成立。Judith Adams 的书名 Dragon 指向 Drake，写着 Judith 名字的盒子里装着对 Drake 不利的罪证，被 Drake 识破。Drake 在去 Haye 家还酒的时候留下了有毒的冰块，冰块加在酒里，融解后释放出毒药。当晚 Drake 藏在卧室壁橱里，被 Ferguson 看见。Drake 刺死 Haye 后去律所拿出盒子中的物品，返回 Haye 家，将物品安放在三人身上，生石灰和磷是暗示 Sinclair 夫人和 Ferguson 的夫妻关系。这一切完成在 12:00 之前，而不是 Ferguson 信中所说的 12:15。（伏线：犯人不到三分钟就找到了盒子。）Drake 12:15 回到家。Beasley 在 12:30 看到 Ferguson 爬进律所办公室，于是打电话报告 Drake，让他意外获得了不在场证明。
+对 Blystone、Sinclair 夫人、Shumann 三人的指控均不成立。Judith Adams 的书名 Dragon 指向 Drake，写着 Judith 名字的盒子里装着对 Drake 不利的罪证，被 Drake 识破。Drake 决定杀死 Haye 嫁祸另外三人，并销毁盒子里的罪证，伪装强盗入室抢劫。Drake 在去 Haye 家还酒的时候留下了有毒的冰块，冰块在酒里融解后释放出毒药。当晚 Drake 藏在卧室壁橱里，被 Ferguson 看见。Drake 刺死 Haye 后去律所拿出盒子中的物品，返回 Haye 家，将物品安放在三人身上，生石灰和磷是暗示 Sinclair 夫人和 Ferguson 的夫妻关系。这一切完成在 12:00 之前，而不是 Ferguson 信中所说的 12:15。（伏线：犯人不到三分钟就找到了盒子。）Ferguson 在信中提供假时间是为了勒索 Drake，但反被毒杀。Drake 12:15 回到家。Beasley 在 12:30 看到 Ferguson 爬进律所办公室，于是打电话报告 Drake，让他意外获得了不在场证明。
 </details>
 
 四人围坐在桌边中毒晕倒，一人被刺死。倒酒时众人互相监视，不可能下毒。三人身上发现奇怪物品，包括四块手表、装有生石灰和磷的小瓶、闹铃装置。Carr 擅长在有限嫌疑人的情况下做局，犯人身份意外。
