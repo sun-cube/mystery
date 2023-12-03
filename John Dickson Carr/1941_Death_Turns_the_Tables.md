@@ -2,6 +2,8 @@
 
 <img src=images/1941_cover.jpg width=250/>
 
+又名 <i>The Seat of the Scornful</i>，中译《逆转死局》。
+
 被告 John Edward Lypiatt 激情杀妻，法官 Ireton 不顾陪审团求情判他死刑。Ireton 的女儿 Constance 和未婚夫 Tony Morell 委托家族朋友 Frederick Barlow 告诉 Ireton 二人订婚之事，但 Barlow 认为 Constance 应该自己做主。Ireton 和 Dr. Fell 在海边小屋下象棋，Ireton 提到对罪犯就应该不留情面。Constance 来到小屋告诉 Ireton 订婚之事，Ireton 听说未婚夫不是 Barlow，略有不悦。Constance 说 Morell 出自富有家庭，但对其家庭背景所知不多。Ireton 在 Constance 的坚持下同意和 Morell 见面。Morell 来到小屋，Ireton 道出 Morell 曾逼得一位富有家庭女孩开枪打他的黑历史，Morell 却说自己才是受害者。Ireton 和 Morell 协商后同意给他三千磅让他远离 Constance，并叫他第二天晚上来小屋拿钱。Morell 走后，Ireton 从抽屉里翻出一封银行的信，上面说 Ireton 因为超支已不能再取钱。
 
 接线员 Florence 接到从小木屋打来的求救电话，并听到枪声，于是报警。警察 Weems 赶去小木屋的路上遇见 Barlow，二人在小木屋看到 Ireton 平静地坐在 Morell 的尸体旁，手里握着一把手枪。Ireton 让 Weems 通知 Graham 警督。Constance 前一天听到 Morell 勒索父亲三千磅的谈话，计划来小木屋阻止父亲交钱，但迟来一步。Morell 的律师 Herman Appleby 宣称 Morell 身家有六万磅，对 Constance 一片真心，与 Ireton 叫价是为了出钱给 Constance 当结婚彩礼。Ireton 声称自己听见枪响后走进小木屋，看到地上的手枪，为了确认是不是刚刚击发所以将其捡起。Ireton 当日下午在伦敦拜访好友 Charles Hawley。
