@@ -4,8 +4,6 @@
 
 <img src=images/2020_map.jpg width=400/>
 
-故事以
-
 巴黎的 Servane Astine 出版社组织活动，邀请五名读者在 Hiva Oa 岛参加为期一周的写作训练营，接受著名畅销书作家 Pierre-Yves François（PYF）的指导。五位获奖者包括：
 * Clémence Novelle
 * Martine Van Ghal (Titine)
@@ -18,7 +16,6 @@
 
 【Maïma 日记】我跑到“恐怖的太阳”民宿寻找写作训练营成员的手稿。我找到一份一百多页的手稿，第一页只有两行：
 > 我的瓶子在海上
-> 
 > Clémence Novelle 的故事
 时间回溯。
 
