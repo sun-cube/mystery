@@ -1,15 +1,15 @@
-# Holly Jackson, <i>Good Girl, Bad Blood</i> (2021)
+# Holly Jackson, <i>Good Girl, Bad Blood</i> (2020)
 
-<img src=images/2021_cover.jpg width=250/>
+<img src=images/2020_cover.jpg width=250/>
 
-<img src=images/2021_map.jpg width=500/>
+<img src=images/2020_map.jpg width=500/>
 
 故事接前作，Nat 证实自己被 Max 强奸，Pip 发誓要将 Max 送进监狱。小镇为死去的 Andie 和 Sal 举行了纪念仪式。Connor Reynolds 的哥哥 Jamie 失踪，Connor 请 Pip 帮忙调查。Pip 找到侦探 Hawkins，Hawkins 却说 Jamie 已经 24 岁了，有独立行动能力，想去哪儿警察都不会管。Pip 开了新的网络直播调查此案。Pip 去 Reynolds 家采访母亲 Joanna 和父亲 Arthur，得知 Arthur 和 Jamie 关系紧张。Jamie 长期宅在家里，唯一的朋友是 Nat，但 Nat 最近交了个新朋友，让他很郁闷。失踪当晚 Jamie 本要去 Nat 家，但未出现。Pip 在 Jamie 的卧室找到一个女生腕表，垃圾桶里有一张纸写着“Hillary F Weiseman 11 点离开”。报社记者 Stanley Forbes 同意帮 Pip 刊登寻人启事。
 
 Pip 在 Nat 家见到了她的新男朋友 Luke。Pip 收到了 Stanley Forbes 和 Gail Yardley 发来的纪念仪式照片，照片中的 Jamie 心神不宁。Cara 记得当晚在 Stephen Thompson 家的派对上见到过 Jamie，Stephen 证实确有此事，但 Jamie 只是一人缩在角落。George Thorne 当晚 22:00 左右看到 Jamie 在外面打了半个小时的言辞激烈的电话，内容与一个小孩有关，Jamie 说他不能按照对方要求照做，还提出要报警。Ravi 帮 Pip 整理派对照片，很明显 Jamie 在密切跟踪某人。Ravi 发现保释期间的 Max 也出现在纪念仪式的人群中。
 
-<img src=images/2021_floor_plan.jpg width=400/>
-<img src=images/2021_knife_set.jpg width=350/>
+<img src=images/2020_floor_plan.jpg width=400/>
+<img src=images/2020_knife_set.jpg width=350/>
 
 Pip 的母亲 Leanne 不想 Pip 再像上次那样惹上麻烦，但还是告诉 Pip，Jamie 曾在她的地产公司工作，因为偷信用卡被解雇。Jamie 声称偷信用卡是为了一件“性命攸关的事”，但并未透露具体何事。Pip 通过对比照片，发现 Reynolds 家厨房里的一把刀不见。Pip 和 Conner 在派对视频中发现 Jamie 和一个叫 Stella Chapman 的女孩有接触。Stella 说 Jamie 在派对上问她是不是 Leila，得到否定的答案之后显得很疑惑，不久便离开。镇上一家书店的职员在晚 23:40 见到 Jamie 在街上赶路。Pip 和 Ravi 在交友网站上搜索“Leila”，找到一个 25 岁女子 Layla Mead 的档案，但上面用的是 Stella Chapman 的照片。新的历史老师 Adam Clark 曾给 Layla 点赞。Pip 猜测 Jamie 在纪念仪式上看到 Stella，以为是自己在网上的约会对象，便跟着去了 Stephen 家的派对，发现认错人之后便给 Layla 打了半个小时的电话。Pip 用 Connor 的匿名账号在网上和 Layla 打招呼，立刻便收到回复“Pip，你好”、“你离真相更近了”，Layla 的账户随即注销。
 
@@ -19,8 +19,8 @@ Joanna 说 Jamie 的一件黑色套头衫不见，而他当晚本来穿的是衬
 
 Pip 请志愿者搜索 Jamie 最后有可能去过的地方，有人在废弃农场发现 Reynolds 家厨房丢失的刀。Pip 报警并去废弃农场调查，发现那是一个中学生集体吸毒的窝点。警察 Daniel da Silva 和 Soraya Bouzidi 赶到。Pip 提到 Layla 的事情，Daniel 显得十分震惊，但很快否认对此知情。当晚，Pip、Ravi、Connor 回到废弃农场，见到三名中学在那里抽大麻，其中一人 Robin 建议 Pip 尽快离开，因为毒贩马上要来，还说有人欠了毒贩 900 块钱至今未还，所以他心情很差。几分钟后毒贩果然开车前来，但见到 Pip 等人迅速掉头离开，Pip 从车型猜测毒贩很可能是 Luke。
 
-<img src=images/2021_search_area.jpg width=500/>
-<img src=images/2021_found_knife.jpg width=350/>
+<img src=images/2020_search_area.jpg width=500/>
+<img src=images/2020_found_knife.jpg width=350/>
 
 第二天早上有人在州际公路上发现疑似 Jamie 的尸体，但最后确认不是。Arthur 终于同意接受 Pip 的采访。Arthur 说 Jamie 曾向他借 900 块钱，但他没有同意。Pip 试探 Luke 是否曾借钱给 Jamie，但 Nat 仍否认当晚见过 Jamie，也不认得 Layla。Max 审判结束被释放。Pip 指控 Tom Nowak 为了博关注做伪证说看到 Jamie 去了 Nat 家。网上有言论说 Pip 的第二期调查直播从始至终都是自导自演的假戏，Pip 对此十分生气，并与同学发生冲突，吃了三天禁闭。
 
