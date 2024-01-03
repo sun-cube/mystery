@@ -1,4 +1,4 @@
-# Holly Jackson, <i>A Good Girl, Bad Blood</i> (2021)
+# Holly Jackson, <i>Good Girl, Bad Blood</i> (2021)
 
 <img src=images/2021_cover.jpg width=250/>
 
