@@ -33,7 +33,7 @@ Elliot 在 7 月底见到了失忆的 Andie，把她带到 Gravesend 房子阁�
 </details>
 
 <details><summary>结尾逆转</summary>
-Elliot 误将另一名走失女孩认作 Andie，囚禁在 Gravesend 阁楼。Pip 注意到威胁短信有两种不同的口吻，一种称其为 Pip，一种称其为“蠢猪”，所以真凶除了 Elliot 之外另有其人。Max 在 2014 年下药迷奸了 Becca。当晚 Becca 从 Andie 留在家中的廉价手机上得知是她给 Max 提供迷药，导致自己被迷奸，在 Andie 回家后与其发生激烈争执。Andie 脑部本有损伤，被 Becca 推倒后呕吐不止，直至死亡。Becca 将 Andie 的尸体藏在化粪池中。
+Elliot 误将另一名走失女孩认作 Andie，囚禁在 Gravesend 阁楼。Pip 注意到威胁短信有两种不同的口吻，一种称其为 Pip，一种称其为“蠢猪”，所以真凶除了 Elliot 之外另有其人。Max 在 2014 年下药迷奸了 Becca。当晚 Becca 从 Andie 留在家中的廉价手机上得知是她给 Max 提供了迷药，导致自己被迷奸，于是在 Andie 回家后与其发生激烈争执。Andie 脑部本有损伤，被 Becca 推倒后呕吐不止，直至死亡。Becca 将 Andie 的尸体藏在化粪池中。
 </details>
 
 头一次和女儿一起看书，作为 young adult 还是暗黑了些。对西方高中各种复杂的人际关系描绘得淋漓尽致，人物心理活动刻画细腻。女主角玩转各种电脑设置，有勇有谋，有血有肉，一方面正义感爆棚，一方面也背负说假话的负罪感。全程悬念包袱不断，结尾逆转令人惊讶，但凶手身份随机。
