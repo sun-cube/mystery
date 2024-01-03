@@ -18,7 +18,7 @@ Pip 在咖啡店遇到 Becca，得知她正在和记者 Stanley Forbes 交往，
 
 Pip 混入家庭派对，向男孩 Stephen 索要大麻，并得知大麻是由一个叫 Howie Bowers 的人提供。Pip 设法从 Stephan 的手机上找到了 Howie 的电话号码。Pip 在停车场看到一个男人接了她给 Howie 打的电话，由此确认那人身份。Pip 目睹 Stanley 塞给 Howie 一个信封，还目睹一个低年级学生和 Howie 交易毒品。Pip 跟踪 Howie 来到一个小屋，打电话叫 Ravi 赶来。Howie 的车牌号正是 009KKJ，所以 Sal 一定发现了 Andie 倒卖毒品，因而与她发生争执，这也可以解释为什么 Sal 不愿意告诉别人争执缘由。Pip 以偷拍的交易照片为要挟向 Howie 索取情报，Howie 只得承认给了 Andie 一只廉价手机用来交易毒品。Pip 收到手机短信让她不要多管闲事。
 
-Pip 和 Ravi 潜入 Andie 家，在她的时间表上看到一些奇怪的记号，比如 "IV @ 8" (206)。Pip 在网上查出 IV 是 Ivy House 旅馆，在那里 Andie 自拍了只穿内裤的照片。管理旅馆的老太太记得 Andie 曾经来过，但她得了阿兹海默，对时间的记忆十分混乱。Pip 怀疑 Andie 在旅馆和神秘老男人会面。Pip 和 Ravi 目睹 Howie 和 Max 激烈争执。
+Pip 和 Ravi 潜入 Andie 家，在她的时间表上看到一些奇怪的记号，比如“IV @ 8”。Pip 在网上查出 IV 是 Ivy House 旅馆，在那里 Andie 自拍了只穿内裤的照片。管理旅馆的老太太记得 Andie 曾经来过，但她得了阿兹海默，对时间的记忆十分混乱。Pip 怀疑 Andie 在旅馆和神秘老男人会面。Pip 和 Ravi 目睹 Howie 和 Max 激烈争执。
 
 Emma 和 Laura 都证实若干女孩声称在家庭派对上被人下药。Pip 借口要调查 Max 的 Facebook 网页，从 Cara 那里骗来了 Naomi 的 Facebook 登录信息，并在 Naomi 的账户里找到一张 Naomi、Max、Millie、Jake 四人在 Andie 失踪当晚 0:09 的合影，而拍照的人只能是 Sal。从放大的照片里可以看到窗玻璃反射一块蓝色，那正是 Sal 当晚穿的衣服的颜色。这张照片可以证实 Sal 无罪，因为他从时间上来不及杀人，而他的朋友们宣称他 22:30 离开派对是在说谎。Pip 质问 Naomi 和 Max 为什么要做伪证，二人见到照片证据，只好承认当晚派对结束后 Max 带着另三人回家，醉酒驾驶撞倒一人后逃逸，随后便收到陌生短信，让四人伪造 Sal 离开派对的时间。Naomi 当晚在楼上和 Sal 谈话，得知 Sal 要和 Andie 分手。Cara 恳求 Pip 不要把照片证据交给警方，Pip 立志要在三周内找出真凶。
 
