@@ -2,7 +2,7 @@
 
 <img src=images/2019_cover.jpg width=250/>
 
-小镇女孩 Andie (Andrea Bell) 失踪，媒体认为是其男友 Sal (Salil Singh) 所为。主人公女孩 Pip (Pippa Fitz-Amobi) 认为 Sal 无辜，在网络上记录日志重查此案。Andie 的妹妹 Becca 在 2014年4月18日 星期五晚 22:30 最后一次见到 Andie，她本该在凌晨 0:45 接上她的父母，但她没有出现，她的父亲 Jason 在凌晨 3:00 报了失踪。
+小镇女孩 Andie (Andrea Bell) 失踪，媒体认为是其男友 Sal (Salil Singh) 所为。主人公女孩 Pip (Pippa Fitz-Amobi) 认为 Sal 无辜，在网络上记录日志重查此案。Andie 的妹妹 Becca 在 2014年4月18日 星期五晚 22:30 最后一次见到她，她本该在凌晨 0:45 接上她的父母，却没有出现，父亲 Jason 在凌晨 3:00 报了失踪。
 
 Pip 从社交媒体上查到 Andie 的好朋友 Chloe Burch、Emma Hutton。案发当晚 Sal 和朋友 Naomi Ward、Jake Lawrence、Millie Simpson 一起在 Max Hastings 家举行派对。Sal 声称他 0:15 离开 Max 家，他的父亲也证实他 0:50 回到家。Max 的四名同学起先给警方提供了 Sal 的不在场证明，但在随后的星期二翻供说 Sal 要求他们做伪证，其实他早在 22:30 便已离开。星期二晚上 Sal 在树林里服用过量安眠药自杀，身上发现 Andie 的手机，指甲里和车里均发现 Andie 的血。警方把 Sal 当作犯人结案。
 
