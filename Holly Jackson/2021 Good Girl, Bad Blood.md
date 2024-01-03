@@ -2,7 +2,7 @@
 
 <img src=images/2021_cover.jpg width=250/>
 
-<img src=images/2021_map.jpg width=400/>
+<img src=images/2021_map.jpg width=500/>
 
 故事接前作，Nat 证实自己被 Max 强奸，Pip 发誓要将 Max 送进监狱。小镇为死去的 Andie 和 Sal 举行了纪念仪式。Connor Reynolds 的哥哥 Jamie 失踪，Connor 请 Pip 帮忙调查。Pip 找到侦探 Hawkins，Hawkins 却说 Jamie 已经 24 岁了，有独立行动能力，想去哪儿警察都不会管。Pip 开了新的网络直播调查此案。Pip 去 Reynolds 家采访母亲 Joanna 和父亲 Arthur，得知 Arthur 和 Jamie 关系紧张。Jamie 长期宅在家里，唯一的朋友是 Nat，但 Nat 最近交了个新朋友，让他很郁闷。失踪当晚 Jamie 本要去 Nat 家，但未出现。Pip 在 Jamie 的卧室找到一个女生腕表，垃圾桶里有一张纸写着“Hillary F Weiseman 11 点离开”。报社记者 Stanley Forbes 同意帮 Pip 刊登寻人启事。
 
@@ -19,7 +19,7 @@ Joanna 说 Jamie 的一件黑色套头衫不见，而他当晚本来穿的是衬
 
 Pip 请志愿者搜索 Jamie 最后有可能去过的地方，有人在废弃农场发现 Reynolds 家厨房丢失的刀。Pip 报警并去废弃农场调查，发现那是一个中学生集体吸毒的窝点。警察 Daniel da Silva 和 Soraya Bouzidi 赶到。Pip 提到 Layla 的事情，Daniel 显得十分震惊，但很快否认对此知情。当晚，Pip、Ravi、Connor 回到废弃农场，见到三名中学在那里抽大麻，其中一人 Robin 建议 Pip 尽快离开，因为毒贩马上要来，还说有人欠了毒贩 900 块钱至今未还，所以他心情很差。几分钟后毒贩果然开车前来，但见到 Pip 等人迅速掉头离开，Pip 从车型猜测毒贩很可能是 Luke。
 
-<img src=images/2021_search_area.jpg width=400/>
+<img src=images/2021_search_area.jpg width=500/>
 <img src=images/2021_found_knife.jpg width=350/>
 
 第二天早上有人在州际公路上发现疑似 Jamie 的尸体，但最后确认不是。Arthur 终于同意接受 Pip 的采访。Arthur 说 Jamie 曾向他借 900 块钱，但他没有同意。Pip 试探 Luke 是否曾借钱给 Jamie，但 Nat 仍否认当晚见过 Jamie，也不认得 Layla。Max 审判结束被释放。Pip 指控 Tom Nowak 为了博关注做伪证说看到 Jamie 去了 Nat 家。网上有言论说 Pip 的第二期调查直播从始至终都是自导自演的假戏，Pip 对此十分生气，并与同学发生冲突，吃了三天禁闭。
