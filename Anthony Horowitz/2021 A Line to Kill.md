@@ -4,7 +4,7 @@
 
 中译《一行杀人的台词》。
 
-<img src=images/2021_map.png width=450/>
+<img src=images/2021_map.jpg width=500/>
 
 主人公 Anthony Horowitz 和前警探 Daniel Hawthorne 应邀参加在 Alderney 岛上举办的文学节，同时出席的还有：
 * 组织者 Judith Matheson
