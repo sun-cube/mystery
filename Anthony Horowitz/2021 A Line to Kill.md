@@ -6,7 +6,15 @@
 
 <img src=images/2021_map.png width=450/>
 
-主人公 Anthony Horowitz 和前警探 Daniel Hawthorne 应邀参加在 Alderney 岛上举办的文学节，组织者为 Judith Matheson，同时受邀的还有大厨 Marc Bellamy、盲眼灵媒师 Elizabeth Lovell、历史作家 George Elkin、儿童文学作家 Anne Cleary、 表演诗人 Maïssa Lamar。Horowitz 看到 Maïssa 在机场洗手间门口和一个金发黑衣男子讲话。当地人抗议 NAB 电力公司的电缆工程。Horowitz 听到 Marc 在房间里大骂他的女助理 Kathryn Harris。
+主人公 Anthony Horowitz 和前警探 Daniel Hawthorne 应邀参加在 Alderney 岛上举办的文学节，同时出席的还有：
+* 组织者 Judith Matheson
+* 大厨 Marc Bellamy
+* 盲眼灵媒师 Elizabeth Lovell
+* 历史作家 George Elkin
+* 儿童文学作家 Anne Cleary
+* 表演诗人 Maïssa Lamar
+
+Horowitz 看到 Maïssa 在机场洗手间门口和一个金发黑衣男子讲话。当地人抗议 NAB 电力公司的电缆工程。Horowitz 听到 Marc 在房间里大骂他的女助理 Kathryn Harris。
 
 Charles le Mesurier 的赌博公司赞助了此次文学节。Charles 公然对 Kathryn 摸屁股性骚扰。有人在 Charles 的挡风玻璃下压了一张黑桃 A，Charles 觉得是幸运象征，但 Horowitz 知道那是死亡之牌。Horowitz 再次遇到金发男子，但他拒绝谈话。George 和 Judith 的议员老公 Colin 为 NAB 的工程发生争吵。Elizabeth 表演灵媒，自称看到了 Anne 的儿子的幽灵，他在上大学时死于服药过量。Charles 的手下 Derek Abbott 曾因传播儿童色情被 Hawthorne 入狱一年，Hawthorne 负责将其缉捕。
 
@@ -16,7 +24,7 @@ Helen 和 Charles 是开放式婚姻，Helen 有一个情夫。Helen 说 Charles
 
 Charles 体内检测出可卡因，硬币上没有查出指纹。Hawthorne 指出凶手有可能故意留出 Charles 的右手没有绑在椅子上。用来绑人的胶布在岛上没有销售，是凶手提前带到岛上。Elizabeth 提议举办通灵会找凶手。Horowitz 发现 Maïssa 剽窃别人的诗歌。Helen 失踪，清洁工报警。
 
-Helen 手机中留下和 Colin 的暧昧短信。有民众翻开 Colin 的草坪并留下抗议信息，因为他支持 NAB 工程。Colin 承认被 Helen 带到风月楼发生关系，随后被 Derek 以性爱录像勒索，被迫支持 NAB。警察在灯塔附近的洞穴内发现了 Helen 的尸体。Derek 否认和谋杀案有关，也否认有 Colin 的性爱录像。Maïssa 的真实身份是反诈骗组织的调查员，金发男子是她的同事，他们来岛上是为了调查对 Charles 的腐败指控。二人当晚进入谋杀现场，用 Charles 的指纹解锁手机，又用手机里的密码解锁电脑，下载了里面的资料。Maïssa 的包在派对上被人打开，里面丢了一些钱。
+Helen 手机中留下和 Colin 的暧昧短信。有民众翻开 Colin 的草坪，抗议他支持 NAB 工程。Colin 承认被 Helen 带到风月楼发生关系，随后被 Derek 以性爱录像勒索，被迫支持 NAB。警察在灯塔附近的洞穴内发现了 Helen 的尸体。Derek 否认和谋杀案有关，也否认有 Colin 的性爱录像。Maïssa 的真实身份是反诈骗组织的调查员，金发男子是她的同事，他们来岛上是为了调查对 Charles 的腐败指控。二人当晚进入谋杀现场，用 Charles 的指纹解锁手机，又用手机里的密码解锁电脑，下载了里面的资料。Maïssa 的包在派对上被人打开，里面丢了一些钱。
 
 Derek 拿了一张有 Charles 签名的两万英镑的支票去银行兑现，与 Charles 支票本上的撕痕相符。警察怀疑 Derek 逼迫 Charles 死前用右手签支票。Elizabeth 和 Charles 通灵，指认 Derek 为凶手。Hawthorne 把一杯红酒泼在 Elizabeth 脸上，Elizabeth 伸手阻挡，暴露出她视力没有受损，通灵也是假话，指认 Derek 只是因为当晚 21:50 看到他和 Charles 在一起。Hawthorne 指认 Marc 偷了 Anne 的签字笔，原来他有盗癖，还偷走了 Charles 的劳力士表和 Maïssa 包里的钱。案发当晚 21:45 之后 Marc 看到 Charles 把劳力士表放在桌子上，出去和人会面。Derek 失踪，Hawthorne 在 Derke 家发现 Helen 和 Colin 一起去风月楼幽会的录像。录像中的 Helen 带着香槟进入画面，玻璃杯早放在桌上，而且她故意走到镜头方向，说明她是主动录像，这一切都是 Charles 的安排。海面岩石上发现 Derek 的尸体。
 
