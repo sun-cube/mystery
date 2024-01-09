@@ -2,20 +2,18 @@
 
 <img src=images/2023_cover.jpg width=250/>
 
-Gilbert DeRoos 其妻子 Philippa 是某家族企业总裁，在一次滑雪事故中下肢瘫痪并失明，将企业交由 Gilbert 管理。DeRoos 家住在某公寓楼的顶楼 72-73 层。17:05 Gilbert 离家，和公司法务 Aurora Frodelius 坐飞机参加商业谈判，公寓保安 Jack O’Grady 在他离开时发了一条手机短信。
+Gilbert DeRoos 的妻子 Philippa 是某家族企业总裁，在一次滑雪事故中下肢瘫痪并失明，将企业交由 Gilbert 管理。DeRoos 家住在某公寓楼的顶楼 72-73 层。17:05 Gilbert 离家，和公司法务 Aurora Frodelius 坐飞机参加商业谈判，公寓保安 Jack O’Grady 在他离开时发了一条手机短信。
 
-Gilbert 与竞争对手 Auguste Franquinet 谈判收购事宜，Franquinet 的助理 Armand De Belleville 中途短暂离开，回来递给他一张纸条，他读后忽然掌握了 Gilbert 公司在蒙特利尔的不利情报，在谈判中占据主动。该情报放在 Gilbert 家中书房的办公桌上，Gilbert 怀疑有人泄密。
+Gilbert 与竞争对手 Auguste Franquinet 谈判收购事宜，Franquinet 的助理 Armand De Belleville 中途离开，回来递给他一张纸条，他读后忽然掌握了 Gilbert 公司在蒙特利尔的不利情报，在谈判中占据主动。该情报放在 Gilbert 家中书房的办公桌上，Gilbert 怀疑有人泄密。
 
-第二天 Gilbert 回到家中，在卧室发现 Philippa 的尸体，地上有呕吐痕迹，于是报警。纽约市警察局的侦探 Krell 和新任女侦探 Merrilee Hopper 联手查案。DeRoos 家公寓有正门和服务门两扇门，用门卡解锁，每次开关都有电脑记录，昨晚只有 Philippa 操作过正门。门卡共三张，DeRoos 夫妇有两张，第三张存放在保安室的保险柜里。20 层的楼梯间有摄像头，昨夜无人经过。外人没有保安提供的钥匙卡，无法乘坐大楼电梯。看尸体情况 Philippa 死于晚 11 点至凌晨 2 点之间，有可能是被枕头闷死，也可能死于意外或正常死亡。
-
-Gilbert 公司在蒙特利尔的仓库发生谷物腐烂事件，此事的知情人均否认向 De Belleville 提供机密，Gilbert 认为有间谍侵入家中，他回家时发现书房里的文件被翻阅过，几页纸落在地上。Gilbert 收藏了一些名贵的荷兰瓷器，其中一只蓝瓷碗摔碎。Philippa 的股份由女儿 Megan 继承，她是 Gilbert 的继女。公司副总裁 Robert Jameson 反对收购。
+第二天 Gilbert 回到家中，发现书房桌上文件散落，几页纸落在地上，收藏的一只名贵荷兰蓝瓷碗摔碎，确信有间谍侵入家中。Gilbert 在卧室发现 Philippa 的尸体，地上有呕吐痕迹，立刻报警。纽约市警察局的侦探 Krell 和新任女侦探 Merrilee Hopper 联手查案。DeRoos 家公寓有正门和服务门两个出入口，用门卡解锁，每次开关都有电脑记录，昨晚只有 Philippa 操作过正门。门卡共三张，DeRoos 夫妇有两张，第三张存放在保安室的保险柜里。20 层的楼梯间有摄像头，昨夜无人经过。非住户没有保安提供的钥匙卡，无法乘坐大楼电梯。看尸体情况 Philippa 死于晚 11 点至凌晨 2 点之间，有可能是被枕头闷死，也可能死于意外或正常死亡。Philippa 的股份由女儿 Megan 继承，她是 Gilbert 的继女。公司副总裁 Robert Jameson 反对收购。
 
 电脑记录表明 Philippa 当晚行动如下：
 * 18:15 Philippa 去三楼餐厅用餐。
 * 19:02 返回。
 * 20:29 Philippa 去了 69 楼。
 * 21:21 返回。
-* 21:23 Philippa 在家中听到奇怪的动静，心生恐惧，让 Jack 搜索有没有外人闯入。Jack 搜遍整个公寓，只在书房地上发现一些蓝色瓷器碎片。当晚有暴风雨，Jack 感到整个塔楼在风中摇晃。
+* 21:23 Philippa 在家中听到奇怪的动静，心生恐惧，让 O’Grady 搜索有没有外人闯入。O’Grady 搜遍整个公寓，只在书房地上发现一些蓝色瓷器碎片。当晚有暴风雨，O’Grady 感到整个塔楼在风中摇晃。
 * 22:09 Philippa 家正门打开，但无人进入电梯。
 
 从时间线看，可能有外人在 21:21 趁 Philippa 回家时潜入家中，于 22:09 离开。扫地机器人在中午启动打扫公寓。卧室枕头上放了切开的大蒜，传出淡淡的气味。警察在公寓里找到两个陌生人的指纹，均在二十四小时之内留下。
@@ -24,7 +22,7 @@ Gilbert 公司在蒙特利尔的仓库发生谷物腐烂事件，此事的知情
 
 DeRoos 家曾雇佣了一个海地女佣 Claudette Lazarre，四周前偷了家中的钢笔，被 Gilbert 解雇，几天后钢笔又在家中出现。在那之后的一天，Philippa 在床上发现了巫毒娃娃，叫保安到家中查看，没有发现外人。九天前，Philippa 收到从海底寄来的一封信，上面画满了巫毒符号。Philippa 还收到两通骚扰电话，但电话里的女人鼻音很重，听上去不像是 Claudette。Philippa 在枕头上放大蒜是为了辟邪。
 
-警察确认两个陌生人的指纹属于 Jack 和 Victor。Philippa 的鼻子和肺里查出棉纤维，证实是被枕头闷死，而且不是家中枕头的丝绸质地。她身上多处淤青，体内有精液残留，可能遭到强奸。Jennifer 承认和 Gilbert 有过一段恋情，但不久便发现 Gilbert 和其他女人有染，愤然分手。Jennifer 还说 Megan 对 Gilbert 十分迷恋。Gilbert 拿了一大堆行李箱像是要跑路。Megan 认为 Jennifer 自己制作了巫毒娃娃。Jennifer 觉得自己在 72 楼看到了一个女人。
+警察确认两个陌生人的指纹属于 O’Grady 和 Victor。Philippa 的鼻子和肺里查出棉纤维，证实是被枕头闷死，而且不是家中枕头的丝绸质地。她身上多处淤青，体内有精液残留，可能遭到强奸。Jennifer 承认和 Gilbert 有过一段恋情，但不久便发现 Gilbert 和其他女人有染，愤然分手。Jennifer 还说 Megan 对 Gilbert 十分迷恋。Gilbert 拿了一大堆行李箱像是要跑路。Megan 认为 Jennifer 自己制作了巫毒娃娃。Jennifer 觉得自己在 72 楼看到了一个女人。
 
 Victor 承认自三个月前与 Philippa 偷情。当晚 Philippa 来到 Victor 家中寻欢，身上的淤青是因为 Philippa 下肢瘫痪，要求 Victor 野蛮行事。Victor 某次在 Philippa 家中用钢笔写字，习惯性地把笔放在口袋里，Gilbert 提前回家，Victor 躲了起来，Philippa 向 Gilbert 撒谎说是女佣偷了钢笔。Philippa 计划卖掉公司后与 Gilbert 离婚。当晚 Philippa 回家后 Victor 发现她忘了手机，于是走楼梯上了 72 层，Philippa 开门后说家中有人，之后叫来保安。保安在家中搜查时 Victor 藏在楼梯间。Victor 在 Philippa 死后返回现场是为了拿一两样东西留念。门卡记录表明 Victor 在 22:22 回到公寓，之后再未出门，所以他有不在场证明。
 
