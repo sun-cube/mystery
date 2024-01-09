@@ -33,7 +33,7 @@ Pip 以 Layla 的身份约 Stanley 在废弃农场见面，与此同时 Conner �
 </details>
 
 <details><summary>结尾逆转</summary>
-就在 Pip 和 Stanley 即将离开废弃农场之时，Charlie Green 忽然现身，原来他才是真正的 Layla！他的妻子帮他用女声打电话。Charlie 的双胞胎姐姐为老 Brunswick 所杀，他要替姐姐复仇，所以一直在追踪小 Brunswick。Jamie 在网上对 Layla 产生迷恋，Charlie 萌生诡计让 Jamie 替自己杀死 Stanley。为了测试 Jamie 的忠诚度，Charlie 让他筹措 1200 块钱为自己“治疗癌症”，并让他闯入自己家中偷表。Charlie 说有变态一直跟踪自己，让 Jamie 测试谁对“小 Brunswick”这个名字有反应，便用刀将其杀死。Stanley 向 Charlie 道歉，但 Charlie 仍对他连开数枪，扬长而去。Pip 试图给 Stanley 急救，但为时已晚。
+就在 Pip 和 Stanley 即将离开废弃农场之时，Charlie Green 忽然现身，原来他才是真正的 Layla！他的妻子帮他用女声打电话。Charlie 的双胞胎姐姐为老 Brunswick 所杀，他要替姐姐复仇，所以一直在追踪小 Brunswick。Jamie 在网上对 Layla 产生迷恋，Charlie 萌生诡计让他替自己杀死 Stanley，为了测试其忠诚度，让他筹措 1200 块钱为自己“治疗癌症”，并让他闯入家中偷表。Charlie 说有变态一直跟踪自己，让 Jamie 测试谁对“小 Brunswick”这个名字有反应，便用刀将其杀死。Stanley 向 Charlie 道歉，但 Charlie 仍对他连开数枪，扬长而去。Pip 试图给 Stanley 急救，但为时已晚。
 </details>
 
 小镇继续发生失踪案，但这次失踪的是成年男子。核心谜题是谁在网上假扮身份教唆犯罪（catfish），因此有许多通过网络的调查。主人公 Pip 继首作一战成名后拉了许多粉丝，忽然间可以调动大量人力资源，令人艳羡。结尾突然揭露跨作伏线，真凶身份相当意外。整体比第一部更加精彩。
