@@ -25,5 +25,3 @@ Karim 证实是 Josselin 将 Maja 推下天桥致死，自己因见死不救心�
 :link: 6444
 
 :file_folder: French mystery
-
-:label: narrative trick
