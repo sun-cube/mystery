@@ -1,22 +1,21 @@
 # Tito A. Spagnol, <i>La notte impossibile</i> (1937)
 
 出场人物：
-* Bernardo Follot：警察局长。
 * Nick Ponds：豪宅主人。
 * Natalia Ivancich：Nick Ponds 的妻子。
-* Walace Hertzinger：男爵。
-* Miller：医生。
-* Starkey：战地记者。
+* Alfredo Gusman：来自巴黎的大侦探。
+* Otto Hertzinger：男爵。
+* Wallace Starkey：战地记者。
 * Anita Steward：Starkey 的朋友。
 * Yachima Mayo：日本博士。
-* Ramón Cantero：尼加拉瓜上校。
+* Ramon Cantero：尼加拉瓜上校。
+* Pablo Suárez：危地马拉人。
 * Sam Pankurst：美国的谷物批发商。
 * Pamela Pankurst：Sam 的妻子。
-* Suárez：危地马拉人。
+* Bernard Follot：警察局长。
 * Jaime Durán：管家。
 * Teresa Badouin：女仆。
 * Amelia Dieudonné：厨师。
-* Alfredo Gusman：来自巴黎的大侦探。
 
 Ponds 家举办宴会，中途女主人 Natalia 去楼上办公室拿留声机的唱片，发现衣柜的抽屉被人翻开，首饰盒中的一条名贵的翡翠项链消失不见。两名仆人 Jaime、Teresa 被锁在仆人房间里，钥匙放在送餐电梯小窗户下面的架子上。厨房窗户玻璃被人划碎，有小偷侵入的痕迹，花园里的石板路上留下小偷的足迹，在一棵山毛榉树下消失。厨师 Amelia 手艺不错，但一直要求加薪，平时住在哥哥 Enrique 家里，不久前 Natalia 曾给她看过项链。
 
