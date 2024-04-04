@@ -27,3 +27,37 @@ Gert 抢钱被 Joe 看到，所以将其灭口，把尸体从滑道丢入下方�
 </details>
 
 ## 4. The Murder in Room 1010
+
+Leopold 的前同事 Max Hafner 请他吃饭，席间让他推荐适合女性携带的小型录音机。两天后 Leopold 调查一桩酒店谋杀案。受害者 Ken Armstrong 曾因猥亵女生被取消教师资格，被刺死在酒店房间的床上，女子 Anita Buckman 与他共居一室，房间门从内部上了链锁，但 Anita 醒来不记得事情经过。Anita 的包中有一个录音机，与 Leopold 之前向 Hafner 推荐的为同一款式，里面录下了 Anita 和死者的对话，原来死者拍下了 Anita 丈夫 Rudolph 和妓女 Rhoda Quigley 的风流照片并以此敲诈，Anita 来酒店赎回照片。Leopold 的同事 Connie 推测 Ken 给 Anita 喝了一杯下了迷药威士忌，为了给她拍裸照继续勒索，结果被 Anita 自卫刺死，但 Anita 对此否认。
+
+<details><summary>真相</summary>
+Ken 为了拍裸照将门上的链锁由九环变成十一环，这样就可以从外面伸手上锁开锁，Rhoda 知道此事并告诉了 Rudolph。凶手是 Rudolph，他见 Anita 被迷晕，便进屋刺死 Ken，夺回照片，离开时从外面锁上链锁。
+</details>
+
+## 5. The Crime in Heaven
+
+女子 Thelma Roberts 参加 Vane 夫人举办的通灵会，与已故的祖父 Hugh Paxton 交谈，同时参加的还有 Vane 的丈夫 Oliver Peebles 和邻居 Armbruster。Thelma 在第三次通灵会期间听到枪声，貌似祖父被印第安向导 Grey Elk 杀害，于是报警。Connie 查出 Vane 有盗窃前科，在 Vane 家看到一张 1930 年城市百年庆典领导讲话的留声机唱片。Armbruster 在公寓被杀，死因是头部受到重击。Connie 查出唱片中有 Paxton 的声音，Vane 说唱片是 Thelma 给她的，为了让她能在通灵会中模仿 Paxton 的声音。Leopold 决定再次举行通灵会。
+
+<details><summary>真相</summary>
+凶手是 Vane 家的邻居 Charles Day，他告诉警察十分钟前看到 Armbruster，但那时 Armbruster 已死去半个小时。Vane 组织假降灵会，雇用失业演员 Freddie Mason 模仿声音欺骗钱。Mason 醉酒后被 Day 误杀，Armbruster 得知真相威胁报警，也被灭口。
+</details>
+
+## 6. The Killer Everyone Knew
+
+## 7. Captain Leopold’s Birthday
+
+## 8. The Retired Magician
+
+## 9. Puzzle in a Smoke Filled Room
+
+## 10. The Summer of our Discontent
+
+## 11. Leopold at Rest
+
+## 12. Leopold Lends a Hand
+
+## 13. The Mystery That Wouldn’t Stay Solved
+
+## 14. The Phantom Lover
+
+## 15. The Emerald Expert
