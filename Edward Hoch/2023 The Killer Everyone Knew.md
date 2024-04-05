@@ -115,3 +115,17 @@ Gavin Stark = Gabe Smith，他是 Lynn 的情人，以大麻为诱饵把 Stanley
 </details>
 
 ## 15. The Emerald Expert
+
+珠宝销售员 Alex Jaspar 在展示六颗高价绿宝石时被袭击抢劫，终因伤势过重去世。嫌疑人 Jeff Shields、Beryl Constantine 找到珠宝商 Jacob Newman 试图将绿宝石脱手，但 Jacob 鉴定宝石并不值钱。律师 Emily Benedict 替被告辩护。宝石专家 Henri Scarlotti 有办法测出绿宝石的来源，被 Beryl 的家庭邀请来美国作证，寄住于 Leopold 家中。Henri 在 Leopold 家中被近距离射杀，其随身携带的肥皂中藏了一块绿宝石。
+
+<details><summary>真相</summary>
+Newman 鉴定宝石时意识到是赃物，便偷偷将其替换为不值钱的宝石。Henri 把一块不相干的绿宝石藏在肥皂中带入美国意图出售，并主动联系 Newman。Newman 得知 Henri 会帮被告检测绿宝石来源，担心自己掉换宝石的事实暴露，所以将 Henri 杀死。
+</details>
+
+15 个以 Leopold 警官为主人公的短篇故事。第 2 篇是众人监视下的不可能下毒，第 4、12 篇是密室杀人。整体质量较高。
+
+:link: 6546
+
+:file_folder: English mystery
+
+:label: impossible crime, locked room
