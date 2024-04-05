@@ -100,6 +100,12 @@ Rachel 杀死 Petrov 抢夺圣像，并将一幅圣像栽赃安放在 Max 家的
 
 ## 13. The Mystery That Wouldn’t Stay Solved
 
+Leopold 接受记者 Zach Brewster 采访，讨论 Clemmins 案。Frances Clemmins 和两个孩子 Kerry、Ben 在一场汽车爆炸中身亡，有人在驾驶座下方安放了炸弹，孩子父亲 Alex Clemmins 情绪崩溃。邻居 Midge Proud 目睹 Alex 凌晨一点出现在汽车旁。Alex 拥有一家色情影院，他还欠了色情大王 Cosetti 的债务。Alex 的车库里发现炸药棒和电线，检察官对他提起公诉。Leopold 发现 Alex 的车库玻璃被人打碎，怀疑有人将多余的炸药藏在车库里。Leopold 调查色情剧院时遭遇枪击，成功将枪手击伤。
+
+<details><summary>真相</summary>
+凶手是记者 Zach，他用磁带录音机采访 Leopold，每面只能录 45 钟，但他采访了 2 个小时都没有换面。
+</details>
+
 ## 14. The Phantom Lover
 
 ## 15. The Emerald Expert
