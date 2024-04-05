@@ -52,6 +52,12 @@ Frees 为了获得催眠证词与 Ralph 合作，正好四名证人中有三人�
 
 ## 7. Captain Leopold’s Birthday
 
+Marty Doyle 心脏病发作去世，Leopold 和妻子 Molly 在 Marty 的葬礼上遇到他的妻子 Greta 和未婚先孕的女儿 June。Marty 收藏了一些枪支，Molly 在家询问 Leopold 这些枪支是否有价值。Roy Kingsley 头部中弹死在自家前门内，凶器是一把小口径手枪，死前曾打 911 报警。警察在 Roy 家见到他的妻子 Brenda Kingsley 和邻居 Greta、June。警察在临近街区外抓到一个年轻人 Pete Brody。Pete 本来想去看望June，但见到许多警车后决定不去拜访，怕被人当成是孩子的父亲。Greta 坚称 Roy 不是被自家的枪支射杀，但 Leopold 还是检查了一把目标手枪。Peter 送 June 去医院，June 产下一个健康的男孩。
+
+<details><summary>真相</summary>
+Roy 是孩子的父亲，却不肯负责，被 June 开枪杀死。June 假装在家和 Leopold 通电话，其实用无绳电话来到 Roy 家门口，近距离将其射杀，伪造不在场证明。Leopold 在电话中听到时钟的报时声是 Roy 家的时钟。
+</details>
+
 ## 8. The Retired Magician
 
 ## 9. Puzzle in a Smoke Filled Room
