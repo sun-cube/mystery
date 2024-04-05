@@ -76,6 +76,12 @@ Mike 检查 Randy 伤情的时候对着他的伤口开了第二枪，留下了�
 
 ## 10. The Summer of our Discontent
 
+Leopold 即将退休，警察局长 Ringold 决定提拔新人 George Vivian 继任他的位置，而不是更有经验的 Fletcher，Leopold 对此十分不解。George & Gert Fletcher 夫妇邀请 Leopold 和 Fletcher 来家中参加烤肉派对，与此同时，警官 Patrick O'Mera 在某银行停车场被人开枪击中头部身亡，口袋里找到一个装有一千美元的信封。Patrick 生前负责盗窃案件，女朋友 Sunny Novak 是 911 接线员。Patrick 下午 3:30 给同事 Bill Carmichael 打电话说要出去一下。Bill 说 Patrick 之前逮捕的盗窃犯 Kevin Kane 刚刚出狱。Kevin 告诉 Leopold，Patrick 有时会偷走犯罪现场的东西。Fletcher 搞到一张停车场的照片，显示 George 的车停在了 Patrick 的车旁边。
+
+<details><summary>真相</summary>
+Gert Vivian 是 Patrick 的前女友，协助她在盗窃现场偷东西，一千元是她分得的报酬。Patrick 威胁 Gert 要将此事曝光，Gert 为了不影响丈夫 George 晋升，在外出买烧炭的期间用 George 的手枪将 Patrick 打死。Bill 听到的电话是 Gert 播放录音伪造不在场证明。
+</details>
+
 ## 11. Leopold at Rest
 
 ## 12. Leopold Lends a Hand
