@@ -108,4 +108,10 @@ Leopold 接受记者 Zach Brewster 采访，讨论 Clemmins 案。Frances Clemmi
 
 ## 14. The Phantom Lover
 
+Lynn Falkner 在餐厅与丈夫 Stanley 公开争吵，并用叉子刺伤了 Stan 的颈部。六个月后，Stan 去教堂做礼拜时失踪，不久警方在附近的砾石坑里发现了他的车和尸体。当日下午大学生 Gabe Smith 在 Falkner 家割草，证实 Lynn、她的妹妹 Joan、妹夫 Doug、朋友 Max & Marci McGuire 夫妇在家，中间只有 Joan 出门半个小时买鸡蛋。Stan 曾给 McGuire 夫妇看了一封 Lynn 写给情人“Angel”的情书，里面提到她计划摆脱 Stan。Stan 最后的行踪有可能是去购买毒品。Lynn 在情书证据面前承认自己和情人 Gavin Stark 出轨，Gavin 有可能杀了 Stan。警方在 Gavin 的公寓没有找到人。
+
+<details><summary>真相</summary>
+Gavin Stark = Gabe Smith，他是 Lynn 的情人，以大麻为诱饵把 Stanley 骗到陨石坑杀害。Stanley 身上有草，但陨石坑附近没有草，是 Gabe 搬尸体时沾上。
+</details>
+
 ## 15. The Emerald Expert
