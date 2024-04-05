@@ -92,6 +92,12 @@ Tod 逃跑，Sam 面临损失保释金，所以他杀死 Pete 假装 Tod 死亡�
 
 ## 12. Leopold Lends a Hand
 
+艺术品经销商 Vladimir Petrov 在自家顶层公寓遇害，发现人是在现场铺瓷砖的瓦工队成员。Petrov 的车里有一幅古老的圣像，口袋里有一张 Rachel Dean 的名片。Petrov 曾让 Rachel 鉴定一幅圣像，Rachel 确定是真品，但车里的圣像是烫画而不是马赛克。Petrov 的妻子 Sally 说他从俄罗斯走私了四幅圣像，其中两幅已经卖掉。瓦工对成员 Max Rosen 有犯罪前科，Fletcher 和 Connie 在 Max 家附近看到可疑人士，双方交火，Fletcher 中弹身负重伤。Max 主动来到警局，说自己早已改过自新，也不认识 Petrov。警察搜索 Max 家，在壁橱后面找到第二幅圣像。Rachel 在办公室被枪杀，现场为密室，留下“ICON”（圣像）的死亡留言。弹道检测表明击中 Petrov 和 Fletcher 的手枪是同一把。
+
+<details><summary>真相</summary>
+Rachel 杀死 Petrov 抢夺圣像，并将一幅圣像栽赃安放在 Max 家的壁橱后面，离开时与 Fletcher、Connie 交火，击中 Fletcher 的同时也被 Connie 击中。Rachel 回到办公室后伤重身亡，死亡留言是“I confess that I killed Vladimir Petrov”的前四个字母。
+</details>
+
 ## 13. The Mystery That Wouldn’t Stay Solved
 
 ## 14. The Phantom Lover
