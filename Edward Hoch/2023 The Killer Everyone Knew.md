@@ -84,6 +84,12 @@ Gert Vivian 是 Patrick 的前女友，协助她在盗窃现场偷东西，一�
 
 ## 11. Leopold at Rest
 
+Tod Baxter 带枪来到前女友 Marcy McGregor 家中，与 Marcy 的丈夫Charlie 发生口角，开枪射中 Charlie 胸部，被警察逮捕。Tod 请求哥哥 Sam 用他的木材生意作抵押，付了五十万将他保释出狱。Fletcher 怀疑 Marcy 和 Tod 有婚外情。Tod 辩称自己只是手枪走火，其前妻 Grace Smiley 证实他平日没有暴力倾向。Tod 在椅子上开枪自杀身亡，并留下遗书，子弹击碎门牙从后脑射出。Sam 接到了 Tod 的告别电话并听到了枪声。警察发现尸体的耳朵形状奇怪，进而发现死者不是 Tod，而是流浪汉 Pete Detroit。
+
+<details><summary>真相</summary>
+Tod 逃跑，Sam 面临损失保释金，所以他杀死 Pete 假装 Tod 死亡。遗书是 Tod 给 Sam 写的道歉信。
+</details>
+
 ## 12. Leopold Lends a Hand
 
 ## 13. The Mystery That Wouldn’t Stay Solved
