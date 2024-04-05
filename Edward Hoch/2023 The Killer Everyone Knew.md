@@ -60,13 +60,19 @@ Roy 是孩子的父亲，却不肯负责，被 June 开枪杀死。June 假装�
 
 ## 8. The Retired Magician
 
-魔术师 Rex Furcula 的妹妹 Theresa Cottswood 在他们的车房遇害，死亡时间为早上六点，身上穿着日间衣物而非睡衣。盗船贼 José Martinez 偷走了他们家中的船，但开船逃跑时触礁昏迷，溺水身亡，警方认为他是凶手。Leopold 注意到 Rex 只在公开表演时才会把胡须染黑，但 Theresa 遇害的那天早上他染黑了胡须，这说明他提前预料到会见到外人。Rex 的妻子 Stella 告诉 Leopold，家中原来的厨师 Susan Ander 与 Theresa 关系亲近，但她已搬到 Baltimore。Leopold 联系到 Susan，但 Susan 说 Rex 和 Theresa 感情很好。附近一名渔夫声称在事故现场附近看到了 Rex 家的船，船上似乎有一男一女。
+魔术师 Rex Furcula 的妹妹 Theresa Cottswood 在他们家的车房遇害，死亡时间为早上六点，身上穿着日间衣物而非睡衣。盗船贼 José Martinez 偷走了家中的船，但开船逃跑时触礁昏迷，溺水身亡，警方认为他是凶手。Leopold 注意到 Rex 只在公开表演时才会把胡须染黑，但 Theresa 遇害的那天早上他染黑了胡须，这说明他提前预料到会见到外人。Rex 的妻子 Stella 告诉 Leopold，家中原来的厨师 Susan Ander 与 Theresa 关系亲近，但她已搬到 Baltimore。Leopold 联系到 Susan，但 Susan 说 Rex 和 Theresa 感情很好。附近一名渔夫声称在事故现场附近看到了 Rex 家的船，船上似乎有一男一女。
 
 <details><summary>真相</summary>
-Theresa 杀死 Susan，假扮成自己的尸体，让 José 开船运走，后又将 José 灭口，自己扮成 Susan，成功骗取了保险金。Rex 是 Theresa 的同谋，但并未参与谋杀。
+Theresa 杀死 Susan，假扮成自己的尸体，让 José 开船帮助她逃跑，后又将 José 灭口，自己扮成 Susan，成功骗取了保险金。Rex 是 Theresa 的同谋，但并未参与谋杀。
 </details>
 
 ## 9. Puzzle in a Smoke Filled Room
+
+消防员 Mike Rascow、Jack Yount、Tony Loma、Randy Dwyer 紧急出勤，来到一座二层木房灭火。Randy 冲进大火营救被困的屋主 Aaron Pettigrew，室内的高温引爆了卧室中的手枪子弹，Randy 不幸胸部中弹。急救人员 Vince Scarlata 将 Randy 送往医院，但为时已晚。弹道测试表明子弹是从 Aaron 的手枪中发出，Aaron 却说他的手枪没有装填子弹。Aaron 的妻子 Jenny 说 Aaron 吸食大麻后行为异常，引发床铺着火。Randy 与妻子 Margaret 关系良好。Leopold 注意到尸体上有一个射出伤口，奇怪地询问为何法医还能在死者体内找到子弹，法医说有可能子弹撞到骨头裂成两半。
+
+<details><summary>真相</summary>
+Mike 检查 Randy 伤情的时候对着他的伤口开了第二枪，留下了射出伤口，动机是 Randy 和自己的妻子有染。
+</details>
 
 ## 10. The Summer of our Discontent
 
