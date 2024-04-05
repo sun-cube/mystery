@@ -55,10 +55,16 @@ Frees 为了获得催眠证词与 Ralph 合作，正好四名证人中有三人�
 Marty Doyle 心脏病发作去世，Leopold 和妻子 Molly 在 Marty 的葬礼上遇到他的妻子 Greta 和未婚先孕的女儿 June。Marty 收藏了一些枪支，Molly 在家询问 Leopold 这些枪支是否有价值。Roy Kingsley 头部中弹死在自家前门内，凶器是一把小口径手枪，死前曾打 911 报警。警察在 Roy 家见到他的妻子 Brenda Kingsley 和邻居 Greta、June。警察在临近街区外抓到一个年轻人 Pete Brody。Pete 本来想去看望June，但见到许多警车后决定不去拜访，怕被人当成是孩子的父亲。Greta 坚称 Roy 不是被自家的枪支射杀，但 Leopold 还是检查了一把目标手枪。Peter 送 June 去医院，June 产下一个健康的男孩。
 
 <details><summary>真相</summary>
-Roy 是孩子的父亲，却不肯负责，被 June 开枪杀死。June 假装在家和 Leopold 通电话，其实用无绳电话来到 Roy 家门口，近距离将其射杀，伪造不在场证明。Leopold 在电话中听到时钟的报时声是 Roy 家的时钟。
+Roy 是孩子的父亲，却不肯负责，被 June 开枪杀死。June 假装在家和 Leopold 通电话，其实用无绳电话来到 Roy 家门口，用带消音器的手枪近距离将其射杀，伪造不在场证明。Leopold 在电话中听到时钟的报时声是 Roy 家的时钟。
 </details>
 
 ## 8. The Retired Magician
+
+魔术师 Rex Furcula 的妹妹 Theresa Cottswood 在他们的车房遇害，死亡时间为早上六点，身上穿着日间衣物而非睡衣。盗船贼 José Martinez 偷走了他们家中的船，但开船逃跑时触礁昏迷，溺水身亡，警方认为他是凶手。Leopold 注意到 Rex 只在公开表演时才会把胡须染黑，但 Theresa 遇害的那天早上他染黑了胡须，这说明他提前预料到会见到外人。Rex 的妻子 Stella 告诉 Leopold，家中原来的厨师 Susan Ander 与 Theresa 关系亲近，但她已搬到 Baltimore。Leopold 联系到 Susan，但 Susan 说 Rex 和 Theresa 感情很好。附近一名渔夫声称在事故现场附近看到了 Rex 家的船，船上似乎有一男一女。
+
+<details><summary>真相</summary>
+Theresa 杀死 Susan，假扮成自己的尸体，让 José 开船运走，后又将 José 灭口，自己扮成 Susan，成功骗取了保险金。Rex 是 Theresa 的同谋，但并未参与谋杀。
+</details>
 
 ## 9. Puzzle in a Smoke Filled Room
 
