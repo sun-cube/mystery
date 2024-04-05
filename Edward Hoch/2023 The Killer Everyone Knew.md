@@ -44,6 +44,12 @@ Ken 为了拍裸照将门上的链锁由九环变成十一环，这样就可以�
 
 ## 6. The Killer Everyone Knew
 
+Ralph Simmons 被控在年度水上庆典期间勒死 Laurie Mae Nelson，并遭到四名证人的法庭指认，但刑事心理学家 Arthur Frees 相信 Ralph 无辜，因为他在催眠状态下供述案发当晚并不在凶案现场的咖啡馆，而是在妹妹 Ruth 家。Leopold 参加水上庆典，在咖啡馆遇到女招待 Sally Olcott。Ruth 嫁人后改姓 Cutler，自称在案发当晚没见到 Ralph。证人 Max Rhineman 死于心脏病，Ellie & George Wainwright 夫妇死于车祸，四名证人中已有三人死亡。最后一名证人 Lucy Aarons 与 Sally 走上码头后突然失足落水，被两名路人救起时已无气息，法医鉴定她的心脏有一处长帽针刺入的伤口。
+
+<details><summary>真相</summary>
+Frees 为了获得催眠证词与 Ralph 合作，正好四名证人中有三人意外离世，只要最后一名证人无法出庭，Ralph 就可以翻供。Sally 和 Ralph 本来是同学，在探监时爱上了 Ralph。Ralph 说服 Sally 杀死 Lucy。
+</details>
+
 ## 7. Captain Leopold’s Birthday
 
 ## 8. The Retired Magician
