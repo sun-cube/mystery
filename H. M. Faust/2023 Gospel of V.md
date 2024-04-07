@@ -47,8 +47,14 @@ DNA 鉴定表明四名死者为同父异母兄弟姐妹。警方最终结论为 
 2. 现实中房子里没有 Roe。Roe 确实存在，但在谋杀案之前离开了 Cosmigrove 家。她年事已高，不可能犯案。
 3. 手稿中提到 Sophia 的丈夫，但现实中她似乎从未结婚。
 
+## The End of Virgil Hesse
+
+以 Hesse 的视角讲述。Prospero 家访 Hesse，说“红皇后”的三名女人因他而死。Prospero 出示了一张照片，里面有四个穿红裙子的女人，其中三人是“红皇后”的三名死者，第四人也住在“红皇后”，但还活着。
+
+Sparrow 和 Chariot 在“红皇后”妇女群居所见到 Cassandra。
+
 <details><summary>真相</summary>
-Hesse 是 Cosmigrove 家的孩子，Mundus 不是，二人在出生时对调。蓝眼睛父母的孩子有 1% 的几率为绿眼睛，99% 的几率为蓝眼睛，但 Mundus 是棕眼睛。DNA 鉴定表明死去的四个孩子有相同父亲，所以客厅里的死者不是 Mundus 而是 Hesse。Mundus 杀死所有 Cosmigrove 家的人。Mundus 的母亲 Cassandra 和“红皇后”的三名死者是 Joseph 的四名妻子。“红皇后”案和 Cosmigrove 家的杀人案发生在 1985 年，手稿中说“红皇后”案发生在“三年前”，所以 Hesse 在 1985 年写的手稿是讲 <b>未来</b> 1988 年的事情。（伏线：手稿中 Joseph 因生病而搬家，但 1985 年他还没有生病。Sophia 结婚是 Hesse 的想象。）Hesse 预见到自己会被 Mundus 杀死，<b>整份手稿是死亡留言</b>，意在揭露杀死自己的凶手，故事开头在花园里挖出来的骷髅是 Hesse 自己。沙漠里的新家并不是手稿里 Joseph 搬去的新家（伏线：手稿里提到下雪，但沙漠不可能下雪）。收藏室密室是因为 Mundus 有钥匙。Mundus 化名 Jim Doyle，和 Morini 一起进入 Ishmael 的密室，<b>在凶案发生的两年后将钥匙丢回现场</b>，伪造密室。
+Hesse 是 Cosmigrove 家的孩子，Mundus 不是，二人在出生时对调。蓝眼睛父母的孩子有 1% 的几率为绿眼睛，99% 的几率为蓝眼睛，但 Mundus 是棕眼睛（伏线）。DNA 鉴定表明死去的四个孩子有相同父亲，所以客厅里的死者不是 Mundus 而是 Hesse。Mundus 杀死所有 Cosmigrove 家的人。Joseph 的四名妻子是 Mundus 的母亲 Cassandra 和“红皇后”的三名死者，也即照片中的四个红裙子女人。“红皇后”案和 Cosmigrove 家的杀人案发生在 1985 年，手稿中说“红皇后”案发生在“三年前”，所以 Hesse 在 1985 年写的手稿讲的是 <b>未来</b> 1988 年的事情。（伏线：手稿中 Joseph 因生病而搬家，但 1985 年他还没有生病。Sophia 结婚是 Hesse 的想象。）Hesse 预见到自己会被 Mundus 杀死，<b>整份手稿是死亡留言</b>，意在揭露杀死自己的凶手，故事开头在花园里挖出来的骷髅是 Hesse 自己。沙漠里的新家并不是手稿里 Joseph 搬去的新家（伏线：手稿里提到下雪，但沙漠不可能下雪）。收藏室密室是因为 Mundus 有钥匙。Mundus 化名 Jim Doyle，和 Morini 一起进入 Ishmael 的密室，<b>在凶案发生的两年后将钥匙丢回现场</b>，伪造密室。
 </details>
 
 <details><summary>叙述性诡计</summary>
