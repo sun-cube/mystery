@@ -38,7 +38,7 @@ Ronald Gardner 杀死了 Vance 和 Bartlett。按照 Bartlett 的证词，Vance 
 
 连续在两起杀人案的现场出现“十茶杯”的奇怪布置，还有人给警察写了预告信。死者独自走进二楼房间，随即在近距离连中两枪，门口一直有警察监视，没有在房间里找到凶手踪迹。作者对不可能状况的解答极具想象力，且与布局接洽得严丝合缝，简直是魔术一般的手法。
 
-:link: 6239
+:link: 6574
 
 :file_folder: English mystery
 
