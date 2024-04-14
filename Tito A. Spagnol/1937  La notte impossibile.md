@@ -38,3 +38,9 @@ Gusman 发现房子里的门开关时都有咯吱声，唯独仆人房间的门�
 <details><summary>真相</summary>
 一个名叫 Stéfano Runciman 的精神病人从康复中心逃脱，他妄想自己是大侦探 Gusman，在破案之余自己也下手犯案。他从储藏室门口向 Giacomo 扔刀子，然后逃进花园。他在黑暗中借着火柴光开枪射杀 Mayo，把手枪丢在门口，因为握枪时包着手帕所以没有留下指纹。他打伤自己的眼睛，假装受到袭击，并在黑暗中袭击他人制造混乱。
 </details>
+
+:link: 6570
+
+:file_folder: Italian mystery
+
+:label: impossible crime, locked room
