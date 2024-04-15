@@ -5,12 +5,11 @@
 中译《周四推理俱乐部》（明明是“谋杀俱乐部”）。
 
 Ian Ventham 管理的 <i>Coopers Chase</i> 老人院住着三百多个老人，其“周四谋杀俱乐部”有四名成员：
-<ul>
-<li>Joyce Meadowcroft，退休护士，取代退休警探 Penny Gray 成为新会员</li>
-<li>Elizabeth</li>
-<li>Ron Ritchie，退休工会领导人</li>
-<li>Ibrahim Arif，退休心理咨询师</li>
-</ul>
+* Joyce Meadowcroft，退休护士，取代退休警探 Penny Gray 成为新会员
+* Elizabeth
+* Ron Ritchie，退休工会领导人
+* Ibrahim Arif，退休心理咨询师
+
 警察 Donna De Freitas 给四人做关于家庭安全的讲座。
 
 Ian 向大家介绍他的开发项目“林地”，涉及迁移附近的一座墓地，神父 Matthew Mackie 对此顾虑重重。Ian 解雇了建筑商 Tony Curran，转而雇用了承包商 Bogdan Jankowski，Tony 为此和 Ian 发生激烈争吵。Ron 的儿子 Jason Ritchie 原是一名拳击手，即将参加一期名人家谱的电视节目。Ian 访问毗邻老人院的农场主 Gordon Playfair，想买下农场一并开发。Gordon 坚称不会卖地，但他的女儿 Karen 觉得可以商量出一个解决方案。Tony 原是一名毒贩，他计划杀掉 Ian，但有人先下手为强，用一把大扳手把他打死，还在桌上留下一张他和 Jason Ritchie、Bobby Tanner 的三人合影。Tony 的妻子发现尸体，死亡时间在下午 2:00-3:32 之间。
