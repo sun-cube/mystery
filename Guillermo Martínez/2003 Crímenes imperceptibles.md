@@ -22,6 +22,4 @@ Beth 杀死 Eagleton 太太向 Arthur 求救，Arthur 其实是 Beth 的父亲�
 
 :link: 6615
 
-:file_folder: French mystery
-
-:label: narrative trick
+:file_folder: Argentine mystery
