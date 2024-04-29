@@ -2,6 +2,8 @@
 
 <img src=images/2022_cover.jpg width=250/>
 
+中译《替身》。
+
 主人公 Maddi Libéri 是单亲妈妈，有一个儿子 Esteban。2010 年 6 月 21 日，在 Esteban 十岁生日当天，Maddi 带 Esteban 去了沙滩，像往日一样交给他一枚一欧元的硬币买面包，但他一去就再也没回来。Maddi 报警。Esteban 失踪时穿着一件蓝色泳衣，左腿位置有一个白色小鲸鱼的图案，沙滩巾和运动衫都留在原地，海滩上也没人见到他下水。
 
 十年以后，Maddi 和 Gabriel 回到沙滩，Gabriel 吻了 Maddi。Maddi 在沙滩上看到一个和 Esteban 长得一模一样的十岁小男孩，身穿一件同款蓝色泳衣，而且耻骨下方也有一样的血管瘤胎记！Maddi 听到小男孩名叫 Tom，偷偷从他母亲的沙滩包里找到一张身份证，得知母亲 Amandine Fontaine 住在 Froidefond。Maddi 决定搬去 Froidefond，临走时从心理医生 Wayan Balik Kuning 那里取走了自己的咨询录音。
