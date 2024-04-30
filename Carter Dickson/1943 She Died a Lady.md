@@ -17,3 +17,9 @@ Barry 在晚 9:30 一人走向悬崖，然后倒退走回，制造假脚印骗�
 <details><summary>逆转</summary>
 Rita 失踪后 Alec 上楼打开盒子没看到钻石，于是拿着小钥匙下了楼。Alec 晕倒后 Luke 随手把钥匙揣进了自己的口袋，后来交给 Tom 还给 Alec。有机会把钻石放回盒子的只有 Tom 一人，所以他是凶手，动机是因为他和 Rita 是情人。Tom 的手枪从口袋滑落掉在路上。Tom 回到车边上，看到 Belle 爬上岸晕倒，将她运回画室。Tom 几天后回到洞穴，看到 Luke 的背影，不知道是自己的父亲，胡乱开枪射击没有打中。
 </details>
+
+:link: 6620
+
+:file_folder: English mystery
+
+:label: impossible crime, missing footprint
