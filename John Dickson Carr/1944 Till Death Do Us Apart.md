@@ -4,7 +4,7 @@
 
 Lesley Grant 进帐篷算命，男友 Richard (Dick) Markham 和朋友 Horace Price 在外面等候。整个村庄的女人都想撮合 Dick 和 Cynthia Drew，但 Dick 说自己对 Cynthia 没感觉。算命的人是著名犯罪学家 Harvey Gilman 爵士。Hugh Middlesworth 医生加入 Dick 和 Horace 的谈话，Lesley 突然面色惊惧冲出帐篷。Dick 进帐篷问 Gilman 爵士对 Lesley 到底说了什么，Gilman 还不及细说，Lesley 在帐篷外开枪走火，Gilman 中弹倒在桌上。
 
-哈维爵士连人带桌向前扑倒，
+哈维爵士连人带桌向前扑倒
 这是莱斯莉的声音。
 “太抱歉了，但我也没办法！迪克就不该把步枪给我！有人撞了撞我的胳膊，我的手不小心碰到扳机，不知怎么就开了枪！”
 普莱斯少校认为就是走火。米德尔沃斯医生也一样，包括银行经理厄恩肖。哈维·杰尔曼爵士被子弹击倒后，厄恩肖意外地突然出现。只有你……”
