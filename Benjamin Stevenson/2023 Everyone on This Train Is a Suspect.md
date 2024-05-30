@@ -2,7 +2,9 @@
 
 <img src=images/2023_cover.jpg width=250/>
 
-Ernie 在火车上撰写他的第二本书，承诺遵循 fair play，但不一定只有一个侦探。Ernie 带女朋友 Juliette 上车时偶遇经纪人 Simone Morrison 和著名作家 Wolfgang。Ernie 希望通过 Simone 认识著名作家 McTavish。火车上的床铺很窄，而且门无法锁上。Ernie 在酒吧车厢遇到了老人 Douglas Parsons、心理悬疑作家 S. F. Majors、法律推理作家 Lisa Fulton、推理小说粉丝 Jasper Murdoch、年轻女读者 Brooke、法医作家 Royce Royce。McTavish 的出版商 Wyatt Lloyd 经过，看到 Ernie 后向他主动道歉，让 Ernie 觉得莫名其妙，但没说几句便被 McTavish 打断。事后 Juliette 向 Ernie 解释 Wyatt 在 Goodreads 网站给他的第一本书打了一颗星。Royce 和 Lisa 安慰 Ernie 不要把差评放在心上。
+<img src=images/2023_layout.jpg width=450/>
+
+Ernie 在 <i>Ghan</i> 号火车上撰写他的第二本书，承诺遵循 fair play，但不一定只有一个侦探。Ernie 带女朋友 Juliette 上车时偶遇经纪人 Simone Morrison 和著名作家 Wolfgang。Ernie 希望通过 Simone 认识著名作家 McTavish。火车上的床铺很窄，而且门无法锁上。Ernie 在酒吧车厢遇到了老人 Douglas Parsons、心理悬疑作家 S. F. Majors、法律推理作家 Lisa Fulton、推理小说粉丝 Jasper Murdoch、年轻女读者 Brooke、法医作家 Royce Royce。McTavish 的出版商 Wyatt Lloyd 经过，看到 Ernie 后向他主动道歉，让 Ernie 觉得莫名其妙，但没说几句便被 McTavish 打断。事后 Juliette 向 Ernie 解释 Wyatt 在 Goodreads 网站给他的第一本书打了一颗星。Royce 和 Lisa 安慰 Ernie 不要把差评放在心上。
 
 Ernie 参加了一个作家讲座，注意到 McTavish 因车祸后遗症导致身体左侧比右侧虚弱。Majors 怀疑 McTavish 在他的小说中借用了报纸故事的情节，但 McTavish 予以否认。晚餐后 Ernie 和 Juliette 听到 Wyatt 和 Wolfgang 争吵，Wyatt 想给 Wolfgang 开一张支票，但遭到拒绝。三名老女人在酒吧车厢喝酒交流 Erica Mathison 的色情小说，其中一位是著名书评家 Veronica Blythe。Royce 猛敲 McTavish 的房门，希望他能帮自己写推荐语提高销量。Ernie 在午夜醒来，去公共洗手间呕吐回来时注意到走廊上有花瓣，并听到 Wyatt 和 McTavish 在房间中争吵，Wyatt 提到新书中 Archibald Bench 这个角色非常有趣。Erine 撞到头并发出声音，他赶忙躲进茶水间假装泡茶，无意间发现水壶被人扔进了垃圾桶。第二天早上 McTavish 的脸上带着淤青参加小组讨论，喝下酒壶中的酒后中毒身亡。
 
