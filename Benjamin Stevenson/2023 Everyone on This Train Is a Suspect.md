@@ -22,7 +22,7 @@ Lisa 在爱丁堡遭受了 McTavish 的强奸，因为实验室弄丢了 DNA 证
 Royce 原为实验室的实验员，帮助损坏 Lisa 的 DNA 证据以换取 Wyatt 的出版合同。Majors 在 Alice Springs 长大，和事故中遇难的孩子上同一所学校，好友被校车司机侵犯。Wolfgang 打算在火车上批判商业小说并羞辱 Wyatt，Wyatt 试图写一张支票让他封口，被 Wolfgang 拒绝。Wolfgang 而不是 Douglas 是 Erica Mathison，Erica 的书是人工智能撰写。McTavish 最新作的标题没有使用牛津逗号，其实是由 Jasper 代笔，Harriet 知晓此事，这也解释了为什么 McTavish 的房间里没有打字机。Ernie 听到 McTavish 和 Wyatt 的争吵其实是 Jasper 和 Wyatt 的争吵，Wyatt 答应出版 Jasper 的小说。Archie Bench 是“Reichenbach 瀑布”的字母重排，意即人物会像 Sherlock Holmes 一样复活。Simone 用 McTavish 的密码登录了他的 Goodreads 账号，并给五人留下 1-5 星的评价，评价语首字母连成 GHOST（代笔），用来敲诈 McTavish。Harriet 不满 McTavish 打击 Jasper 的自信心，所以用走廊的水壶煮成鸦片茶混入威士忌，并留下粉丝礼物的便条。McTavish 的死反而增加了其遗作的商业价值，Wyatt 准备用 McTavish 的名字单独署名出版，所以 Harriet 用钢笔刺穿了他的喉咙。
 </details>
 
-标题致敬东方快车。文中无数 meta，出场人物不时会跳出小说本体讨论一下故事情节。半程时某推理作家一时技痒，信誓旦旦地召集众人，要以黄金时代作风公布凶手身份，随即便被告知“凶手”死亡，令人忍俊不禁。作者在第一章公然宣告会提到凶手名字 106 次，有计数器的读者可以走偏门找出凶手。
+标题致敬东方快车。文中无数 meta，出场人物会时不时跳出小说本体讨论一下故事情节。半程时某推理作家一时技痒，信誓旦旦地召集众人，要以黄金时代作风公布凶手身份，随即便被告知“凶手”死亡，令人忍俊不禁。作者在第一章公然宣告会提到凶手名字 106 次，有计数器的读者可以走偏门找出凶手。
 
 :link: 6667
 
