@@ -3,7 +3,7 @@
 
 ## 1. The Green Ghost Murder (1931)
 
-《Carstow晨报》的记者 Gordon Angell 面临失业，向主人公 Daniel Britling 医生求助。Britling 路遇一个黑眼睛男人，觉得似曾相识，Gordon 说那人是杂技演员 Bodoni 兄弟之一，Britling 脑海中却浮现出一个名为 Rosa 的女人名字。报纸报道 Heaton 地区多人遇到绿色幽灵袭击，一时间各地游客蜂拥而至。书商 Billy Hannaway 在家中花园的折叠椅上听收音机音乐，女仆在厨房看到窗外出现绿色幽灵，急忙叫来警察，回来时 Hannaway 已中刀身亡，花园地下只留下一组脚印。Hannway 早上和报社记者 Healy 等人在酒吧喝酒，吹嘘自己不怕绿色幽灵。Daniel 认出 Hannaway 夫人就是 Rosa。
+《Carstow 晨报》的记者 Gordon Angell 面临失业，向主人公 Daniel Britling 医生求助。Britling 路遇一个黑眼睛男人，觉得似曾相识，Gordon 说那人是杂技演员 Bodoni 兄弟之一，Britling 脑海中却浮现出一个名为 Rosa 的女人名字。报纸报道 Heaton 地区多人遇到绿色幽灵袭击，一时间各地游客蜂拥而至。书商 Billy Hannaway 在家中花园的折叠椅上听收音机音乐，女仆在厨房看到窗外出现绿色幽灵，急忙叫来警察，回来时 Hannaway 已中刀身亡，花园地下只留下一组脚印。Hannway 早上和报社记者 Healy 等人在酒吧喝酒，吹嘘自己不怕绿色幽灵。Daniel 认出 Hannaway 夫人就是 Rosa。
 
 <details><summary>真相</summary>
 绿色幽灵是 Gordon 装扮，目的是制造话题，增加报纸销量。他在酒吧听到 Hannaway 说不怕绿色幽灵，所以去他家里吓他，并在花园里留下脚印。Hugo Gaspari 和 Rosa 是一对杂技演员，Gaspari 擅长扔飞刀，Rosa 后来嫁给了 Hannaway，Gaspari 则化名“Bodoni 兄弟”继续表演。Gaspari 飞刀杀死 Hannaway。
