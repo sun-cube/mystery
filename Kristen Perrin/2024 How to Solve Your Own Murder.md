@@ -73,7 +73,7 @@ Rose 被花束刺破手指，担心中毒，结果只是虚惊一场。Rose 让�
 
 【日记】John 承认和 Emily 上床，说 Emily 似乎努力想要变成 Frances。Emily 说有东西忘在 Chelsea 要回去取，Frances 担心她改变心意，想要收回小孩，急着要去警告 Peter，但又怕外出被母亲发现，于是给了 Rose 几件自己的衣服，让她假扮成自己在家。Frances 晚到一步，Emily 已经来找过 Peter，但 Peter “处理了这件事”。Emily 失踪。
 
-有人撬开了 Frances 的上锁抽屉。法医确认白骨是 Emily，箱子里有一件 Frances 的羊毛外套，口袋有一把手枪，正是射杀 Emily 的凶器。Emily 身上有两个信封，里面装了大量现金，Annie 猜测是 Peter 买孩子的钱。凶手没有拿走钱，说明 Peter 不是凶手，这可以解释 Frances 为什么把 Peter 从谋杀板上的嫌疑人列表中划掉。Rowan 查出 Saxon 和 Magda 从 Owasu 的诊所偷出药品，非法倒卖。有人毁坏了 Annie 的笔记本电脑和调查笔记。Annie 抓到 Saxon 藏在自己的衣柜中，但他否认毁坏物品。Saxon 怀疑 Walt 从 Magda 那里买了药杀死 Frances，因为他一直超额收取律师费。Saxon 提出和 Annie 联手找凶手，建议 Annie 以买药为由潜入救护车，拿到装药的容器，上面多半有 Walt 的指纹。Annie 在柜子的双重底里发现庄园里丢失的物品，包括一条鸟的项链和一些餐具，疑似为 Elva 偷窃所得，也是 Saxon 在柜子里找的东西。
+有人撬开了 Frances 的上锁抽屉。法医确认白骨是 Emily，箱子里有一件 Frances 的羊毛外套，口袋有一把手枪，正是射杀 Emily 的凶器。Emily 身上有两个信封，里面装了大量现金，Annie 猜测是 Peter 买孩子的钱。凶手没有拿走钱，说明 Peter 不是凶手，这可以解释 Frances 为什么把 Peter 从谋杀板上的嫌疑人列表中划掉。Rowan 查出 Saxon 和 Magda 从 Owasu 的诊所偷出药品，非法倒卖。有人毁坏了 Annie 的笔记本电脑和调查笔记。Saxon 藏在 Annie 的衣柜中被发现，但他否认毁坏物品。Saxon 怀疑 Walt 从 Magda 那里买了药杀死 Frances，因为他一直超额收取律师费。Saxon 提出和 Annie 联手找凶手，建议 Annie 以买药为由潜入救护车，拿到装药的容器，上面多半有 Walt 的指纹。Annie 在柜子的双重底里发现庄园里丢失的物品，包括一条鸟的项链和一些餐具，疑似为 Elva 偷窃所得，也是 Saxon 在柜子里找的东西。
 
 【日记】Emily 给孩子起名 Laura，那是她妹妹的名字。Frances 最后一次亲吻 John。
 
