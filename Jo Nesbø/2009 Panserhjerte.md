@@ -6,7 +6,7 @@
 
 <img src=images/2009_map.jpg width=500/>
 
-女子 Borgny Stem-Myhre 被拘禁在市中心办公大楼的地下室，嘴里塞入一颗金属球，上面系了一根线。男子警告 Borgny 不要球上的一根引线，但她禁不住痛苦还是拉了线，结果从金属球内射出 24 根细针，射穿她的双颊、鼻窦、鼻腔、下巴、气管、左右眼，使她被自己流出的血液堵住气管溺死。
+女子 Borgny Stem-Myhre 被拘禁在市中心办公大楼的地下室，嘴里塞入一颗金属球，上面系了一根线。男子警告 Borgny 不要碰球上的一根引线，但她禁不住痛苦还是拉了线，结果从金属球内射出 24 根细针，射穿她的双颊、鼻窦、鼻腔、下巴、气管、左右眼，使她被自己流出的血液堵住气管溺死。
 
 主人公 Harry Hole 在上一起雪人案之后隐居香港，挪威女警 Kaja Solness 受上司 Gunnar Hagen 派遣来请他出山调查最新的连环杀人案。Harry 赌马欠了三合会的钱，沦落到要在街上用奶瓶买毒品，但仍拒绝了 Kaja 的邀请。Kaja 替 Harry 准备了新的护照，跟他说他的父亲在医院病重，Harry 终于同意回挪威探望父亲。
 
@@ -49,7 +49,7 @@ Lene 的母亲是家里的清洁工。Harry 从小报上看到 Lene 要把头发
 </details>
 
 <details><summary>叙述性诡计</summary>
-男子 A 拷打男子 B，B 给 Harry 打电话，看上去好像 A=Ole，B=Tony，但其实 A=Tony，B=Odd。
+男子 A 拷打男子 B，B 给 Harry 打电话，看上去好像 A=Ole，B=Tony，Tony 用自己的手机打电话，但其实 A=Tony，B=Odd，Odd 用 Tony 的手机打电话。
 </details>
 
 精彩纷呈的连环杀人案。从微物证据入手追查犯罪地点，颇有 Licoln Rhyme 的风范，missing link 浮现之后各线条丝滑交汇。主人公 Harry 持续受虐，不仅要应对狡猾的连续杀人魔，还被卷入警察集团内部的政治漩涡，刚靠主角光环从雪崩死里逃生。又落入“Leopold 苹果”的死亡陷阱。苹果刑具设计绝妙，Harry 吞下苹果一段是全书高光，仿佛观看恐怖电影 🎬 <i>Saw</i>。中期凶手身份意外，后期逆转靠叙述性诡计支撑，合乎情理。前作 boss “雪人”短暂出场，致敬 📖 Thomas Harris, <i>The Silence of the Lambs</i> (1988)。
