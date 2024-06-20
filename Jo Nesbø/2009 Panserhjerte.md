@@ -28,7 +28,7 @@ Harry 终于等到逮捕令，赶去 Tony 家，但那里已经聚集了一群 B
 
 Iska 说在小屋的隔天晚上，一名警察试图强奸 Charlotte，未能得手。Harry 质问 Krongli 是否对 Charlotte 下手，把他教训了一顿。Adele 曾告诉友人陪她去小屋的人有让她兴奋和恶心的地方，兴奋的是他曾经让她穿护士装去废弃工厂玩性爱游戏，恶心的是他让她联想到她的室友（Geir 是男同）。Elias 告诉 Stine 他在小屋当晚目睹一名男子在屋后按住一名女子做爱，事后才觉得那是强奸。凶手有可能是 Adele 带去的男朋友，也就是小屋里的第八名访客。Tony 失踪。Tony 收到匿名信，写着“我那天晚上也在小屋”。
 
-Kaja 向 Harry 道歉，决定和 Bellman 断绝关系，二人做爱。Harry 的父亲变成植物人，Harry 不再受 Bellman 要挟，要求加入调查团队。Iska 早已回到澳大利亚，Harry 建议 Kaja 冒充为 Iska 高调返回 Håvass 小屋，目的是引凶手现身。Harry 见到 Anders Galtung 和他的女儿 Lene，Anders 刚给 Tony 的刚果项目投了一大笔钱。Bellman 的亲信 Jussi Kolkka、Harry、Kaja 三人住进 Håvass 小屋。男人 A 拷问男人 B，B 努力给 Harry 拨号，但进入语音信箱，被 A 发现，A 强迫 B 吞下“Leopold 苹果”。Bjørn 在 Adele 的滑雪裤上发现精液和摩擦痕，是隔衣摩擦性行为时留下，又在一件护士服上检测出尼龙材质，有可能是在废弃工厂玩性爱游戏时沾到。山上发生雪崩，将小屋中三人埋在下面。Harry 努力钻进火炉空隙，替 Kaja 做人工呼吸暂时保住性命，又用 Jussi 的枪射穿烟囱，吸到空气。Bellman 的手下将 Harry、Kaja 救出，Jussi 丧生。
+Kaja 向 Harry 道歉，决定和 Bellman 断绝关系，二人做爱。Harry 的父亲变成植物人，Harry 不再受 Bellman 要挟，要求加入调查团队。Iska 早已回到澳大利亚，Harry 建议 Kaja 冒充为 Iska 高调返回 Håvass 小屋，目的是引凶手现身。Harry 见到 Anders Galtung 和他的女儿 Lene，Anders 刚给 Tony 的刚果项目投了一大笔钱。Bellman 的亲信 Jussi Kolkka、Harry、Kaja 三人住进 Håvass 小屋。男人 A 拷问男人 B，B 努力用手机给 Harry 拨号，但刚进入语音信箱便被 A 夺走手机，A 强迫 B 吞下“Leopold 苹果”。Bjørn 在 Adele 的滑雪裤上发现精液和摩擦痕，是隔衣摩擦性行为时留下，又在一件护士服上检测出尼龙材质，有可能是在废弃工厂玩性爱游戏时沾到。山上发生雪崩，将小屋中三人埋在下面。Harry 努力钻进火炉空隙，替 Kaja 做人工呼吸暂时保住性命，又用 Jussi 的枪射穿烟囱，吸到空气。Bellman 的手下将 Harry、Kaja 救出，Jussi 丧生。
 
 报社记者 Roger Gjendem 奉命调查 Bellman 的黑历史。Bellman 在小屋附近发现雷管痕迹，认为雪崩是人为制造。Harry 和 Bellman 追踪雪地摩托的车轮印，Harry 看到手机上 Tony 打来的未接电话。Harry 爬下断崖，看到一辆遗弃的雪地摩托，旁边有一条烧焦的手臂，手指和 Tony 一样有关节炎扭曲的痕迹。Harry 和 Bellman 找到一处小屋，里面有男人住过的痕迹。Harry 认为 Tony 被人施以酷刑，最后惨遭杀害，弃尸山谷。鉴证人员去 Tony 家采 DNA。Harry 带人到废弃工厂搜查，发现一间屋子，墙上贴着受害人的照片和各种关于案情的新闻报道，还有一封勒索信，上面写着“我知道你杀了谁，我要钱”，原来这里是凶手的犯罪总部。一名警察打开电灯开关，引发爆炸，现场证据全部烧毁。
 
