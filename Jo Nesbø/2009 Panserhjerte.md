@@ -57,3 +57,5 @@ Lene 的母亲是家里的清洁工。Harry 从小报上看到 Lene 要把头发
 :link: 6745
 
 :file_folder: Norwegian mystery
+
+:label: narrative trick
