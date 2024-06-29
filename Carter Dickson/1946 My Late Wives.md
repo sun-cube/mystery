@@ -2,7 +2,7 @@
 
 <img src=images/1946_cover.jpg width=250/>
 
-Roger Bewlay 先后娶了三任妻子 Angela Phipps、Elizabeth Mosnar、Andree Cooper，三人账户上的钱被提出来之后均不知所终，Andree 的前男友向警方报案。Roger 化名为 R. Benedict 与新任妻子在海滨度假地租下一间平房。7 月 6 日 Roger 打电话让打字员 Mildred Lyons 打了几封信件，付给她十先令假钞，Mildred 晚上发现钞票有假，回小屋说理，却只看到 “Benedict 太太”被扼死在沙发上，Roger 站在房间中央吸烟。第二天早上 Roger 躲开警员监视，溜去伦敦。从 6 日晚到 7 日早上，有两名警官一直在监视那座房子，可以证实除了 Roger 以外无人进出，但等他们进屋时没有发现尸体。这起谜案至今已过去 11 年，Roger 仍然在逃。
+Roger Bewlay 先后娶了三任妻子 Angela Phipps、Elizabeth Mosnar、Andree Cooper，三人接连失踪，银行账户被人提空，Andree 的前男友向警方报案。Roger 化名为 R. Benedict 与新任妻子在海滨度假地租下一间平房。7 月 6 日 Roger 打电话让打字员 Mildred Lyons 打了几封信件，付给她十先令假钞，Mildred 晚上发现钞票有假，回小屋说理，却只看到 “Benedict 太太”被扼死在沙发上，Roger 站在房间中央吸烟。第二天早上 Roger 躲开警员监视，溜去伦敦。从 6 日晚到 7 日早上，有两名警官一直在监视那座房子，可以证实除了 Roger 以外无人进出，但等他们进屋时没有发现尸体。这起谜案至今已过去 11 年，Roger 仍然在逃。
 
 年轻律师 Dennis Foster 去剧院看望制作人 Beryl West。演员 Bruce Ransom 收到一份根据 Roger Bewlay 事迹改编的剧作手稿，上下两部分用不同的打字机打成。Bruce 很喜欢这部剧，开始排练剧中的 Roger 角色，但 Beryl 不喜欢该剧的结尾。Bruce 把剧本手稿送去 Ethel Whitman 文印社复印，并给作者写了信，但没有收到回信。Bruce 准备出发去 Aldebridge 度假，Beryl 建议他度假时装作 Roger 体验生活。Dennis 和 Beryl 在剧场外遇见 Masters 探长，Masters 说剧本里的细节和第四起杀人案的细节吻合，而这些细节警方从来没向外界透露过。Dennis、Beryl、Masters、H.M. 在酒吧讨论案情，看到 Mildred Lyons 从剧院侧门溜出来。
 
