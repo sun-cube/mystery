@@ -15,11 +15,13 @@ Oliver 单独署名发布了一篇关于 Alperton Angels 青少年的文章，Am
 <details><summary>真相</summary>
 婴儿的父亲是 Don Makepeace，他曾在 1980 年代末将 Gabriel 送入监狱，母亲是他的妻子 Julia。婴儿是男孩，不是 Louise Windsor。邪教团伙将婴儿绑架，由 Holly 和 Jonah 照顾，向 Don 勒索赎金。Shenk（Raphael）贩卖毒品，卧底警察 Singh 跟踪他找到婴儿，见婴儿疏于照顾，想要带走，被 Jonah 杀害，但警方以为是被 Shenk 灭口，将 Shenk 在拘留期间杀害。
 
-Gabriel 在 13 年前洗脑过一名女孩，也给她起名 Holly，也即后来的 Ashleigh，照顾婴儿的是二代女孩 Holly。Ashleigh 说服二代 Holly 摆脱 Gabriel 控制，向警察报告了婴儿的信息。Don 求助特种部队的朋友营救婴儿。黑人女警兼退役狙击手 Marie-Claire 同时负责处理 Shenk 的尸体和营救婴儿，她意识到 Holly 手中的婴儿就是 Don 被绑架的婴儿，击毙 Michael、Elemiah 之后把 Shenk（Raphael）的尸体混入其中。
+Gabriel 在 13 年前洗脑过一名女孩，也给她起名 Holly，也即后来的 Ashleigh，照顾婴儿的是二代女孩 Holly。Ashleigh 说服二代 Holly 摆脱 Gabriel 控制，向警察报告了婴儿的信息。Don 求助特种部队的朋友营救婴儿。黑人女警兼退役狙击手 Marie-Claire 同时负责处理 Shenk 的尸体和营救婴儿，她意识到 Holly 手中的婴儿就是 Don 被绑架的婴儿，击毙 Michael、Elemiah 之后把 Shenk（Raphael）的尸体混入其中。Gabriel 被击中头部，没有死亡，因为被 Jonah 抱住而未被分尸，后来得以存活，Don 把他送进监狱。Clive Badham 教写作，Holly 长大后根据亲身经历写了剧本《神圣》，Clive 偷了她的剧本。
 
-Holly 根据亲身经历写了剧本《神圣》，Clive Badham 偷了她的剧本。Gabriel 被击中头部，没有死亡，因为被 Jonah 抱住而未被分尸，后来得以存活，Don 把他送进监狱。
-
-Oliver 多年前故意给 Amanda 提供假情报，让她去了错误的地点，导致她被人打伤，视力受损。Amanda 化名 Paul Cole 对 Oliver 实施了精神控制，Oliver 陷入邪教，认为 Louise 是邪恶天使后代，必须被除掉。Oliver 杀死 Amanda，被 Louise 的安保团队击毙。
+Oliver 多年前故意给 Amanda 提供假情报，让她去了错误的地点，导致她被人打伤，视力受损。Amanda 化名 Paul Cole 对 Oliver 实施了精神控制，Oliver 陷入邪教，认为 Louise 是邪恶天使后代，必须被除掉。Oliver 杀死 Amanda，后被 Louise 的安保团队击毙。
 </details>
 
 和系列前作一样全篇用书信体叙述。故事情节和反转设计得有亮点，但出场人物太多，书信体叙述过于细碎，严重影响阅读体验，还不如按照正常家访叙述顺畅。
+
+:link: 6793
+
+:file_folder: English mystery
