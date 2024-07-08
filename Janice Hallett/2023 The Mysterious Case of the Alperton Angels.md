@@ -8,12 +8,12 @@
 
 剧作家 Clive Badham 写了一个名为《神圣》的剧本，讲述四个男人 Michael、Gabriel、Raphael、Elemiah 说服脆弱的青少年相信他们都是带着神圣使命降临到地球的天使，Holly、Jonah 从养护机构逃离，加入邪教。天使们杀死了一名无辜的年轻服务生，又要祭祀 Holly 的婴儿。Holly 带着婴儿和 Jonah 逃跑，于是 Gabriel 将另外三名教会骨干献祭。
 
-Amanda 查出 Gabriel 原名 Peter Duffy，1991 年改了名字，有盗用信用卡的前科。法医鉴定三名死亡天使是割喉自杀，残害尸体发生在死后。记者 Gray Graham 说 Childs 并不是 Singh 谋杀案第一个到场的人，但他在给 Amanda 回消息时心脏病发身亡，留下一堆写满速记的笔记本。Amanda 收到匿名线索，有人当晚在警局看到 Christopher Shenk，也即名为“Raphael”的三名死亡天使之一。Amanda 查出服务生 Singh 其实叫做 Harry Singh，在饭馆做卧底查毒品交易，报纸为了保护家人，谎报他是印度移民 Harpinder Singh。警方有 1990 年 Holly 盗用信用卡的记录，但那是她应该只有四五岁。Alperton Angels 的纪录片制作人 Suzi Korman 和业余侦探 Polneath 先后在家中因火灾去世。
+Amanda 查出 Gabriel 原名 Peter Duffy，1991 年改了名字，有盗用信用卡的前科。法医鉴定三名死亡天使是割喉自杀，残害尸体发生在死后。第一个到达现场的记者 Gray Graham 在给 Amanda 回消息时心脏病发身亡，留下一堆写满速记的笔记本。Amanda 收到匿名线索，有人当晚在警局看到 Christopher Shenk，也即名为“Raphael”的三名死亡天使之一。Amanda 查出服务生 Singh 其实叫做 Harry Singh，在饭馆做卧底查毒品交易，报纸为了保护家人，谎报他是印度移民 Harpinder Singh。警方有 1990 年 Holly 盗用信用卡的记录，但那时她应该只有四五岁。Alperton Angels 的纪录片制作人 Suzi Korman 和业余侦探 Polneath 先后在家中因火灾去世。
 
-Oliver 单独署名发布了一篇关于 Alperton Angels 青少年的文章，Amanda 对此十分气愤。Amanda 从社工那里获悉 Holly 可能叫做 Rowley Wild，曾在某顶级高中上学。纪实犯罪作家 Minnie Davis 查出 Rowley Wild 出生于贵族家庭。Amanda 发现在 Jess Adesina 写的小说《我的天使日记》和 Clive 写的剧本《神圣》中都有一个叫 Ashleigh 的女孩，而且都与 Holly 相关，Clive 说该角色纯属虚构。Amanda 从第一个抵达犯罪现场的新闻记者 Gray Graham 那里得到一张现场的尸体照片，里面的 Jonah 紧紧抱着 Gabriel。Oliver 认为 Holly 的女婴后来被贵族家庭领养，起名为 Louise Mountbatten Windsor。
+Oliver 单独署名发布了一篇关于 Alperton Angels 青少年的文章，Amanda 对此十分气愤。Amanda 从社工那里获悉 Holly 可能叫做 Rowley Wild，曾在某顶级高中上学。纪实犯罪作家 Minnie Davis 查出 Rowley Wild 出生于贵族家庭。Amanda 发现在 Jess Adesina 写的小说《我的天使日记》和 Clive 写的剧本《神圣》中都有一个叫 Ashleigh 的女孩，而且都与 Holly 相关，Clive 说该角色纯属虚构。Amanda 在 Graham 拍下的现场照片中看到 Jonah 紧紧抱着 Gabriel。Oliver 认为 Holly 的女婴后来被贵族家庭领养，起名为 Louise Mountbatten Windsor。
 
 <details><summary>真相</summary>
-婴儿是男孩，不是 Louise Windsor，其父亲为 Don Makepeace，母亲是 Don 的妻子 Julia。Don 曾在 1980 年代末将 Gabriel 送入监狱，邪教团伙将他的婴儿绑架勒索赎金。卧底警察 Singh 跟踪毒枭 Shenk（Raphael），找到由 Holly 和 Jonah 照顾的婴儿，见婴儿疏于照顾，想要带走，被 Jonah 杀害。警方以为 Singh 是被 Shenk 灭口，将 Shenk 在拘留期间杀害。
+婴儿是男孩，不是 Louise Windsor，其父亲为 Don Makepeace，母亲是 Don 的妻子 Julia。Don 曾在 1980 年代末将 Gabriel 送入监狱，邪教团伙将他的婴儿绑架勒索赎金。卧底警察 Singh 跟踪毒枭 Shenk（Raphael），找到由 Holly 和 Jonah 照顾的婴儿，见婴儿状况不良，想要带走，被 Jonah 杀害。警方以为 Singh 是被 Shenk 灭口，将 Shenk 在拘留期间杀害。
 
 Gabriel 在 Alperton 案的 13 年前洗脑过一名女孩，也给她起名 Holly，也即后来的 Ashleigh，照顾婴儿的是二代女孩 Holly。Ashleigh 说服二代 Holly 摆脱 Gabriel 控制，向警察报告了婴儿的信息。Don 求助特种部队的朋友营救婴儿。黑人女警兼退役狙击手 Marie-Claire 同时负责处理 Shenk 的尸体和营救婴儿，她意识到 Holly 手中的婴儿就是 Don 被绑架的婴儿，击毙 Michael、Elemiah 之后把 Shenk（Raphael）的尸体混入其中。Gabriel 被击中头部，没有死亡，因为被 Jonah 抱住而未被分尸，后来得以存活，Don 把他送进监狱。
 
