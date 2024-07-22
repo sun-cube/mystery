@@ -15,7 +15,7 @@ Christopher (Kit) Farrell 开车带着 Helen 和她的闺蜜 Audrey Vane 回到 
 </details>
 
 <details><summary>真相</summary>
-Beaumont 在开罗花高价从 Robertson 手中买下匕首和香水瓶，由 Robertson 负责用 Severn 伯爵的出口许可证走私出埃及，Julia 是他的共犯。Severn 伯爵识破 Robertson 的勾当。Robertson 号称下午 5 点在伦敦和 Kit 通过电话，但大宅的电话记录里并没有从伦敦打来的电话（伏线），说明他撒谎。Beaumont 去 Julia 店里是为了取回走私物，但因他人在店中而未能得逞。Julia 不敢将走私品留在身边，于是偷偷将装着走私品的包裹放回伯爵家的书房，被 Beaumont 拿到。午后伯爵与 Robertson 一起开车从伦敦前往古玩店取回匕首和香水瓶，Robertson 将伯爵扼杀，取下帽子、外套、钥匙，将尸体沉入河中，然后冒充伯爵回到大宅，在书房中留下衣物，冒雨离开。Beaumont 看到的“Severn 伯爵”是 Robertson 假扮。伯爵其实没死，被路过农民救下。
+Beaumont 在开罗花高价从 Robertson 手中买下匕首和香水瓶，由 Robertson 负责用 Severn 伯爵的出口许可证走私出埃及，Julia 是他的共犯。Severn 伯爵识破 Robertson 的勾当。Robertson 号称下午 5 点在伦敦和 Kit 通过电话，但大宅的电话记录里并没有从伦敦打来的电话（伏线），说明他撒谎。Beaumont 去 Julia 店里是为了取回走私物，但因他人在店中而未能得逞。Julia 不敢将装着走私品的包裹留在身边，想偷偷把它放回伯爵家，被 Beaumont 半途截获。Robertson 骗伯爵一起开车从伦敦前往古玩店取回走私物，半途将伯爵扼杀，取下他的帽子、外套、钥匙，将尸体沉入河中，然后冒充伯爵回到大宅，在书房中留下衣物，冒雨离开。Beaumont 看到的“Severn 伯爵”是 Robertson 假扮。伯爵其实没死，被路过农民救下。
 </details>
 
 两起不可能消失。考古学家的女儿在众目睽睽之下进入大宅，几分钟后消失，之后考古学家本人也消失在大宅中，现场均留下青铜神灯。两个解法比较普通，气氛渲染不错。
