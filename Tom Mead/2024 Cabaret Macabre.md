@@ -53,7 +53,7 @@ Ambrose 的汽车座椅被人连接到电池上，他下车时接触到车门触
 <details><summary>连续杀人案真相</summary>
 探险家 Byron Manderby 是 Moncrieff 的病人（伏线：M 开头的病历），他也是“悲剧家”的成员（伏线：Peter 提到探险船名叫 Shamshir，那是一种类似弯刀的波斯剑，也即“悲剧家”的标志）。Moncrieff 给 Manderby 和 Peter Nightingale 都看过病，可是 Moncrieff 在 Jeffrey 遇害之后给 Elspeth 打镇静剂，和在场的 Peter 明显不认识（伏线），说明 Peter 是有人假冒。Caroline 是 Thomas Griffin 的秘密新娘，结婚的目的是为了解救 Victor。Victor 在 Thomas 的帮助下溜出医院假冒 Peter，真正的 Peter 是海边箱子里的尸体。（伏线：假冒的 Peter 说 Ulanga 河流入大西洋，实际上流入印度洋。）Flint 在医院看到的 Victor 是他本人换回疯子的装扮（伏线：Victor 开车回到别墅，所以汽车发动机是热的）。Thomas 迷晕了两名看守，帮助制造了 Victor 越狱的假象，随后被 Caroline 杀死（伏线：Caroline 穿了男人的外套，扣子从左边系）。房中穿着 Peter 衣服的无头尸是 Leonard。结尾 Victor 将 Giles 夫妇带到 Tapper 的摄影棚，意图录下二人杀死 Gloria 的供词。
 
-Victor 化身 Peter 混入 Drury 家，向 Leonard 提示 Sylvester 和 Elspeth 有外遇。Leonard 试图勒索 Sylvester，但 Sylvester 反击说他目击了 Leonard 在房子外面对 Giles 开枪，Leonard 于是与 Ambrose 合谋将其杀害。Caroline 偷出 Tapper 的公司信纸，Victor 假冒 Tapper 给 Ambrose 写信，通知他失去了新角色，意图挑起 Ambrose 与 Leonard 的矛盾。Victor 给 Leopard 写了一封信，指控他杀死 Sylvester，Leonard 以为是 Jeffrey 所写，于是又与 Ambrose 合作杀死 Jeffrey（伏线：Leonard 要求交换房间）。Victor 杀死 Ambrose、Leonard。
+Victor 化身 Peter 混入 Drury 家，向 Leonard 提示 Sylvester 和 Elspeth 有外遇。Leonard 试图勒索 Sylvester，但 Sylvester 反击说他目击了 Leonard 在房子外面对 Giles 开枪，Leonard 于是与 Ambrose 合谋将其杀害。Caroline 偷出 Tapper 的公司信纸，Victor 假冒 Tapper 给 Ambrose 写信，通知他失去了新角色，意图挑起他与 Leonard 的矛盾。Victor 又给 Leopard 写了一封信，指控他杀死 Sylvester，Leonard 以为是 Jeffrey 所写，于是又与 Ambrose 合作杀死 Jeffrey（伏线：Leonard 要求交换房间）。Victor 杀死 Ambrose、Leonard。
 </details>
 
 <details><summary>冰面诡计</summary>
