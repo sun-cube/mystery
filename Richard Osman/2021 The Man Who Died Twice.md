@@ -12,4 +12,8 @@ Douglas 觉得 Lance、Sue、Poppy 都有可能将他的位置泄露给 Martin�
 
 Donna 逮捕 Ryan。Elizabeth 被蒙面带到军情五处，受到 Sue 和 Lance 的审问。Sue 给了 Elizabeth 一个 Douglas 身上的挂坠，上面刻着 Elizabeth 的名字。Siobhan 证实尸体是 Poppy。Elizabeth 请 Chris 过来交接，但 Chris 有事，最后 Elizabeth 找了他的女友 Patrice。Elizabeth 不知道 Patrice 其实是 Donna 的母亲。黑手党成员 Frank Andrade 给了 Martin 一周期限找到钻石。Elizabeth 质问 Martin 杀死 Douglas，但 Martin 否认与第二次袭击相关。Martin 同意合作找凶手，Joyce 卖给他一条手链。Sue 拜访老人院，Elizabeth 觉得 Douglas 有可能伪造死亡后携钻石逃跑，Sue 说 Douglas 的 DNA 测试有可能被篡改。Elizabeth 和 Douglas 在林间散步时经常经过一棵空心的树，Elizabeth 在里面找到一封 Douglas 的信，说钻石存在 Fairhaven 火车站的 531 号储物柜里。如果 Elizabeth 发现储物柜是空的，说明他已经逃到了 Antwerp，他的朋友 Franco 会在那里将钻石出手。如果钻石还在，他就已经死了。
 
+Lance 通知 Sue，Frank Andrade 订了一架航班去 Martin 家附近的机场。Ron 的孙子 Kendrick 来访。Elizabeth、Joyce 发现火车站的储物柜被人损害，里面只有一个空的薯片袋。他们用 Donna 的紫外灯照薯片袋，上面写着 Elizabeth 应该能推测出钻石的下落。Donna、Chris、Patrice 与周四俱乐部的成员见面，大家高兴地得知 Chris 的新任女友是 Donna 的妈妈。Donna 在 Connie 的房子外监视，Connie 警告 Chris 不要再跟踪自己。Ibrahim 和 Kendrick 一起查看火车站的监控录像，看到一个戴摩托车头盔的人打开了储物柜，那人戴着 Joyce 的友谊手链。Ryan 没有出庭，而是逃到了表兄 Steven 的家里。Donna 和 Ibrahim 从失物招领处的监控录像查出戴头盔的人是 Siobhan，大家猜测是 Poppy 告诉了 Siobhan 储物柜的事情，Poppy 杀死 Douglas 后假死，Siobhan 再虚假指认尸体为 Poppy。
+
+Elizabeth 和 Joyce 找到钻石商人 Franco，Franco 承认曾和 Douglas 商谈交易，但之后 Douglas 没找过他。Martin 希望 Elizabeth 在 Andrade 来之前找到钻石，保住他的性命。Elizabeth 意识到项链盒里的镜子代表数字要反过来念，她和 Joyce 在 135 号储物柜找到了 Douglas 的三十来颗钻石和一封信，信里说 Douglas 一定已经死了。为了引出 Poppy，Elizabeth 打算去机场与 Andrade 见面，带他去见 Martin，揭示钻石的下落。Ron 打算借此机会假扮成黑帮分子接近 Connie。Joyce 在 Instagram 上找到一张 Ryan 和苏格兰表兄的合影。
+
 ---
