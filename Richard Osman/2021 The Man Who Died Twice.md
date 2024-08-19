@@ -16,4 +16,6 @@ Lance 通知 Sue，Frank Andrade 订了一架航班去 Martin 家附近的机场
 
 Elizabeth 和 Joyce 找到钻石商人 Franco，Franco 承认曾和 Douglas 商谈交易，但之后 Douglas 没找过他。Martin 希望 Elizabeth 在 Andrade 来之前找到钻石，保住他的性命。Elizabeth 意识到项链盒里的镜子代表数字要反过来念，她和 Joyce 在 135 号储物柜找到了 Douglas 的三十来颗钻石和一封信，信里说 Douglas 一定已经死了。为了引出 Poppy，Elizabeth 打算去机场与 Andrade 见面，带他去见 Martin，揭示钻石的下落。Ron 打算借此机会假扮成黑帮分子接近 Connie。Joyce 在 Instagram 上找到一张 Ryan 和苏格兰表兄的合影。
 
+Bogdan 和假扮为黑帮分子“Vic Vincent”的 Ron 在 Connie 家与她会面，声称一个名叫 Martin Lomax 的人想要购买价值五万镑的可卡因。Bogdan 说服 Connie 同意交易，Ron 推荐 Ryan 当司机。第二天，Joyce 和 Elizabeth 在机场迎接 Andrade，告诉他钻石的下落，并安排他与 Martin 会面。Ryan 开车带 Andrade 去了码头办公室，Connie 给 Andrade 看了两颗钻石，Andrade 问起其他钻石的下落。Elizabeth 早就藏起了其他钻石，混乱中 Andrade 杀死了 Martin，Connie 随后杀死了 Andrade。Bogdan 让 Connie 带着毒品离开，Chris、Donna 等警察将 Ryan 和 Connie 抓获。Poppy 还是没有现身。
+
 ---
