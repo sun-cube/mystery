@@ -2,8 +2,6 @@
 
 <img src=images/2021_cover.jpg width=250/>
 
-Sylvia Finch 被死亡阴影笼罩。
-
 Elizabeth Best、Joyce Meadowcroft、Ibrahim Arif、Ron Ritchie 在周四谋杀俱乐部讨论了一桩悬案。Elizabeth 收到署名 Marcus Carmichael 的一封信，让她抽空拜访，但 Marcus 是 Elizabeth 为军情五处工作时杜撰的一个假身份。警察 Donna De Freitas 和 Chris Hudson 在 Fairhaven 的海滨度假胜地监视“毒品女王”Connie Johnson，但 Connie 主动上前打招呼，并拿出一张警察团队的照片。Elizabeth 拜访信中地址，遇到前夫 Douglas Middlemiss，其所在公寓被用作安全屋。Douglas 透露新服务员老人院的新女服务生 Poppy 也是军情五处的特工，他们最近在调查一个叫做 Martin Lomax 的洗钱犯，Douglas 和一个叫 Lance James 的特工潜入了他的房子。Joyce 给 Elizabeth 和她的朋友 Bogdan Jankowski 制作了手链。Ibrahim 开车去了 Fairhaven，被一个骑自行车的年轻人撞倒并抢走了手机。Ibrahim 记得袭击犯名叫 Ryan，警察认为可能是惯犯 Ryan Baird。Douglas 告诉 Elizabeth 他从 Martin 那里偷了价值两千英镑的钻石，Martin 给军情五处发了一张 Martin 的照片，让他交出钻石，不然就让黑手党发出最后通牒。Douglas 打算在 Antwerp 出售钻石，然后逃往百慕大。Elizabeth 同意保护 Douglas，但要求军情五处提供关于 Ryan Baird 的信息。
 
 Martin 准备自家花园派对时与乌克兰军火商达成交易。Ryan 在警局被释放。有人持枪潜入 Douglas 公寓，发现藏在衣柜里的 Douglas，逼问钻石下落，Poppy 抢先将来人击毙。军情五处特工 Sue Reardon、Lance James 带走 Douglas、Poppy 询问。Poppy 和 Joyce 拥抱时在她的口袋里塞入一张便条，上面写着“给我妈打电话”。军情五处通知 Martin，他手下一个叫 Andrew Hastings 的人在行刺他们的特工时被杀，Martin 说 Andrew 当晚没有为自己工作。Elizabeth 给了 Bogdan 一万英镑让他换成可卡因，Bogdan 准备找 Connie 谈谈。
@@ -18,4 +16,12 @@ Elizabeth 和 Joyce 找到钻石商人 Franco，Franco 承认曾和 Douglas 商�
 
 Bogdan 和假扮为黑帮分子“Vic Vincent”的 Ron 在 Connie 家与她会面，声称一个名叫 Martin Lomax 的人想要购买价值五万镑的可卡因。Bogdan 说服 Connie 同意交易，Ron 推荐 Ryan 当司机。第二天，Joyce 和 Elizabeth 在机场迎接 Andrade，告诉他钻石的下落，并安排他与 Martin 会面。Ryan 开车带 Andrade 去了码头办公室，Connie 给 Andrade 看了两颗钻石，Andrade 问起其他钻石的下落。Elizabeth 早就藏起了其他钻石，混乱中 Andrade 杀死了 Martin，Connie 随后杀死了 Andrade。Bogdan 让 Connie 带着毒品离开，Chris、Donna 等警察将 Ryan 和 Connie 抓获。Poppy 还是没有现身。
 
----
+<details><summary>真相</summary>
+Sue 和 Douglas 是情人，计划一起卖掉钻石。Poppy 把 Douglas 的信交给 Sue，Sue 读了信之后意识到 Douglas 对 Elizabeth 旧情未了，于是将 Douglas 的藏身地点透露给了 Martin。Martin 遣送 Andrew 刺杀 Douglas，被 Poppy 阻止。Sue 将 Douglas 转移到另一处安全屋，招募了 Siobhan 将 Douglas 和 Poppy 杀死。Stephen 被 Bogdan 救下，Bogdan 将 Siobhan 制服。Siobhan 的真实身份是 Sally Montague，是 Douglas 与 Elizabeth 离婚后娶的新妻子。Lance 趁着混乱拿了两颗钻石，卖了三万五千磅。
+</details>
+
+在第一部的老人院基础上加入特工戏，推理情节相对较弱。
+
+:link: 6146
+
+:file_folder: English mystery
