@@ -23,6 +23,7 @@ Daniel 和 Anthony 拜访 Harriet 家，见到她的丈夫 Arthur 和女儿 Oliv
 | Anthony Horowitz | 10.50pm | 12.40am |
 | Ahmet Yurdakul | 11.25 | 12.55 |
 | Maureen Bates | 23.25 | 00.55am |
+
 Keith 洗了一下插在蛋糕里的刀，放在水槽里。12:20am 后台一个灯泡爆炸，Keith 打扫了碎玻璃，附近没有人。垃圾桶里有一包 Ahmet 的香烟，盒子被踩扁，里面有三根折断的香烟。Jordan 曾在排练中误伤 Sky，在其手臂上留下淤青。Jordan 和妻子关系不好。Tirian 从小父母在车祸中丧生，觉得 Jordan 嫉妒自己。Tirian 说他的经纪人不希望他接演《冤罪》，但 Anthony 知道这位经纪人因为被 Tirian 拒绝而十分生气，所以 Tirian 说谎。
 
 Hawthorne 问 Sky 问什么能在午夜零点看到 Harriet 未发表的评论，Sky 承认是 Olivia 把文章发给她，二人以前相识。Sky 的父亲是著名摇滚主唱，她和 Olivia 一样和父母关系冷淡。Ahmet 不记得什么时候把香烟扔进垃圾桶。Ewan 执导的舞台剧中曾发生火灾事故，导致女演员 Sonja Childs 烧伤，Ewan 后来丢下妻子与 Sonja 在一起。Anthony 晚上遛狗时被 Jordan 跟踪，Jordan 警告 Anthony 不要把他的故事写在书中。
