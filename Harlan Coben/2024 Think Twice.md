@@ -31,7 +31,7 @@ Emily 在 Jeremy 的房间床下发现一部手机，给 Jeremy 打电话打不�
 【杀手】你看到 Myron 急匆匆地走上小路，突然躲到树后。你看到 Myron 手机上的图片，十分惊讶。你向 Myron 开枪。
 
 <details><summary>真相（一）</summary>
-连环杀手是 Grace，她是照片中戴棒球帽的人。Grace 开枪击中 Myron，Jeremy 试图阻止，Greg 看到 Grace 向自己儿子 Jeremy 开枪，抢先将 Grace 击毙。Grace 杀死 Jordan 是因为他毁了她儿子 Bo 的生活，陷害 Joey 是为了一石二鸟。
+连环杀手是 Grace，她是照片中戴棒球帽的人。Grace 开枪击中 Myron，Jeremy 试图阻止，Greg 看到 Grace 向自己儿子 Jeremy 开枪，抢先将 Grace 击毙。Grace 杀死 Jordan 是因为他毁了她儿子 Bo 的生活，陷害 Joey 是为了一石二鸟。<b>作者在凶手视角章节采用第二人称叙事，是为了隐藏凶手是女性的事实。</b>
 </details>
 
 <details><summary>真相（二）</summary>
