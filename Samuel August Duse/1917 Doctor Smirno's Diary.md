@@ -27,3 +27,11 @@ Nina 在 3:30 开枪打死 Asta，受惊晕倒。Runestam 第二次返回 Asta �
 <details><summary>真相</summary>
 Smirno 给 Nina 打了匿名电话，等 Fabian 离开后，用 Asta 藏在柴火堆下面的 Runestam 的手枪射杀 Asta，并用时钟表盘制造了不在场证明。Smirno 在 Nina 家检查手枪时将 Runestam 的枪和 Fabian 的枪调换，并把石臼碎片丢入 Fabian 家中的壁炉。Smirno 给 Fabian 的枪上了油，但和 Runestam 的枪油不同，露出破绽。Smirno 撬开了小银盒，但没有找到情书。警察为了夸大事件，说 2:20 和 Smirno 发生争执，真正的时间其实是 3:30。Smirno 验尸时谎称 Asta 死于 3:00 左右，故意推迟了死亡时间。Smirno 是红发绅士，Runestam 死于心力衰竭。Smirno 在 Asta 家门口看到的 Helena 是 Carring 让女侦探假扮，烧掉的信也是 Carring 伪造。Carring 早在信封里写了 Smirno 的名字。
 </details>
+
+发表于 1917 年的瑞典幻之名作，时钟诡计、多重解答均领先时代，核心叙述性诡计更是领先教科书样本将近十年，足以改写历史。
+
+:link: 6989
+
+:file_folder: Swedish mystery
+
+:label: narrative trick
