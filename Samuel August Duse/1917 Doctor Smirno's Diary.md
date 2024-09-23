@@ -28,7 +28,7 @@ Nina 在 3:30 开枪打死 Asta，受惊晕倒。Runestam 第二次返回 Asta �
 Smirno 给 Nina 打了匿名电话，等 Fabian 离开后，用 Asta 藏在柴堆下面的 Runestam 的手枪射杀 Asta，并用时钟表盘制造了不在场证明。Smirno 撬开了小银盒，却没有找到情书。警察为了夸大事件，说 2:20 和 Smirno 发生争执，真正的时间其实是 3:30。Smirno 验尸时谎称 Asta 死于 3:00 左右，故意推迟了死亡时间。Smirno 在 Nina 家检查手枪时将 Runestam 的枪和 Fabian 的枪调换，并把石臼碎片丢入 Fabian 家中的壁炉。Smirno 给 Fabian 的枪上了油，但和 Runestam 的枪油不同，露出破绽。Smirno 是红发绅士，Runestam 死于心力衰竭。Smirno 在 Asta 家门口看到的 Helena 是 Carring 让女侦探假扮，烧掉的信也是 Carring 伪造。Carring 早在信封里写了 Smirno 的名字。
 </details>
 
-发表于 1917 年的瑞典幻之名作，足以改写侦探小说史。时钟诡计、多重解答均领先时代，弹道分析领先 📖 S. S. Van Dine, <i>The Benson Murder Case</i> (1926)，核心叙述性诡计领先某教科书样本近十年，甚至还有微物证据。
+发表于 1917 年的瑞典幻之名作，足以改写世界侦探小说史。时钟诡计、多重解答均领先时代，弹道分析领先 📖 S. S. Van Dine, <i>The Benson Murder Case</i> (1926)，核心叙述性诡计领先某教科书样本近十年，甚至还包括了微物证据。
 
 :link: 6989
 
