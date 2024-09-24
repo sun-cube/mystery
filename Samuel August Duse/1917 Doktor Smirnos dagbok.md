@@ -1,6 +1,8 @@
-# Samuel August Duse, <i>Doctor Smirno's Diary</i> (1917)
+# Samuel August Duse, <i>Doktor Smirnos dagbok</i> (1917)
 
 <img src=images/1917_cover.jpg width=250/>
+
+英译 <i>Doctor Smirno's Diary</i>，私人侦探 Leo Carring 系列。
 
 故事以 Valter Smirno 医生的日记叙述。Smirno 的两任女友 Asta Dur、Nina Felsen 均被工程师 Fabian Bolls 横刀夺爱。Smirno 在 Nina 和 Fabian 的婚礼上结识了女孩 Helena Sundhagen。Smirno 在股票上亏光了所有家底，与 Helena 订婚。
 
