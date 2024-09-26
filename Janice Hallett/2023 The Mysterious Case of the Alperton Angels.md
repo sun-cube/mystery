@@ -1,4 +1,4 @@
-# Janice Hallett, The Mysterious Case of the Alperton Angels (2023)
+# Janice Hallett, <i>The Mysterious Case of the Alperton Angels</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
 
