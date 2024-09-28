@@ -12,7 +12,7 @@ Andy Gilligan 被专业杀手三枪射杀，Pulaski 在现场找到弹壳和一�
 
 Hale 在一栋房子外，房主是吊车工地的工人，他的名字上了 Gilligan 从 Lincoln 家偷来的名单，名单显示他在现场看到了“奇怪”的东西。Hale 在屋内安放了氢氟酸炸弹，设定二十分钟后爆炸。邻居看见房子冒出白雾。警方查出 Hale 三天前从 JFK 机场潜入纽约。Sachs 给工人打电话，让他马上离开家，一家人堪堪逃过一劫。原来工人就是吊车操作员 Helprin，他在吊车倒塌前一刹那滑降逃生，Sachs 之前看到的被吊车砸死的尸体是搭梁工 Leon Roubideaux。Helprin 回忆在工地旁看到一辆可疑的 SUV，车里有一本红橙封面的书，书名的最后一个字母是 K。
 
-梳辫子的女人 Simone 与 Hale 接头。Cooper 检验 Helprin 家前后门的鞋印，找到和之前一样的微物证据，另外多出一样尿素。Cody 和 Lincoln 视频对话。内部事务科的侦探 Lawrence Hylton 证实 Gilligan 上周借出了五个 C4 炸弹。Hale 和 Simone 进入安全屋，在浴室中涂抹药膏改头换面。Pulaski 开车时接了一个电话，在路口撞上了一辆 SUV，导致 SUV 起火。Hale 和 Simone 上床。Pulaski 闯了红灯，又在例行体检中测出芬太尼他推测是在刚击败的黑帮团伙中，试图救助一个小混混时，不小心沾染了芬太尼。Sachs 把 Gilligan 的电脑交给电脑部门的专家 Arnold Levine 解锁。Hale 站在吊车下方观察，时间是上午 7:03。
+梳辫子的女人 Simone 与 Hale 接头。Cooper 检验 Helprin 家前后门的鞋印，找到和之前一样的微物证据，另外多出一样尿素。Cody 和 Lincoln 视频对话。内部事务科的侦探 Lawrence Hylton 证实 Gilligan 上周借出了五个 C4 炸弹。Hale 和 Simone 进入安全屋，在浴室中涂抹药膏改头换面。Pulaski 开车时接了一个电话，在路口撞上了一辆 SUV，导致 SUV 起火。Hale 和 Simone 上床。Pulaski 闯了红灯，又在例行体检中测出芬太尼。他推测是在刚击败的黑帮团伙中，试图救助一个小混混时，不小心沾染了芬太尼。Sachs 把 Gilligan 的电脑交给电脑部门的专家 Arnold Levine 解锁。Hale 站在吊车下方观察，时间来到上午 7:03。
 
 Lincoln 怀疑犯人想要通过恐怖袭击搞垮开发商，再以便宜的价格买下房产，护理 Thom Reston 找到六个经营不善的开发商，Sachs 和 Lyle Spencer 分头排查。Lincoln 反复查看工地的录像，发现有两个人两次回到现场，其中一个流浪汉用一个蓝色杯子乞讨零钱。Lincoln 在录像中发现无人机的踪迹，意识到“钟表匠”计划用无人机对吊车发动酸液攻击，马上让人追踪出现在工地的无人机信号，并由此定位了第二次袭击的目标吊车。Sachs 赶去疏散吊车附近的医院，氢氟酸已经开始腐蚀吊车上的配重块。Sachs 给 Helprin 打电话留言求救。一名孕妇在医院顶楼生产，Sachs 鼓励她生下小孩。Pulaski 接受内部事务科的审问，回忆了撞车经过。Sachs 剪断小孩脐带，吊车不断倾斜，眼看就要砸中医院，这时一家直升机忽然钩住吊车的前部吊臂，控制吊臂慢慢下沉，阻止了一场事故。原来 Helprin 收到了 Sachs 的电话，联系公司总部，紧急出动了直升机救援。
 
@@ -28,7 +28,7 @@ Pulaski 揪出车祸 SUV 的乘客 Natalia Baskov、Aaron Stahl，他们听从 H
 雇佣 Hale 的人是 Marie Leppert，她让 Hale 入侵服务器中心，目的是篡改 Cody 的邮件，以便在竞选中获胜。
 </details>
 
-Lincoln Rhyme 第十六弹，仍旧是熟悉的配方。纽约市连续发生三起吊车倒塌的恐怖袭击，犯人是绰号“钟表匠”的 Lincoln 宿敌，真实意图不明。Amelia Sachs、Ron Pulaski 等人悉数出场，Sachs 掉入酸雾陷阱，Pulaski 被人监禁，Lincoln 被犯人逼迫注射芬太尼，险象环生，尤其第二架吊车砸向医院的一幕最为扣人心弦，。犯人身份不是秘密，但背后的大 boss 的身份和动机十分意外。
+Lincoln Rhyme 第十六弹，仍旧是熟悉的配方。纽约市连续发生三起吊车倒塌的恐怖袭击，犯人是绰号“钟表匠”的 Lincoln 宿敌，真实意图不明。Amelia Sachs、Ron Pulaski 等人悉数出场，Sachs 掉入酸雾陷阱，Pulaski 被人监禁，Lincoln 被犯人逼迫注射芬太尼，险象环生，尤其第二架吊车砸向医院的一幕最为扣人心弦。犯人身份不是秘密，但幕后大 boss 的身份和动机十分意外。
 
 :link: 7020
 
