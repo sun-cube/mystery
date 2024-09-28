@@ -1,6 +1,6 @@
-# Jeffery Deaver, <i>The Watchmaker’s Hand</i> (2024)
+# Jeffery Deaver, <i>The Watchmaker’s Hand</i> (2023)
 
-<img src=images/2024_cover.jpg width=250/>
+<img src=images/2023_cover.jpg width=250/>
 
 Garry Helprin 操作吊车，前吊臂不断下沉，他努力将吊车转至没有建筑物的方向，在最后时刻爬出操作室。
 
