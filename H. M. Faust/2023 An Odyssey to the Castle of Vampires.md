@@ -81,7 +81,7 @@ Victor、Issac、Lucile、Beth、Oberon 五人坐火车来到 Dagon Hill。大�
 
 <img src=images/2023b_silver_line.jpg width=350/>
 <img src=images/2023b_fort_floor1.jpg width=450/>
-<img src=images/2023b_fort_floor2.jpg width=450/>
+<img src=images/2023b_fort_floor2.jpg width=400/>
 
 Victor 等五人进入城堡，在餐厅见到解下 Theresa 伪装的 Alice。
 
