@@ -205,7 +205,7 @@ Faye 阅读 Graham 留下的日记，认为儿子被 Gretel 害死，驱车来�
 
 城堡被怪物围攻，Alice 和主人公用火焰抵御。女主人躺在床上被人斩首。主人公望向天空，星星仿佛在燃烧。小说结束。
 
-设定是可以通过某种神秘仪式达成“不朽”之人，普通人喝了“不朽”的血可以延年益寿，在这样的背景下发生海量不可能犯罪，包括：三起无足迹杀人、六起密室杀人、一起汽车不可能爆炸，几乎每桩不可能犯罪都有多重解答，其中几个利用到设定的解答最为精彩。中间在古堡的封闭空间内发生六人连续杀人，排除法推完犯人又连续逆转，一直到最后都不知道哪个是真解答，哪个是伪解答，颇有 📖 John Dickson Carr, <i>The Burning Court</i> (1937) 的既视感。强烈推荐。
+本作的设定是可以通过某种神秘仪式达成“不朽”之人，普通人喝了“不朽”的血可以延年益寿，在这样的背景下发生海量不可能犯罪，包括：三起无足迹杀人、六起密室杀人、一起汽车不可能爆炸，几乎每桩不可能犯罪都有多重解答，其中几个利用到设定的解答最为精彩。中间在古堡的封闭空间内发生六人连续杀人，排除法推完犯人又连续逆转，一直到最后都不知道哪个是真解答，哪个是伪解答，颇有 📖 John Dickson Carr, <i>The Burning Court</i> (1937) 的既视感，古堡吸血风又神似 📖 二階堂黎人『人狼城の恐怖』(1999)。强烈推荐。
 
 附：小说中出现的不可能犯罪列表：
 
@@ -216,7 +216,7 @@ Faye 阅读 Graham 留下的日记，认为儿子被 Gretel 害死，驱车来�
 * Alistair Owens：密室杀人
 * Robin Palmer：无足迹杀人
 * Oberon Brahms：密室杀人
-* Carmicheal (Carr) Palmer：监视密室
+* Carmicheal (Carr) Palmer：监视密室、消失的凶器
 * Erik Van Helsing：汽车不可能爆炸
 * Faye Van Helsing、Arkady Antonov：密室杀人
 
@@ -224,4 +224,4 @@ Faye 阅读 Graham 留下的日记，认为儿子被 Gretel 害死，驱车来�
 
 :file_folder: English mystery
 
-:label: impossible crime, locked room
+:label: impossible crime, locked room, missing footprint
