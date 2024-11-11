@@ -22,13 +22,7 @@
 
 伦敦塔连续有三只乌鸦 Matilda、Odin、Edgar 死亡，其中 Odin 口中流血，疑似被人毒死。伦敦塔的卫士 Burroughs 在射击场被人开枪打死，胳膊反绑在椅子背后，额头正中央有一个弹孔。Davies 和 Gibson 都在晚 6:30 左右听到枪响，之后没有人离开塔的正门，所以凶手是塔内住户。警员 Carver 和督察 Graves 调查现场，挖出尸体后面木柱里的子弹，口径为 .45，从标准的英军左轮手枪射出。Graves 调查各人的不在场证明。Anna 声称不认识 Burroughs，却叫出了他的全名。Cooper 当晚去找乌鸦管理人 Kittle，发现他不在家。士兵 Stevens 在 6:20-6:40 之间看到一个女人从射击场出来，一只手臂垂下，一只手臂扭在背后，仿佛藏着一把枪。Gurung 号称没有离开医院，但 Graves 在楼梯上发现他的脚印，所以他在说谎。Kittle 在战争中失去一只胳膊，他说他当晚在家，但 Graves 敲门他却没有听到。几周前 Bower 发烧卧床，Gibson 一直悉心照料。Emma 说 Martha 跟 Burroughs 有地下情，Peter 叫她不要散播谣言。Gibson 是个业余历史学家，痴迷于研究塔的历史，认为塔内藏有宝藏。有人在教堂布告栏上留下一张字条，上面写着意义不明的字句：
 
-> Rejoice; right now, time is upon us.
-> Isn’t hearing a red dial?
-> Emma, her reign rose against the pain.
-> Is what to sea?
-> To know? The planets? A foot?
-> Alas! Tea! Come! And leaf by treat or step into our sale.
-> A way with mad and over two bull loins top a wily goat, rants furs on day.
+> Rejoice; right now, time is upon us.<br/>Isn’t hearing a red dial?<br/>Emma, her reign rose against the pain.<br/>Is what to sea?<br/>To know? The planets? A foot?<br/>Alas! Tea! Come! And leaf by treat or step into our sale.<br/>A way with mad and over two bull loins top a wily goat, rants furs on day.
 
 Bess 看到 Gurung 晚上偷偷溜进教堂，过了不久 Joyce 也走进教堂，于是猜测二人有地下情，合谋杀死了 Burroughs。Graves 在 Burroughs 家找到一个账本，上面记录了 Cooper 的借钱记录，Cooper 承认借钱。Pearl 在生日派对后得了胃病，Eve 也跟着不舒服。
 
@@ -41,9 +35,7 @@ Emma 的哥哥和爱人 Thomas Graves 在战争中丧生，所以她记恨父亲
 
 Phillip Davies 家暴，Martha 试图逃跑，Peter 请 Gurung 协助，二人在教堂会面。后来大家觉得风险太大，改由 Gurung 在中间传话。Peter 去医院找 Gibson 谈他正在写的书（伏线），把信交给 Gurung。Martha 以 Eve 胃痛为借口去医院（伏线），其实是去见 Gurung。后来又改由 Gurung 把讯息贴在公告板上，密码是简单的 homophone：
 
-> Re: Joyce, write now. Time is up. Onus is not here in our dilemma.
-> Herein, rose against the pane is what to see to know the plan - it’s afoot.
-> A last command: Leave by traitors’ step. In two hours sail away with Madan – Dover to Boulogne - stop a while. Goa transfer, Sunday.
+> Re: Joyce, write now. Time is up. Onus is not here in our dilemma.<br/>Herein, rose against the pane is what to see to know the plan - it’s afoot.<br/>A last command: Leave by traitors’ step. In two hours sail away with Madan – Dover to Boulogne - stop a while. Goa transfer, Sunday.
 </details>
 
 <details><summary>诡计</summary>
