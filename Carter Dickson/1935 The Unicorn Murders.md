@@ -43,4 +43,4 @@ Flamande 潜入二楼，从 Ken 房间的棕色行李包中取出“独角兽”
 
 :file_folder: English mystery
 
-:label: impossible crime, multiple solutions
+:label: impossible crime, locked room, multiple solutions
