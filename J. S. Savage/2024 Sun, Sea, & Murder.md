@@ -22,7 +22,7 @@
 <details><summary>真相</summary>
 Russell 头上有三个伤口，其中一个是被 Terry 用石头砸伤，两个是被哑铃两端的重物砸中。凶手是 Marjorie，她把哑铃放在工字梁上，把一支笔放在哑铃后面，并用钓鱼线在笔上绑结，另一头通过窗户拉到外面的灌木丛中。她用另一支笔撑住打开的窗户，并在窗台上安装了一个摄像头，对准哑铃掉落的地方。她把一个一次性手机放在电子鱼竿的锁紧装置上，通过摄像头观察室内，看到 Russell 走到哑铃下方，打电话使一次性手机震动，操纵电子鱼竿收紧鱼线，拉动哑铃坠落，砸死 Russell。笔和摄像头被鱼线拉到窗外，事后回收，窗户失去支撑后自动合上，完成密室。
 
-Luke 拿走了保险箱中的两万欧元，是因为他受到了 Dylan 的勒索。Jasmine 偷走了 Dylan 的手机，因为里面有 Dylan 用来敲诈她的不雅视频。Jasmine 把 Dylan 的手机交给 Elle，是因为在里面也发现了 Elle 的不雅照。Marjorie 杀死 Dylan 是为了替女儿复仇，杀死 Russell 是因为他会很容易知道自己杀死了 Dylan（伏线：照片中 Marjorie 的盘子里盛了她不喜欢的贝壳类虾）。
+Luke 拿走了保险箱中的两万欧元，是因为他受到了 Dylan 的勒索。Jasmine 偷走了 Dylan 的手机，因为里面有 Dylan 用来敲诈她的不雅视频，后来又把手机交还 Elle，是因为在里面也发现了 Elle 的不雅照。Marjorie 杀死 Dylan 是为了替女儿复仇，杀死 Russell 是因为他会很容易知道自己杀死了 Dylan（伏线：照片中 Marjorie 的盘子里盛了她不喜欢的贝壳类虾）。
 </details>
 
 <details><summary>动机误导</summary>
