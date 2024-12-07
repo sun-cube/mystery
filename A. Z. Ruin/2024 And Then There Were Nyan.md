@@ -59,4 +59,4 @@ Copycat 被九尾猫关进监狱，他盗用九尾猫的长鞭能力，把自己
 
 :file_folder: English mystery
 
-:label: impossible crime, locked room
+:label: impossible crime, locked room, dying message
