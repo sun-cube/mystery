@@ -22,4 +22,4 @@ Hélène 的母亲曾和 Gaudret 有过一段情史，生下了 Danilof。穿橡
 
 :file_folder: French mystery
 
-:label: impossible crime, locked room
+:label: impossible crime, locked room, dying message
