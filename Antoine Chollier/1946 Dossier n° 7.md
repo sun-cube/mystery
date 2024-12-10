@@ -13,7 +13,7 @@ Phil 在滑雪时神秘失踪，雪山底部发现了他沾血的雪帽。法官
 <details><summary>真相</summary>
 凶手是 Gaudret，动机是暗恋 Hélène。Gaudret 在书房的柜子里安装了一个“双重触发”装置，一旦钟表时间到达 11:30 并且小柜门打开，就会由猫肠射出匕首。他把书房门和柜门用线连接，Hélène 关上房门时小柜门被拉开，装置触发，射出匕首，将 Danilof 刺死。Gaudret 赶到现场检查尸体，伺机回收装置（伏线：他的拐杖有象牙尖，可以用来去除胶布）。
 
-Hélène 的母亲曾和 Gaudret 有过一段情史，生下了 Danilof。穿橡胶鞋的人是 Danilof，他目睹了 Gaudret 的罪行。Gaudret 为了避免被 Danilof 揭发，让他的司机 Fernand 打死 Danilof，但 Fernand 不慎误伤 Phil。Gaudret 不知道 Danilof 是自己的儿子，跳入花园给他注射了一针毒药。Phil 调查 Danilof 和 Hélène 的照片，不慎把打火机掉在地毯上。Danilof 的临终留言是“Damoclès”（达摩克利斯之剑，传说中用马鬃悬挂的利剑），而不是“Dame Aulaiss”。
+Hélène 的母亲曾和 Gaudret 有过一段情史，生下了 Danilof。穿橡胶鞋的人是 Danilof，他目睹了 Gaudret 的罪行。Phil 调查 Danilof 和 Hélène 的照片，不慎把打火机掉在地毯上。Gaudret 为了避免被 Danilof 揭发，让他的司机 Fernand 打死 Danilof，但 Fernand 不慎误伤 Phil。Gaudret 不知道 Danilof 是自己的儿子，跳入花园给他注射了一针毒药。Danilof 的临终留言是“Damoclès”（达摩克利斯之剑，传说中用马鬃悬挂的利剑），而不是“Dame Aulaiss”。
 </details>
 
 本作包含一起在书房中的密室杀人，解法较为一般。
