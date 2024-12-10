@@ -17,3 +17,9 @@ Hélène 的母亲曾和 Gaudret 有过一段情史，生下了 Danilof。穿橡
 </details>
 
 本作包含一起在书房中的密室杀人，解法较为一般。
+
+:link: 7213
+
+:file_folder: French mystery
+
+:label: impossible crime, locked room
