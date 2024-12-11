@@ -17,11 +17,11 @@ Chaïma 收到 Ruby 的短信说会迟到，让她一个人享受派对。凌晨
 Évariste 看到大屠杀场面，还闻到了番石榴甜香。警察在纪念 1967 年暴力镇压受害者的壁画前发现流浪汉 Victorius Quatre-Bras 的尸体，身旁放了一张示威者 Séverin Boniface 的卡片，地下放了一瓶混合番石榴的兰姆酒，是酒馆老板 Mère Confiance 早上随机选取交给他的。Évariste 再次收到信，Valéric 亲自拆开信，在里面发现一张 Victorius 的照片。Évariste 看到甘蔗地、红色屋顶、白色阳台、工厂烟囱等景象，接着预测 Valéric 将是下一名死者。
 
 <details><summary>真相</summary>
-Victorius 曾是甘蔗园主，一次焚烧甘蔗时发生事故，导致庄园被大火烧毁。Marcel 和 Marité Pigeon 夫妇带着八岁的女儿 Origane 驾车经过，因浓烟翻车，车门卡住，最终只有 Origane 从门缝逃生。Origane 尝试向路人求助，但 Jacob Santamaria、Janet Jimenez、Audrey Colombel、Ludovic Rossi、Chaïma Sadji 和 Chaïma 的父亲均未伸出援手，导致 Pigeon 夫妇双双遇难，Origane 因此决意复仇。Évariste 是 Origane 的祖父，每次收到 Origane 寄来的案发现场照片，都会用手中暗藏的上一张照片替换，并通过照片提前掌握案情细节，得以在尸体发现前“预测”事件。Célanie Le Cram 的名字“Le Cram”是“Marcel”的字母重组，她是凶手 Origane。
+Victorius 曾是甘蔗园主，一次焚烧甘蔗时发生事故，导致庄园被大火烧毁。Marcel 和 Marité Pigeon 夫妇带着八岁的女儿 Origane 驾车经过，因浓烟翻车，车门卡住，最终只有 Origane 从门缝逃生。Origane 尝试向路人求助，但 Jacob Santamaria、Janet Jimenez、Audrey Colombel、Ludovic Rossi、Chaïma Sadji 和 Chaïma 的父亲均未伸出援手，导致 Pigeon 夫妇双双遇难，Origane 因此决意复仇。Évariste 是 Origane 的祖父，每次收到 Origane 寄来的杀人现场照片，都会用手中暗藏的上一张照片替换，并通过照片提前掌握案情细节，得以在尸体发现前“预测”事件。Célanie Le Cram 的名字“Le Cram”是“Marcel”的字母重组，她是凶手 Origane。
 </details>
 
 <details><summary>逆转</summary>
-Marcel Pigeon 是 Célanie Le Cram 的叔叔，她不是 Origane，而是 Origane 的表姐。警察 Jolène = Origane，她责怪 Valéric 身为警察却因醉酒吸毒而未能救下她的父母，试图杀死 Valéric 完成复仇，结果被赶来的警察射杀。
+Marcel Pigeon 是 Célanie Le Cram 的叔叔，Célanie 不是 Origane，而是 Origane 的表姐。警察 Jolène 才是真正的 Origane，她责怪 Valéric 身为警察，却因醉酒吸毒而未能救下她的父母，试图杀死 Valéric 完成复仇，结果被赶来的警察射杀。
 </details>
 
 本作的核心谜题是一桩逆密室：一名自称拥有“恶魔之眼”的流浪汉，在警方严密看守的监狱中，能够提前看到连环杀手的作案现场细节，甚至能准确预测受害者随机购买的物品。谜底涉及某种著名的魔术手法，而动机则延续了作者一贯的套路。
