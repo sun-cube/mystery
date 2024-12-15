@@ -21,7 +21,7 @@ Victorius 曾是甘蔗园主，一次焚烧甘蔗时发生事故，导致庄园�
 </details>
 
 <details><summary>逆转</summary>
-Marcel Pigeon 是 Célanie Le Cram 的叔叔，Célanie 不是 Origane，而是 Origane 的表姐。警察 Jolène 才是真正的 Origane，她责怪 Valéric 身为警察，却因醉酒吸毒而未能救下她的父母，试图杀死 Valéric 完成复仇，结果被赶来的警察射杀。
+Marcel Pigeon 是 Célanie Le Cram 的叔叔，Célanie 不是 Origane，而是 Origane 的表姐。警察 Jolène 才是真正的 Origane，她责怪 Valéric 身为警察，却因醉酒吸毒而未能救下她的父母。她试图杀死 Valéric 完成复仇，结果被赶来的警察射杀。
 </details>
 
 本作的核心谜题是一桩逆密室：一名自称拥有“恶魔之眼”的流浪汉，在警方严密看守的监狱中，能够提前看到连环杀手的作案现场细节，甚至能准确预测受害者随机购买的物品。谜底涉及某种著名的魔术手法，而动机则延续了作者一贯的套路。
