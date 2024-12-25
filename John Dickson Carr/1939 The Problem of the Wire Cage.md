@@ -2,7 +2,19 @@
 
 <img src=images/1939_cover.jpg width=250/>
 
-闷热的午后，Hugh Rowland 在客厅质问 Brenda White Brenda 与 Frank Dorrance 的婚事，质疑她对 Frank 的感情。Brenda 的父亲 Bob White 与 Frank 的养父 Jerry Noakes 是多年旧友，Brenda 只要和 Frank 结婚就能继承 Noakes 的五万英镑，她坦诚接受 Frank 是为了钱。Hugh 向 Brenda 求婚被拒，两人意外接吻，被窗口的 Frank 目睹。Hugh、Brenda、Frank、Kitty Banckroft 四人一起打网球混双。Nicholas Young 医生在一场车祸中折断了右手臂、右锁骨、左腿，浑身打着夹板和绷带。Hadley 警长与 Nick 在书房聊天，提及 Frank Dorrance 交友不善，曾与一位叫 Madge Sturgess 的女孩有感情纠葛，女孩因 Frank 不愿帮她解决偷穿衣服赔偿之事自杀未遂，其男友杂技演员 Arthur Chandler 知晓后情绪激动，可能对 Frank 不利。Nick 表示会补偿女孩，然而不久女仆 Maria 跑来告知，Frank 躺在网球场中央，疑似被自己的围巾勒死。
+主要出场人物：
+* Hugh Rowland：年轻律师，爱上了 Brenda。
+* Brenda White：年轻女子，与 Frank 订婚。
+* Frank Dorrance：自信且傲慢的年轻人，与 Brenda 订婚，被 Nick 视为掌上明珠。
+* Nicholas "Nick" Young：上了年纪的医生，Frank 的监护人。
+* Kitty Bancroft：迷人的女子，Frank 和 Brenda 的朋友，曾结过婚。
+* Maria Marten：家里的老仆人。
+* Madge Sturgess：漂亮女孩，曾因 Frank 自杀未遂。
+* Arthur Chandler：Madge 的男友，空中杂技演员。
+* Hadley 警长：刑事调查部的警长。
+* Gideon Fell 博士：侦探。
+
+闷热的午后，Hugh Rowland 在客厅质问 Brenda White 与 Frank Dorrance 的婚事，质疑她对 Frank 的感情。Brenda 坦诚接受 Frank 是为了钱，她的父亲 Bob White 与 Frank 的养父 Jerry Noakes 是多年旧友，Noakes 死前留下遗嘱，只要 Brenda 和 Frank 结婚，就能继承他的五万英镑。Hugh 向 Brenda 求婚被拒，两人意外接吻，被窗口的 Frank 目睹。Hugh、Brenda、Frank、Kitty 四人一起打网球混双。Nicholas Young 医生在一场车祸中折断了右手臂、右锁骨、左腿，浑身打着夹板和绷带。Hadley 警长与 Nick 在书房聊天，提及 Frank Dorrance 交友不善，曾与一位叫 Madge Sturgess 的女孩有感情纠葛，女孩因 Frank 不愿帮她解决偷穿衣服赔偿之事自杀未遂，其男友杂技演员 Arthur Chandler 知晓后情绪激动，可能对 Frank 不利。Nick 表示会补偿女孩，然而不久女仆 Maria 跑来告知，Frank 躺在网球场中央，疑似被自己的围巾勒死。
 
 故事回溯：雷雨来临之际，四人躲进一个小凉亭避雨，发现里面有一份报纸，上面报道了 Madge Sturgess 的案件，话题于是转到完美杀人，Kitty 提出可以用汽车尾气中的一氧化碳。Frank 问起 Kitty 前夫的死因，Kitty 开玩笑说自己曾被指控杀了丈夫，但她的丈夫其实是死于流感。Kitty 询问 Brenda 如果要谋杀会怎么做，Brenda 声称已有完美计划。雨停后大家分手，Frank 去 Kitty 家借一本书。Brenda 告诉 Hugh 自己决定取消婚事，让 Hugh 先行离开，晚上 9:30 再回来找自己。Hugh 开车开了一段时间，7:25 发现车胎被钉子扎坏，只好回 Young 医生的车库借打气筒，经过网球场的时候看到树篱小门敞开，跑过去看到 Brenda 转身打算关上球场的铁门，而 Frank 被围巾勒死在球场。球场表面的泥地上留下一串 Frank 的脚印，通向尸体倒下的地方，周围还有两串 Brenda 来回的脚印，除此之外没有其他脚印。
 
@@ -31,7 +43,7 @@ Fell 博士叫手下装满了一桶水倒在球场上，还试图拿着溜冰鞋
 Chandler 表演空中飞人时突发事故，坠落身亡，尸检表明他被人从观众席后方用小口径手枪打了三枪。因为西部牛仔一直在甩鞭子，所以枪声没有引发怀疑。剧院门口的两名证人证实没有陌生人离开剧院。警察在 Chandler 的卧室抽屉里找到一个“小道具”，并在上面找到了一组清晰的指纹。Madge 说 Chandler 从 Kitty 和 Hugh 的谈话中得知瓷器的存在，顺手拿走了瓷器。
 
 <details><summary>诡计</summary>
-凶手是 Nicholas Young，案发经过如下：
+凶手是 Nicholas Young，他财务破产，希望通过杀死 Frank 和控制 Brenda，达到侵吞遗产的目的。案发经过如下：
 
 1. Nick 骗 Frank 在 7 点过后来到球场，用晾衣绳帮自己搭建网球机器人的运行轨道（伏线：Hadley 傍晚给 Young 打电话，等了三分钟都没人接）。
 2. 球场的铁丝网用相邻 10 英尺的铁柱支撑。Frank 遵守 Nick 的指令，把手里的三样东西放到东侧的支撑柱旁边，把晾衣绳的一端绑在柱子上脖子的高度，然后捡起绳子扔向球场中央（伏线：溜冰鞋实验表明晾衣绳掉在地上不会留下痕迹）。
