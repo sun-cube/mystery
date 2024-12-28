@@ -44,7 +44,7 @@ Montalabert 伯爵连续收到三封威胁信，邀请退休的传奇警长 Loui
 
 【忏悔录】扮演警长 Forestier 的 Fabrice Arthaud 在现实中是一位推理小说作家，在大学任教期间完成了第一部小说《忏悔录》。他偶然从学生 Fabien Leurtillois 手中读到了一部小说《天空的承诺》，惊叹于其中的才华横溢，于是谋杀了 Leurtillois，将现场伪装成割腕自杀，以自己的名义出版了这部作品，取得了巨大的成功。
 
-警长 Marianne 拜访了编辑 Auriane de Crécy，了解到文学评论家 Jacques Dailland 曾读过 Arthaud 的处女作《忏悔录》，对此书评价极差。Marianne 带着一份《忏悔录》的手稿拜访 Arthaud，希望调查《天空的承诺》的真实来源，然而 Arthaud 一眼就看出了手稿是赝品，令 Marianne 的调查毫无进展。Arthaud 根据自己在 Ænigma 的经历创作了纪实犯罪小说《三榆树宅邸谜案》，一经出版便引发轰动。一名酷似 Leurtillois 的文学学生 Alexandre Marchand 拜访了 Arthaud 的度假屋。二人相谈甚欢，Arthaud 邀请 Marchand 留宿家中。
+警长 Marianne 拜访了编辑 Auriane de Crécy，了解到文学评论家 Jacques Dailland 曾读过 Arthaud 的处女作《忏悔录》，对此书评价极差。Marianne 带着一份《忏悔录》的手稿拜访 Arthaud，希望调查《天空的承诺》的真实来源，然而 Arthaud 一眼就看出了手稿是赝品，令 Marianne 无功而返。Arthaud 根据自己在 Ænigma 的经历创作了纪实犯罪小说《三榆树宅邸谜案》，一经出版便引发轰动。一名酷似 Leurtillois 的文学学生 Alexandre Marchand 拜访了 Arthaud 的度假屋。二人相谈甚欢，Arthaud 邀请 Marchand 留宿家中。
 
 <details><summary>真相</summary>
 Marianne 为了揭露 Arthaud 杀死 Leurtillois 的罪行，故意让 Marchand 装扮成 Leurtillois 的样子接近他，诱骗他酒后吐露真言。
