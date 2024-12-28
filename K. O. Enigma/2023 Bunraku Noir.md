@@ -32,6 +32,6 @@ Irene = Rako，她把 Anna 的手机 SIM 卡换成 Rako 的卡，所以上面留
 
 :link: 7275
 
-:file_folder: Japanese mystery
+:file_folder: English mystery
 
 :label: impossible crime, locked room, multiple solutions
