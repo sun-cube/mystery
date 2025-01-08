@@ -2,7 +2,7 @@
 
 <img src=images/2022_cover.jpg width=250/>
 
-<img src=images/2022_map.png width=500/>
+<img src=images/2022_map.jpg width=500/>
 
 故事发生在 Yorkshire。摄影师 Nell Fagan 差点被山上滚落的巨石击中丧命。诊所的 Wilfred Sambrook 教授有两个孩子 Denzil 和 Daphne，均已成年。医生 Carrodus 三十出头，单身。黑石塔塔主 Harold Lejeune 最近把门房卖给 Sambrook 父子，他的意大利妻子 Chiara 死于癌症。教区牧师 Quintus Royle 的妻子 Judith 收到一封匿名信，说 Nell 是假冒的摄影师。Nell 的父亲 Randolph Fagan 是一名作家。
 

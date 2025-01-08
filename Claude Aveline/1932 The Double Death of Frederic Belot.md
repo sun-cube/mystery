@@ -4,21 +4,21 @@
 
 故事主人公 Simon Rivière 是一名法国警察，其干爹 Frederic Belot 是警察局的高官，与 Simon 死去的父亲、警察局长 M. Picard 为过命之交。Belot 47岁，为人豪爽，不拘小节，长期信奉独身主义，但最近与一个名为 Deguise 的年轻寡妇交往。Picard 追捕大盗 Merkowicz，下午 5 点给 Belot 打电话让他到警局，但 Belot 直到晚上 8 点仍未现身。Simon 去 Belot 家公寓查看，管理员 Morin 太太给开了门。Simon 上了二楼，只见 Belot 头部中枪奄奄一息，身旁掉落一把手枪，Simon 慌忙叫了救护车。Simon 拉开通往隔壁房间的帘子，只见地下还倒着一具 Belot 的尸体，身旁也掉落一把手枪！
 
-<img src=images/1932_murder_scene.png width=400/>
+<img src=images/1932_murder_scene.jpg width=400/>
 
 法医 Bonnetete 检查，还活着的 Belot 头部和胸口各中一枪，奇迹般地没有马上死亡，中枪时间在晚 5-6 点之间。Dampierre 医生说死亡的 Belot 是假冒，尸体戴了假胡须。冒牌 Belot 身上也有一个警官证，上面的指纹与本人相符，而警察局的档案库里找不到 Belot 的档案。掉在真 Belot 身边的手枪上有一个十字印记，Simon 的同事 Bonardel 证实这是 Belot 的手枪上特有的记号。现场的两把手枪均为 6.35 口径，地上找到一个刻有“F.B.”字样的弹匣，里面还剩一半子弹。
 
 Morin 太太说 Belot 前两天刚丢了公寓钥匙，正准备换锁。当日下午 2 点 Belot 回家，5 点 Deguise 来访，之后来了一个陌生男人。下午 3:30 Morin 太太把房间所有百叶窗关闭，确认没有外人，之后一直监视公寓入口，车库门有铁栏杆，不清楚冒牌 Belot 如何进入公寓。Simon 家访 Deguise 女士，但 Delluc 医生说 Deguise 刚听说 Belot 中枪的事情，身心状态极差，不便见客。Simon 好奇消息为何走漏得这么快，原来昨天夜里 11 点有一个出租司机给 Deguise 送了一封警局的信，里面说了 Belot 的事情。Simon 回到警局查问，秘书 Truflot 证实信纸确实是警局的信纸，但从来没有人写过这样一封信。
 
-<img src=images/1932_street_view.png width=400/>
+<img src=images/1932_street_view.jpg width=400/>
 
 Morin 太太说 Belot 两年前把二楼重新装修租给一个房客，但自己从未见过这名房客。Simon 发现二楼有一个衣柜，里面的衣服和一楼换衣间的衣服一样。Simon 破解密室。
 
 <details><summary>密室真相</summary>
 装修工人将一扇门改装成了滑动门。Simon 通过滑动门进入另一侧的公寓，在里面发现一个钱包，身份证上的名字为 Jean Martin。真假 Belot 分别住在滑动门的两侧。
 
-<img src=images/1932_upper_half.png width=400/>
-<img src=images/1932_lower_half.png width=400/>
+<img src=images/1932_upper_half.jpg width=400/>
+<img src=images/1932_lower_half.jpg width=400/>
 </details>
 
 Simon 家访 Belot 的母亲，给她看了冒牌 Belot 的照片，问她是否认识。Belot 的母亲却说照片里的人是真 Belot！Simon 感到无比混乱。与此同时，身份管理部门的警察 Cavagioli 也有了新发现。警察局长给 Simon 和 Cavagioli 讲了一个故事。
