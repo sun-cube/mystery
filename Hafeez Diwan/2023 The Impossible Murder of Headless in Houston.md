@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6967
+---
+
 # Hafeez Diwan, <i>The Impossible Murder of Headless in Houston</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -17,9 +25,3 @@ Marion Best 的妻子 Ingrid 在后门口发现了一个冰桶，里面装着 Zi
 </details>
 
 推理小说家在书房内惨遭斩首，头颅神秘失踪，凶手从密室蒸发。之后又发生三起命案，包括一起肢解无头尸。核心诡计是一种古老手法的变形，略带犯规嫌疑，整体完成度一般。主人公多次收到凶手信件的情节显得牵强，在家门口被袭击的红鲱鱼也显得多余。
-
-:link: 6967
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

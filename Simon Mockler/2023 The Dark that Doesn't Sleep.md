@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 7074
+---
+
 # Simon Mockler, <i>The Dark that Doesn't Sleep</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -9,7 +14,3 @@ Stiglitz 杀死 Henry，把 Connor 关在地下，烧伤自己的脸冒充 Conno
 </details>
 
 主打诡计是老梗，宣传语中 "a mind-blowing concept" 少见多怪。
-
-:link: 7074
-
-:file_folder: English mystery

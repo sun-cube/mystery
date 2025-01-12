@@ -1,3 +1,8 @@
+---
+category: French mystery
+wordpress_id: 6292
+---
+
 # Michel Bussi, <i>Un avion sans elle</i> (2012)
 
 <img src=images/2012_cover.jpg width=250/>
@@ -57,7 +62,3 @@ Grand-Duc 为 Nicole 也做了 DNA 检测，所以 Nicole 也在三年前知道�
 </details>
 
 两家人争夺空难中的幸存死婴，私家侦探受雇调查十八年，在即将放弃之时从十八年前的报纸中发现推倒全盘的线索。故事以男主人公和侦探笔记的双时间线推进，谜题不断累积，悬疑张力十足，在结尾处揭露意外真相。有关真相的设计相当巧妙，但侦探和女主的人设暴露出一定不足。
-
-:link: 6292
-
-:file_folder: French mystery

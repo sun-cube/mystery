@@ -1,3 +1,8 @@
+---
+category: French mystery
+wordpress_id: 6113
+---
+
 # Michel Bussi, <i>Sang famille</i> (2009)
 
 <img src=images/2009_cover.jpg width=250/>
@@ -27,7 +32,3 @@ Colin 以为是父亲的人其实是 Maxime，伸手摸 Jessica 屁股的也是 
 </details>
 
 少年冒险题材的悬疑小说。篡改记忆的诡计不错，连续几次逆转扣人心弦，还是靠双线切换、悬念停顿的技法吸引读者，但 Simon 线相对较弱。
-
-:link: 6113
-
-:file_folder: French mystery

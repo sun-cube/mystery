@@ -1,3 +1,11 @@
+---
+category: French mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6266
+---
+
 # Paul Halter, <i>Le Spectre d'Eurydice</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -45,9 +53,3 @@ Myria 把灯笼系在一根尼龙线上，逐渐拉近灯笼，缓缓摔倒，�
 </details>
 
 三起不可能犯罪，分别为：密室杀人、影子跳起来打人、灯笼飘过来杀人。诡计质量还算不错，男主角连续追踪六个城市的冒险戏码也将悬念拉满，结尾还加入死人复活的意外桥段。最大的问题是诡计和布局脱节，尤其是布局部分天谜地解，但话说回来，这也是法国作家比较喜欢的浪漫处理。感动，在 2023 年还能看到 Paul Halter 的新作。另：男主角是真的有勇有谋，但人品也是真渣。
-
-:link: 6266
-
-:file_folder: French mystery
-
-:label: impossible crime, locked room

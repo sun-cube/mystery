@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6710
+---
+
 # John Dickson Carr, <i>Till Death Do Us Part</i> (1944)
 
 <img src=images/1944_cover.jpg width=250/>
@@ -29,9 +37,3 @@ Cynthia 晚上在屋外偷听到了 Lesley 投毒的故事，Lesley 并没有用
 </details>
 
 著名犯罪学家 Harvey 爵士来到小镇给居民算命，认出女生 Lesley 是三起密室毒杀案的主凶。Harvey 在帐篷中枪大难不死，但不久在小屋中被人注射毒药身亡，现场果真形成密室。Fell 博士到场后故事再度发生逆转。情节引人入胜，密室诡计强悍，开灯诡计被后人多次沿用。结尾邮局路人死得不要太冤。
-
-:link: 6710
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

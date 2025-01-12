@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 7175
+---
+
 # J. S. Savage, <i>Sun, Sea, & Murder</i> (2024)
 
 <img src=images/2024b_cover.jpg width=250/>
@@ -30,9 +38,3 @@ Luke 拿走了保险箱中的两万欧元，是因为他受到了 Dylan 的勒�
 </details>
 
 主打一起酒店健身房的密室杀人案，之后又发生第二起在肾上腺素笔中下毒的案件。密室诡计有些过于复杂，结尾有一个很厉害的动机误导。
-
-:link: 7175
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

@@ -1,3 +1,10 @@
+---
+category: French mystery
+tags:
+  - narrative_trick
+wordpress_id: 6310
+---
+
 # Michel Bussi, <i>Au soleil redouté</i> (2020)
 
 <img src=images/2020_cover.jpg width=250/>
@@ -160,9 +167,3 @@
 </details>
 
 五名读者应邀来到小岛参加某畅销书作家组织的写作训练营，随后发生连续杀人案。故事以手记、小女孩日记、警察三视角第一人称叙述，结尾揭露大叙述性诡计。叙述性诡计构思尚可，但细心的读者有可能识破。本书强势击败鸡丁老师的《凛冬之棺》获得今年的日本海外本格榜冠军，略显牵强。
-
-:link: 6310
-
-:file_folder: French mystery
-
-:label: narrative trick

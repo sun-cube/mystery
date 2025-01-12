@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6391
+---
+
 # Holly Jackson, <i>Good Girl, Bad Blood</i> (2020)
 
 <img src=images/2020_cover.jpg width=250/>
@@ -37,7 +42,3 @@ Pip 以 Layla 的身份约 Stanley 在废弃农场见面，与此同时 Conner �
 </details>
 
 小镇继续发生失踪案，但这次失踪的是成年男子。核心谜题是谁在网上假扮身份教唆犯罪（catfish），因此有许多通过网络的调查。主人公 Pip 继首作一战成名后拉了许多粉丝，忽然间可以调动大量人力资源，令人艳羡。结尾突然揭露跨作伏线，真凶身份相当意外。整体比第一部更加精彩。
-
-:link: 6391
-
-:file_folder: English mystery

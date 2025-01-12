@@ -1,3 +1,11 @@
+---
+category: French mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 7171
+---
+
 # Pierre Véry, <i>Les Veillées de la tour pointue</i> (1937)
 
 <img src=images/1937_cover.jpg width=250/>
@@ -93,9 +101,3 @@ Hernando 先偷走了珍珠，藏在花瓶中，William 再次盗走珍珠。Mme
 结束语。
 
 本书收录了 11 个轻松的短篇故事，由 Tom Mead 翻译。推理成分不多，大多为“骗中骗”风格，亮点在于点子的意外性。第 9 篇《绿色房间之谜》致敬《黄色房间之谜》，主要谜题是《黄色房间之谜》的逆命题：小偷为什么没有进入非密室的“绿色房间”盗走珠宝？
-
-:link: 7171
-
-:file_folder: French mystery
-
-:label: impossible crime, locked room

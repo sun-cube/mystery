@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 5798
+---
+
 # D. L. Marshall, <i>Anthrax Island</i> (2021)
 
 <img src=images/2021_cover.jpg width=250/>
@@ -17,9 +25,3 @@ Gambetta 杀死 Ingrid 和 Demeter，穿着工作服伪装成 Demeter 进入无�
 </details>
 
 密室的布局还算过硬，看到地板下方出现秘道时心中一凉，还好最后挺住了。侦探冷硬风，结尾动作戏。
-
-:link: 5798
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

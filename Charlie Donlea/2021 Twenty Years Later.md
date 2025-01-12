@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6685
+---
+
 # Charlie Donlea, <i>Twenty Years Later</i> (2021)
 
 <img src=images/2021_cover.jpg width=250/>
@@ -31,7 +36,3 @@ Victoria 在给 Cameron 口交时将其勒死，把提前准备的自己的血�
 </details>
 
 纽约郊区豪宅中悬挂一具裸体男尸，疑似在性爱游戏时被女伴勒死，嫌疑人在 911 事件中丧生。二十年后，电视女主播重启案件调查，当年的 FBI 警探也重出江湖，二人在查案之余陷入情网。就在案件水落石出之时，结尾来了一个暗黑反转。
-
-:link: 6685
-
-:file_folder: English mystery

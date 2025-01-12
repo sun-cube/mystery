@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 7209
+---
+
 # Benjamin Stevenson, <i>Everyone in My Family Has Killed Someone</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
@@ -23,7 +28,3 @@ Marcelo 将卡车推进湖里，是为了保护 Michael，防止尸体被发现�
 </details>
 
 开篇即致敬 Robert Knox 的“侦探小说十诫”，把每个诫条无缝融入故事情节之中。在家族聚会中发生杀人案，侦探本身也是故事的叙述者，让情节更加引人入胜。行文风趣幽默，误导充足，推理部分还可以更加扎实。
-
-:link: 7209
-
-:file_folder: English mystery

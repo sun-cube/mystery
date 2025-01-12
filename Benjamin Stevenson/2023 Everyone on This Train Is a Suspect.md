@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6667
+---
+
 # Benjamin Stevenson, <i>Everyone on This Train Is a Suspect</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -23,7 +28,3 @@ Royce 原为实验室的实验员，帮助损坏 Lisa 的 DNA 证据以换取 Wy
 </details>
 
 标题致敬东方快车。文中无数 meta，出场人物会时不时跳出小说本体讨论一下故事情节。半程时某推理作家一时技痒，信誓旦旦地召集众人，要以黄金时代作风公布凶手身份，随即便被告知“凶手”死亡，令人忍俊不禁。作者在第一章公然宣告会提到凶手名字 106 次，有计数器的读者可以走偏门找出凶手。
-
-:link: 6667
-
-:file_folder: English mystery

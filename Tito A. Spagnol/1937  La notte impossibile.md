@@ -1,3 +1,11 @@
+---
+category: Italian mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6570
+---
+
 # Tito A. Spagnol, <i>La notte impossibile</i> (1937)
 
 <img src=images/1937_cover.jpg width=250/>
@@ -40,9 +48,3 @@ Gusman 发现房子里的门开关时都有咯吱声，唯独仆人房间的门�
 </details>
 
 意大利作家在 1937 年写的边缘不可能犯罪：一人在众人环视的情况下被飞刀刺中，另一人在短暂的停电间隙被手枪射杀。严格来说两起案件都不是真正的不可能犯罪，手法也比较糊弄，犯人身份十分意外，但为了意外性完全放弃了公平性，解答倒是十分新颖。
-
-:link: 6570
-
-:file_folder: Italian mystery
-
-:label: impossible crime, locked room

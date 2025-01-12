@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6719
+---
+
 # Gillian Flynn, <i>Gone Girl</i> (2012)
 
 <img src=images/2012_cover.jpg width=250/>
@@ -121,7 +126,3 @@ Nick 被拘押后保释，继续制作网络视频恳求 Amy 回家。Amy 出现
 </details>
 
 妻子失踪，留下一本日记，里面所有的证据都指向丈夫谋杀。故事在第二部分逐渐逆转，套路比较熟悉，结尾暗黑。
-
-:link: 6719
-
-:file_folder: English mystery

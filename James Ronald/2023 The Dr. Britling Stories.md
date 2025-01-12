@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6715
+---
+
 # James Ronald, <i>The Dr. Britling Stories</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -65,9 +73,3 @@ Martin 听声音认出 Morgan（伏线：敲桌子、一闻烟草味就咳嗽）
 </details>
 
 四个短篇加一个中篇。中篇 <i>Six Were to Die</i> (1932) 包含多起不可能犯罪，可惜解答水准一般，诡计雷同，而且解答欠缺公平性。短篇 <i>Too Many Motives</i> (1930) 中的死亡留言有一定新意，短篇 <i>Find the Lady</i> (1930) 中的监视密室逃生诡计是 Agatha Christie 喜欢的风格。
-
-:link: 6715
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

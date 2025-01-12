@@ -1,3 +1,10 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+wordpress_id: 6244
+---
+
 # Robin Stevens, <i>The Guggenheim Mystery</i> (2017)
 
 <img src=images/2017_cover.jpg width=250/>
@@ -24,9 +31,3 @@ Helen 和 Lionel 偷博物馆的工具卖钱，Lionel 的盒子里装的是工�
 </details>
 
 📖 Siobhan Dowd, <i>The London Eye Mystery</i> (2007) 的续作，面向中学生读者。发生在纽约博物馆中的不可能艺术盗窃，诡计尚可。
-
-:link: 6244
-
-:file_folder: English mystery
-
-:label: impossible crime

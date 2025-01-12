@@ -1,3 +1,10 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+wordpress_id: 7094
+---
+
 # J. S. Savage, <i>The Riddle of the Ravens</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -43,9 +50,3 @@ Phillip Davies 家暴，Martha 试图逃跑，Peter 请 Gurung 协助，二人�
 </details>
 
 两起枪杀案，射出杀人子弹的左轮手枪案发时在距离现场很远的一间屋子里，所以不仅要攻破凶手的不在场证明，还要攻破“凶器的不在场证明”。结尾伏线回收可圈可点。
-
-:link: 7094
-
-:file_folder: English mystery
-
-:label: impossible crime

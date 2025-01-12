@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6972
+---
+
 # J. L. Blackhurst, <i>Smoke and Murders</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -15,9 +23,3 @@ Rupert 为了拿回装毒品的玩具熊杀死了 William，Truly 为了复仇�
 </details>
 
 只有一起密室杀人，手法陈旧，比系列首作相差甚远。
-
-:link: 6972
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

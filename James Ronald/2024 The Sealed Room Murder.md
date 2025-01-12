@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 7269
+---
+
 # James Ronald, <i>The Sealed Room Murder</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -25,9 +33,3 @@ Peter 在 Basingstoke 的房间发现一条秘密通道，通向 Percy 的房间
 </details>
 
 两个以 Michael Crombie 名义发表的密室中长篇，整体为冒险剧的风格，密室本身水平较低。
-
-:link: 7269
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6146
+---
+
 # Richard Osman, <i>The Thursday Murder Club</i> (2020)
 
 <img src=images/2020_cover.jpg width=250/>
@@ -43,7 +48,3 @@ Joanna 说服董事成员买下 Ian 的公司，Bramley 是 Joanna 小时候毛�
 </details>
 
 作者据说是 Agatha Christie 的粉丝，果然一波家访流。本书的人物关系确实足够错综复杂，红鲱鱼层峦叠嶂，但基本没有什么推理，线索薄弱，凶手设置偏随意。Bernard 坐长椅的一段误导感人。
-
-:link: 6146
-
-:file_folder: English mystery

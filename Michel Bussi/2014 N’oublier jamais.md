@@ -1,3 +1,8 @@
+---
+category: French mystery
+wordpress_id: 6098
+---
+
 # Michel Bussi, <i>N’oublier jamais</i> (2014)
 
 <img src=images/2014_cover.jpg width=250/>
@@ -55,7 +60,3 @@ Frédéric 模仿“红围巾杀手”杀死 Myrtille，第二天 Carmen 召集 
 </details>
 
 主人公未能成功救下跳崖女孩，女孩坠崖身亡，脖子上却系着主人公的围巾。进一步调查发现坠崖女孩与多年前的强奸杀人受害者有着相同的成长经历，连死亡方式都如出一辙，而所有证据都指向主人公。本作的悬念设置扣人心弦，谜团层出不穷，到最后均给出合理解释，揭露真凶之后又加了一层逆转。
-
-:link: 6098
-
-:file_folder: French mystery

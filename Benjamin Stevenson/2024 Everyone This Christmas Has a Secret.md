@@ -1,3 +1,10 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+wordpress_id: 7130
+---
+
 # Benjamin Stevenson, <i>Everyone This Christmas Has a Secret</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -26,9 +33,3 @@ Lyle 有阅读障碍（伏线：听有声读物，写邮件用 Comic Sans 字体
 </details>
 
 基金会创始人在厨房遇刺，女友第二天醒来发现自己满手是血，对前一天晚上的事情完全没有印象。魔术师在舞台上表演断头台逃生时被落下的铡刀当场断头，但铡刀是纸糊的道具，所以这是一起不可能犯罪。诡计简单高效，伏线充足，节奏恰到好处。
-
-:link: 7130
-
-:file_folder: English mystery
-
-:label: impossible crime

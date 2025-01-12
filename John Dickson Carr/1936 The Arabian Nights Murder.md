@@ -1,3 +1,10 @@
+---
+category: English mystery
+tags:
+  - multiple_solutions
+wordpress_id: 54
+---
+
 # John Dickson Carr, <i>The Arabian Nights Murder</i> (1936)
 
 <img src=images/1936_cover.jpg width=250/>
@@ -41,9 +48,3 @@ Mannering 没有去 Holmes 的公寓，便条上沾有煤灰（伏线），所�
 </details>
 
 深夜，一个白胡子老头从高墙上跳下，毫不犹豫地袭击了一名过路的巡警，几分钟后从小巷中凭空消失。与此同时，博物馆的马车里发现了一具男尸，死者戴着黑色的假胡子，手中握着一本烹饪书。在这样诡异的开场下，故事展开了复杂的剧情，出场人物各怀鬼胎，谎话连篇。经过抽丝剥茧的调查考证，每个人的行动最终都得到了合理的解释，伏线布置精妙，逆转强烈，是布局流的佳作。
-
-:link: 54
-
-:file_folder: English mystery
-
-:label: multiple solutions

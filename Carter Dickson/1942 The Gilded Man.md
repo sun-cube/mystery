@@ -1,3 +1,10 @@
+---
+category: English mystery
+tags:
+  - narrative_trick
+wordpress_id: 6828
+---
+
 # Carter Dickson, <i>The Gilded Man</i> (1942)
 
 <img src=images/1942_cover.jpg width=250/>
@@ -19,9 +26,3 @@ Stanhope 被薄刃水果刀刺伤只会内出血，所以满身血迹是别人�
 </details>
 
 一起简单的入室盗窃杀人，没有不可能犯罪，但叙述性诡计误导饶有趣味，说故事轻松流畅。
-
-:link: 6828
-
-:file_folder: English mystery
-
-:label: narrative trick

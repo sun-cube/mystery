@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6752
+---
+
 # Carter Dickson, <i>My Late Wives</i> (1946)
 
 <img src=images/1946_cover.jpg width=250/>
@@ -23,9 +31,3 @@ Bewlay 不应该知道 Lyons 的目击内容，但是他却知道，这是因为
 </details>
 
 年轻演员收到一份手稿，里面详细记录了四名女性连续失踪案的细节，包括一起监视密室脱逃，作者疑似在逃犯人。演员为了体验生活，来到小镇扮演犯人，不料在那里遇到真的杀人案。情节一波三折，展现出作者善于编故事的特质，但有点过于戏剧化，几个配角比 H.M. 更加出彩。
-
-:link: 6752
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

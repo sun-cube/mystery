@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6636
+---
+
 # Jill McGown, <i>The Stalking Horse</i> (1987)
 
 <img src=images/1987_cover.jpg width=250/>
@@ -24,7 +29,3 @@ Charles 说 Alison 遇害当晚自己正和 Bryant 一起在公司开会，还�
 </details>
 
 主人公被嫁祸连杀二人，出狱后重新调查十五年前的案件真相。诡计比较简单，但动机有一定的意外性。本书在 📖 森英俊『世界ミステリ作家事典 本格派篇』(1987) 中评价颇高。
-
-:link: 6636
-
-:file_folder: English mystery

@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - dying_message
+  - multiple_solutions
+wordpress_id: 6411
+---
+
 # Dan Andriacco, <i>The English Garden Mystery</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
@@ -20,9 +28,3 @@ Des 在家中被一尊青铜塑像击碎头部死亡，尸体旁散落着紫罗�
 </details>
 
 标题致敬 Ellery Queen 国名系列。三胞胎姐妹连续在家中被杀，尸体旁分别出现梦幻草、迷迭香、紫罗兰三种不同的花，结尾有双重解答。关于死亡留言和模仿杀人的诡计构思相当不错，但除此以外平平无奇，更适合写成短篇。
-
-:link: 6411
-
-:file_folder: English mystery
-
-:label: dying message, multiple solutions

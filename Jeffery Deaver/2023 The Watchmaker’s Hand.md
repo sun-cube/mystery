@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 7020
+---
+
 # Jeffery Deaver, <i>The Watchmaker’s Hand</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -29,7 +34,3 @@ Pulaski 揪出车祸 SUV 的乘客 Natalia Baskov、Aaron Stahl，他们听从 H
 </details>
 
 Lincoln Rhyme 第十六弹，仍旧是熟悉的配方。纽约市连续发生三起吊车倒塌的恐怖袭击，犯人是绰号“钟表匠”的 Lincoln 宿敌，真实意图不明。Amelia Sachs、Ron Pulaski 等人悉数出场，Sachs 掉入酸雾陷阱，Pulaski 被人监禁，Lincoln 被犯人逼迫注射芬太尼，险象环生，尤其第二架吊车砸向医院的一幕最为扣人心弦。犯人身份不是秘密，但幕后大 boss 的身份和动机十分意外。
-
-:link: 7020
-
-:file_folder: English mystery

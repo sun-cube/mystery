@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 5629
+---
+
 # Tom Mead, <i>Death and the Conjuror</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
@@ -29,9 +37,3 @@ Stenhouse 把 Pete 迷晕放在五楼屋顶，脖子上套了一个绳圈，绳�
 </details>
 
 发生在1936年的三起不可能犯罪，包括一起双重密室、一起不可能盗窃、一起电梯密室中不可能出现的尸体。布局和气氛都走的 Carr 路数，具有鲜明的黄金时代烙印，电梯诡计有些用力过猛，但双重密室利用复杂的人物关系将诸多意外之处合理解释，颇为精彩。结尾挑战读者，并详细列出各线索出处，文风扎实，强烈推荐。
-
-:link: 5629
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

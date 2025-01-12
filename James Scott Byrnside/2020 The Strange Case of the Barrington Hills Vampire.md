@@ -1,3 +1,12 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+  - missing_footprint
+wordpress_id: 5731
+---
+
 # James Scott Byrnside, <i>The Strange Case of the Barrington Hills Vampire</i> (2020)
 
 <img src=images/2020_cover.jpg width=250/>
@@ -56,9 +65,3 @@ Thomas 以女儿 Gertrude 的名义在 G. K. Chesterton Financial 建立账户�
 </details>
 
 通灵会、梦游、吸血鬼传说的气氛渲染深得 Carr 精髓。一起雪地无足迹加一起监视密室，诡计不能算新，但雪地无足迹的解答与布局深度结合，值得赞赏。出场人物不多，各自发挥效力，情节紧凑，唯一遗憾是真凶身份随意且动机奇葩。开篇侦探大会的设定讨喜，侦探与助手的对话幽默风趣。结尾竟然由侦探的老师而不是侦探本人破解案情，令人喷饭。推荐。
-
-:link: 5731
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room, missing footprint

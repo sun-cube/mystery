@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 5940
+---
+
 # Gigi Pandian, <i>The Cambodian Curse and Other Stories</i> (2018)
 
 <img src=images/2018_cover.jpg width=250/>
@@ -77,9 +85,3 @@ Jaya 的朋友 Daniella Stuart 即将举办节日演出“愚人金”。Jaya �
 </details>
 
 九个不可能犯罪短篇，一大半都是时间差密室，第三篇的建筑诡计不错。
-
-:link: 5940
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

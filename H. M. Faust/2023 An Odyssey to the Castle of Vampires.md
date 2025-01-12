@@ -1,3 +1,12 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+  - missing_footprint
+wordpress_id: 7031
+---
+
 # H. M. Faust, <i>An Odyssey to the Castle of Vampires</i> (2023)
 
 <img src=images/2023b_cover.jpg width=250/>
@@ -219,9 +228,3 @@ Faye 阅读 Graham 留下的日记，认为儿子被 Gretel 害死，驱车来�
 * Carmicheal (Carr) Palmer：监视密室、消失的凶器
 * Erik Van Helsing：汽车不可能爆炸
 * Faye Van Helsing、Arkady Antonov：密室杀人
-
-:link: 7031
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room, missing footprint

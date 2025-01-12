@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6950
+---
+
 # Harlan Coben, Think Twice (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -39,7 +44,3 @@ Greg 和 Grace 合作杀人，杀死 Clay 时被抓了皮肤，留下了 DNA 证
 </details>
 
 某个“连环嫁祸杀人狂”每次作案后都故意留下指向别人的证据，结尾真凶揭晓有一定意外，但因为缺乏伏线所以显得过于随机。标题 <i>Think Twice</i> 有玄机。
-
-:link: 6950
-
-:file_folder: English mystery

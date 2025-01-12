@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 5727
+---
+
 # Martin Edwards, <i>Blackstone Fell</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
@@ -33,9 +41,3 @@ Harold Lejeune 杀死 Nell，其真实身份是害死 Nathan 的银行家 Ormond
 </details>
 
 监视密室纯粹凑数，当代案件的复杂度靠人物数量堆砌。结尾的线索列表虽然保障了公平性，但整体缺乏新意，令人失望。
-
-:link: 5727
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

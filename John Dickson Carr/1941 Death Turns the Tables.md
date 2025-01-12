@@ -1,3 +1,10 @@
+---
+category: English mystery
+tags:
+  - multiple_solutions
+wordpress_id: 6286
+---
+
 # John Dickson Carr, <i>Death Turns the Tables</i> (1941)
 
 <img src=images/1941_cover.jpg width=250/>
@@ -29,9 +36,3 @@ Morell 头部中枪后没有死，在 20:25 来到小木屋，打求救电话并
 </details>
 
 围绕子弹设计了优秀的诡计和推理，线索公平，布局精密。结尾连续两次逆转扣题，其中第二次逆转相当意外，但严格来说有欠公平。
-
-:link: 6286
-
-:file_folder: English mystery
-
-:label: multiple solutions

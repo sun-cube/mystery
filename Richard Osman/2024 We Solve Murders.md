@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 7189
+---
+
 # Richard Osman, <i>We Solve Murders</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -23,7 +28,3 @@ Henk 提供的文件显示网红都是由 Max Highfield 介绍给公司，Max Hi
 </details>
 
 情节基本没有推理可言，也不是特别能理解作者的幽默，应该不会再看这个系列了。
-
-:link: 7189
-
-:file_folder: English mystery

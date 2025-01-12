@@ -1,3 +1,10 @@
+---
+category: French mystery
+tags:
+  - narrative_trick
+wordpress_id: 6116
+---
+
 # Michel Bussi, <i>On la trouvait plutôt jolie</i> (2017)
 
 <img src=images/2017_cover.jpg width=250/>
@@ -57,9 +64,3 @@ Bamby 在法国的时候偶然发现了 Leyli 床下的笔记本，读后将复�
 </details>
 
 以法国难民为主题的社会派悬疑，多线叙述节奏紧凑，但一直摸不清核心谜团所在，直至结尾揭露叙述性诡计。诡计设定其实比较简单，但与“母亲”主题结合紧密。结尾颇具讽刺意味。
-
-:link: 6116
-
-:file_folder: French mystery
-
-:label: narrative trick

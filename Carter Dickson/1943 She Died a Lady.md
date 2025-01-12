@@ -1,3 +1,12 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - missing_footprint
+  - multiple_solutions
+wordpress_id: 6620
+---
+
 # Carter Dickson, <i>She Died a Lady</i> (1943)
 
 <img src=images/1943_cover.jpg width=250/>
@@ -21,9 +30,3 @@ Rita 失踪后 Alec 上楼打开盒子没看到钻石，于是拿着小钥匙下
 </details>
 
 一男一女走向悬崖，足迹消失，疑似殉情，两日后海里发现了二人的尸体，均死于枪伤。感情戏的布局和诡计反复纠缠，结尾强力逆转，真凶身份意外，靠一条不起眼的线索锁定。
-
-:link: 6620
-
-:file_folder: English mystery
-
-:label: impossible crime, missing footprint, multiple solutions

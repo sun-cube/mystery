@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6600
+---
+
 # Steve Cavanagh, <i>Thirteen</i> (2018)
 
 <img src=images/2018_cover.jpg width=250/>
@@ -27,9 +35,3 @@ Kane 的真实身份是 64 岁的陪审员 Bradley Summers。北 Carolina 大学
 </details>
 
 核心点子是连环杀手混入陪审团，构思之大胆前所未见。法庭辩论的突破点精彩，连环杀人的 missing link 也有一定新意，结尾猜假陪审员身份又引入新的反转。缺点是前半部节奏较为拖沓。
-
-:link: 6600
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

@@ -1,3 +1,11 @@
+---
+category: French mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6873
+---
+
 # Serge Tachon, <i>Musique de chambre close</i> (2018)
 
 <img src=images/2018_cover.jpg width=250/>
@@ -17,9 +25,3 @@ Florence 抛弃 Guérin 转投 Christophe 和 Fernandez，让 Guérin 感到羞�
 </details>
 
 警方接到报警电话，赶到现场后在密室中发现两名死者和一名被棒球棒打晕的嫌疑人。两名死者中间掉落一把手枪，上面有三人指纹，却不是凶器！解答算是自圆其说，但是缺乏新意，几个误导有些勉强。
-
-:link: 6873
-
-:file_folder: French mystery
-
-:label: impossible crime, locked room

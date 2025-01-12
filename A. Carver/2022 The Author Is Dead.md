@@ -1,3 +1,12 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+  - missing_footprint
+wordpress_id: 5680
+---
+
 # A. Carver, <i>The Author Is Dead</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
@@ -39,9 +48,3 @@ Colin 自杀，他在自己后背插刀。他把缎带系在书上，架在铁�
 显然作者是密室铁粉，并看过一定数量的日系。推理小说家请人到家中做客，随后连续发生四起密室杀人，其中第二起还掺入雪地无足迹杀人，这样的设置是不是很熟悉？凶手对“胶带”有执念，所有密室门内侧均用胶带封死。出场人物反正都是推理迷，动机即使为密室而密室也可以说通。第二起雪地密室质量最高，密室与雪地无足迹的组合谜面诱人，解答颇有北山猛邦之风。第四起密室谜面看似牢不可破，解答却不免乏味。很欣慰在2022年能看到这样的英语作品，精神可嘉。
 
 （感谢中文译者流风四月指出解答中的错误，并提供原理图。）
-
-:link: 5680
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room, missing footprint

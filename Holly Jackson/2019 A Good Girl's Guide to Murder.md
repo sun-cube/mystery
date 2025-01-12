@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6385
+---
+
 # Holly Jackson, <i>A Good Girl's Guide to Murder</i> (2019)
 
 <img src=images/2019_cover.jpg width=250/>
@@ -37,7 +42,3 @@ Elliot 误将另一名走失女孩认作 Andie，囚禁在 Gravesend 阁楼。Pi
 </details>
 
 头一次和女儿一起看书，作为 young adult 还是暗黑了些。对西方高中各种复杂的人际关系描绘得淋漓尽致，人物心理活动刻画细腻。女主角玩转各种电脑设置，有勇有谋，有血有肉，一方面正义感爆棚，一方面也背负说假话的负罪感。全程悬念包袱不断，结尾逆转令人惊讶，但凶手身份随机。
-
-:link: 6385
-
-:file_folder: English mystery

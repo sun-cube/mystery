@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6186
+---
+
 # Carter Dickson, <i>Death in Five Boxes</i> (1938)
 
 <img src=images/1938_cover.jpg width=250/>
@@ -23,9 +31,3 @@ Haye 书房里有一本书《龙穴》，作者为 Judith Adams，扉页上署�
 </details>
 
 四人围坐在桌边中毒晕倒，一人被刺死。倒酒时众人互相监视，不可能下毒。三人身上发现奇怪物品，包括四块手表、装有生石灰和磷的小瓶、闹铃装置。Carr 擅长在有限嫌疑人的情况下做局，犯人身份意外。
-
-:link: 6186
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

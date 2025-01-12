@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6399
+---
+
 # Holly Jackson, <i>As Good As Dead</i> (2021)
 
 <img src=images/2021_cover.jpg width=250/>
@@ -21,7 +26,3 @@ Pip 让 Ravi 关掉 GPS 赶来仓库。二人一起用汽车空调给尸体降�
 Max 因为在现场留下大量证据而被逮捕。Pip 担心 Max 如果被宣判无罪，Ravi 仍有可能被牵连，于是选择主动和 Ravi 分手，Ravi 心碎。Pip 去纽约上了 Columbia 大学，和 Ravi 断了联系。一年八个月之后，Max 被宣判有罪，Jason 也因为指纹证据被确认为“DT 杀手”。一日，Pip 收到了一则短信：“Sarge，你还记得我吗？”（Sarge 是 Ravi 对 Pip 的昵称。）
 
 进一步回收前两部的伏线，三部曲完结。这一部的结局比前两部更加暗黑，一方面可以说是大快人心，另一方面又可以说是三观不正。因为对执法系统没有信心，便可以凌驾于法律之上，是一种危险的倾向，何况正当防卫、杀人、陷害均不在一个道德层面。女儿在三本中最喜欢这一本，令人隐忧，还是应该让她多读一些诸如白井老师的日系益智本格推理。
-
-:link: 6399
-
-:file_folder: English mystery

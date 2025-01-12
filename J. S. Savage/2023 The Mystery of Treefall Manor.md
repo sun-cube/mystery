@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6581
+---
+
 # J. S. Savage, <i>The Mystery of Treefall Manor</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -13,9 +21,3 @@ Edmond Osborn = 小 Desmond Broon 字母重排，小时候玩火引发谷仓火�
 </details>
 
 传统的庄园谋杀家访流，误导有一定亮点，但密室非常一般。
-
-:link: 6581
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

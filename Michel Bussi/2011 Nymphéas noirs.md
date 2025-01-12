@@ -1,3 +1,10 @@
+---
+category: French mystery
+tags:
+  - narrative_trick
+wordpress_id: 6090
+---
+
 # Michel Bussi, <i>Nymphéas noirs</i> (2011)
 
 <img src=images/2011_cover.jpg width=250/>
@@ -54,9 +61,3 @@ Farnette 和 Stéphanie 都戴着同样的银丝带（误导：Farnette 的老�
 </details>
 
 故事发生在莫奈家乡小镇，以三个女人的视点叙述，不时穿插对绘画艺术的讨论，案情虽然简单但悬疑张力十足。结尾的叙述性诡计恰到好处，将女主人公的无奈情绪推向顶峰。
-
-:link: 6090
-
-:file_folder: French mystery
-
-:label: narrative trick

@@ -1,3 +1,12 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+  - multiple_solutions
+wordpress_id: 6239
+---
+
 # Carter Dickson, <i>The Unicorn Murders</i> (1935)
 
 <img src=images/1935_cover.jpg width=250/>
@@ -38,9 +47,3 @@ Flamande 潜入二楼，从 Ken 房间的棕色行李包中取出“独角兽”
 </details>
 
 一人在众人环视状态下摔下楼梯，额头上出现像是“独角兽”刺入的深洞，周围无人靠近。超级罪犯和名侦探之间的变装对决，期间发生了极为复杂的身份替换，布局复杂度即使在 Carr 的作品中也名列前茅，不可能犯罪诡计与布局深度结合。
-
-:link: 6239
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room, multiple solutions

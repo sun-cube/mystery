@@ -1,3 +1,11 @@
+---
+category: French mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6005
+---
+
 # Claude Aveline, <i>The Double Death of Frederic Belot</i> (1932)
 
 <img src=images/1932_cover.jpg width=250/>
@@ -34,9 +42,3 @@ Delluc 是 Deguise 的同父异母哥哥，住在 Deguise 隔壁。Ferroux 给�
 </details>
 
 警官 Belot 头部中弹奄奄一息，倒在自家公寓，隔壁房间竟然躺着一具相同相貌的尸体，而且二人身旁各掉落一把相同口径的手枪！两个 Belot 孰真孰假？Belot 下午回家，当时公寓里确信没有外人，此后到发现尸体期间只有两人短暂来访，管理员一直在门口监视，冒牌 Belot 如何进入监视密室？1932 年的法国不可能犯罪，故事曲折不拖沓，既在意料之外，又在情理之中，具有鲜明的法国特色。强烈推荐！
-
-:link: 6005
-
-:file_folder: French mystery
-
-:label: impossible crime, locked room

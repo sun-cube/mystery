@@ -1,3 +1,10 @@
+---
+category: French mystery
+tags:
+  - narrative_trick
+wordpress_id: 6158
+---
+
 # Michel Bussi, <i>Trois vies par semaine</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -49,9 +56,3 @@ Libor 在 Milana 医院给 Renaud 留下一封信，记述了当年的经过，�
 </details>
 
 警方在跳崖男子 Renaud 身上发现三张驾照，相貌相同名字不同，并且都不是伪造。除了 Renaud 的妻子之外，另两个身份竟然还有两个不同的恋人，难道死者是时间管理大师？故事以强烈的悬疑谜面开头，以三个女人的视角轮换叙述，中间穿插警察视角、凶手视角、母亲手记，各线程进程间切换有条不紊，将多线叙述发挥得淋漓尽致。结尾交汇解谜，外加一次逆转。严格来说某些情节有夸张成分，但对于这样离奇的谜面已足够自洽。烧伤兄弟瞎子配聋子的设置鬼畜，恐怖之外让人同情，结局惨烈。
-
-:link: 6158
-
-:file_folder: French mystery
-
-:label: narrative trick

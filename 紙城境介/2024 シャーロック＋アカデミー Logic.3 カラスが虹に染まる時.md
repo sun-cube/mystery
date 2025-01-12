@@ -1,3 +1,11 @@
+---
+category: Japanese mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6497
+---
+
 # 紙城境介『シャーロック＋アカデミー Logic.3 カラスが虹に染まる時』(2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -39,9 +47,3 @@
 </details>
 
 开篇的密室杀人诡计其实不错，但是作为开胃菜没有展开。最后的主打谜题把主人公逼到绝境，通过一系列逻辑推理，必须用穷举法回忆出一个班的全部 30 名学生，团队接力场面燃爆。
-
-:link: 6497
-
-:file_folder: Japanese mystery
-
-:label: impossible crime, locked room

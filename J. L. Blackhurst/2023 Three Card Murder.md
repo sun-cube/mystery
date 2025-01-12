@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6198
+---
+
 # J. L. Blackhurst, <i>Three Card Murder</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -29,9 +37,3 @@ Callum 被女朋友 Millie 刺中，但受伤不重，坚持坐电梯回酒店�
 </details>
 
 三起密室杀人，包括一起高楼密室坠亡、一起电梯密室、一起酒店安全锁密室。前两起密室是老梗，有一点小小的新意，最后一起密室完成度较高。
-
-:link: 6198
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

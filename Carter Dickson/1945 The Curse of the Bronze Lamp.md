@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6812
+---
+
 # Carter Dickson, <i>The Curse of the Bronze Lamp</i> (1945)
 
 <img src=images/1945_cover.jpg width=250/>
@@ -19,9 +27,3 @@ Beaumont 在开罗花高价从 Robertson 手中买下匕首和香水瓶，由 Ro
 </details>
 
 两起不可能消失。考古学家的女儿在众目睽睽之下进入大宅，几分钟后消失，之后考古学家本人也消失在大宅中，现场均留下青铜神灯。两个解法比较普通，气氛渲染不错。
-
-:link: 6812
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

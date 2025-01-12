@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6417
+---
+
 # Anthony Horowitz, <i>A Line to Kill</i> (2021)
 
 <img src=images/2021_cover.jpg width=250/>
@@ -33,7 +38,3 @@ Anne 的儿子因网络赌博自杀，赌博公司是 Charles 所开，Helen 是
 </details>
 
 主人公 Horowitz 和侦探 Hawthorne 去岛上参加文学节，赞助商在岛上被杀，几乎所有人都有犯罪动机。结尾凶手非常随机，动机牵强，伏线孱弱。
-
-:link: 6417
-
-:file_folder: English mystery

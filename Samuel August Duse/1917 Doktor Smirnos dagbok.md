@@ -1,3 +1,10 @@
+---
+category: Swedish mystery
+tags:
+  - narrative_trick
+wordpress_id: 6989
+---
+
 # Samuel August Duse, <i>Doktor Smirnos dagbok</i> (1917)
 
 <img src=images/1917_cover.jpg width=250/>
@@ -35,9 +42,3 @@ Smirno 给 Nina 打了匿名电话，等 Fabian 离开后，用 Asta 藏在柴�
 </details>
 
 发表于 1917 年的瑞典幻之名作，足以改写世界侦探小说史。时钟诡计、多重解答均领先时代，弹道分析领先 📖 S. S. Van Dine, <i>The Benson Murder Case</i> (1926)，核心叙述性诡计领先某教科书样本近十年，甚至还包括了微物证据。
-
-:link: 6989
-
-:file_folder: Swedish mystery
-
-:label: narrative trick

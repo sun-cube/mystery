@@ -1,3 +1,8 @@
+---
+category: Dutch mystery
+wordpress_id: 7280
+---
+
 # P. Dieudonné, <i>Rechercheur De Klerck en de status in moord</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -26,7 +31,3 @@ Jonkheer 召见 Noëlle 商讨 Ivo 的贪污案，而 Feyesslink 误以为他要
 </details>
 
 鹿特丹港的一艘帆船被人故意凿沉，一名女子不幸溺亡。受害者不久前刚刚婚姻破裂，其闺蜜正忙于筹备一场贵族婚礼，结果闺蜜的父亲也在家被人枪杀。出场人物不多，但作者围绕各人的情感纠葛布置了诸多误导，结尾的伏线回收相当精彩。
-
-:link: 7280
-
-:file_folder: Dutch mystery

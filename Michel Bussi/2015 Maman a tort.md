@@ -1,3 +1,8 @@
+---
+category: French mystery
+wordpress_id: 6138
+---
+
 # Michel Bussi, <i>Maman a tort</i> (2015)
 
 <img src=images/2015_cover.jpg width=250/>
@@ -17,7 +22,3 @@ Amanda 的孩子 Malone 目睹劫匪策划案件，Alexis 为了防止被小孩�
 </details>
 
 四岁小孩说自己的妈妈不是真的妈妈，引发学校注意，与此同时发生一桩抢劫案，两条线在中段交汇。关于小孩记忆的描述有些超现实，结尾逆转有欠公平。
-
-:link: 6138
-
-:file_folder: French mystery

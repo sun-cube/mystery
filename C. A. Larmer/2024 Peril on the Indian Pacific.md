@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 7114
+---
+
 # C. A. Larmer, <i>Peril on the Indian Pacific</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -49,9 +57,3 @@ Walker 捡到了 Flynn 掉下的帽子，以为是 Clay 的帽子，所以还回
 </details>
 
 致敬 📖 Agatha Christie, <i>The Mystery of the Blue Train</i> (1928) 的作品。谋杀书友会成员乘坐“印度太平洋”号列车，某富豪农场主凌晨被人推下火车，车上乘客几乎人人都有作案嫌疑。火车在行进过程中门窗紧闭，如果用紧急钥匙开门则会触发警报，所以这是一起密室。几个误导尚可，但密室解答过于敷衍。
-
-:link: 7114
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

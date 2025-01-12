@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6740
+---
+
 # Kristen Perrin, <i>How to Solve Your Own Murder</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -88,7 +93,3 @@ Frances 一看到箱子里的羊毛外套，便知道凶手是 Rose，她去找 
 </details>
 
 主人公的姑姥姥预计到自己会被人谋杀，于是留下遗嘱，将遗产留给能找出凶手的人。主人公阅读姑姥姥留下的日记，牵出几十年前的一起失踪杀人案。故事以过去和现在双线叙述，出场人物众多，真凶身份随机，伏线编排缺乏新意，也看不到丝毫出道新人的锐气。
-
-:link: 6740
-
-:file_folder: English mystery

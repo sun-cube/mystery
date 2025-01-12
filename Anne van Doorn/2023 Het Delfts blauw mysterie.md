@@ -1,3 +1,11 @@
+---
+category: Dutch mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6428
+---
+
 # Anne van Doorn, <i>Het Delfts blauw mysterie</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -41,9 +49,3 @@ Aurora 贪污了地皮交易的钱，给 Philippa 打了法语的威胁电话，
 </details>
 
 完全可以起名为《荷兰瓷碗之谜》，篇幅不长密度极大，叙事风格神似 S. S. van Dine 和 Ellery Queen，尤其是人物对话多次致敬 Ellery Queen。在公寓楼顶层发生密室杀人，受害者是盲人，某晚觉得家中有人，叫保安来搜遍各处，只发现一只打碎的荷兰名贵蓝色瓷碗。第二日死者丈夫回家，发现妻子在卧室身亡，地下有呕吐痕迹，枕头上放着切开的大蒜。推理简单明快，有大量红鲱鱼和伏线回收，密室诡计可行性有待考究，但构思颇有新意。推荐。
-
-:link: 6428
-
-:file_folder: Dutch mystery
-
-:label: impossible crime, locked room

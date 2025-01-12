@@ -1,3 +1,10 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+wordpress_id: 5985
+---
+
 # J. C. Lenehan, <i>The Tunnel Mystery</i> (1929)
 
 <img src=images/1929_cover.jpg width=250/>
@@ -19,9 +26,3 @@ Dick Lowe 是珠宝大盗 Abbie，他盗取了真正的陶艺师的身份，把�
 </details>
 
 一名乘客在火车经过隧道时被杀，车厢里却没有人看到开火的闪光。凶手设置比较套路，到结尾处已是呼之欲出。中间的警察程序中规中矩。
-
-:link: 5985
-
-:file_folder: English mystery
-
-:label: impossible crime

@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - missing_footprint
+wordpress_id: 6596
+---
+
 # Gigi Pandian, <i>A Midnight Puzzle</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -11,9 +19,3 @@ Nicodemus 失去魔术能力，为了能体面退役，安装飞刀将自己的�
 </details>
 
 本作包含一个无足迹杀人，一人死在舞台中央，尸体周围积满灰尘。作者在故事中致敬了 📖 林斯諺《雨夜莊謀殺案》(2005) 和 📖 John Dickson Carr, <i>The Crooked Hinge</i> (1938)，但显然没有达到偶像的高度。
-
-:link: 6596
-
-:file_folder: English mystery
-
-:label: impossible crime, missing footprint

@@ -1,3 +1,12 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+  - missing_footprint
+wordpress_id: 6379
+---
+
 # A. Carver, <i>The Christmas Miracle Crimes</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -68,9 +77,3 @@ Robin 在下雪期间把雪人搬到小城堡，足迹被雪覆盖，等雪停�
 </details>
 
 在同一间书房连续发生三次密室脱逃案件，而且每次都有一个小孩被锁在橱柜里，虽然从始至终只死了一个人。两人目睹圣诞老人骑雪橇经过，一道红光冲天而起消失在天际。雪地上留下一行足迹，通向一个圣诞老人装饰的雪人，足迹和雪人脚上的靴子相符，仿佛雪人自己走到雪地中央。不可能犯罪解答良莠不齐，升天雪橇解答属于日系八嘎流，可以看出作者的努力。
-
-:link: 6379
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room, missing footprint

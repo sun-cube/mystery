@@ -1,3 +1,11 @@
+---
+category: Spanish mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 7248
+---
+
 # Arturo Pérez-Reverte, <i>El problema final</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -39,9 +47,3 @@ Foxá 是凶手，假装从钥匙孔看不到屋内情况，打破门伸手进�
 </details>
 
 两起发生在酒店的密室杀人，侦探是扮演 Sherlock Holmes 的名演员，解答较为地味，半数的伏线是红鲱鱼。
-
-:link: 7248
-
-:file_folder: Spanish mystery
-
-:label: impossible crime, locked room

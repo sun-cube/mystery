@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6546
+---
+
 # Edward Hoch, <i>The Killer Everyone Knew and Other Captain Leopold Stories</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -123,9 +131,3 @@ Newman 鉴定宝石时意识到是赃物，便偷偷将其替换为不值钱的�
 </details>
 
 15 个以 Leopold 警官为主人公的短篇故事。第 2 篇是众人监视下的不可能下毒，第 4、12 篇是密室杀人。整体质量较高。
-
-:link: 6546
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

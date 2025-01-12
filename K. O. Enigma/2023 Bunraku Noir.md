@@ -1,3 +1,12 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+  - multiple_solutions
+wordpress_id: 7275
+---
+
 # K. O. Enigma, <i>Bunraku Noir</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -29,9 +38,3 @@ Irene = Rako，她把 Anna 的手机 SIM 卡换成 Rako 的卡，所以上面留
 </details>
 
 某宅男主人公与网红视频聊天时目睹有人闯入，第二天得知网红坠楼身亡，现场为密室。主人公与女性朋友联手查出网红曾在某餐馆打工，餐馆老板几天前被人开枪打死，凶手逃跑时被车撞死，不知这两起案件有无关联。结尾多重解答，用到了一个视频老梗，动机奇葩。
-
-:link: 7275
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room, multiple solutions

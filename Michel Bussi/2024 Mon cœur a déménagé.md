@@ -1,3 +1,8 @@
+---
+category: French mystery
+wordpress_id: 6444
+---
+
 # Michel Bussi, <i>Mon cœur a déménagé</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -21,7 +26,3 @@ Karim 证实是 Josselin 将 Maja 推下天桥致死，自己因见死不救心�
 </details>
 
 小女孩在同伴协助之下执着地调查母亲从天桥坠亡的真相。案情本身非常简单，悬念略显单薄。主人公性格复杂，让人又爱又恨。结尾的逆转和不圆满结局加分。
-
-:link: 6444
-
-:file_folder: French mystery

@@ -1,3 +1,11 @@
+---
+category: Japanese mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6485
+---
+
 # 彩坂美月『double〜彼岸荘の殺人』(2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -25,9 +33,3 @@
 </details>
 
 一群具有特异功能的人在“彼岸庄”调查灵异事件，由此发生连续杀人案，包括两起不可能犯罪。推理较为薄弱。
-
-:link: 6485
-
-:file_folder: Japanese mystery
-
-:label: impossible crime, locked room

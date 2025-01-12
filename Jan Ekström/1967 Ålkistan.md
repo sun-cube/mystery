@@ -1,3 +1,11 @@
+---
+category: Swedish mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6777
+---
+
 # Jan Ekström, <i>Ålkistan</i> (1967)
 
 <img src=images/1967_cover.jpg width=250/>
@@ -40,9 +48,3 @@ Jeanette 承认案发当晚和 Sören 见面，回家时二人将汽车熄火偷
 </details>
 
 全书只有一起杀人案，一人死在密闭的鳗鱼箱中，尸体干燥说明入水口没有打开，顶舱口上了挂锁，唯一的钥匙在死者身上。密室诡计非常硬核，作为 1960 年代的古老作品十分惊艳。作者不愧号称为“瑞典的 John Dickson Carr”。
-
-:link: 6777
-
-:file_folder: Swedish mystery
-
-:label: impossible crime, locked room

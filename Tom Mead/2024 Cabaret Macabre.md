@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6820
+---
+
 # Tom Mead, <i>Cabaret Macabre</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -69,9 +77,3 @@ Runcible 太太是 Esther 的母亲，Sylvester 的外婆。Becky 听到的电�
 </details>
 
 由过去的疑似毒杀案引发的家族系列杀人案，包括一起湖中弃尸和一起密室枪击。湖中弃尸的谜面新颖：在湖中央的小船上发现尸体，死者死于午夜之后，湖面在午夜结了薄冰，不能承担两个人的重量，如果将小船推到湖中央，必将破坏冰面，所以这是一起不可能犯罪，解法与島田荘司某作品相似。结尾大量伏线回收，毒杀案真相意外，外加一层逆转。布局有些过于复杂，整体完成度高。
-
-:link: 6820
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

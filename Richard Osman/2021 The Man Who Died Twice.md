@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6912
+---
+
 # Richard Osman, <i>The Man Who Died Twice</i> (2021)
 
 <img src=images/2021_cover.jpg width=250/>
@@ -21,7 +26,3 @@ Sue 和 Douglas 是情人，计划一起卖掉钻石。Poppy 把 Douglas 的信�
 </details>
 
 在第一部的老人院基础上加入特工戏，推理情节相对较弱。
-
-:link: 6912
-
-:file_folder: English mystery

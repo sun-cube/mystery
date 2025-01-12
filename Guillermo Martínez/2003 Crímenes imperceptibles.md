@@ -1,3 +1,10 @@
+---
+category: Argentine mystery
+tags:
+  - multiple_solutions
+wordpress_id: 6615
+---
+
 # Guillermo Martínez, <i>Crímenes imperceptibles</i> (2003)
 
 <img src=images/2003_cover.jpg width=250/>
@@ -19,9 +26,3 @@ Beth 杀死 Eagleton 太太向 Arthur 求救，Arthur 其实是 Beth 的父亲�
 </details>
 
 发生在牛津的连续杀人案，凶手利用逻辑学的思路留下死亡留言，结尾有一处逆转。真凶动机薄弱。
-
-:link: 6615
-
-:file_folder: Argentine mystery
-
-:label: multiple solutions

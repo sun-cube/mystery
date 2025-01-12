@@ -1,3 +1,12 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - missing_footprint
+  - multiple_solutions
+wordpress_id: 7259
+---
+
 # John Dickson Carr, <i>The Problem of the Wire Cage</i> (1939)
 
 <img src=images/1939_cover.jpg width=250/>
@@ -57,9 +66,3 @@ Nick 枪杀 Chandler 后拄着拐杖离开，剧院门口的证人误将他当�
 </details>
 
 在铁丝笼网球场内发生的无足迹杀人，机械性诡计的巅峰之作，真凶身份意外。作者充分利用了现场特有的环境，先后给出了真假四重解答，完成度极高。
-
-:link: 7259
-
-:file_folder: English mystery
-
-:label: impossible crime, missing footprint, multiple solutions

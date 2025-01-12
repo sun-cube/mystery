@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6793
+---
+
 # Janice Hallett, <i>The Mysterious Case of the Alperton Angels</i> (2023)
 
 <img src=images/2023_cover.jpg width=250/>
@@ -21,7 +26,3 @@ Clive Badham 教写作，Holly 长大后根据亲身经历写了剧本《神圣�
 </details>
 
 和系列前作一样全篇用书信体叙述。故事情节和反转设计得有亮点，但出场人物太多，书信体叙述过于细碎，严重影响阅读体验，还不如按照正常家访叙述顺畅。
-
-:link: 6793
-
-:file_folder: English mystery

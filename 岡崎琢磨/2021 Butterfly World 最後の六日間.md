@@ -1,3 +1,11 @@
+---
+category: Japanese mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 4982
+---
+
 # 岡崎琢磨『Butterfly World 最後の六日間』(2021)
 
 <img src=images/2021_cover.jpg width=250/>
@@ -29,9 +37,3 @@ BW 世界的规则是禁止伤害生物，但已经死去的尸体可以伤害�
 </details>
 
 虚拟世界中的用户均以蝴蝶形态登录，按规则无法伤害生物，在这样的设定下却连续发生三起命案，其中包括两起密室。凶手如何突破虚拟世界的物理设定，又如何从密室逃脱？解答充分利用设定盲点，现实与虚拟世界的故事交织，构思精巧，结构完整。推荐。
-
-:link: 4982
-
-:file_folder: Japanese mystery
-
-:label: impossible crime, locked room

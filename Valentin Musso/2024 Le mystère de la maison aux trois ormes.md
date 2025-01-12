@@ -1,3 +1,11 @@
+---
+category: French mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 7264
+---
+
 # Valentin Musso, <i>Le mystère de la maison aux trois ormes</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -51,9 +59,3 @@ Marianne 为了揭露 Arthaud 杀死 Leurtillois 的罪行，故意让 Marchand 
 </details>
 
 在真人角色扮演的推理游戏中发生了密室杀人，游戏结束后在现实世界中又发生了真正的杀人案。游戏中的密室解答尚可，但现实世界中的案件推理薄弱，作中作插叙有些故弄玄虚，前后两半基本脱节，结尾揭露真凶的手段也缺乏意外性，令人遗憾。
-
-:link: 7264
-
-:file_folder: French mystery
-
-:label: impossible crime, locked room

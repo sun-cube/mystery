@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6942
+---
+
 # Freida McFadden, <i>The Housemaid</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
@@ -29,7 +34,3 @@ Nina 和 Cecelia 移居加州，Millie 则靠 Nina 寄给她的钱生活。一�
 </details>
 
 故事第一部分以女佣视角讲述，第二部分以女主人视角讲述，中间发生转折。剧情比较老套，节奏控制得不错。
-
-:link: 6942
-
-:file_folder: English mystery

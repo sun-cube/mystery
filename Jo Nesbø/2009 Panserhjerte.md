@@ -1,3 +1,10 @@
+---
+category: Norwegian mystery
+tags:
+  - narrative_trick
+wordpress_id: 6745
+---
+
 # Jo Nesbø, <i>Panserhjerte</i> (2009)
 
 <img src=images/2009_cover.jpg width=250/>
@@ -53,9 +60,3 @@ Lene 的母亲是家里的清洁工。Harry 从小报上看到 Lene 要把头发
 </details>
 
 精彩纷呈的连环杀人案。从微物证据入手追查犯罪地点，颇具 Licoln Rhyme 风范，missing link 浮现之后各支线融会贯通。主人公 Harry 持续受虐，不仅要应对狡猾的连续杀人魔，还被卷入警察集团内部的政治漩涡，刚靠主角光环从雪崩死里逃生，又落入“Leopold 苹果”的死亡陷阱。苹果刑具设计绝妙，Harry 吞下苹果一段是全书高光，仿佛观看恐怖电影 🎬 <i>Saw</i>。中期凶手身份意外，后期逆转靠叙述性诡计支撑，合乎情理。前作 boss “雪人”短暂出场，致敬 📖 Thomas Harris, <i>The Silence of the Lambs</i> (1988)。
-
-:link: 6745
-
-:file_folder: Norwegian mystery
-
-:label: narrative trick

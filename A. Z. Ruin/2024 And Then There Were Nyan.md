@@ -1,3 +1,12 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+  - dying_message
+wordpress_id: 7204
+---
+
 # A. Z. Ruin, <i>And Then There Were Nyan</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -54,9 +63,3 @@ Copycat 被九尾猫关进监狱，他盗用九尾猫的长鞭能力，把自己
 </details>
 
 设定奇思妙想，小镇居民全是历史上有名的猫，每只猫都拥有独特的特异功能，比如柴郡猫能隐身、Pluto 的能力会让附近的伤者立即死亡。猎人来到小镇，在一间密室中发现了黑猫 Pluto 的尸体，由于只有人类才能开枪，她被控谋杀，不得不在法庭上为自己辩护。庭审过程充满『逆転裁判』式的幽默与戏剧张力，对话风趣，想象力无边无际。当庭审接近尾声，猎人被逼入绝境时，Schrödinger 猫用时间轮回的能力将她带回密室，重新来过。连续三次庭审层层递进，每次都在前一次的基础上加入新证据和新推理。最终真相复杂精妙，虽然略欠公平性，但法庭推理的惯用套路需要不断抛出新证据，所以仍可接受。本作的推理部分尚有提升空间，但故事的游戏性、趣味性，人物设定、剧情发展都堪称完美，值得推荐。
-
-:link: 7204
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room, dying message

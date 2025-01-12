@@ -1,3 +1,10 @@
+---
+category: French mystery
+tags:
+  - narrative_trick
+wordpress_id: 6607
+---
+
 # Michel Bussi, <i>Rien ne t’efface</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
@@ -23,9 +30,3 @@ Gabriel 是 Maddi 的亲生儿子，而不是男朋友（叙述性诡计）。Es
 </details>
 
 主人公单亲妈妈的儿子在十岁生日那天失踪，十年后主人公在海滩上见到一个和儿子相貌相同的十岁小孩，难道世上真的有转世一说？主人公搬到小男孩所在的小镇调查，发现小男孩和儿子有越来越多的共同点，与此同时镇上连续发生了两起谋杀案。本作继续挑战作者喜欢的“转世”题材，谜面强烈悬疑，谜底基本自圆其说，中间还掺入一个叙述性诡计。推荐。
-
-:link: 6607
-
-:file_folder: French mystery
-
-:label: narrative trick

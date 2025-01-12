@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 7041
+---
+
 # M. W. Craven, <i>The Botanist</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
@@ -31,9 +39,3 @@ Stahl 书中有一张 Beck 家的照片，里面有一个脱水器，警察到�
 </details>
 
 连续数起密室不可能毒杀，致敬 John Dickson Carr，解法在可行性方面做了大量功夫。雪地密室解法犯规，但重点并非密室，而在于解释第一发现人手上的不可能火药残余。情节抓人，节奏一流，如果非要挑毛病，主犯的一些行为过于大胆。强烈推荐。
-
-:link: 7041
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

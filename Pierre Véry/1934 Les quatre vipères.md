@@ -1,3 +1,12 @@
+---
+category: French mystery
+tags:
+  - impossible_crime
+  - locked_room
+  - multiple_solutions
+wordpress_id: 7194
+---
+
 # Pierre Véry, <i>Les quatre vipères</i> (1934)
 
 <img src=images/1934_cover.jpg width=250/>
@@ -37,9 +46,3 @@ Durban 在 Bourgeois 离开后不久潜入 Birdie 家偷钱，但不知钱的藏
 </details>
 
 故事以“玻璃蛇瓶”和“死亡气体”为核心线索，串联起四起错综复杂的案件，洋溢着法国浪漫冒险主义的独特风格。主打的第三起案件是一起双重密室不可能盗窃：有人从密室上锁的保险柜里偷走了装钱的信封，还在上面留下挑衅的字句，并将桌上的空玻璃蛇瓶替换为装有死亡气体的玻璃蛇瓶。故事中段巧妙设置伪解答，末尾揭露令人拍案叫绝的真解答，同时完成了剧情逆转。构思和叙事足以媲美同期的 John Dickson Carr。
-
-:link: 7194
-
-:file_folder: French mystery
-
-:label: impossible crime, locked room, multiple solutions

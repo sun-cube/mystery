@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 6723
+---
+
 # Anthony Horowitz, <i>Close to Death</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -47,9 +55,3 @@ Anthony 找到 John，得知 Daniel 的推理没有错，凶手就是 Adam，他
 </details>
 
 由邻里矛盾引发的杀人案，嫌疑犯留下遗书在车库的汽车中自杀，现场为双重密室。照例有作中作 meta 和大量的红鲱鱼误导，附加若干本格彩蛋（比如两个老太太开了一家本格推理书店，如果你要来买 Jo Nesbø，她们会立刻让你走人）。凶手深谋远虑，下了一盘大棋，动机隐蔽，诡计复杂而强悍。密室解答中规中矩，结尾三次逆转有加分。推荐。
-
-:link: 6723
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

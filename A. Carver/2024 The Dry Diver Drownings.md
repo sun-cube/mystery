@@ -1,3 +1,11 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 7100
+---
+
 # A. Carver, <i>The Dry Diver Drownings</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
@@ -51,9 +59,3 @@ Yva 把钓鱼线挂在剩下的衣钩上，另一头丢出窗外。Reef 按计�
 </details>
 
 两个剧组深夜来到某废弃大楼，联合拍摄《干潜者》的恐怖网剧，主角是一个穿潜水服的无头怪。拍摄过程中连续发生四起命案，其中包括三起密室消失和一起不可能溺死。众人目睹“干潜者”爬上高墙，半空坠落，潜水服内惊现之前的失踪尸体。真凶身份意外。
-
-:link: 7100
-
-:file_folder: English mystery
-
-:label: impossible crime, locked room

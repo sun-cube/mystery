@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6331
+---
+
 # Anthony Horowitz, <i>The Twist of a Knife</i> (2022)
 
 <img src=images/2022_cover.jpg width=250/>
@@ -35,7 +40,3 @@ Sky 和 Olivia 是同性恋。Jordan 和妻子吵架，露宿在剧院中（伏�
 </details>
 
 剧评家 Harriet 对主人公 Anthony Horowitz 的新剧作发表恶评，第二天早上在家中被杀，尸体上发现主人公的头发，匕首上也检测出主人公的指纹。典型的英式闭圈家访流，结尾逆转并揭露伏线。行文幽默，轻松易读，尤其是无处不在的自我贬损让人忍俊不禁。
-
-:link: 6331
-
-:file_folder: English mystery

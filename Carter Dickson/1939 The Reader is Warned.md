@@ -1,3 +1,10 @@
+---
+category: English mystery
+tags:
+  - impossible_crime
+wordpress_id: 6341
+---
+
 # Carter Dickson, <i>The Reader is Warned</i> (1939)
 
 <img src=images/1939_cover.jpg width=250/>
@@ -13,9 +20,3 @@ Hilary 把 Mina 用药迷晕，拖入浴缸用电暖气电死，再换衣服拖�
 </details>
 
 读心术师用意念波连杀两人，每次都有牢不可破的不在场证明。第一名死者在证人监视下扶着楼梯栏杆滑倒死亡，第二名死者在睡梦中死亡，房子一直有人监视。两名死者身上均无伤口，也没有中毒痕迹。诡计在今天或许不能成立，但考虑到 1939 年的法医条件可以接受。利用读心术做的误导十分优秀。
-
-:link: 6341
-
-:file_folder: English mystery
-
-:label: impossible crime

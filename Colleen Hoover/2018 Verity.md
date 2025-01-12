@@ -1,3 +1,8 @@
+---
+category: English mystery
+wordpress_id: 6697
+---
+
 # Colleen Hoover, <i>Verity</i> (2018)
 
 <img src=images/2018_cover.jpg width=250/>
@@ -55,7 +60,3 @@ Verity 遭遇写作瓶颈，编辑建议她尝试“对抗性写作”，即在�
 </details>
 
 在女儿的推荐下读了这本书，算是 horror romance，主要人物只有三个，用词也十分简单，阅读体验流畅。结尾的暗黑逆转意外性十足，说服力稍欠，适合拍成电影。
-
-:link: 6697
-
-:file_folder: English mystery
