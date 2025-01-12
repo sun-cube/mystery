@@ -1,4 +1,7 @@
 ---
+author: Carter Dickson
+title: She Died a Lady
+publication_year: 1943
 category: English mystery
 tags:
   - impossible_crime

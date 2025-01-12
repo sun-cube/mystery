@@ -1,4 +1,7 @@
 ---
+author: 彩坂美月
+title: double〜彼岸荘の殺人
+publication_year: 2024
 category: Japanese mystery
 tags:
   - impossible_crime

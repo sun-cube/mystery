@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: La quatrième porte
+publication_year: 1987
+---
 # Paul Halter, <i>La quatrième porte</i> (1987)
 
 中译《第四扇门》。

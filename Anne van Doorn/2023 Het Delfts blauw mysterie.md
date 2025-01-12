@@ -1,4 +1,7 @@
 ---
+author: Anne van Doorn
+title: Het Delfts blauw mysterie
+publication_year: 2023
 category: Dutch mystery
 tags:
   - impossible_crime

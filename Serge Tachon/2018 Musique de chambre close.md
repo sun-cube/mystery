@@ -1,4 +1,7 @@
 ---
+author: Serge Tachon
+title: Musique de chambre close
+publication_year: 2018
 category: French mystery
 tags:
   - impossible_crime

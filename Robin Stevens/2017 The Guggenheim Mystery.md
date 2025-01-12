@@ -1,4 +1,7 @@
 ---
+author: Robin Stevens
+title: The Guggenheim Mystery
+publication_year: 2017
 category: English mystery
 tags:
   - impossible_crime

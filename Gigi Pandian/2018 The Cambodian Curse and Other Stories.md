@@ -1,4 +1,7 @@
 ---
+author: Gigi Pandian
+title: The Cambodian Curse and Other Stories
+publication_year: 2018
 category: English mystery
 tags:
   - impossible_crime

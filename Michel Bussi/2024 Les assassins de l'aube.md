@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: Les assassins de l'aube
+publication_year: 2024
 category: French mystery
 tags:
   - impossible_crime

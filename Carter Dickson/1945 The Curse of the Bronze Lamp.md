@@ -1,4 +1,7 @@
 ---
+author: Carter Dickson
+title: The Curse of the Bronze Lamp
+publication_year: 1945
 category: English mystery
 tags:
   - impossible_crime

@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: L'homme qui aimait les nuages
+publication_year: 1999
+---
 # Paul Halter, <i>L'homme qui aimait les nuages</i> (1999)
 
 中译《看云的男人》。

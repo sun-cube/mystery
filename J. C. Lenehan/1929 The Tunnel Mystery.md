@@ -1,4 +1,7 @@
 ---
+author: J. C. Lenehan
+title: The Tunnel Mystery
+publication_year: 1929
 category: English mystery
 tags:
   - impossible_crime

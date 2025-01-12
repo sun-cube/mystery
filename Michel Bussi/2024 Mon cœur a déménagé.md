@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: Mon cœur a déménagé
+publication_year: 2024
 category: French mystery
 wordpress_id: 6444
 ---

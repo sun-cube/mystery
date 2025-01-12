@@ -1,4 +1,7 @@
 ---
+author: 岡崎琢磨
+title: Butterfly World 最後の六日間
+publication_year: 2021
 category: Japanese mystery
 tags:
   - impossible_crime

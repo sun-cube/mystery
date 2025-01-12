@@ -1,4 +1,7 @@
 ---
+author: Carter Dickson
+title: The Unicorn Murders
+publication_year: 1935
 category: English mystery
 tags:
   - impossible_crime

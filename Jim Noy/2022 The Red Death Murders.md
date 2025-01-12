@@ -1,4 +1,7 @@
 ---
+author: Jim Noy
+title: The Red Death Murders
+publication_year: 2022
 category: English mystery
 tags:
   - impossible_crime

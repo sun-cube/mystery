@@ -1,4 +1,7 @@
 ---
+author: Richard Osman
+title: The Man Who Died Twice
+publication_year: 2021
 category: English mystery
 wordpress_id: 6912
 ---

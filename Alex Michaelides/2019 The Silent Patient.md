@@ -1,4 +1,7 @@
 ---
+author: Alex Michaelides
+title: The Silent Patient
+publication_year: 2019
 category: English mystery
 tags:
   - narrative_trick

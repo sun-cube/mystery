@@ -1,4 +1,7 @@
 ---
+author: Anthony Horowitz
+title: The Twist of a Knife
+publication_year: 2022
 category: English mystery
 wordpress_id: 6331
 ---

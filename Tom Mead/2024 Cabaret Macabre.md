@@ -1,4 +1,7 @@
 ---
+author: Tom Mead
+title: Cabaret Macabre
+publication_year: 2024
 category: English mystery
 tags:
   - impossible_crime

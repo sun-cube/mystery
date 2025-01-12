@@ -1,4 +1,7 @@
 ---
+author: Claude Aveline
+title: The Double Death of Frederic Belot
+publication_year: 1932
 category: French mystery
 tags:
   - impossible_crime

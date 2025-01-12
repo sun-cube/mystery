@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: Le cercle invisible
+publication_year: 1996
+---
 # Paul Halter, <i>Le cercle invisible</i> (1996)
 
 中译《隐形圈》。

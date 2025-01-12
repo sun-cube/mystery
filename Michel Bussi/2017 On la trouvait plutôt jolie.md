@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: On la trouvait plutôt jolie
+publication_year: 2017
 category: French mystery
 tags:
   - narrative_trick

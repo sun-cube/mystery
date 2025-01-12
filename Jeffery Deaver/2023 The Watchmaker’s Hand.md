@@ -1,4 +1,7 @@
 ---
+author: Jeffery Deaver
+title: The Watchmaker’s Hand
+publication_year: 2023
 category: English mystery
 wordpress_id: 7020
 ---

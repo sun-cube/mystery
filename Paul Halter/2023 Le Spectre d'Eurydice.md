@@ -1,4 +1,7 @@
 ---
+author: Paul Halter
+title: Le Spectre d'Eurydice
+publication_year: 2023
 category: French mystery
 tags:
   - impossible_crime

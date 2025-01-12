@@ -1,4 +1,7 @@
 ---
+author: Benjamin Stevenson
+title: Everyone This Christmas Has a Secret
+publication_year: 2024
 category: English mystery
 tags:
   - impossible_crime

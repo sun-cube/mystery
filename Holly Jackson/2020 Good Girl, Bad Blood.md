@@ -1,4 +1,7 @@
 ---
+author: Holly Jackson
+title: Good Girl, Bad Blood
+publication_year: 2020
 category: English mystery
 wordpress_id: 6391
 ---

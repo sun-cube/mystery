@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: Rien ne t’efface
+publication_year: 2022
 category: French mystery
 tags:
   - narrative_trick

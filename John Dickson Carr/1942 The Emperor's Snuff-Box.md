@@ -1,5 +1,4 @@
-# John Dickson Carr, <i>The Emperor's Snuff-Box
-</i> (1942)
+# John Dickson Carr, <i>The Emperor's Snuff-Box</i> (1942)
 
 <img src=images/1942_cover.jpg width=250/>
 

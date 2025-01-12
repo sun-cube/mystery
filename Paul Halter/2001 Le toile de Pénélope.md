@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: Le toile de Pénélope
+publication_year: 2001
+---
 # Paul Halter, <i>Le toile de Pénélope</i> (2001)
 
 中译《佩内洛普的网》。

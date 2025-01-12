@@ -1,4 +1,7 @@
 ---
+author: H. M. Faust
+title: An Odyssey to the Castle of Vampires
+publication_year: 2023
 category: English mystery
 tags:
   - impossible_crime

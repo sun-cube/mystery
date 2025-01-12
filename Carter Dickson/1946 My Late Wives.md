@@ -1,4 +1,7 @@
 ---
+author: Carter Dickson
+title: My Late Wives
+publication_year: 1946
 category: English mystery
 tags:
   - impossible_crime

@@ -1,4 +1,7 @@
 ---
+author: Carter Dickson
+title: The Ten Teacups
+publication_year: 1937
 category: English mystery
 tags:
   - impossible_crime

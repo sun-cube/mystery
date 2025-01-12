@@ -1,4 +1,7 @@
 ---
+author: Jérôme Loubry
+title: Les refuges
+publication_year: 2019
 category: French mystery
 wordpress_id: 7089
 ---

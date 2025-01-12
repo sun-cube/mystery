@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: La septième hypothèse
+publication_year: 1991
+---
 # Paul Halter, <i>La septième hypothèse</i> (1991)
 
 中译《第七重解答》。

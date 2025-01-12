@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: Sang famille
+publication_year: 2009
 category: French mystery
 wordpress_id: 6113
 ---

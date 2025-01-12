@@ -1,4 +1,7 @@
 ---
+author: J. L. Blackhurst
+title: Smoke and Murders
+publication_year: 2024
 category: English mystery
 tags:
   - impossible_crime

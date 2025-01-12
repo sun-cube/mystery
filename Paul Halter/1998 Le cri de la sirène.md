@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: Le cri de la sirène
+publication_year: 1998
+---
 # Paul Halter, <i>Le cri de la sirène</i> (1998)
 
 中译《女妖的叫声》。

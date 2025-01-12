@@ -1,4 +1,7 @@
 ---
+author: A. Carver
+title: The Dry Diver Drownings
+publication_year: 2024
 category: English mystery
 tags:
   - impossible_crime

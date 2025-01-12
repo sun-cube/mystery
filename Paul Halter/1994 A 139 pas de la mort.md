@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: A 139 pas de la mort
+publication_year: 1994
+---
 # Paul Halter, <i>A 139 pas de la mort</i> (1994)
 
 中译《最后的139步》。

@@ -1,4 +1,7 @@
 ---
+author: Carter Dickson
+title: The Reader is Warned
+publication_year: 1939
 category: English mystery
 tags:
   - impossible_crime

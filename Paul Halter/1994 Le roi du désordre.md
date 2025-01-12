@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: Le roi du désordre
+publication_year: 1994
+---
 # Paul Halter, <i>Le roi du désordre</i> (1994)
 
 中译《混乱之王》。

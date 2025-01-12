@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: La nuit du loup
+publication_year: 2000
+---
 # Paul Halter, <i>La nuit du loup</i> (2000)
 
 中译《恶狼之夜》。

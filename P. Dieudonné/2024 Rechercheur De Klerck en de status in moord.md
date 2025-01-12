@@ -1,4 +1,7 @@
 ---
+author: P. Dieudonné
+title: Rechercheur De Klerck en de status in moord
+publication_year: 2024
 category: Dutch mystery
 wordpress_id: 7280
 ---

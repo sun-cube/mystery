@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: L'image trouble
+publication_year: 1995
+---
 # Paul Halter, <i>L'image trouble</i> (1995)
 
 中译《画中疑云》。

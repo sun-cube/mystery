@@ -1,9 +1,12 @@
 ---
+author: Harlan Coben
+title: Think Twice
+publication_year: 2024
 category: English mystery
 wordpress_id: 6950
 ---
 
-# Harlan Coben, Think Twice (2024)
+# Harlan Coben, <i>Think Twice</i> (2024)
 
 <img src=images/2024_cover.jpg width=250/>
 

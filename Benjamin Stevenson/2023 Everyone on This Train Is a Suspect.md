@@ -1,4 +1,7 @@
 ---
+author: Benjamin Stevenson
+title: Everyone on This Train Is a Suspect
+publication_year: 2023
 category: English mystery
 wordpress_id: 6667
 ---

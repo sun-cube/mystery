@@ -1,4 +1,7 @@
 ---
+author: Valentin Musso
+title: Le mystère de la maison aux trois ormes
+publication_year: 2024
 category: French mystery
 tags:
   - impossible_crime

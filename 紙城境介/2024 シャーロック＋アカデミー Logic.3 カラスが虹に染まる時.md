@@ -1,4 +1,7 @@
 ---
+author: 紙城境介
+title: シャーロック＋アカデミー Logic.3 カラスが虹に染まる時
+publication_year: 2024
 category: Japanese mystery
 tags:
   - impossible_crime

@@ -1,4 +1,7 @@
 ---
+author: Jo Nesbø
+title: Panserhjerte
+publication_year: 2009
 category: Norwegian mystery
 tags:
   - narrative_trick

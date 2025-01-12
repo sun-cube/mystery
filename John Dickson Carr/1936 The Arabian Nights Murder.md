@@ -1,4 +1,7 @@
 ---
+author: John Dickson Carr
+title: The Arabian Nights Murder
+publication_year: 1936
 category: English mystery
 tags:
   - multiple_solutions

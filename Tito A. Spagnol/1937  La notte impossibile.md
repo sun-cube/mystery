@@ -1,4 +1,7 @@
 ---
+author: Tito A. Spagnol
+title: La notte impossibile
+publication_year: 1937
 category: Italian mystery
 tags:
   - impossible_crime

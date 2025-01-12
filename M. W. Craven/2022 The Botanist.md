@@ -1,4 +1,7 @@
 ---
+author: M. W. Craven
+title: The Botanist
+publication_year: 2022
 category: English mystery
 tags:
   - impossible_crime

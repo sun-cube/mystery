@@ -1,4 +1,7 @@
 ---
+author: Richard Osman
+title: We Solve Murders
+publication_year: 2024
 category: English mystery
 wordpress_id: 7189
 ---

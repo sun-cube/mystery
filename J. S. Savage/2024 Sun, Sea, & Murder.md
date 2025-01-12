@@ -1,4 +1,7 @@
 ---
+author: J. S. Savage
+title: Sun, Sea, & Murder
+publication_year: 2024
 category: English mystery
 tags:
   - impossible_crime

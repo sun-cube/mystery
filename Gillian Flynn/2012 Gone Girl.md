@@ -1,4 +1,7 @@
 ---
+author: Gillian Flynn
+title: Gone Girl
+publication_year: 2012
 category: English mystery
 wordpress_id: 6719
 ---

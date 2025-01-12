@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: Trois vies par semaine
+publication_year: 2023
 category: French mystery
 tags:
   - narrative_trick

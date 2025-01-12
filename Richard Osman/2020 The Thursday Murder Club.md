@@ -1,4 +1,7 @@
 ---
+author: Richard Osman
+title: The Thursday Murder Club
+publication_year: 2020
 category: English mystery
 wordpress_id: 6146
 ---

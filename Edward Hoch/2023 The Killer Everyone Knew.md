@@ -1,4 +1,7 @@
 ---
+author: Edward Hoch
+title: The Killer Everyone Knew and Other Captain Leopold Stories
+publication_year: 2023
 category: English mystery
 tags:
   - impossible_crime

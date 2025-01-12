@@ -1,4 +1,7 @@
 ---
+author: Dan Andriacco
+title: The English Garden Mystery
+publication_year: 2022
 category: English mystery
 tags:
   - dying_message

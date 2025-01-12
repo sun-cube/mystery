@@ -1,4 +1,7 @@
 ---
+author: Paul Halter
+title: La Tour du passé
+publication_year: 2024
 category: French mystery
 tags:
   - impossible_crime

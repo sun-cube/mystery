@@ -1,4 +1,7 @@
 ---
+author: Freida McFadden
+title: The Housemaid
+publication_year: 2022
 category: English mystery
 wordpress_id: 6942
 ---

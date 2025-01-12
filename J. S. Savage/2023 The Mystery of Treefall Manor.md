@@ -1,4 +1,7 @@
 ---
+author: J. S. Savage
+title: The Mystery of Treefall Manor
+publication_year: 2023
 category: English mystery
 tags:
   - impossible_crime

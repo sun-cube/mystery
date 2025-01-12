@@ -1,4 +1,7 @@
 ---
+author: Tom Mead
+title: Death and the Conjuror
+publication_year: 2022
 category: English mystery
 tags:
   - impossible_crime

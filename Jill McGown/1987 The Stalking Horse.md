@@ -1,4 +1,7 @@
 ---
+author: Jill McGown
+title: The Stalking Horse
+publication_year: 1987
 category: English mystery
 wordpress_id: 6636
 ---

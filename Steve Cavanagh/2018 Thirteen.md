@@ -1,4 +1,7 @@
 ---
+author: Steve Cavanagh
+title: Thirteen
+publication_year: 2018
 category: English mystery
 tags:
   - impossible_crime

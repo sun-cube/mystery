@@ -1,4 +1,7 @@
 ---
+author: James Scott Byrnside
+title: Monkey See, Monkey Murder
+publication_year: 2023
 category: English mystery
 tags:
   - impossible_crime

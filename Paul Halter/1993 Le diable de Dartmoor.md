@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: Le diable de Dartmoor
+publication_year: 1993
+---
 # Paul Halter, <i>Le diable de Dartmoor</i> (1993)
 
 中译《达特穆尔的恶魔》。

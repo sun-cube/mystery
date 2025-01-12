@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: Le mystère de l'Allée des Anges
+publication_year: 1999
+---
 # Paul Halter, <i>Le mystère de l'Allée des Anges</i> (1999)
 
 中译《天使小巷之谜》。

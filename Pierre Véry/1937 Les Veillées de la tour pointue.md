@@ -1,4 +1,7 @@
 ---
+author: Pierre Véry
+title: Les Veillées de la tour pointue
+publication_year: 1937
 category: French mystery
 tags:
   - impossible_crime

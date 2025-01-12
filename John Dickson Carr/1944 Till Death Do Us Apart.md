@@ -1,4 +1,7 @@
 ---
+author: John Dickson Carr
+title: Till Death Do Us Part
+publication_year: 1944
 category: English mystery
 tags:
   - impossible_crime

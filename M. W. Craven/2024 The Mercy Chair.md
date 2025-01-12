@@ -1,4 +1,7 @@
 ---
+author: M. W. Craven
+title: The Mercy Chair
+publication_year: 2024
 category: English mystery
 tags:
   - narrative_trick

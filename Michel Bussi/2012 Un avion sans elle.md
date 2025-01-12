@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: Un avion sans elle
+publication_year: 2012
 category: French mystery
 wordpress_id: 6292
 ---

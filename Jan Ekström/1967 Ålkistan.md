@@ -1,4 +1,7 @@
 ---
+author: Jan Ekström
+title: Ålkistan
+publication_year: 1967
 category: Swedish mystery
 tags:
   - impossible_crime

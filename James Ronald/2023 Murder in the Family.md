@@ -1,4 +1,7 @@
 ---
+author: James Ronald
+title: Murder in the Family
+publication_year: 2023
 category: English mystery
 wordpress_id: 6735
 ---

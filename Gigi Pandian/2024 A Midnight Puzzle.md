@@ -1,4 +1,7 @@
 ---
+author: Gigi Pandian
+title: A Midnight Puzzle
+publication_year: 2024
 category: English mystery
 tags:
   - impossible_crime

@@ -1,4 +1,7 @@
 ---
+author: Guillermo Martínez
+title: Crímenes imperceptibles
+publication_year: 2003
 category: Argentine mystery
 tags:
   - multiple_solutions

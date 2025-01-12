@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: La Lettre qui tue
+publication_year: 1992
+---
 # Paul Halter, <i>La Lettre qui tue</i> (1992)
 
 中译《假面游戏》、《杀人的信》。

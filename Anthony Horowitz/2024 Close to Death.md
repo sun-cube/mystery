@@ -1,4 +1,7 @@
 ---
+author: Anthony Horowitz
+title: Close to Death
+publication_year: 2024
 category: English mystery
 tags:
   - impossible_crime

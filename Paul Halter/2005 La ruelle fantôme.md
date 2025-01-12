@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: La ruelle fantôme
+publication_year: 2005
+---
 # Paul Halter, <i>La ruelle fantôme</i> (2005)
 
 中译《幻影小巷》。

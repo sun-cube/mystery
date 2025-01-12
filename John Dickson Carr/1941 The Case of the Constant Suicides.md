@@ -1,3 +1,9 @@
+---
+author: John Dickson Carr
+title: The Case of the Constant Suicides
+publication_year: 1941
+---
+
 # John Dickson Carr, <i>The Case of the Constant Suicides</i> (1941)
 
 <img src=images/1941_cover_2.jpg width=250/>

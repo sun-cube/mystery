@@ -1,4 +1,7 @@
 ---
+author: Hafeez Diwan
+title: The Impossible Murder of Headless in Houston
+publication_year: 2023
 category: English mystery
 tags:
   - impossible_crime

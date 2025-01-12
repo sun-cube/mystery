@@ -1,4 +1,7 @@
 ---
+author: Carter Dickson
+title: The Gilded Man
+publication_year: 1942
 category: English mystery
 tags:
   - narrative_trick

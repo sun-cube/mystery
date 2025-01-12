@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: Nymphéas noirs
+publication_year: 2011
 category: French mystery
 tags:
   - narrative_trick

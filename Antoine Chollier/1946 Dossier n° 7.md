@@ -1,4 +1,7 @@
 ---
+author: Antoine Chollier
+title: Dossier n° 7
+publication_year: 1946
 category: French mystery
 tags:
   - impossible_crime

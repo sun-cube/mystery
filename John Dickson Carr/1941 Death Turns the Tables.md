@@ -1,4 +1,7 @@
 ---
+author: John Dickson Carr
+title: Death Turns the Tables
+publication_year: 1941
 category: English mystery
 tags:
   - multiple_solutions

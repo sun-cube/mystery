@@ -1,4 +1,7 @@
 ---
+author: Pierre Véry
+title: Les quatre vipères
+publication_year: 1934
 category: French mystery
 tags:
   - impossible_crime

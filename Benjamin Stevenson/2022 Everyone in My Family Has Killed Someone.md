@@ -1,4 +1,7 @@
 ---
+author: Benjamin Stevenson
+title: Everyone in My Family Has Killed Someone
+publication_year: 2022
 category: English mystery
 wordpress_id: 7209
 ---

@@ -1,4 +1,7 @@
 ---
+author: Colleen Hoover
+title: Verity
+publication_year: 2018
 category: English mystery
 wordpress_id: 6697
 ---

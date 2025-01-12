@@ -1,4 +1,7 @@
 ---
+author: Kristen Perrin
+title: How to Solve Your Own Murder
+publication_year: 2024
 category: English mystery
 wordpress_id: 6740
 ---

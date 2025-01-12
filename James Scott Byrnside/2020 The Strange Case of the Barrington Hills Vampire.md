@@ -1,4 +1,7 @@
 ---
+author: James Scott Byrnside
+title: The Strange Case of the Barrington Hills Vampire
+publication_year: 2020
 category: English mystery
 tags:
   - impossible_crime

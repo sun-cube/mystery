@@ -1,4 +1,7 @@
 ---
+author: James Ronald
+title: The Sealed Room Murder
+publication_year: 2024
 category: English mystery
 tags:
   - impossible_crime

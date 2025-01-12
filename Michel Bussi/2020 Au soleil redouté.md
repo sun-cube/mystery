@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: Au soleil redouté
+publication_year: 2020
 category: French mystery
 tags:
   - narrative_trick

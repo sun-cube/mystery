@@ -1,3 +1,8 @@
+---
+author: Paul Halter
+title: Les sept merveilles du crime
+publication_year: 1997
+---
 # Paul Halter, <i>Les sept merveilles du crime</i> (1997)
 
 中译《犯罪七大奇迹》。

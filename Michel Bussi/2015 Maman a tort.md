@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: Maman a tort
+publication_year: 2015
 category: French mystery
 wordpress_id: 6138
 ---

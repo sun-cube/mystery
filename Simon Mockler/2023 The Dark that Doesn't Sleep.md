@@ -1,4 +1,7 @@
 ---
+author: Simon Mockler
+title: The Dark that Doesn't Sleep
+publication_year: 2023
 category: English mystery
 wordpress_id: 7074
 ---

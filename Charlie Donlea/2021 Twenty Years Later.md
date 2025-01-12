@@ -1,4 +1,7 @@
 ---
+author: Charlie Donlea
+title: Twenty Years Later
+publication_year: 2021
 category: English mystery
 wordpress_id: 6685
 ---

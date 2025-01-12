@@ -1,4 +1,7 @@
 ---
+author: Samuel August Duse
+title: Doktor Smirnos dagbok
+publication_year: 1917
 category: Swedish mystery
 tags:
   - narrative_trick

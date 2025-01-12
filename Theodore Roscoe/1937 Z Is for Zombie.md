@@ -1,4 +1,7 @@
 ---
+author: Theodore Roscoe
+title: Z Is for Zombie
+publication_year: 1937
 category: English mystery
 tags:
   - impossible_crime

@@ -1,4 +1,7 @@
 ---
+author: 相沢沙呼
+title: invert II 覗き窓の死角
+publication_year: 2022
 category: Japanese mystery
 tags:
   - inverted_mystery

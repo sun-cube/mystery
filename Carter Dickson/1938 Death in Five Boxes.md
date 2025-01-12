@@ -1,4 +1,7 @@
 ---
+author: Carter Dickson
+title: Death in Five Boxes
+publication_year: 1938
 category: English mystery
 tags:
   - impossible_crime

@@ -1,4 +1,7 @@
 ---
+author: Holly Jackson
+title: A Good Girl's Guide to Murder
+publication_year: 2019
 category: English mystery
 wordpress_id: 6385
 ---

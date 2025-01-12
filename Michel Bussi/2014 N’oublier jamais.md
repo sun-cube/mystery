@@ -1,4 +1,7 @@
 ---
+author: Michel Bussi
+title: N’oublier jamais
+publication_year: 2014
 category: French mystery
 wordpress_id: 6098
 ---

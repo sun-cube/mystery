@@ -1,4 +1,7 @@
 ---
+author: John Dickson Carr
+title: The Problem of the Wire Cage
+publication_year: 1939
 category: English mystery
 tags:
   - impossible_crime

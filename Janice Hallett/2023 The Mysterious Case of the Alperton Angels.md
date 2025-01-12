@@ -1,4 +1,7 @@
 ---
+author: Janice Hallett
+title: The Mysterious Case of the Alperton Angels
+publication_year: 2023
 category: English mystery
 wordpress_id: 6793
 ---

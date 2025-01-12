@@ -1,4 +1,7 @@
 ---
+author: D. L. Marshall
+title: Anthrax Island
+publication_year: 2021
 category: English mystery
 tags:
   - impossible_crime

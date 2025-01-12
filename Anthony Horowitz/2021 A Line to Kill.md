@@ -1,4 +1,7 @@
 ---
+author: Anthony Horowitz
+title: A Line to Kill
+publication_year: 2021
 category: English mystery
 wordpress_id: 6417
 ---

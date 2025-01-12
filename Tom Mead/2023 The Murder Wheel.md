@@ -1,4 +1,7 @@
 ---
+author: Tom Mead
+title: The Murder Wheel
+publication_year: 2023
 category: English mystery
 tags:
   - impossible_crime
