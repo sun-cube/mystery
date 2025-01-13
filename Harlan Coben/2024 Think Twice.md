@@ -38,12 +38,10 @@ Emily 在 Jeremy 的房间床下发现一部手机，给 Jeremy 打电话打不�
 
 【杀手】你看到 Myron 急匆匆地走上小路，突然躲到树后。你看到 Myron 手机上的图片，十分惊讶。你向 Myron 开枪。
 
-<details><summary>真相（一）</summary>
-连环杀手是 Grace，她是照片中戴棒球帽的人。Grace 开枪击中 Myron，Jeremy 试图阻止，Greg 看到 Grace 向自己儿子 Jeremy 开枪，抢先将 Grace 击毙。Grace 杀死 Jordan 是因为他毁了她儿子 Bo 的生活，陷害 Joey 是为了一石二鸟。<b>作者在凶手视角章节采用第二人称叙事，是为了隐藏凶手是女性的事实。</b>
-</details>
+> [!spoiler]- 真相（一）
+> 连环杀手是 Grace，她是照片中戴棒球帽的人。Grace 开枪击中 Myron，Jeremy 试图阻止，Greg 看到 Grace 向自己儿子 Jeremy 开枪，抢先将 Grace 击毙。Grace 杀死 Jordan 是因为他毁了她儿子 Bo 的生活，陷害 Joey 是为了一石二鸟。<b>作者在凶手视角章节采用第二人称叙事，是为了隐藏凶手是女性的事实。</b>
 
-<details><summary>真相（二）</summary>
-Greg 和 Grace 合作杀人，杀死 Clay 时被抓了皮肤，留下了 DNA 证据。Greg 被捕后 Grace 给 FBI 打了匿名电话，指出数起谋杀案都是同一凶手所为。Grace 杀死 Prine，替正在坐牢的 Greg 脱罪。Greg 最后跳楼自杀。
-</details>
+> [!spoiler]- 真相（二）
+> Greg 和 Grace 合作杀人，杀死 Clay 时被抓了皮肤，留下了 DNA 证据。Greg 被捕后 Grace 给 FBI 打了匿名电话，指出数起谋杀案都是同一凶手所为。Grace 杀死 Prine，替正在坐牢的 Greg 脱罪。Greg 最后跳楼自杀。
 
 某个“连环嫁祸杀人狂”每次作案后都故意留下指向别人的证据，结尾真凶揭晓有一定意外，但因为缺乏伏线所以显得过于随机。标题 <i>Think Twice</i> 有玄机。

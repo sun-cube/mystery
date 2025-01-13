@@ -27,10 +27,9 @@ H.M. 注意到失踪的三名女人居住地点附近都有高尔夫球场，于
 
 H.M. 带 Beryl、Dennis 二人到了一间废弃军事学校，里面挂了许多用作射击训练的人偶，其中一个是 Lyons 的尸体。H.M. 破解第四起失踪案中的尸体密室消失。Horace 在小屋外偷听，被 H.M. 擒获。
 
-<details><summary>真相</summary>
-Bewlay 不应该知道 Lyons 的目击内容，但是他却知道，这是因为 Lyons 一人分饰二角，同时扮演 Lyons 和 Bewlay 太太，小屋里从来没有尸体，Lyons 说看到“Bewlay 太太”被杀是说谎。Lyons 在文印社看到手稿，认出来作者是 Bewlay，于是去找 Bruce 确认作者身份。Bruce 邀请 Lyons 来 Aldebridge 辨认凶手，结果 Lyons 被凶手灭口。
+> [!spoiler]- 真相
+> Bewlay 不应该知道 Lyons 的目击内容，但是他却知道，这是因为 Lyons 一人分饰二角，同时扮演 Lyons 和 Bewlay 太太，小屋里从来没有尸体，Lyons 说看到“Bewlay 太太”被杀是说谎。Lyons 在文印社看到手稿，认出来作者是 Bewlay，于是去找 Bruce 确认作者身份。Bruce 邀请 Lyons 来 Aldebridge 辨认凶手，结果 Lyons 被凶手灭口。
 
-第二个受害人 Elizabeth Mosnar 是 Bruce Ransom 的弟弟，Ransom 是 Mosnar 的字母倒写。Jonathan 是 Bewlay，是他给 Bruce 寄了手稿，也是他进入文印社偷走手稿。（伏线：Jonathan 说漏嘴“没有手稿就没法排戏”，但手稿在文印社失窃是绝密信息。）Jonathan 在高尔夫球场的沙坑杀死 Lyons，开车把尸体运到靴子旅馆（伏线：汽车后座有浅的沙印），藏在 Bruce 的衣柜里。Daphane 不是 Jonathan 的亲生女儿。Daphne 偷了 Jonathan 的便携打字机借给 Bruce，Jonathan 扇了 Bruce 一巴掌之后注意到房间里的打字机，所以伺机将其破坏，防止字迹比对暴露自己打印手稿的事实。Bruce 回到房间，在地上看到自己留给 Dennis 的打印纸条和一张 H.M. 掉落的手稿，二者打印字迹相同，于是获知 Jonathan 的真实身份，与 Masters、H.M. 合作将 Jonathan 擒获。Daphne 留下私奔字条是为了引诱 Jonathan 行动。三名受害者的尸体都埋在高尔夫球场的沙坑下面，因为经常有人踩踏，所以没有引发怀疑。结尾 Dennis 和 Daphne 恋爱。
-</details>
+> 第二个受害人 Elizabeth Mosnar 是 Bruce Ransom 的弟弟，Ransom 是 Mosnar 的字母倒写。Jonathan 是 Bewlay，是他给 Bruce 寄了手稿，也是他进入文印社偷走手稿。（伏线：Jonathan 说漏嘴“没有手稿就没法排戏”，但手稿在文印社失窃是绝密信息。）Jonathan 在高尔夫球场的沙坑杀死 Lyons，开车把尸体运到靴子旅馆（伏线：汽车后座有浅的沙印），藏在 Bruce 的衣柜里。Daphane 不是 Jonathan 的亲生女儿。Daphne 偷了 Jonathan 的便携打字机借给 Bruce，Jonathan 扇了 Bruce 一巴掌之后注意到房间里的打字机，所以伺机将其破坏，防止字迹比对暴露自己打印手稿的事实。Bruce 回到房间，在地上看到自己留给 Dennis 的打印纸条和一张 H.M. 掉落的手稿，二者打印字迹相同，于是获知 Jonathan 的真实身份，与 Masters、H.M. 合作将 Jonathan 擒获。Daphne 留下私奔字条是为了引诱 Jonathan 行动。三名受害者的尸体都埋在高尔夫球场的沙坑下面，因为经常有人踩踏，所以没有引发怀疑。结尾 Dennis 和 Daphne 恋爱。
 
 年轻演员收到一份手稿，里面详细记录了四名女性连续失踪案的细节，包括一起监视密室脱逃，作者疑似在逃犯人。演员为了体验生活，来到小镇扮演犯人，不料在那里遇到真的杀人案。情节一波三折，展现出作者善于编故事的特质，但有点过于戏剧化，几个配角比 H.M. 更加出彩。

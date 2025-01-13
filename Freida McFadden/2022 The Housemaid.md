@@ -26,14 +26,13 @@ Millie 回家后发现忘了倒垃圾。Andrew 出价 50 美元让 Enzo 把垃�
 
 第二天 Millie 醒来，Andrew 说要给她转正。Millie 收到几个未知号码来电，认为是 Nina，便没有接听。Andrew 不满意 Enzo 一大早就来到花园，将他当场解雇。Enzo 淡然接受，临走时再次警告 Millie 有危险，Millie 惊讶地发现 Enzo 讲得一口流利的英语。Millie 购物时遇到另一个家长 Patricia，她说 Nina 没有参加预定的早午餐，还透露 Nina 在 Millie 的手机上装了跟踪应用，所以知道 Millie 的实时位置，Millie 震惊之余立即回家。Millie 接到一个未知来电，有人用变声器说“远离 Andrew！”Millie 上阁楼收拾东西，打算搬到楼下。Andrew 回家，Millie 和他在阁楼做爱后入睡，夜里三点醒来，想去洗手间时却发现房门锁住。
 
-<details><summary>真相</summary>
-Nina 一夜情怀孕，不得不退学工作。Andrew 是她公司的 CEO，迷人且英俊，主动约 Nina 出去，二人很快坠入爱河并结婚，但婚后 Andrew 暴露出隐藏的虐待倾向，经常因小过错将 Nina 锁在阁楼里施加酷刑。Andrew 给 Nina 和 Cecelia 下药，把 Cecelia 放在浴缸里，伪装成是 Nina 所为，导致 Nina 被送进精神病院，诊断为抑郁症和妄想症。Nina 向 Enzo 倾诉，Enzo 告诉她自己的姐姐曾因丈夫虐待而死亡，承诺帮助 Nina 逃走。
+> [!spoiler]- 真相
+> Nina 一夜情怀孕，不得不退学工作。Andrew 是她公司的 CEO，迷人且英俊，主动约 Nina 出去，二人很快坠入爱河并结婚，但婚后 Andrew 暴露出隐藏的虐待倾向，经常因小过错将 Nina 锁在阁楼里施加酷刑。Andrew 给 Nina 和 Cecelia 下药，把 Cecelia 放在浴缸里，伪装成是 Nina 所为，导致 Nina 被送进精神病院，诊断为抑郁症和妄想症。Nina 向 Enzo 倾诉，Enzo 告诉她自己的姐姐曾因丈夫虐待而死亡，承诺帮助 Nina 逃走。
 
-Nina 通过私家侦探了解到 Millie 的暴力黑历史，于是雇 Millie 来杀死 Andrew，但对 Enzo 隐瞒了该计划。Nina 故意刁难 Millie，让 Millie 以受害者的身份赢得 Andrew 的同情，还制造机会让二人独处。最终 Andrew 和 Millie 发生关系，把 Nina 赶出家门。Andrew 在阁楼虐待 Millie，Millie 趁机用 Nina 留在房间里的胡椒喷雾制服 Andrew，并抢走 Andrew 的手机，把他锁在阁楼里同法虐待。
+> Nina 通过私家侦探了解到 Millie 的暴力黑历史，于是雇 Millie 来杀死 Andrew，但对 Enzo 隐瞒了该计划。Nina 故意刁难 Millie，让 Millie 以受害者的身份赢得 Andrew 的同情，还制造机会让二人独处。最终 Andrew 和 Millie 发生关系，把 Nina 赶出家门。Andrew 在阁楼虐待 Millie，Millie 趁机用 Nina 留在房间里的胡椒喷雾制服 Andrew，并抢走 Andrew 的手机，把他锁在阁楼里同法虐待。
 
-Enzo 和 Nina 回到家，在楼上发现了 Andrew 的腐烂尸体，Millie 现身并哭泣，担心自己会被终身监禁。Nina 让 Millie 离开。警方将 Andrew 的死定性为意外事件。在 Andrew 的守灵会上，Andrew 的母亲 Evelyn 透露她在 Andrew 小时候用类似的方法管教过他，还称赞 Nina 用同样的方式管教了 Andrew。
+> Enzo 和 Nina 回到家，在楼上发现了 Andrew 的腐烂尸体，Millie 现身并哭泣，担心自己会被终身监禁。Nina 让 Millie 离开。警方将 Andrew 的死定性为意外事件。在 Andrew 的守灵会上，Andrew 的母亲 Evelyn 透露她在 Andrew 小时候用类似的方法管教过他，还称赞 Nina 用同样的方式管教了 Andrew。
 
-Nina 和 Cecelia 移居加州，Millie 则靠 Nina 寄给她的钱生活。一年后，Millie 在另一户人家面试工作，Nina 向女主人推荐了 Millie。Millie 发现这位女主人也遭受虐待，向她保证自己可以胜任这份工作。
-</details>
+> Nina 和 Cecelia 移居加州，Millie 则靠 Nina 寄给她的钱生活。一年后，Millie 在另一户人家面试工作，Nina 向女主人推荐了 Millie。Millie 发现这位女主人也遭受虐待，向她保证自己可以胜任这份工作。
 
 故事第一部分以女佣视角讲述，第二部分以女主人视角讲述，中间发生转折。剧情比较老套，节奏控制得不错。

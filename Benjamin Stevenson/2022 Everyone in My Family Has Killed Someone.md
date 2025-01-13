@@ -26,8 +26,7 @@ Andy、Ernie、Juliette、Gavin 在滑雪场附近寻找 Lucy。Gavin 调出宾�
 
 Ernie 质问 Audrey 为什么去找 McAuley 夫妇，她承认知道 Robert 手中有证据照片，但她一直没能找到。原来那天匪徒抢劫 Audrey 工作的银行，是为了找那些证据照片。Audrey 没能拿出照片，所以匪徒从车里绑架了 Jeremy，这也是为什么 Audrey 没有立即为儿子举办葬礼，而是等到七年后法律承认儿子死亡。Ernie 给 Marcelo 看从他车上的 GPS，怀疑他是 Gavin 找来的投资者，Marcelo 承认，但坚称没有杀人。
 
-<details><summary>真相</summary>
-Marcelo 将卡车推进湖里，是为了保护 Michael，防止尸体被发现。Katherine 潜入 Sofia 的小屋打电话，她本想打给 Andy，让他帮忙看时间以避开雪地摄像头的检测，目的是拿走 Sofia 正在戒断的羟考酮药片。Sofia 为了筹钱，给 Marcelo 做肩部手术时用假表换掉了他的劳力士手表（伏线：Marcelo 打了 Ernie 下巴一拳，但 Ernie 伤势不重）。劳力士手表里有微点照片，只有用放大镜才能读取。Sofia 把表卖到了 Alan 的当铺，Alan 意识到表属于 Robert，并且微点里有照片。Robert 射杀了警察 Brian Clarke，Michael 和 Erin 挖出了 Brian 的棺材，开卡车运了过来，棺材里有一具尸体是 Rebecca McAuley。Michael 计划将表和 Rebecca 的尸体卖给 McAuley 夫妇，索要双倍赎金，Audrey 知晓他的计划。Lucy 认出雪地死者是在她来小屋的路上给她开超速罚单的警察，她从屋顶跳下是为躲避凶手。Crawford = Jeremy，他是连环杀手“黑舌”，杀死警察后换上了死者的警服（伏线：制服袖口的血迹在内侧而不是外侧）。Alan 没有杀死 Jeremy，而是将他交给 Mark & Janine Williams 夫妇抚养，Jeremy 得知自己身份后将夫妇俩杀害。Jeremy 在监狱中曾与 Michael 和 Lucy 联系，希望得到家庭接纳。结尾 Ernie 解开了 Michael 留在 BINGO 卡上的照片线索，Rebecca McAuley 的杀手是她的父亲 Edgar。
-</details>
+> [!spoiler]- 真相
+> Marcelo 将卡车推进湖里，是为了保护 Michael，防止尸体被发现。Katherine 潜入 Sofia 的小屋打电话，她本想打给 Andy，让他帮忙看时间以避开雪地摄像头的检测，目的是拿走 Sofia 正在戒断的羟考酮药片。Sofia 为了筹钱，给 Marcelo 做肩部手术时用假表换掉了他的劳力士手表（伏线：Marcelo 打了 Ernie 下巴一拳，但 Ernie 伤势不重）。劳力士手表里有微点照片，只有用放大镜才能读取。Sofia 把表卖到了 Alan 的当铺，Alan 意识到表属于 Robert，并且微点里有照片。Robert 射杀了警察 Brian Clarke，Michael 和 Erin 挖出了 Brian 的棺材，开卡车运了过来，棺材里有一具尸体是 Rebecca McAuley。Michael 计划将表和 Rebecca 的尸体卖给 McAuley 夫妇，索要双倍赎金，Audrey 知晓他的计划。Lucy 认出雪地死者是在她来小屋的路上给她开超速罚单的警察，她从屋顶跳下是为躲避凶手。Crawford = Jeremy，他是连环杀手“黑舌”，杀死警察后换上了死者的警服（伏线：制服袖口的血迹在内侧而不是外侧）。Alan 没有杀死 Jeremy，而是将他交给 Mark & Janine Williams 夫妇抚养，Jeremy 得知自己身份后将夫妇俩杀害。Jeremy 在监狱中曾与 Michael 和 Lucy 联系，希望得到家庭接纳。结尾 Ernie 解开了 Michael 留在 BINGO 卡上的照片线索，Rebecca McAuley 的杀手是她的父亲 Edgar。
 
 开篇即致敬 Robert Knox 的“侦探小说十诫”，把每个诫条无缝融入故事情节之中。在家族聚会中发生杀人案，侦探本身也是故事的叙述者，让情节更加引人入胜。行文风趣幽默，误导充足，推理部分还可以更加扎实。

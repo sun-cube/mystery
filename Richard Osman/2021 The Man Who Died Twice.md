@@ -24,8 +24,7 @@ Elizabeth 和 Joyce 找到钻石商人 Franco，Franco 承认曾和 Douglas 谈�
 
 Ron 假扮为黑帮分子“Vic Vincent”，与 Bogdan 一起在 Connie 家与她会面，声称一个名叫 Martin Lomax 的人想要购买价值五万镑的可卡因。Bogdan 说服 Connie 同意交易，Ron 推荐 Ryan 当司机。第二天，Joyce 和 Elizabeth 在机场迎接 Andrade，安排他与 Martin 会面。Ryan 开车带 Andrade 去了码头办公室，Connie 给 Andrade 看了两颗钻石，Andrade 问起其他钻石的下落，其实 Elizabeth 早就藏起了其他钻石。在一片混乱中，Andrade 杀死了 Martin，Connie 又杀死了 Andrade。Bogdan 让 Connie 带着毒品离开，Chris、Donna 等警察将 Ryan 和 Connie 抓获。Poppy 还是没有现身。
 
-<details><summary>真相</summary>
-Sue 和 Douglas 是情人，计划一起卖掉钻石。Poppy 把 Douglas 的信交给 Sue，Sue 读了信之后意识到 Douglas 对 Elizabeth 旧情未了，于是将 Douglas 的藏身地点透露给了 Martin。Martin 遣送 Andrew 刺杀 Douglas，被 Poppy 反杀。Sue 将 Douglas 转移到另一处安全屋，招募了 Siobhan 将 Douglas 和 Poppy 杀死。Bogdan 制服 Siobhan，救下 Stephen。Siobhan 不是 Poppy 的母亲，其真实身份是 Sally Montague，也即 Douglas 与 Elizabeth 离婚后新娶的妻子。Lance 趁乱拿了两颗钻石，卖了三万五千磅。
-</details>
+> [!spoiler]- 真相
+> Sue 和 Douglas 是情人，计划一起卖掉钻石。Poppy 把 Douglas 的信交给 Sue，Sue 读了信之后意识到 Douglas 对 Elizabeth 旧情未了，于是将 Douglas 的藏身地点透露给了 Martin。Martin 遣送 Andrew 刺杀 Douglas，被 Poppy 反杀。Sue 将 Douglas 转移到另一处安全屋，招募了 Siobhan 将 Douglas 和 Poppy 杀死。Bogdan 制服 Siobhan，救下 Stephen。Siobhan 不是 Poppy 的母亲，其真实身份是 Sally Montague，也即 Douglas 与 Elizabeth 离婚后新娶的妻子。Lance 趁乱拿了两颗钻石，卖了三万五千磅。
 
 在第一部的老人院基础上加入特工戏，推理情节相对较弱。

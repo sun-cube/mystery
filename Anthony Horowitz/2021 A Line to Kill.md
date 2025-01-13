@@ -36,8 +36,7 @@ Helen 手机中留下和 Colin 的暧昧短信。有民众翻开 Colin 的草坪
 
 Derek 拿了一张有 Charles 签名的两万英镑的支票去银行兑现，与 Charles 支票本上的撕痕相符。警察怀疑 Derek 逼迫 Charles 死前用右手签支票。Elizabeth 和 Charles 通灵，指认 Derek 为凶手。Hawthorne 把一杯红酒泼在 Elizabeth 脸上，Elizabeth 伸手阻挡，暴露出她视力没有受损，通灵也是假话，指认 Derek 只是因为当晚 21:50 看到他和 Charles 在一起。Hawthorne 指认 Marc 偷了 Anne 的签字笔，原来他有盗癖，还偷走了 Charles 的劳力士表和 Maïssa 包里的钱。案发当晚 21:45 之后 Marc 看到 Charles 把劳力士表放在桌子上，出去和人会面。Derek 失踪，Hawthorne 在 Derek 家发现 Helen 和 Colin 一起去风月楼幽会的录像。录像中的 Helen 带着香槟进入画面，玻璃杯早放在桌上，还故意走到镜头方向，说明她是在 Charles 的安排下主动录像。海面岩石上发现 Derek 的尸体。
 
-<details><summary>真相</summary>
-Anne 的儿子因网络赌博自杀，赌博公司是 Charles 所开，Helen 是赌场女郎，Anne 为儿子复仇杀死二人。Kathryn 是 Anne 的女儿（伏线：Anne 借给 Kathryn 钢笔，二人都是素食者）。扑克牌和硬币象征赌博。Derek 当晚找到 Charles 讨要两万英镑佣金，走后 Charles 吸了可卡因，Anne 和 Kathryn 合力把他捆在椅子上，逼迫他丢硬币决定生死，但其实不论仍哪面都是一死。Anne 杀死 Helen，拖入山洞中。Anne 有心脏病，时日无多。Derek 跳崖自杀。
-</details>
+> [!spoiler]- 真相
+> Anne 的儿子因网络赌博自杀，赌博公司是 Charles 所开，Helen 是赌场女郎，Anne 为儿子复仇杀死二人。Kathryn 是 Anne 的女儿（伏线：Anne 借给 Kathryn 钢笔，二人都是素食者）。扑克牌和硬币象征赌博。Derek 当晚找到 Charles 讨要两万英镑佣金，走后 Charles 吸了可卡因，Anne 和 Kathryn 合力把他捆在椅子上，逼迫他丢硬币决定生死，但其实不论仍哪面都是一死。Anne 杀死 Helen，拖入山洞中。Anne 有心脏病，时日无多。Derek 跳崖自杀。
 
 主人公 Horowitz 和侦探 Hawthorne 去岛上参加文学节，赞助商在岛上被杀，几乎所有人都有犯罪动机。结尾凶手非常随机，动机牵强，伏线孱弱。

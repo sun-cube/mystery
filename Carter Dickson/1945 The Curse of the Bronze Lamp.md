@@ -21,12 +21,10 @@ Christopher (Kit) Farrell 开车带着 Helen 和她的闺蜜 Audrey Vane 回到 
 
 门房管理人 Bert Leonard 看到 Severn 伯爵下午 4:30 开车经过。Beaumont 交给 Bert 一张名片，上面写着想与伯爵约谈。大宅与门房之间的电话线出了问题。伯爵从侧门进屋后消失，软呢帽、外套、防水大衣留在书房正中间的毯子上，旁边是青铜神灯。Pomfret 太太生病。电话交换台记录表明大宅星期四有两通电话分别打到 Bristol 和开罗，星期天有一通电话打到报社。Helen 在 Kit 面前现身并请求帮助，承认自己星期四用了某种诡计从大宅脱身，但她并不知道父亲出了什么事。Alim 和 Beaumont 也先后来到 Severn 大宅，Beaumont 自称来取神灯。
 
-<details><summary>Helen 消失诡计</summary>
-管家 Benson 提前在 Helen 房间准备了鲜花，说明他早知道小姐要回家，可他却说小姐要过一星期才来（伏线），这是一个矛盾。Helen 在 Benson 的掩护下进屋脱掉雨衣，化身为女仆 Annie（伏线：挖掘工作使得她的双手粗糙），用放假外出的机会离开，并写信告诉父亲真相。Alim 能正确预言 Helen 消失，是从 Helen 父亲那里得到了消息。Benson 取下伯爵夫人画像，是为了避免有人注意到 Annie 与画像容貌相似。Helen 把画拿去古玩店修复，是为了隐藏画像。Bert 之前见过 Annie，Helen 开车经过大门的时候故意掉了一根烟弯腰去拾，所以 Bert 只看到她的头顶。Benson 从餐具室打电话给报社和警局说 Helen 失踪。
-</details>
+> [!spoiler]- Helen 消失诡计
+> 管家 Benson 提前在 Helen 房间准备了鲜花，说明他早知道小姐要回家，可他却说小姐要过一星期才来（伏线），这是一个矛盾。Helen 在 Benson 的掩护下进屋脱掉雨衣，化身为女仆 Annie（伏线：挖掘工作使得她的双手粗糙），用放假外出的机会离开，并写信告诉父亲真相。Alim 能正确预言 Helen 消失，是从 Helen 父亲那里得到了消息。Benson 取下伯爵夫人画像，是为了避免有人注意到 Annie 与画像容貌相似。Helen 把画拿去古玩店修复，是为了隐藏画像。Bert 之前见过 Annie，Helen 开车经过大门的时候故意掉了一根烟弯腰去拾，所以 Bert 只看到她的头顶。Benson 从餐具室打电话给报社和警局说 Helen 失踪。
 
-<details><summary>真相</summary>
-Beaumont 在开罗花高价从 Robertson 手中买下匕首和香水瓶，由 Robertson 负责用 Severn 伯爵的出口许可证走私出埃及，Julia 是他的共犯。Severn 伯爵识破 Robertson 的勾当。Robertson 号称下午 5 点在伦敦和 Kit 通过电话，但大宅的电话记录里并没有从伦敦打来的电话（伏线），说明他撒谎。Beaumont 去 Julia 店里是为了取回走私物，但因他人在店中而未能得逞。Julia 不敢将装着走私品的包裹留在身边，想偷偷把它放回伯爵家，被 Beaumont 半途截获。Robertson 骗伯爵一起开车从伦敦前往古玩店取回走私物，半途将伯爵扼杀，取下他的帽子、外套、钥匙，将尸体沉入河中，然后冒充伯爵回到大宅，在书房中留下衣物，冒雨离开。Beaumont 看到的“Severn 伯爵”是 Robertson 假扮。伯爵其实没死，被路过农民救下。
-</details>
+> [!spoiler]- 真相
+> Beaumont 在开罗花高价从 Robertson 手中买下匕首和香水瓶，由 Robertson 负责用 Severn 伯爵的出口许可证走私出埃及，Julia 是他的共犯。Severn 伯爵识破 Robertson 的勾当。Robertson 号称下午 5 点在伦敦和 Kit 通过电话，但大宅的电话记录里并没有从伦敦打来的电话（伏线），说明他撒谎。Beaumont 去 Julia 店里是为了取回走私物，但因他人在店中而未能得逞。Julia 不敢将装着走私品的包裹留在身边，想偷偷把它放回伯爵家，被 Beaumont 半途截获。Robertson 骗伯爵一起开车从伦敦前往古玩店取回走私物，半途将伯爵扼杀，取下他的帽子、外套、钥匙，将尸体沉入河中，然后冒充伯爵回到大宅，在书房中留下衣物，冒雨离开。Beaumont 看到的“Severn 伯爵”是 Robertson 假扮。伯爵其实没死，被路过农民救下。
 
 两起不可能消失。考古学家的女儿在众目睽睽之下进入大宅，几分钟后消失，之后考古学家本人也消失在大宅中，现场均留下青铜神灯。两个解法比较普通，气氛渲染不错。

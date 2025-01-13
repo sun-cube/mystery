@@ -41,20 +41,16 @@ Anthony 评价历史上的密室小说，认为 📖 John Dickson Carr, <i>The H
 
 【小说】Daniel 和 John 拜访 Felicity 的姐姐家。Felicity 怀疑 Roderick 看到了凶手。Daniel 借来了 Felicity 的车库钥匙，并问出了 Roderick 手机的密码。Felicity 证实小区居民确实召开了第二次会议。Daniel 揭露 May、Phyllis 二人均有杀夫前科，住过监狱而不是修道院（伏线：Phyllis 不清楚修道院的夜祷仪式，并用“cellies（监狱室友）”描述二人关系），May 买房子的钱是丈夫的遗产。Sarah 在同一监狱服过刑，威胁要曝光二人身份，所以 May 给她安排了园丁的工作。Sarah 确实偷了 Giles 的手表。May 承认参加了第二次会议，但拒绝透露会议内容。Daniel 从各人口中拼凑出会议真相。原来那天晚上大家聊到谋杀话题，一时兴起决定用抽签的方式选出一人杀死 Giles，Roderick 抽到了 Adam 手中最短的吸管，兴奋地说交给他了。大家对第二次会议讳莫如深，是因为怕承担共谋罪。Daniel 进入 Browne 家的车库，爬到车库顶上看到对面 Tom 家的保姆 Kylie。Roderick 服下的安眠药是 Tom 平时的药。Damien 的父亲 Raymond 就是那个心脏骤停的 Tom 的病人，所以他也有杀人动机。Damien 和 Kylie 是恋人。Daniel 向 Kylie 问起 Marsha 老太太被袭击的经过，得知犯人没有劫财，却在信箱里留下了一张独立党的政治传单，所以很可能是种族歧视。Giles 也是独立党的成员。Daniel 用 iPhone 的定位功能查到 Sarah 拿了 Roderick 的手机，Sarah 承认拿走手机，因为里面有她卖给 Roderick 的裸照。Daniel 指出 Andrew 种在花坛里的花不是被小孩的滑板毁坏，因为土里有轮子印，路上却没有泥迹。
 
-<details><summary>真相</summary>
-凶手是 Adam Strauss，他提前拿走了 Roderick 的弩箭，在抽签时故意让 Roderick 抽中最短的吸管。Adam 射杀 Giles 时用手机和波兰的对手下棋。Adam 在 Roderick 的酒里下了安眠药，晚 10:00 点离开时 Roderick 已经陷入昏迷，Andrew 听到 Roderick 向他致谢是便携式音箱放出的录音，看到灯灭是 Adam 遥控操作电灯开关（伏线：车库里的电器零件）。Adam 走的时候打开了车库门，他在半夜回到 Roderick 家，用梯子爬上屋顶，拆掉固定天窗的螺丝。Adam 提前袭击了 Marsha，这样 Kylie 离开后就不会有人看到他爬上屋顶，Marsha 信箱里的政治传单是误导。Adam 伪造了 Roderick 的遗书，把昏迷的 Roderick 拖入车内，释放有毒气体。Adam 把水倒在车上，汽车的雨水传感器使得车门和车窗自动锁上（伏线：第二天车库地上有一小滩水）。Adam 踩在车顶从天窗爬到屋顶（伏线：伪造脚踝扭伤），用胶水固定螺丝（伏线：不锈钢螺丝不会生锈），然后爬梯子离开。Adam 的杀人动机是因为他杀死了前妻 Wendy，把尸体埋在树下，如果 Giles 挖地建游泳池，会让尸骨暴露。
-</details>
+> [!spoiler]- 真相
+> 凶手是 Adam Strauss，他提前拿走了 Roderick 的弩箭，在抽签时故意让 Roderick 抽中最短的吸管。Adam 射杀 Giles 时用手机和波兰的对手下棋。Adam 在 Roderick 的酒里下了安眠药，晚 10:00 点离开时 Roderick 已经陷入昏迷，Andrew 听到 Roderick 向他致谢是便携式音箱放出的录音，看到灯灭是 Adam 遥控操作电灯开关（伏线：车库里的电器零件）。Adam 走的时候打开了车库门，他在半夜回到 Roderick 家，用梯子爬上屋顶，拆掉固定天窗的螺丝。Adam 提前袭击了 Marsha，这样 Kylie 离开后就不会有人看到他爬上屋顶，Marsha 信箱里的政治传单是误导。Adam 伪造了 Roderick 的遗书，把昏迷的 Roderick 拖入车内，释放有毒气体。Adam 把水倒在车上，汽车的雨水传感器使得车门和车窗自动锁上（伏线：第二天车库地上有一小滩水）。Adam 踩在车顶从天窗爬到屋顶（伏线：伪造脚踝扭伤），用胶水固定螺丝（伏线：不锈钢螺丝不会生锈），然后爬梯子离开。Adam 的杀人动机是因为他杀死了前妻 Wendy，把尸体埋在树下，如果 Giles 挖地建游泳池，会让尸骨暴露。
 
-<details><summary>逆转</summary>
-Adam 的前妻没有死，而是去了香港。Adam 拿出 Wendy 每年给自己寄来的明信片，还让 Khan 现场和 Wendy 视频对话，Adam 每个月向她的账户汇抚养费。
-</details>
+> [!spoiler]- 逆转
+> Adam 的前妻没有死，而是去了香港。Adam 拿出 Wendy 每年给自己寄来的明信片，还让 Khan 现场和 Wendy 视频对话，Adam 每个月向她的账户汇抚养费。
 
-<details><summary>再逆转</summary>
-Anthony 找到 John，得知 Daniel 的推理没有错，凶手就是 Adam，他提前布置好了明信片和转账记录，连线的 Wendy 是别人假冒。Daniel 将 Adam 推下阳台。
-</details>
+> [!spoiler]- 再逆转
+> Anthony 找到 John，得知 Daniel 的推理没有错，凶手就是 Adam，他提前布置好了明信片和转账记录，连线的 Wendy 是别人假冒。Daniel 将 Adam 推下阳台。
 
-<details><summary>第三次逆转</summary>
-将 Adam 推下阳台的是 John 而不是 Daniel，这也是 Daniel 为什么不想 Anthony 写这个案子。
-</details>
+> [!spoiler]- 第三次逆转
+> 将 Adam 推下阳台的是 John 而不是 Daniel，这也是 Daniel 为什么不想 Anthony 写这个案子。
 
 由邻里矛盾引发的杀人案，嫌疑犯留下遗书在车库的汽车中自杀，现场为双重密室。照例有作中作 meta 和大量的红鲱鱼误导，附加若干本格彩蛋（比如两个老太太开了一家本格推理书店，如果你要来买 Jo Nesbø，她们会立刻让你走人）。凶手深谋远虑，下了一盘大棋，动机隐蔽，诡计复杂而强悍。密室解答中规中矩，结尾三次逆转有加分。推荐。

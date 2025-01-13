@@ -13,11 +13,10 @@ wordpress_id: 6158
 <img src=images/2023_cover.jpg width=250/>
 
 46 岁男子 Renaud Duval 从 Meuse 河上方的观景台跳崖自杀，女警长 Katel Marelle 带队调查。在 Ranaud 身上发现三张驾照，上面的照片为同一人，生日也都是 1997年1月29日：
-<ul>
-<li>Renaud Duval 出生于 Charleville-Mézières。</li>
-<li>Pierre Rousseau 出生于巴黎的第18区。</li>
-<li>Hans Bernard 出生于 Lozère 省的 Mende。</li>
-</ul>
+* Renaud Duval 出生于 Charleville-Mézières。
+* Pierre Rousseau 出生于巴黎的第18区。
+* Hans Bernard 出生于 Lozère 省的 Mende。
+
 Katel 家访 Renaud 遗孀 Nanesse。Nanesse 说丈夫 Renaud 是一名精密机械工程师，每个月有一周出差，孩子长大了在国外。Renaud 的母亲 Milana 是一名木偶艺人，几年前已离世，家中摆放了许多她制作的木偶。Nanesse 否认 Renaud 有多重身份，但 Katel 指出 Renaud 最近一次出差明显对 Nanesse 说了谎。
 
 Vicky Malzieu 的恋人 Hans Bernard 是一名卡车司机，整天跑运输，两人一个月见一次。Vicky 认识 Hans 的时候已经怀孕，后来生下女儿 Lola。Hans 对 Lola 视同己出，送给她一个旅行途中买到的名为 Kasper 的木偶。Hans 最近失联。
@@ -46,16 +45,14 @@ Vicky 和 Éléa 来到木偶节。Katel 接到匿名电话，在广场垃圾桶
 
 Libor 约了 Renaud 在观景台会面，让 Amos 听枪响，一声枪响代表自己被 Libor 杀死，必须继续复仇，两声枪响代表复仇结束。那天晚上 Amos 只听到一声枪响。广场炸弹警报是烧伤兄弟引开警察的计策。
 
-<details><summary>Mina 的故事</summary>
-Mina 为了防止身份曝光，在三个不同的地方给儿子登记了三张出生证。Mina 让儿子以 Renaud、Hans、Pierre 的身份在 Charleville、Florac、巴黎三地轮转上小学，并以健康状况为由说服学校不要记缺勤。Renaud、Hans、Pierre 有完全不同的性格。Renaud 上中学后停止轮转，后来当上了一名工程师，并与 Nanesse 结婚。Mina 六十岁确诊子宫癌，临死前给孙子表演木偶戏，被 Libor 父子认出。
-</details>
+> [!spoiler]- Mina 的故事
+> Mina 为了防止身份曝光，在三个不同的地方给儿子登记了三张出生证。Mina 让儿子以 Renaud、Hans、Pierre 的身份在 Charleville、Florac、巴黎三地轮转上小学，并以健康状况为由说服学校不要记缺勤。Renaud、Hans、Pierre 有完全不同的性格。Renaud 上中学后停止轮转，后来当上了一名工程师，并与 Nanesse 结婚。Mina 六十岁确诊子宫癌，临死前给孙子表演木偶戏，被 Libor 父子认出。
 
 Katel 赶到 Milana 的工作货车阻止烧伤兄弟杀人，却被兄弟二人打死。烧伤兄弟将货车点燃，Nanesse、Vicky、Éléa 眼看要被大火吞噬。Kristof 不顾 Amos 劝阻想要劫持 Lola，Lola 逃跑时险些掉进洞里。
 
-<details><summary>逆转</summary>
-Libor 在 Milana 医院给 Renaud 留下一封信，记述了当年的经过，还说自己并不记恨 Renaud，因为他也是自己的儿子，但 Kristof、Amos 在广场上看到了 Renaud 的双胞胎儿子，会找他们复仇。Renaud 为了保护双胞胎儿子，让他们临时换成 Hans 和 Pierre 的身份生活，自己去观景台与 Libor 会面。Libor 故意开了一发空枪，打算再开第二枪自杀，这样 Amos 听到两枪便知道复仇结束，但 Renaud 冲上来阻止他自杀，二人争斗时滚落悬崖，双双摔死。Kristof 目睹整个经过，却为了继续复仇故意没有把父亲自杀的真相告诉 Amos。
-
-结尾 Hans 和 Pierre 现身，救下车厢内的三名女人。Katel 没有死，带手下击毙 Kristof。Amos 早先向 Kristof 撒谎说听到 Katel 心跳停止，是不想 Katel 无辜丧命。Amos 虽然目不能视，仍在哥哥死后举枪乱射，结果也被乱枪打死。
-</details>
+> [!spoiler]- 逆转
+> Libor 在 Milana 医院给 Renaud 留下一封信，记述了当年的经过，还说自己并不记恨 Renaud，因为他也是自己的儿子，但 Kristof、Amos 在广场上看到了 Renaud 的双胞胎儿子，会找他们复仇。Renaud 为了保护双胞胎儿子，让他们临时换成 Hans 和 Pierre 的身份生活，自己去观景台与 Libor 会面。Libor 故意开了一发空枪，打算再开第二枪自杀，这样 Amos 听到两枪便知道复仇结束，但 Renaud 冲上来阻止他自杀，二人争斗时滚落悬崖，双双摔死。Kristof 目睹整个经过，却为了继续复仇故意没有把父亲自杀的真相告诉 Amos。
+> 
+> 结尾 Hans 和 Pierre 现身，救下车厢内的三名女人。Katel 没有死，带手下击毙 Kristof。Amos 早先向 Kristof 撒谎说听到 Katel 心跳停止，是不想 Katel 无辜丧命。Amos 虽然目不能视，仍在哥哥死后举枪乱射，结果也被乱枪打死。
 
 警方在跳崖男子 Renaud 身上发现三张驾照，相貌相同名字不同，并且都不是伪造。除了 Renaud 的妻子之外，另两个身份竟然还有两个不同的恋人，难道死者是时间管理大师？故事以强烈的悬疑谜面开头，以三个女人的视角轮换叙述，中间穿插警察视角、凶手视角、母亲手记，各线程进程间切换有条不紊，将多线叙述发挥得淋漓尽致。结尾交汇解谜，外加一次逆转。严格来说某些情节有夸张成分，但对于这样离奇的谜面已足够自洽。烧伤兄弟瞎子配聋子的设置鬼畜，恐怖之外让人同情，结局惨烈。

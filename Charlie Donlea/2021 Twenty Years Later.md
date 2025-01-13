@@ -30,12 +30,10 @@ Livia Cutty 证实与 Victoria 的 DNA 匹配的骨头是一颗单独的牙齿�
 
 Avery 把 Aaron Holland 的假护照寄给 Connie，然后打电话给 Garth 约在小木屋见面。James Oliver 和 Mary Sullivan 得到搜查令，在小木屋中逮捕了 Garth。与此同时，Aaron 用假护照和 Meghan 一起登上了游轮。
 
-<details><summary>结尾</summary>
-Aaron 是 Avery 的弟弟 Christopher，他没有死，也参与了庞氏骗局，故意设计沉船事故逃脱处罚。Avery 的电视节目大获成功，致使 Victoria 案件重启，她也因此签下了巨额合同。Avery 和 Christopher 给 Connie 寄了一张两百万的支票，以补偿她在庞氏骗局中的损失。Walt 决定和 Avery 一起搬回加州。Victoria 打算在最新的小说中让 Peg 犯错，展现暗黑结局。
-</details>
+> [!spoiler]- 结尾
+> Aaron 是 Avery 的弟弟 Christopher，他没有死，也参与了庞氏骗局，故意设计沉船事故逃脱处罚。Avery 的电视节目大获成功，致使 Victoria 案件重启，她也因此签下了巨额合同。Avery 和 Christopher 给 Connie 寄了一张两百万的支票，以补偿她在庞氏骗局中的损失。Walt 决定和 Avery 一起搬回加州。Victoria 打算在最新的小说中让 Peg 犯错，展现暗黑结局。
 
-<details><summary>二十年前的真相</summary>
-Victoria 在给 Cameron 口交时将其勒死，把提前准备的自己的血样和尿样洒在现场，并故意在 Tessa 的桌子上留下自己的性爱录像。Victoria 计划让证据指向自己，然后再揭露证据为捏造。
-</details>
+> [!spoiler]- 二十年前的真相
+> Victoria 在给 Cameron 口交时将其勒死，把提前准备的自己的血样和尿样洒在现场，并故意在 Tessa 的桌子上留下自己的性爱录像。Victoria 计划让证据指向自己，然后再揭露证据为捏造。
 
 纽约郊区豪宅中悬挂一具裸体男尸，疑似在性爱游戏时被女伴勒死，嫌疑人在 911 事件中丧生。二十年后，电视女主播重启案件调查，当年的 FBI 警探也重出江湖，二人在查案之余陷入情网。就在案件水落石出之时，结尾来了一个暗黑反转。

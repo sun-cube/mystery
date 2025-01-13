@@ -23,8 +23,7 @@ Imogene 收到匿名信，警告她快点离开休斯顿。她回家后被袭击
 
 Marion Best 的妻子 Ingrid 在后门口发现了一个冰桶，里面装着 Zimaresh 的人头。一个陌生女人交给 Best 家的邻居 Mark 一张字条，还以 Marion 的名义拿走了 Mark 的鞋子。Marion 在字条中委托 Mark 照顾 Ingrid，然后失踪。Zimaresh 在案发当日举办了一场大型聚会，聚会前单独约 Marion 来家中作客。Perkins 留下字条：“如果被她发现，我将活不了多久。”随后失踪。Best 家后面的树林中发现了 Perkins 的肢解尸体，头部被砍断，面目全非，穿着他的衣服。
 
-<details><summary>真相</summary>
-书房里的尸体是 Marion Best，Zimaresh 杀死他后将其斩首，从内侧锁住书房门，通过广播声称自己将被斩首。Zimaresh 躲在树中，通过窥伺孔观察外面的动静，伺机假扮成警察离开。Zimaresh 的杀人动机是为了新书大卖。交给 Mark 便条的女人是由 Zimaresh 或者 Perkins 假扮。Felicity 发现 Spriggs 把信放在 Imogene 的桌上，被 Spriggs 灭口，Spriggs 又被 Zimaresh 勒死。按照 Zimaresh 的指示，Perkins 在树林里肢解了他的尸体（为了掩盖左膝的胎记），然后砍碎 Marion 的头丢在一旁，伪造成自己的尸体。Perkins 把 Zimaresh 的头装进冰桶，留在 Best 家的后门口。
-</details>
+> [!spoiler]- 真相
+> 书房里的尸体是 Marion Best，Zimaresh 杀死他后将其斩首，从内侧锁住书房门，通过广播声称自己将被斩首。Zimaresh 躲在树中，通过窥伺孔观察外面的动静，伺机假扮成警察离开。Zimaresh 的杀人动机是为了新书大卖。交给 Mark 便条的女人是由 Zimaresh 或者 Perkins 假扮。Felicity 发现 Spriggs 把信放在 Imogene 的桌上，被 Spriggs 灭口，Spriggs 又被 Zimaresh 勒死。按照 Zimaresh 的指示，Perkins 在树林里肢解了他的尸体（为了掩盖左膝的胎记），然后砍碎 Marion 的头丢在一旁，伪造成自己的尸体。Perkins 把 Zimaresh 的头装进冰桶，留在 Best 家的后门口。
 
 推理小说家在书房内惨遭斩首，头颅神秘失踪，凶手从密室蒸发。之后又发生三起命案，包括一起肢解无头尸。核心诡计是一种古老手法的变形，略带犯规嫌疑，整体完成度一般。主人公多次收到凶手信件的情节显得牵强，在家门口被袭击的红鲱鱼也显得多余。

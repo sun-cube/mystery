@@ -46,20 +46,16 @@ Theo 看到 Kathy 在小树林和男人偷情。Paul 告诉 Theo，Alicai 小时
 
 第二日 Alicia 因药物过量陷入昏迷，身旁有一个空药瓶。Theo 发现 Alicia 手腕上有被人注射药物的痕迹，认为这是蓄意谋杀。Theo 向 Diomedes 指出 Christian 有动机让 Alicia 保持沉默，警察赶到并逮捕了 Christian。
 
-<details><summary>叙述性诡计</summary>
-Theo 赶到 Kathy 情人的住所，在那里遇到了他的妻子 Alicia。之前所有关于 Kathy 的段落均发生在过去！Kathy 的情人是 Gabriel，Alicia 看到的窥视男是 Theo。Theo 仍和 Kathy 在一起。他不知道 Alicia 的病史，所以真心没觉得 Alicia 会射杀 Gabriel，去 Grove 探视也是为了助她恢复，但他最终被 Alicia 识破身份，只好杀人灭口。
-
-本作同时采用了两种叙述性诡计：
-<ul>
-<li>不可靠叙述者（unreliable narrator）</li>
-<li>时间线误导（timeline misdirection）</li>
-</ul>
-</details>
+> [!spoiler]- 叙述性诡计
+> Theo 赶到 Kathy 情人的住所，在那里遇到了他的妻子 Alicia。之前所有关于 Kathy 的段落均发生在过去！Kathy 的情人是 Gabriel，Alicia 看到的窥视男是 Theo。Theo 仍和 Kathy 在一起。他不知道 Alicia 的病史，所以真心没觉得 Alicia 会射杀 Gabriel，去 Grove 探视也是为了助她恢复，但他最终被 Alicia 识破身份，只好杀人灭口。
+> 
+> 本作同时采用了两种叙述性诡计：
+> * 不可靠叙述者（unreliable narrator）
+> * 时间线误导（timeline misdirection）
 
 ## 第五部分
 
-<details><summary>真相</summary>
-【日记 2月23日】Theo 给 Alicia 打了针，她知道自己很快将陷入昏迷。Alicia 认出 Theo 是面具男，故意做出与事实不符的陈述，是为了试探 Theo 的反应。当日 Theo 将 Alicia 和 Gabriel 双双捆在椅子上，告诉 Alicia 关于 Gabriel 出轨的事实，让他俩选一人去死。Gabriel 选了 Alicia，Theo 对空鸣枪，随后解开 Alicia 的绳子，留下枪离去。绝望的 Alicia 用枪射杀 Gabriel。
-</details>
+> [!spoiler]- 真相
+> 【日记 2月23日】Theo 给 Alicia 打了针，她知道自己很快将陷入昏迷。Alicia 认出 Theo 是面具男，故意做出与事实不符的陈述，是为了试探 Theo 的反应。当日 Theo 将 Alicia 和 Gabriel 双双捆在椅子上，告诉 Alicia 关于 Gabriel 出轨的事实，让他俩选一人去死。Gabriel 选了 Alicia，Theo 对空鸣枪，随后解开 Alicia 的绳子，留下枪离去。绝望的 Alicia 用枪射杀 Gabriel。
 
 从心理医生视角叙述的暗黑心理悬疑，中间插入患者手记。因为套了双重叙述性诡计，所以真相揭晓时极具冲击性。两个叙诡一个常规，一个隐蔽，之所以能成立，乃因建立在标题“沉默的病人”这一基础假设之上——必须有病，必须沉默，二者缺一不可。两个叙诡都是日系老梗（比如我孫子武丸的某叙诡名作），关于手记的运用也似曾相识（在英文中称作 <i>epistolary novel</i>），但精神病院冰冷风明显和日系观感不同。推荐。

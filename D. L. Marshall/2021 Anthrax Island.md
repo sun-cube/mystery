@@ -23,8 +23,7 @@ John 在 Hurley 的衣柜里发现一条裤子上有个四个洞，还在柜子�
 
 岛上断电。John 布置了一个自动点火装置，一来电便会在装有病毒样品的房间引发火灾，届时赶去灭火的人便是犯人。John 被人开枪追杀，被迫跳崖逃生。John 开枪将 Greenbow 打伤。Hurley 进屋灭火。John 与 Hurley 枪战，Hurley 逃跑，John 穷追不舍。
 
-<details><summary>密室真相</summary>
-Gambetta 杀死 Ingrid 和 Demeter，穿着工作服伪装成 Demeter 进入无线电室，将防毒面具等装备藏入地板下方暗室，砸坏发报机，并把自己划伤。Gambetta 原计划打开窗户，大声呼救，谎称自己受到 Demeter 的袭击，但窗户锁死无法打开。Hurley 和 Alice 联手杀死 Gambetta。Hurley 开枪制造枪响（因为窗户锁死，只好将子弹射入壁橱），然后在楼道里大声喊叫，伪造不在场证明。Alice 第一个进屋，在进门的一刹那用无声手枪杀死 Gambetta，事后故意触摸手枪，掩盖枪上有自己的指纹的事实。
-</details>
+> [!spoiler]- 密室真相
+> Gambetta 杀死 Ingrid 和 Demeter，穿着工作服伪装成 Demeter 进入无线电室，将防毒面具等装备藏入地板下方暗室，砸坏发报机，并把自己划伤。Gambetta 原计划打开窗户，大声呼救，谎称自己受到 Demeter 的袭击，但窗户锁死无法打开。Hurley 和 Alice 联手杀死 Gambetta。Hurley 开枪制造枪响（因为窗户锁死，只好将子弹射入壁橱），然后在楼道里大声喊叫，伪造不在场证明。Alice 第一个进屋，在进门的一刹那用无声手枪杀死 Gambetta，事后故意触摸手枪，掩盖枪上有自己的指纹的事实。
 
 密室的布局还算过硬，看到地板下方出现秘道时心中一凉，还好最后挺住了。侦探冷硬风，结尾动作戏。

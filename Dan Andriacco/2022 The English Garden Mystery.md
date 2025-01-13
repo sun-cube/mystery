@@ -22,12 +22,10 @@ Portia 在家中被一个景泰蓝花瓶击中头部死亡，尸体旁掉落一�
 
 Des 在家中被一尊青铜塑像击碎头部死亡，尸体旁散落着紫罗兰。紫罗兰在当地并不常见，必须去花房购买。Rory 曾与 Portia 有一段短暂恋情，不久前还和 Portia 大吵了一架。Rory 所在的花店不卖紫罗兰。主人公怀疑 Buck Melonic 用了假名，但没有实锤。主人公拜访三姐妹的发型师 Myrtle White 和家族律师 James Hancock Bridges，试图追踪金钱动机，但一无所获。Bridges 律所的男孩 David Gunner 是 Goldie 的男友。
 
-<details><summary>伪解答</summary>
-在 <i>Hamlet</i> 剧作第四幕第五场中出现了梦幻草、迷迭香、紫罗兰这三种花，凶手是 Shakespeare 迷，三姐妹的父亲 Erza。他的杀人动机是因为三姐妹不是自己亲生，而是 Gamaliel Taylor 的女儿。
-</details>
+> [!spoiler]- 伪解答
+> 在 <i>Hamlet</i> 剧作第四幕第五场中出现了梦幻草、迷迭香、紫罗兰这三种花，凶手是 Shakespeare 迷，三姐妹的父亲 Erza。他的杀人动机是因为三姐妹不是自己亲生，而是 Gamaliel Taylor 的女儿。
 
-<details><summary>真解答</summary>
-凶手是 Buck。Ophelia 在 Buck 走后留下梦幻草（columbine）的死亡留言，是他名字 B. U. Melonic 的字母重排。Buck 为了不让梦幻草被解读为死亡留言，在杀死 Portia 和 Des 后故意留下迷迭香和紫罗兰，<b>将受害者的死亡留言伪装成凶手的模仿杀人</b>，陷害 Erza。Buck 是 Gamaliel Taylor 的私生子，通过 DNA 检测得知 Ophelia 是自己的姐姐（伏线：发型师 Myrtle 提到 Ophelia 曾做过 DNA 检测），他的杀人动机是嫉妒三姐妹的境遇和自己天差地别。
-</details>
+> [!spoiler]- 真解答
+> 凶手是 Buck。Ophelia 在 Buck 走后留下梦幻草（columbine）的死亡留言，是他名字 B. U. Melonic 的字母重排。Buck 为了不让梦幻草被解读为死亡留言，在杀死 Portia 和 Des 后故意留下迷迭香和紫罗兰，<b>将受害者的死亡留言伪装成凶手的模仿杀人</b>，陷害 Erza。Buck 是 Gamaliel Taylor 的私生子，通过 DNA 检测得知 Ophelia 是自己的姐姐（伏线：发型师 Myrtle 提到 Ophelia 曾做过 DNA 检测），他的杀人动机是嫉妒三姐妹的境遇和自己天差地别。
 
 标题致敬 Ellery Queen 国名系列。三胞胎姐妹连续在家中被杀，尸体旁分别出现梦幻草、迷迭香、紫罗兰三种不同的花，结尾有双重解答。关于死亡留言和模仿杀人的诡计构思相当不错，但除此以外平平无奇，更适合写成短篇。

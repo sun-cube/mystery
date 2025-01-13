@@ -28,8 +28,7 @@ Nectaire 认为 Esteban 不可能一边患有蜜蜂恐惧症，一边吃蜂蜜�
 
 DNA 检测表明 Esteban 和 Tom 的 DNA 相似度超过 99.9%。Maddi 赶到 Tom 家，看到 Amandine 躺在床上失去意识，手腕上有一个针孔，Tom 失踪。Maddi 在严寒天气下冲到码头，看到 Tom 一个人在船上。Nectaire 也赶到码头，目睹 Tom 从悬崖落入湖中，并在攀岩场的顶上找到失去意识的 Maddi。Aster 想起有一个客人在店里驻留良久，有可能偷走刀子，他自称名叫 Gabriel。
 
-<details><summary>真相</summary>
-Gabriel 是 Maddi 的亲生儿子，而不是男朋友（叙述性诡计）。Esteban 知道母亲怀孕，担心母亲从此不再爱自己。Savine 是 Esteban 的亲生母亲，悄悄接近 Esteban，给他灌输转生的念头，Esteban 每天给 Savine 一个蜂蜜面包。Savine 在 Esteban 十岁生日当天按计划带 Esteban 逃离，但中途 Esteban 要回去找妈妈，逃入海中溺亡。Savine 将儿子的死归咎于 Maddi，决意复仇。Savine 在网上找到一个和 Esteban 相貌相似的小孩 Tom，搬到其所在小镇当社工，在他身上留下同样的烧伤胎记，人为制造了蜜蜂恐惧症，教给他巴斯克语，还给他买了同款的鲸鱼泳衣。Savine 建议 Amandine 带 Tom 去巴斯克地区度假，制造机会和 Maddi 见面。Savine 的计划被 Martin、Jonas 先后识破，所以她将二人杀死。Savine 用小时候 Esteban 玩过的鲸鱼玩偶替换了 Tom 的鲸鱼玩偶，所以两个样本的 DNA 匹配。Gabriel 偷听了 Esteban 的心里咨询录音，化名 Esteban 主动接近并帮助 Tom。Nectaire 看到的坠崖 Tom 其实是 Savine 扔下的人偶。结尾 Savine 劫持了 Tom、Gabriel 和前来营救的 Maddi，所幸心理医生 Wayan 及时赶到将三人救下。
-</details>
+> [!spoiler]- 真相
+> Gabriel 是 Maddi 的亲生儿子，而不是男朋友（叙述性诡计）。Esteban 知道母亲怀孕，担心母亲从此不再爱自己。Savine 是 Esteban 的亲生母亲，悄悄接近 Esteban，给他灌输转生的念头，Esteban 每天给 Savine 一个蜂蜜面包。Savine 在 Esteban 十岁生日当天按计划带 Esteban 逃离，但中途 Esteban 要回去找妈妈，逃入海中溺亡。Savine 将儿子的死归咎于 Maddi，决意复仇。Savine 在网上找到一个和 Esteban 相貌相似的小孩 Tom，搬到其所在小镇当社工，在他身上留下同样的烧伤胎记，人为制造了蜜蜂恐惧症，教给他巴斯克语，还给他买了同款的鲸鱼泳衣。Savine 建议 Amandine 带 Tom 去巴斯克地区度假，制造机会和 Maddi 见面。Savine 的计划被 Martin、Jonas 先后识破，所以她将二人杀死。Savine 用小时候 Esteban 玩过的鲸鱼玩偶替换了 Tom 的鲸鱼玩偶，所以两个样本的 DNA 匹配。Gabriel 偷听了 Esteban 的心里咨询录音，化名 Esteban 主动接近并帮助 Tom。Nectaire 看到的坠崖 Tom 其实是 Savine 扔下的人偶。结尾 Savine 劫持了 Tom、Gabriel 和前来营救的 Maddi，所幸心理医生 Wayan 及时赶到将三人救下。
 
 主人公单亲妈妈的儿子在十岁生日那天失踪，十年后主人公在海滩上见到一个和儿子相貌相同的十岁小孩，难道世上真的有转世一说？主人公搬到小男孩所在的小镇调查，发现小男孩和儿子有越来越多的共同点，与此同时镇上连续发生了两起谋杀案。本作继续挑战作者喜欢的“转世”题材，谜面强烈悬疑，谜底基本自圆其说，中间还掺入一个叙述性诡计。推荐。

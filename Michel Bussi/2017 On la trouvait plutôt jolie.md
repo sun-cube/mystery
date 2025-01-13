@@ -52,18 +52,16 @@ Bamby 和 Yan 约会，Yan 在酒店订了一个房间。偷渡者根据手环�
 
 Bamby 在飞机上查看 Yan 的笔记本电脑，在里面发现 <i>Vogelzug</i> 协会的秘密账户和 Adil 的照片，竟然和 Guy 相貌一样！Leyli 放在床下的笔记本消失不见，只找到一封 Guy 留下的信，说会取走 Tidiane。原来 Guy 就是 Adil，他化名搬到 Leyli 的公寓楼，就是为了伺机报复。Alpha 带着 Savorgnan 等人冲进 Jourdain 的别墅将其溺死。Bamby 飞机降落，给 Leyli 打电话得到 Julo 的邮箱地址，立刻把电脑中的证据发给 Julo。Adil 绑架 Tidiane 并逼问包的下落，Tidiane 带着 Adil 进入下水道。警察在机场逮捕 Bamby，Leyli 请求 Julo 救 Tidiane。Julo 违抗 Petar，带着 Bamby 赶到 Tidiane 的住处，将 Adil 制伏。
 
-<details><summary>真相</summary>
-Bamby 有三个朋友：
-<ul>
-<li>Noura Benhadda：在酒店唱歌的姑娘。</li>
-<li>Kamila Saadi：住在 Leyli 楼下。</li>
-<li>Chérine Meunier：空姐，提供环游世界的照片。</li>
-</ul>
-Bamby 为了给孩子办移民，必须有更大的住房。她为了申请更大的住房，伪造三个孩子已经搬来法国，在家里布置了许多床、玩具、衣服的迹象。三个孩子中只有 Bamby 靠学生签证在法国住了一年，一家人每天晚上 19:30 吃晚饭，其实只是在不同的地点视频会议（叙述性诡计）！Bamby 没有不在场证明，在酒店唱歌的是 Noura，Ruben 帮忙做伪证。
-
-Bamby 在法国的时候偶然发现了 Leyli 床下的笔记本，读后将复印件发给 Alpha，Alpha 查出所有的客人都与 <i>Vogelzug</i> 协会有关。Bamby 和 Alpha 决定对这些人展开报复。Bamby 在杀人之前抽血是为了检测谁是自己的生父。
-
-结尾 Leyli 的住房申请终获批准，极具讽刺意味。
-</details>
+> [!spoiler]- 真相
+> Bamby 有三个朋友：
+> 1. Noura Benhadda：在酒店唱歌的姑娘。
+> 2. Kamila Saadi：住在 Leyli 楼下。
+> 3. Chérine Meunier：空姐，提供环游世界的照片。
+> 
+> Bamby 为了给孩子办移民，必须有更大的住房。她为了申请更大的住房，伪造三个孩子已经搬来法国，在家里布置了许多床、玩具、衣服的迹象。三个孩子中只有 Bamby 靠学生签证在法国住了一年，一家人每天晚上 19:30 吃晚饭，其实只是在不同的地点视频会议（叙述性诡计）！Bamby 没有不在场证明，在酒店唱歌的是 Noura，Ruben 帮忙做伪证。
+> 
+> Bamby 在法国的时候偶然发现了 Leyli 床下的笔记本，读后将复印件发给 Alpha，Alpha 查出所有的客人都与 <i>Vogelzug</i> 协会有关。Bamby 和 Alpha 决定对这些人展开报复。Bamby 在杀人之前抽血是为了检测谁是自己的生父。
+> 
+> 结尾 Leyli 的住房申请终获批准，极具讽刺意味。
 
 以法国难民为主题的社会派悬疑，多线叙述节奏紧凑，但一直摸不清核心谜团所在，直至结尾揭露叙述性诡计。诡计设定其实比较简单，但与“母亲”主题结合紧密。结尾颇具讽刺意味。

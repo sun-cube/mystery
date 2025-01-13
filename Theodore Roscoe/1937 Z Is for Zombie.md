@@ -23,12 +23,11 @@ wordpress_id: 5792
 
 医院传来枪响，众人赶忙赶回医院。当地土著袭击医院并纵火。Eberhardt 现身。Harrman 的尸体自壁橱掉出。
 
-<details><summary>真相</summary>
-Adolph Perl 的棺材里藏有价值一百万美元的珠宝。当年 Adolph 在棺材里未死，起身将 Hans Blucher 打晕，和珠宝一起放入自己的棺材。不明所以的 Eberhardt 将棺材钉死，还以为里面关的是 Adolph。Hans 在棺材中醒来，但无法脱身，惨遭活埋。Adolph 回到纽约后因其他罪行入狱，多年后出狱，化名 Harrman 回来挖棺材中的珠宝。因为 Harrman 不知道棺材具体埋在何处，Coolidge、Marcelline 等人洗劫了 Eberhardt 的医院，寻找记有埋尸地点的死亡记录。
+> [!spoiler]- 真相
+> Adolph Perl 的棺材里藏有价值一百万美元的珠宝。当年 Adolph 在棺材里未死，起身将 Hans Blucher 打晕，和珠宝一起放入自己的棺材。不明所以的 Eberhardt 将棺材钉死，还以为里面关的是 Adolph。Hans 在棺材中醒来，但无法脱身，惨遭活埋。Adolph 回到纽约后因其他罪行入狱，多年后出狱，化名 Harrman 回来挖棺材中的珠宝。因为 Harrman 不知道棺材具体埋在何处，Coolidge、Marcelline 等人洗劫了 Eberhardt 的医院，寻找记有埋尸地点的死亡记录。
 
-Harrman 尸体消失是被 Kavanaugh 藏在壁橱里。Marcelline 和 Brown 来到死亡记录上的地点挖出 Adolph 的棺材，却发现里面误埋了 Sou 的尸体，只好继续去 Sou 的埋尸地点掘墓，以此类推。Marcelline 把刀子绑在长竹竿一端，从窗户刺杀 Harrman，后来又用同样手法隔着灌木刺伤了 Schlitz 教授。Marcelline 骑马飞驰，马脚不慎陷入地沟，将其甩出，身体插入竹竿身亡。
+> Harrman 尸体消失是被 Kavanaugh 藏在壁橱里。Marcelline 和 Brown 来到死亡记录上的地点挖出 Adolph 的棺材，却发现里面误埋了 Sou 的尸体，只好继续去 Sou 的埋尸地点掘墓，以此类推。Marcelline 把刀子绑在长竹竿一端，从窗户刺杀 Harrman，后来又用同样手法隔着灌木刺伤了 Schlitz 教授。Marcelline 骑马飞驰，马脚不慎陷入地沟，将其甩出，身体插入竹竿身亡。
 
-最后 Coolidge、Kavanaugh、Brown 均被打死。John 揭露珠宝在 Schlitz 教授身上。
-</details>
+> 最后 Coolidge、Kavanaugh、Brown 均被打死。John 揭露珠宝在 Schlitz 教授身上。
 
 密室圣经漏网作品。一人A在众人环视的不可能状态下中刀，奄奄一息，送到医院后护士竟说自己亲手在14年前将其下葬，眼前的A是活尸！大家去A的墓地查验，却在那里发现B的尸体，去B的墓地又发现C的尸体，层层迭代……如此生动而不失诡异的谜题在最后得到了完美的逻辑解决，作者不愧是廉价小说 (pulp fiction) 中的 John Dickson Carr!

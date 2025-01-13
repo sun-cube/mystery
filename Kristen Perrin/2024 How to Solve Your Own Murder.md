@@ -89,10 +89,9 @@ Beth 自供藏起了柜子里的东西，因为它们看起来太过皇家，引
 
 【日记】Bill 向 Rose 求婚。Ford 向 Frances 示爱，并送给她一件羊毛外套，用来替换被 Emily 穿走的那件。
 
-<details><summary>真相</summary>
-Rose 说 Emily 一直想努力成为 Frances，但其实是 Rose 而不是 Emily 总是穿着 Frances 的衣服（伏线：Rose 家的旧相册）。Emily 失踪当天 Frances 给了 Rose 几件自己的冬装（伏线：让 Rose 扮成自己，以免被母亲发现），其中包括箱子里的那件羊毛外套。Rose 让 Bill 开车带她去了 Chelsea 的房子（伏线：Rose 说 Bill 可以随时开车带她出去），在地下室杀死 Emily，把尸体、羊毛外套、手枪藏进地下室的箱子。Emily 去找 Peter 只是为了拿回打字机。Chelsea 房子门口没地方停车，所以 Bill 停在很远的地方。
+> [!spoiler]- 真相
+> Rose 说 Emily 一直想努力成为 Frances，但其实是 Rose 而不是 Emily 总是穿着 Frances 的衣服（伏线：Rose 家的旧相册）。Emily 失踪当天 Frances 给了 Rose 几件自己的冬装（伏线：让 Rose 扮成自己，以免被母亲发现），其中包括箱子里的那件羊毛外套。Rose 让 Bill 开车带她去了 Chelsea 的房子（伏线：Rose 说 Bill 可以随时开车带她出去），在地下室杀死 Emily，把尸体、羊毛外套、手枪藏进地下室的箱子。Emily 去找 Peter 只是为了拿回打字机。Chelsea 房子门口没地方停车，所以 Bill 停在很远的地方。
 
-Frances 一看到箱子里的羊毛外套，便知道凶手是 Rose，她去找 Rose 确认，引发 Rose 精神崩溃，Joe 为了保护母亲杀死了 Frances。Joe 切断汽车电池（伏线），让 Frances 无法开车求助。Joe 谎称有人匿名将给 Frances 的花寄到了酒店，托 Elva 帮忙转送。Saxon 砸坏了 Annie 的电脑。
-</details>
+> Frances 一看到箱子里的羊毛外套，便知道凶手是 Rose，她去找 Rose 确认，引发 Rose 精神崩溃，Joe 为了保护母亲杀死了 Frances。Joe 切断汽车电池（伏线），让 Frances 无法开车求助。Joe 谎称有人匿名将给 Frances 的花寄到了酒店，托 Elva 帮忙转送。Saxon 砸坏了 Annie 的电脑。
 
 主人公的姑姥姥预计到自己会被人谋杀，于是留下遗嘱，将遗产留给能找出凶手的人。主人公阅读姑姥姥留下的日记，牵出几十年前的一起失踪杀人案。故事以过去和现在双线叙述，出场人物众多，真凶身份随机，伏线编排缺乏新意，也看不到丝毫出道新人的锐气。

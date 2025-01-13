@@ -39,16 +39,14 @@ Victor 承认从三个月前开始与 Philippa 偷情。当晚 Philippa 来到 V
 
 Hopper 检查了 Philippa 发现巫毒娃娃那天的监控录像，发现保安 Samuel Norris 进了她的家。Norris 承认与女佣 Claudette 相恋，放巫毒娃娃是为了报复 Claudette 遭到不公平对待。Hopper 还发现 O’Grady 暗中监视 DeRoos 夫妇进出，O’Grady 承认被 De Belleville 收买。Hopper 在 73 楼露台的地毯下方发现水渍，说明阳台门在谋杀发生后被打开过一段时间。
 
-<details><summary>推理</summary>
-De Belleville 提到 Philippa 可能接待了大楼里的一个秘密情人（伏线），还说他从未威胁过 Philippa（伏线），是因为他在 DeRoos 家中安放了窃听装置，知道 Victor 当晚来过公寓，也知道 Philippa 收到威胁电话。窃听装置可以接触到架子高处的瓷碗，能在窗户上投射灯光，而且没有离开公寓的记录，是一架窃听无人机。De Belleville 一周前拜访 Philippa 时留下无人机。案发当晚文件散落在书桌和地板上，是无人机的气流所致。Philippa 从 Victor 家回来后差点发现无人机，De Belleville 慌忙操纵无人机降落在瓷碗中，不慎将其推到地上摔碎。
+> [!spoiler]- 推理
+> De Belleville 提到 Philippa 可能接待了大楼里的一个秘密情人（伏线），还说他从未威胁过 Philippa（伏线），是因为他在 DeRoos 家中安放了窃听装置，知道 Victor 当晚来过公寓，也知道 Philippa 收到威胁电话。窃听装置可以接触到架子高处的瓷碗，能在窗户上投射灯光，而且没有离开公寓的记录，是一架窃听无人机。De Belleville 一周前拜访 Philippa 时留下无人机。案发当晚文件散落在书桌和地板上，是无人机的气流所致。Philippa 从 Victor 家回来后差点发现无人机，De Belleville 慌忙操纵无人机降落在瓷碗中，不慎将其推到地上摔碎。
 
-凶手是 Gilbert，他出差前在家里撒了磷化氢颗粒，并打开了室内门和阳台门通风，把暖气升高以保持室温。O’Grady 觉得顶楼晃动，是因为吸入少量毒气引发头晕。午夜下起大雨，外面湿气进入室内，磷化氢在高湿度下迅速挥发，Philippa 吸入毒气，呕吐身亡。第二天 Gilbert 回家后戴上防毒面具，开窗通风，并在卧室放大蒜以掩盖残留气味（如果是 Philippa 在前一天放的大蒜，气味在第二天应该已经消失）。第二天晚上扫地机器人并没有启动，底座发热只是因为停在了暖气上。（伏线：Hopper 看到 Gilbert 把公文包放在走廊里，觉得十分奇怪，那是因为公文包里藏了防毒面具。）Krell 找到了 Gilbert 藏在水箱里的防毒面具。
-</details>
+> 凶手是 Gilbert，他出差前在家里撒了磷化氢颗粒，并打开了室内门和阳台门通风，把暖气升高以保持室温。O’Grady 觉得顶楼晃动，是因为吸入少量毒气引发头晕。午夜下起大雨，外面湿气进入室内，磷化氢在高湿度下迅速挥发，Philippa 吸入毒气，呕吐身亡。第二天 Gilbert 回家后戴上防毒面具，开窗通风，并在卧室放大蒜以掩盖残留气味（如果是 Philippa 在前一天放的大蒜，气味在第二天应该已经消失）。第二天晚上扫地机器人并没有启动，底座发热只是因为停在了暖气上。（伏线：Hopper 看到 Gilbert 把公文包放在走廊里，觉得十分奇怪，那是因为公文包里藏了防毒面具。）Krell 找到了 Gilbert 藏在水箱里的防毒面具。
 
 Gilbert 逃跑， Jennifer 要求和他一起上船。Krell 和 Hopper 追赶来迟，远处传来两声枪响。次日，海边发现 Jennifer 溺死的尸体。又过一日，海岸警卫队找到沉没的游艇。
 
-<details><summary>结尾</summary>
-Aurora 贪污了地皮交易的钱，给 Philippa 打了法语的威胁电话，并参与策划了毒杀案。Aurora 击沉游艇，杀死 Gilbert 灭口。
-</details>
+> [!spoiler]- 结尾
+> Aurora 贪污了地皮交易的钱，给 Philippa 打了法语的威胁电话，并参与策划了毒杀案。Aurora 击沉游艇，杀死 Gilbert 灭口。
 
 完全可以起名为《荷兰瓷碗之谜》，篇幅不长密度极大，叙事风格神似 S. S. van Dine 和 Ellery Queen，尤其是人物对话多次致敬 Ellery Queen。在公寓楼顶层发生密室杀人，受害者是盲人，某晚觉得家中有人，叫保安来搜遍各处，只发现一只打碎的荷兰名贵蓝色瓷碗。第二日死者丈夫回家，发现妻子在卧室身亡，地下有呕吐痕迹，枕头上放着切开的大蒜。推理简单明快，有大量红鲱鱼和伏线回收，密室诡计可行性有待考究，但构思颇有新意。推荐。

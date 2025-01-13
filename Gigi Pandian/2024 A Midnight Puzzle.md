@@ -17,8 +17,7 @@ Tempest Raj 的父亲 Darius 开了一家名为“秘密楼梯”的装修公司
 
 Tempest 和侦探 Blackburn 在剧院看到助手 Brodie Frost 走向舞台，于是尾随在后，不慎触发点火陷阱。Tempest 冒着火灾危险进入剧院深处，看到 Brodie 倒在积满灰尘的舞台中央，周围的灰尘上无足迹，舞台上方的天桥、灯光均已拆下。Tempest 接受超自然调查员 Alejandro Arkady 的采访，公布了一段楼梯的视频，证实装修合格。
 
-<details><summary>真相</summary>
-Nicodemus 失去魔术能力，为了能体面退役，安装飞刀将自己的手刺伤，凶手将他布置的小匕首换成了长剑。Lenore 隐藏了房子的蓝图，因为她不小心拆除了 Chester Hill 设计的凉亭。凶手是画家 Trina (Katrina)，她是 Moriarty 的母亲，曾替 Emma、Elspeth 工作，后将二人杀死。她杀人是想要关闭剧院，里面有她以前杀人的证据，杀死 Brodie 是因为受到其勒索。她逆转吸尘器的气流在舞台上制造了一层假尘土（伏线：Tempest 进入时打喷嚏）。
-</details>
+> [!spoiler]- 真相
+> Nicodemus 失去魔术能力，为了能体面退役，安装飞刀将自己的手刺伤，凶手将他布置的小匕首换成了长剑。Lenore 隐藏了房子的蓝图，因为她不小心拆除了 Chester Hill 设计的凉亭。凶手是画家 Trina (Katrina)，她是 Moriarty 的母亲，曾替 Emma、Elspeth 工作，后将二人杀死。她杀人是想要关闭剧院，里面有她以前杀人的证据，杀死 Brodie 是因为受到其勒索。她逆转吸尘器的气流在舞台上制造了一层假尘土（伏线：Tempest 进入时打喷嚏）。
 
 本作包含一个无足迹杀人，一人死在舞台中央，尸体周围积满灰尘。作者在故事中致敬了 📖 林斯諺《雨夜莊謀殺案》(2005) 和 📖 John Dickson Carr, <i>The Crooked Hinge</i> (1938)，但显然没有达到偶像的高度。

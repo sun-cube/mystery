@@ -20,12 +20,11 @@ Amanda 查出 Gabriel 原名 Peter Duffy，1991 年改了名字，有盗用信�
 
 Oliver 单独署名发布了一篇关于 Alperton Angels 青少年的文章，Amanda 对此十分气愤。Amanda 从社工那里获悉 Holly 可能叫做 Rowley Wild，曾在某顶级高中上学。纪实犯罪作家 Minnie Davis 查出 Rowley Wild 出生于贵族家庭。Amanda 发现在 Jess Adesina 写的小说《我的天使日记》和 Clive 写的剧本《神圣》中都有一个叫 Ashleigh 的女孩，而且都与 Holly 相关，Clive 说该角色纯属虚构。Amanda 在 Graham 拍下的现场照片中看到 Jonah 紧紧抱着 Gabriel。Oliver 认为 Holly 的女婴后来被贵族家庭领养，起名为 Louise Mountbatten Windsor。
 
-<details><summary>真相</summary>
-婴儿是男孩，不是 Louise Windsor，其父亲为 Don Makepeace，母亲是 Don 的妻子 Julia。Don 曾在 1980 年代末将 Gabriel 送入监狱，邪教团伙将他的婴儿绑架勒索赎金。卧底警察 Singh 跟踪毒枭 Shenk（Raphael），找到由 Holly 和 Jonah 照顾的婴儿，见婴儿状况不良，想要带走，被 Jonah 杀害。警方以为 Singh 是被 Shenk 灭口，将 Shenk 在拘留期间杀害。
+> [!spoiler]- 真相
+> 婴儿是男孩，不是 Louise Windsor，其父亲为 Don Makepeace，母亲是 Don 的妻子 Julia。Don 曾在 1980 年代末将 Gabriel 送入监狱，邪教团伙将他的婴儿绑架勒索赎金。卧底警察 Singh 跟踪毒枭 Shenk（Raphael），找到由 Holly 和 Jonah 照顾的婴儿，见婴儿状况不良，想要带走，被 Jonah 杀害。警方以为 Singh 是被 Shenk 灭口，将 Shenk 在拘留期间杀害。
 
-Gabriel 在 Alperton 案的 13 年前洗脑过一名女孩 Ashleigh，给她起名 Holly，照顾婴儿的是二代女孩 Holly。Ashleigh 说服二代 Holly 摆脱 Gabriel 控制，向警察报告了婴儿的信息。Don 求助特种部队的朋友营救婴儿。黑人女警兼退役狙击手 Marie-Claire 同时负责处理 Shenk 的尸体和营救婴儿，她意识到 Holly 手中的婴儿就是 Don 被绑架的婴儿，击毙 Michael、Elemiah 之后把 Shenk（Raphael）的尸体混入其中。Gabriel 被击中头部，没有死亡，因为被 Jonah 抱住而未被分尸，后来得以存活，Don 把他送进监狱。
+> Gabriel 在 Alperton 案的 13 年前洗脑过一名女孩 Ashleigh，给她起名 Holly，照顾婴儿的是二代女孩 Holly。Ashleigh 说服二代 Holly 摆脱 Gabriel 控制，向警察报告了婴儿的信息。Don 求助特种部队的朋友营救婴儿。黑人女警兼退役狙击手 Marie-Claire 同时负责处理 Shenk 的尸体和营救婴儿，她意识到 Holly 手中的婴儿就是 Don 被绑架的婴儿，击毙 Michael、Elemiah 之后把 Shenk（Raphael）的尸体混入其中。Gabriel 被击中头部，没有死亡，因为被 Jonah 抱住而未被分尸，后来得以存活，Don 把他送进监狱。
 
-Clive Badham 教写作，Holly 长大后根据亲身经历写了剧本《神圣》，Clive 偷了她的剧本。Don 杀死了协助 Amanda 调查的数名相关人士。Oliver 多年前故意给 Amanda 提供假情报，让她去了错误的地点，导致她被人打伤，视力受损。Amanda 化名 Paul Cole 对 Oliver 实施了精神控制，令其陷入邪教，认为 Louise 是邪恶天使后代，必须被除掉。Oliver 杀死 Amanda，后被 Louise 的安保团队击毙。
-</details>
+> Clive Badham 教写作，Holly 长大后根据亲身经历写了剧本《神圣》，Clive 偷了她的剧本。Don 杀死了协助 Amanda 调查的数名相关人士。Oliver 多年前故意给 Amanda 提供假情报，让她去了错误的地点，导致她被人打伤，视力受损。Amanda 化名 Paul Cole 对 Oliver 实施了精神控制，令其陷入邪教，认为 Louise 是邪恶天使后代，必须被除掉。Oliver 杀死 Amanda，后被 Louise 的安保团队击毙。
 
 和系列前作一样全篇用书信体叙述。故事情节和反转设计得有亮点，但出场人物太多，书信体叙述过于细碎，严重影响阅读体验，还不如按照正常家访叙述顺畅。

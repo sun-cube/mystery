@@ -20,12 +20,10 @@ wordpress_id: 6828
 
 刀把上检测出 Eleanor、Stanhope 和一组未知的指纹，Stanhope 的指纹在最上面。Dawson 向 Eleanor 求婚未果，Eleanor 和 Vince 亲吻。Dawson 解释 <i>El Greco</i> 画的是“黄金湖” Guatavita，传说印第安人把黄金倒入湖中，Naseby 说的“小金人”是劝 Stanhope 投资打捞湖里的黄金，但 Stanhope 对此付之一笑。凶手用刀割断了一小段胶带，上面沾了血。仆人间传言 Stanhope 的财富是靠偷窃得来，最近两起别墅窃案 Stanhope 都在现场作客，而且家中不时冒出一些名贵物品。每个房间窗外都有一卷绳子挂在墙上，以备失火时逃离。魔术师 Kafoozalum 无法来别墅表演，H.M. 亲自上阵给孩子们表演魔术。H.M. 让 Nick 检查洗衣编号，证实是 Stanhope 本人的衣物。有人溜进 Stanhope 的房间将他闷死，胸口放了一盘水，看守 Hamley 在一旁打瞌睡。
 
-<details><summary>真相</summary>
-Stanhope 被薄刃水果刀刺伤只会内出血，所以满身血迹是别人的血，身上的衣服也是别人的，而所有人当中只有 Vince 和 Stanhope 身材相仿。Vince 是职业小偷，骗取了 Eleanor 的感情，Stanhope 为了揭穿他的身份，故意把名画搬到没有警报的一楼，对外宣称手头很紧，引诱他下手。Vince 半夜 3:15 顺防火绳爬到外面，从窗户进屋冒充外贼行窃，被等待的 Stanhope 用水果刀刺中，伤口不深但血流不止。（伏线：窃贼戴着手套，如果 Stanhope 是窃贼，不会在餐厅各处找到他的指纹。）Vince 夺过刀子刺中 Stanhope 心脏，为了隐藏身上的血迹，被迫和 Stanhope 换装，让 Stanhope 穿上沾血的衣服，自己则穿上 Stanhope 的睡衣、睡袍、拖鞋。他割下几段胶带，把手帕粘在伤口上止血，在 3:28 推翻银器。（伏线：Vince 抬乒乓球台时脸色苍白，是因为触动伤口。）Vince 事后偷偷将睡袍和拖鞋放回 Stanhope 的盥洗室（伏线：Hamley 说睡衣白天消失，晚上出现，睡袍后来给了 H.M. 穿），留下了有刺痕的睡衣，洗衣编号证明是 Stanhope 的。Vince 闷死 Stanhope 后在他身上放一盘水，是为了确认他没有呼吸。
-</details>
+> [!spoiler]- 真相
+> Stanhope 被薄刃水果刀刺伤只会内出血，所以满身血迹是别人的血，身上的衣服也是别人的，而所有人当中只有 Vince 和 Stanhope 身材相仿。Vince 是职业小偷，骗取了 Eleanor 的感情，Stanhope 为了揭穿他的身份，故意把名画搬到没有警报的一楼，对外宣称手头很紧，引诱他下手。Vince 半夜 3:15 顺防火绳爬到外面，从窗户进屋冒充外贼行窃，被等待的 Stanhope 用水果刀刺中，伤口不深但血流不止。（伏线：窃贼戴着手套，如果 Stanhope 是窃贼，不会在餐厅各处找到他的指纹。）Vince 夺过刀子刺中 Stanhope 心脏，为了隐藏身上的血迹，被迫和 Stanhope 换装，让 Stanhope 穿上沾血的衣服，自己则穿上 Stanhope 的睡衣、睡袍、拖鞋。他割下几段胶带，把手帕粘在伤口上止血，在 3:28 推翻银器。（伏线：Vince 抬乒乓球台时脸色苍白，是因为触动伤口。）Vince 事后偷偷将睡袍和拖鞋放回 Stanhope 的盥洗室（伏线：Hamley 说睡衣白天消失，晚上出现，睡袍后来给了 H.M. 穿），留下了有刺痕的睡衣，洗衣编号证明是 Stanhope 的。Vince 闷死 Stanhope 后在他身上放一盘水，是为了确认他没有呼吸。
 
-<details><summary>叙述性诡计</summary>
-文中的“小偷”貌似是 Stanhope，其实是 Vincent。
-</details>
+> [!spoiler]- 叙述性诡计
+> 文中的“小偷”貌似是 Stanhope，其实是 Vincent。
 
 一起简单的入室盗窃杀人，没有不可能犯罪，但叙述性诡计误导饶有趣味，说故事轻松流畅。

@@ -34,20 +34,18 @@ Ron 带领群众设立障碍，阻止迁移墓地。Bogdan 掘墓时挖出一具
 
 Donna 查出 Matthew 是冒牌神父。Jason 向 Ron 寻求帮助，说那天确实去了 Tony 家想问照片的事，但敲门无人应答，只好离开。Elizabeth 托人验出墓地尸骨是一个七十年代被杀的男人，而 Matthew 直到九十年代一直住在爱尔兰。Elizabeth 带 Joyce 去了一家花店，见到老板 Peter Ward，也即照片里的 Bobby Tanner。Peter 案发当日一直在店里，有不在场证明。警方搜查 Gianni 的住处，发现他带着 Tony 的钱逃之夭夭。Bernard 跟 Ron 说自己整日坐在长椅上只是为了思念亡妻，但回到小屋看到墙角的铲子，便忍不住绝望哭泣。Jason 和 Bobby 找到 Steve Georgiou 问起 Gianni 的下落。Elizabeth 介绍 Donna 认识了 Penny。Bernard 自杀而亡，死前给 Joyce 留下一封信。
 
-<details><summary>Bernard 的秘密</summary>
-Bernard 的女儿想把他妻子的骨灰撒入恒河，但他不想与妻子骨灰分离，给了女儿假的骨灰，偷偷把真骨灰安放在墓地。后来骨灰上建了长椅，他便每天坐到长椅上与亡妻对话。他自杀是因为觉得背叛了女儿，而且失去了生活的动力。
-</details>
+> [!spoiler]- Bernard 的秘密
+> Bernard 的女儿想把他妻子的骨灰撒入恒河，但他不想与妻子骨灰分离，给了女儿假的骨灰，偷偷把真骨灰安放在墓地。后来骨灰上建了长椅，他便每天坐到长椅上与亡妻对话。他自杀是因为觉得背叛了女儿，而且失去了生活的动力。
 
 Elizabeth 和 Joyce 查出一家名为“Bramley 控股”的公司买下了养老院和附近 Gordon 农场的土地。Elizabeth 觉得 Bramley 这个名字似曾相识，但想不起来在哪里见过。Chris 访问关押在监狱的 Gianni 的父亲 Costas。Matthew 向 Elizabeth 坦白自己曾让修女 Maggie 怀孕，Maggie 因为要被修道院开除而绝望自杀。Matthew 反对迁移墓地是因为不想惊扰 Maggie 的尸体。
 
 大家都觉得是 Gianni 杀了 Tony。Tony 通过社交软件和 Karen Playfair 交往，晚餐期间指控是 Karen 杀死 Ian，这样她父亲才可以把地卖给别人，Karen 大笑否认。
 
-<details><summary>真相</summary>
-Penny 在七十年代曾调查过一起入室抢劫案，女子 Annie Madeley 死在男朋友 Peter Mercer 的怀抱中。所有人都怀疑 Peter 才是杀死 Annie 的凶手，但后来 Peter 失踪。Annie 为了不让 Peter 逃脱，把他杀死埋在墓地，而 John 为了不让 Penny 罪行曝光，所以杀死 Ian 阻止墓地迁移。
+> [!spoiler]- 真相
+> Penny 在七十年代曾调查过一起入室抢劫案，女子 Annie Madeley 死在男朋友 Peter Mercer 的怀抱中。所有人都怀疑 Peter 才是杀死 Annie 的凶手，但后来 Peter 失踪。Annie 为了不让 Peter 逃脱，把他杀死埋在墓地，而 John 为了不让 Penny 罪行曝光，所以杀死 Ian 阻止墓地迁移。
 
-Bogdan 杀死 Tony，动机是因为 Tony 指派 Gianni 杀死了他的好朋友，出租车司机 Kazimir。Bogdan 在很久以前杀死了 Gianni，Steve 拿了 Gianni 的护照出国，伪造 Gianni 逃逸假象。
+> Bogdan 杀死 Tony，动机是因为 Tony 指派 Gianni 杀死了他的好朋友，出租车司机 Kazimir。Bogdan 在很久以前杀死了 Gianni，Steve 拿了 Gianni 的护照出国，伪造 Gianni 逃逸假象。
 
-Joanna 说服董事成员买下 Ian 的公司，Bramley 是 Joanna 小时候毛绒玩具大象的名字。
-</details>
+> Joanna 说服董事成员买下 Ian 的公司，Bramley 是 Joanna 小时候毛绒玩具大象的名字。
 
 作者据说是 Agatha Christie 的粉丝，果然一波家访流。本书的人物关系确实足够错综复杂，红鲱鱼层峦叠嶂，但基本没有什么推理，线索薄弱，凶手设置偏随意。Bernard 坐长椅的一段误导感人。

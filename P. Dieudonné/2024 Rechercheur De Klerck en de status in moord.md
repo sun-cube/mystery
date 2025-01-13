@@ -27,10 +27,9 @@ Noëlle 发现父亲 Jonkheer 在家中被人射杀。Noëlle 说 Ismene 长期�
 
 有蒙面人带枪侵入 Peter 的潜水店行刺，但 Peter 反应神速用潜水刀将其反杀，杀手身上的证件表明他是 Eddy Rook。调查员证实南荷兰帆船俱乐部有三万元资金被挪用，这正好是 Eddy 向 Peter 提供的贷款金额。Ivo 拒绝透露帆船事故当晚的行踪，在警察的反复询问下，不得已透露他去 Breda 见了一名妓女。
 
-<details><summary>真相</summary>
-凶手是 Feyesslink 男爵。Ismene 趁他睡觉时偷偷给他做了口腔拭子（伏线：Noëlle 看到他大张着嘴睡觉），DNA 测试证实他是德国军官的私生子，Ismene 以此要挟 Feyesslink 解除与 Noëlle 的婚约，选择自己。Feyesslink 做出了一些妥协，允许 Ismene 把玩偶存放在他家（伏线）。Ismene 声称要北上和 Jonkheer 讨论这一话题，但其实只是去 Breda 买了一件冬装。她还将 Feyesslink 的身份秘密告诉了 Peter，希望通过 Peter 揭露秘密，但 Peter 对 Noëlle 旧情未了，不忍心让她陷入不幸，因此一直没有采取行动。
+> [!spoiler]- 真相
+> 凶手是 Feyesslink 男爵。Ismene 趁他睡觉时偷偷给他做了口腔拭子（伏线：Noëlle 看到他大张着嘴睡觉），DNA 测试证实他是德国军官的私生子，Ismene 以此要挟 Feyesslink 解除与 Noëlle 的婚约，选择自己。Feyesslink 做出了一些妥协，允许 Ismene 把玩偶存放在他家（伏线）。Ismene 声称要北上和 Jonkheer 讨论这一话题，但其实只是去 Breda 买了一件冬装。她还将 Feyesslink 的身份秘密告诉了 Peter，希望通过 Peter 揭露秘密，但 Peter 对 Noëlle 旧情未了，不忍心让她陷入不幸，因此一直没有采取行动。
 
-Jonkheer 召见 Noëlle 商讨 Ivo 的贪污案，而 Feyesslink 误以为他要取消婚约，于是将他杀害。Peter 猜测 Feyesslink 是两起命案的幕后凶手，打电话向他索要封口费（伏线：Peter 声称打电话吊唁，但他早上就通过报纸得知 Jonkheer 死讯，却拖到晚上才打电话）。Feyesslink 为了掩盖罪行，雇佣 Eddy 去潜水店刺杀 Peter，结果行动失败，Eddy 被 Peter 正当防卫反杀。（伏线：Feyesslink 问警察是否开枪打死了 Peter，是担心罪行暴露。）
-</details>
+> Jonkheer 召见 Noëlle 商讨 Ivo 的贪污案，而 Feyesslink 误以为他要取消婚约，于是将他杀害。Peter 猜测 Feyesslink 是两起命案的幕后凶手，打电话向他索要封口费（伏线：Peter 声称打电话吊唁，但他早上就通过报纸得知 Jonkheer 死讯，却拖到晚上才打电话）。Feyesslink 为了掩盖罪行，雇佣 Eddy 去潜水店刺杀 Peter，结果行动失败，Eddy 被 Peter 正当防卫反杀。（伏线：Feyesslink 问警察是否开枪打死了 Peter，是担心罪行暴露。）
 
 鹿特丹港的一艘帆船被人故意凿沉，一名女子不幸溺亡。受害者不久前刚刚婚姻破裂，其闺蜜正忙于筹备一场贵族婚礼，结果闺蜜的父亲也在家被人枪杀。出场人物不多，但作者围绕各人的情感纠葛布置了诸多误导，结尾的伏线回收相当精彩。

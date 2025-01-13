@@ -21,9 +21,8 @@ Patricia 曾在 Godfrey 的抽屉中看到一份美国剪报，报道一桩律�
 
 Larry 化装成房客混进 Godfrey 家中，被 Godfrey、Chard 发现，但他机智地将花瓶扔到街上，引发警察注意，成功逃脱。护士 Harriet Hopkins 在凌晨四点被刺杀，现场门窗紧锁，为密室。结尾 Godfrey 见真相败露，服毒自杀。
 
-<details><summary>密室诡计</summary>
-Godfrey 和 Chard 合力刺杀 Harriet，从窗户爬到下面的平顶上，从外面取下玻璃，关上空窗框，扣上防盗锁栓，再把玻璃放回原位，用新油灰粘好。一小时后，Chard 在窗外的油灰上刷上快干油漆。
-</details>
+> [!spoiler]- 密室诡计
+> Godfrey 和 Chard 合力刺杀 Harriet，从窗户爬到下面的平顶上，从外面取下玻璃，关上空窗框，扣上防盗锁栓，再把玻璃放回原位，用新油灰粘好。一小时后，Chard 在窗外的油灰上刷上快干油漆。
 
 ## The Secret of Hunter's Keep (1935)
 
@@ -31,8 +30,7 @@ Godfrey 和 Chard 合力刺杀 Harriet，从窗户爬到下面的平顶上，从
 
 Peter 在 Basingstoke 的房间发现一条秘密通道，通向 Percy 的房间。Percy 生活奢侈，债台高筑，Basingstoke 曾在一封信中说他“一直在偷我的东西”。Plympton 被一个蒙面人拖进书房，但大家用钳子打开书房门，却发现里面空无一人。Emma 再次对着窗外尖叫，这次是园丁被人袭击。Peter 发现女管家 Haltwhistle 有家中的秘道草图，又在她的床垫里发现多份文件。Haltwhistle 说 Basingstoke 偷了她的小说创意，早就该死，但否认杀人。Peter 怀疑 Basingstoke 在地下室制造假币。Lucy 尖叫着说看到一个男人在她的卧室窗外，Peter 猜是越狱的 Green。Philip 死在床上。一个蒙面人出现在走廊里，偷走了 Percy 的车，还劫走了 Emma。Haltwhistle 通过一个秘道离开了房间，Peter、John 跟着闯入地下室，发现 Haltwhistle 正在与一个蒙面人搏斗。
 
-<details><summary>真相</summary>
-地下室的蒙面人是 Basingstoke，他为了新书的素材制造闹剧，“绑架”了 Plympton，并让他装扮成蒙面人制造惊悚。Plympton 偷了家中的财物，带着 Emma 逃跑时被警察逮捕。Philip 没有死，只是喝醉酒睡倒，胸前污渍是红酒。Lucy 卧室窗外的男人是“打手”Green，被 John 制服。Haltwhistle 最近刚从精神病院逃脱。
-</details>
+> [!spoiler]- 真相
+> 地下室的蒙面人是 Basingstoke，他为了新书的素材制造闹剧，“绑架”了 Plympton，并让他装扮成蒙面人制造惊悚。Plympton 偷了家中的财物，带着 Emma 逃跑时被警察逮捕。Philip 没有死，只是喝醉酒睡倒，胸前污渍是红酒。Lucy 卧室窗外的男人是“打手”Green，被 John 制服。Haltwhistle 最近刚从精神病院逃脱。
 
 两个以 Michael Crombie 名义发表的密室中长篇，整体为冒险剧的风格，密室本身水平较低。

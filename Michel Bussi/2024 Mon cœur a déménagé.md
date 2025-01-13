@@ -20,12 +20,10 @@ Campion 中尉告诉 Ophélie 她妈妈死于头部创伤，有可能是从天�
 
 Nina 探视 Ophélie，Ophélie 奇怪 Lazare 为什么从来没有听说过当地的以色列格斗俱乐部，也从来没有跟 Karim 讨论过戴兜帽的人。Nina 家访 Lazare，却得知他在 Ophélie 十二三岁的时候便已去世。Ophélie 出狱，得知 Nina 和 Karim 已分手，但 Nina 不肯透露具体原因。原来当晚从事大麻交易的是 Karim 而不是 Nabil，照片也是 Karim 自己拍摄。在 Lazare 死后，Josselin 冒充他的笔迹继续和 Ophélie 通信。Antoine 依旧对 Ophélie 恋恋不舍，在她当收银员的商店买东西，并留下 1949 年的安徒生童话。Ophélie 发现 Antoine 的书上写有 Mette 姥姥的字迹！Ophélie 来到姥姥生前居住的地方，得知她十分富有，虽然和妈妈关系不和，每个月仍然打给妈妈 1.5 万法郎，但妈妈拿到手的只有 1500 法郎。Ophélie 意识到姥姥的钱被负责预算的 Vidame 侵吞，持刀来到 Vidame 家对质，却只见到 Consuelo。Josselin 叫出 Vidame，用枪逼迫他供认那天晚上到底做了什么。Ophélie 收到 Josselin 的电话，里面传出 Vidame 的口供……
 
-<details><summary>Vidame 的口供</summary>
-Vidame 侵吞 Matte 的钱财，被 Maja 发现账目可疑，于是决定杀人灭口。当晚 Vidame 在情妇家，距离案发地点开车不到十分钟。警察一开始就知道他是从情妇家打的电话，但他动用关系将此事隐瞒。他开车赶到天桥时，正看到 Maja 跨过天桥上了大路，于是开车将其撞死。Ophélie 听到口供后，知道自己冤枉爸爸多年，给 Josselin 发消息“我爱你”。
-</details>
+> [!spoiler]- Vidame 的口供
+> Vidame 侵吞 Matte 的钱财，被 Maja 发现账目可疑，于是决定杀人灭口。当晚 Vidame 在情妇家，距离案发地点开车不到十分钟。警察一开始就知道他是从情妇家打的电话，但他动用关系将此事隐瞒。他开车赶到天桥时，正看到 Maja 跨过天桥上了大路，于是开车将其撞死。Ophélie 听到口供后，知道自己冤枉爸爸多年，给 Josselin 发消息“我爱你”。
 
-<details><summary>结尾逆转</summary>
-Karim 证实是 Josselin 将 Maja 推下天桥致死，自己因见死不救心存内疚，所以一直没有供出真相。Josselin 开枪引发爆炸，与 Vidame 一起被烧死。Josselin 为了报复 Vidame 侵吞钱财，所以让他替自己承担杀人罪名。结尾 Karim 和 Nina 和好如初，但 Ophélie 不知道二人为什么吵架，又为什么和好。
-</details>
+> [!spoiler]- 结尾逆转
+> Karim 证实是 Josselin 将 Maja 推下天桥致死，自己因见死不救心存内疚，所以一直没有供出真相。Josselin 开枪引发爆炸，与 Vidame 一起被烧死。Josselin 为了报复 Vidame 侵吞钱财，所以让他替自己承担杀人罪名。结尾 Karim 和 Nina 和好如初，但 Ophélie 不知道二人为什么吵架，又为什么和好。
 
 小女孩在同伴协助之下执着地调查母亲从天桥坠亡的真相。案情本身非常简单，悬念略显单薄。主人公性格复杂，让人又爱又恨。结尾的逆转和不圆满结局加分。

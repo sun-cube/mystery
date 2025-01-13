@@ -38,14 +38,12 @@ Bartlett 猜测 Vance 临时改变主意不去参加杀人游戏，是因为和 
 
 警察报告有三人进入 Lancaster 5B 公寓，其中 8:15 Soar 从前门进入，几分钟后第二人从侧门进入，然后 8:30 Derwent 从前门进入。走廊中间和尽头的地毯上各有一小块血迹。Derwent 承认给警察寄信，因为他找到了 William Dartley 谋杀案的证据。Soar 刚买下这套公寓，所以雇了搬家公司搬家具。楼上卧室里找到一把 .32 自动手枪、一幅山羊皮手套、一柄小刀。
 
-<details><summary>William Dartley 死亡真相</summary>
-现场茶杯上没有指纹，也没有擦拭过的痕迹，说明 Dartley 并没有买下茶杯，老 Soar 撒谎，是他将茶杯带到了 Pendragon 花园 18 号。Dartley 找到了老 Soar 商业欺诈的的证据，逼迫老 Soar 贱卖古董，约他在 Pendragon 交易，并给警察写信“严加防范”。老 Soar 带了高价茶杯假意赴约，将 Dartley 刺死。Dartley 将证据存放在七巧壶中，它其实是一个袖珍保险箱，外人无法打开。Dartley 临死前将装七巧壶的纸盒与包装纸踢进了炉火中，老 Soar 无法带着七巧壶离开而不被路人看到，只好把茶杯留在现场，把七巧壶装在茶杯的盒子中离开。
-</details>
+> [!spoiler]- William Dartley 死亡真相
+> 现场茶杯上没有指纹，也没有擦拭过的痕迹，说明 Dartley 并没有买下茶杯，老 Soar 撒谎，是他将茶杯带到了 Pendragon 花园 18 号。Dartley 找到了老 Soar 商业欺诈的的证据，逼迫老 Soar 贱卖古董，约他在 Pendragon 交易，并给警察写信“严加防范”。老 Soar 带了高价茶杯假意赴约，将 Dartley 刺死。Dartley 将证据存放在七巧壶中，它其实是一个袖珍保险箱，外人无法打开。Dartley 临死前将装七巧壶的纸盒与包装纸踢进了炉火中，老 Soar 无法带着七巧壶离开而不被路人看到，只好把茶杯留在现场，把七巧壶装在茶杯的盒子中离开。
 
 H.M. 指出 7 月 15 日下午 Vance Keating 迎娶了 Frances Gale，他从未修改遗嘱，只想让 Derwent 太太当自己情妇，并计划在 7 月 31 日的“十茶杯”聚会向 Derwent 太太吐露真相，完成羞辱。H.M. 指出 Soar 坐的椅子下面藏着 Bartlett 的尸体。Soar 说自己一进屋就看到了 Bartlett 尸体，但自己没有杀人，只是出于害怕隐藏尸体。
 
-<details><summary>Vance Keating 死亡真相</summary>
-Ronald Gardner 杀死了 Vance 和 Bartlett。按照 Bartlett 的证词，Vance 在六七尺开外走火，击中了托盘上的玻璃杯，但那样的话 Bartlett 的手肯定要包扎，所以他撒了谎，开枪走火的人是 Ronald 而不是 Vance，空包弹击中了 Vance 的后脑，将其头皮灼伤。Bartlett 作伪证是因为 Vance 生前交代他务必隐瞒自己后脑中枪的事实。Vance 形容狼狈，无法参加杀人游戏，只好用一顶宽大软帽遮挡，并在里面写上 Philip 的名字，以防有人问起为什么帽子不合适。Vance 坚持去参加“十茶杯”聚会，进入房间后背朝着窗户站在窗前。Ronald 从街对面房子的阁楼向 Vance 开枪，子弹将其后脑击穿，因为后脑上的灼痕和子弹来自同一支手枪，医生不会怀疑灼痕产生的时间和子弹击穿头骨的时间不一致。Ronald 是板球高手，将手枪扔进 Vance 所在房间的窗户（伏线：窗玻璃有灰尘，所以监视的警察没看到头顶有手枪飞过），手枪掉在地上走火，近距离射中 Vance。Ronald 和 Derwent 太太有私情，假冒 Vance 给 Soar 打电话让他给 Derwent 太太寄去桌布。Derwent 太太在星期二晚上拿走游戏手枪，为 Ronald 提供无法取得手枪的不在场证明，而她自己则在 Vance 死时拥有牢固的不在场证明。Ronald 杀死 Bartlett 是因为他知道手枪走火的真相。
-</details>
+> [!spoiler]- Vance Keating 死亡真相
+> Ronald Gardner 杀死了 Vance 和 Bartlett。按照 Bartlett 的证词，Vance 在六七尺开外走火，击中了托盘上的玻璃杯，但那样的话 Bartlett 的手肯定要包扎，所以他撒了谎，开枪走火的人是 Ronald 而不是 Vance，空包弹击中了 Vance 的后脑，将其头皮灼伤。Bartlett 作伪证是因为 Vance 生前交代他务必隐瞒自己后脑中枪的事实。Vance 形容狼狈，无法参加杀人游戏，只好用一顶宽大软帽遮挡，并在里面写上 Philip 的名字，以防有人问起为什么帽子不合适。Vance 坚持去参加“十茶杯”聚会，进入房间后背朝着窗户站在窗前。Ronald 从街对面房子的阁楼向 Vance 开枪，子弹将其后脑击穿，因为后脑上的灼痕和子弹来自同一支手枪，医生不会怀疑灼痕产生的时间和子弹击穿头骨的时间不一致。Ronald 是板球高手，将手枪扔进 Vance 所在房间的窗户（伏线：窗玻璃有灰尘，所以监视的警察没看到头顶有手枪飞过），手枪掉在地上走火，近距离射中 Vance。Ronald 和 Derwent 太太有私情，假冒 Vance 给 Soar 打电话让他给 Derwent 太太寄去桌布。Derwent 太太在星期二晚上拿走游戏手枪，为 Ronald 提供无法取得手枪的不在场证明，而她自己则在 Vance 死时拥有牢固的不在场证明。Ronald 杀死 Bartlett 是因为他知道手枪走火的真相。
 
 连续在两起杀人案的现场出现“十茶杯”的奇怪布置，警察还事先收到了预告信。死者独自走进二楼房间，在近距离连中两枪，门口一直有警察监视，没有在房间里找到凶手踪迹。作者对不可能状况的解答极具想象力，且与布局接洽得严丝合缝，简直是魔术一般的手法。

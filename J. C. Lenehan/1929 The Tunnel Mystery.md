@@ -24,8 +24,7 @@ Constance 和 Jack 在车站打听 Peters 的下落，一个搬运工记得 Pete
 
 Kilby 向苏格兰场询问臭名昭著的珠宝大盗“Abbie, the Mole”的信息。Kilby 在 Sir Joshua  家看到他毒瘾发作。Kilby 怀疑钻石项链抢劫案是 Sir Joshua 自导自演，进而查出他给项链买了高额保险。Sir Joshua 死在书房里，疑似心脏病发作。仆人说有人送来了一个包裹，里面包了一件青铜像，用来取代之前损坏的一件青铜像，Kilby 在上面发现一根毒针。Kilby 认为仆人 Ted 有杀人嫌疑，还查出珠宝大盗 Abbie 化身 Peters 医生杀死 Hyde。Kilby 从 John Smith 手里买下橱窗里的花瓶，并瞥到店里有一尊青铜像和 Sir Joshua 家的一样。Jack 被绑架，Kilby 突袭 John Smith 的珠宝店，绑匪在 Kilby 的眼皮底下把 Jack 转移。Jack 从 Peters 手中逃脱。
 
-<details><summary>真相</summary>
-Dick Lowe 是珠宝大盗 Abbie，他盗取了真正的陶艺师的身份，把钻石藏在陶器中交给 John Smith 处理。Freda 是共犯，她放提包避免外人坐在子弹路径上，Dick 从后面的车厢开枪射杀 Hyde，在黑暗中取走装有钻石项链的烟草袋。Dick 回家烧掉烟草袋，开车回到隧道安放手枪（伏线：Freda 第二天洗车）。Freda 救了 Jack 免受伤害，与 Dick 一起驾车逃亡时坠海。Sir Joshua 和 Ted 都是 Abbie 的手下，Ted 告密害死 Sir Joshua。
-</details>
+> [!spoiler]- 真相
+> Dick Lowe 是珠宝大盗 Abbie，他盗取了真正的陶艺师的身份，把钻石藏在陶器中交给 John Smith 处理。Freda 是共犯，她放提包避免外人坐在子弹路径上，Dick 从后面的车厢开枪射杀 Hyde，在黑暗中取走装有钻石项链的烟草袋。Dick 回家烧掉烟草袋，开车回到隧道安放手枪（伏线：Freda 第二天洗车）。Freda 救了 Jack 免受伤害，与 Dick 一起驾车逃亡时坠海。Sir Joshua 和 Ted 都是 Abbie 的手下，Ted 告密害死 Sir Joshua。
 
 一名乘客在火车经过隧道时被杀，车厢里却没有人看到开火的闪光。凶手设置比较套路，到结尾处已是呼之欲出。中间的警察程序中规中矩。

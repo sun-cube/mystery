@@ -22,12 +22,10 @@ Ernie 在晚宴上与 Majors 同桌，问起 McTavish 是否抄了她的点子�
 
 Wyatt 被双子座钢笔刺穿喉咙而死，手上缠着 Simone 的蓝色围巾，房间一片狼藉。Royce 和 Lisa 各有一支双子座钢笔，McTavish 可能也有一支，打开的保险柜旁的盒子里也有两支。侦探 Hatch 上车，证实了 Ernie 关于 McTavish 死于海洛因过量的理论。Hatch 向 Ernie 求证 Wyatt 是否有可能在 Alice Springs 站之前被杀，Ernie 惊恐地发现他们逮捕了 Juliette。Hatch 认定 Juliette 拿了 Simone 的围巾，尽管 Ernie 努力解释是 Wyatt 捡到的围巾。Ernie 跳车追逐 Lisa 来到一个矿区，不慎滑入矿井，被 Lisa 拉起。Lisa 成功给汽车打火，二人回到列车。
 
-<details><summary>Lisa 的历史</summary>
-Lisa 在爱丁堡遭受了 McTavish 的强奸，因为实验室弄丢了 DNA 证据，不得已和 McTavish 签署了保密协议换取金钱赔偿。Wyatt 为了报复 Lisa 更换出版社，故意让 McTavish 写了一段触发她强奸记忆的推荐语（firecracker，形容 Lisa 在床上的表现）。Lisa 一气之下决定撕毁保密协议，McTavish 给她写了一张支票试图收买，但 Lisa 将支票烧毁。Ernie 看出 Lisa 手臂上的淤青是自导自演，因为 McTavish 有车祸旧伤，无力伤人。Lisa 的真正目的是要一张沾血的纸巾用来亲子鉴定，因为 Brooke 是 McTavish 强奸的结果。（伏线：如果 Brooke 在客舱里，她晒伤的应该是左臂，但她晒伤的是右臂，说明她在作家的车厢里。）Lisa 偷走了 McTavish 的手稿。
-</details>
+> [!spoiler]- Lisa 的历史
+> Lisa 在爱丁堡遭受了 McTavish 的强奸，因为实验室弄丢了 DNA 证据，不得已和 McTavish 签署了保密协议换取金钱赔偿。Wyatt 为了报复 Lisa 更换出版社，故意让 McTavish 写了一段触发她强奸记忆的推荐语（firecracker，形容 Lisa 在床上的表现）。Lisa 一气之下决定撕毁保密协议，McTavish 给她写了一张支票试图收买，但 Lisa 将支票烧毁。Ernie 看出 Lisa 手臂上的淤青是自导自演，因为 McTavish 有车祸旧伤，无力伤人。Lisa 的真正目的是要一张沾血的纸巾用来亲子鉴定，因为 Brooke 是 McTavish 强奸的结果。（伏线：如果 Brooke 在客舱里，她晒伤的应该是左臂，但她晒伤的是右臂，说明她在作家的车厢里。）Lisa 偷走了 McTavish 的手稿。
 
-<details><summary>真相</summary>
-Royce 原为实验室的实验员，帮助损坏 Lisa 的 DNA 证据以换取 Wyatt 的出版合同。Majors 在 Alice Springs 长大，和事故中遇难的孩子上同一所学校，好友被校车司机侵犯。Wolfgang 打算在火车上批判商业小说并羞辱 Wyatt，Wyatt 试图写一张支票让他封口，被 Wolfgang 拒绝。Wolfgang 而不是 Douglas 是 Erica Mathison，Erica 的书是人工智能撰写。McTavish 最新作的标题没有使用牛津逗号，其实是由 Jasper 代笔，Harriet 知晓此事，这也解释了为什么 McTavish 的房间里没有打字机。Ernie 听到 McTavish 和 Wyatt 的争吵其实是 Jasper 和 Wyatt 的争吵，Wyatt 答应出版 Jasper 的小说。Archie Bench 是“Reichenbach 瀑布”的字母重排，意即人物会像 Sherlock Holmes 一样复活。Simone 用 McTavish 的密码登录了他的 Goodreads 账号，并给五人留下 1-5 星的评价，评价语首字母连成 GHOST（代笔），用来敲诈 McTavish。Harriet 不满 McTavish 打击 Jasper 的自信心，所以用走廊的水壶煮成鸦片茶混入威士忌，并留下粉丝礼物的便条。McTavish 的死反而增加了其遗作的商业价值，Wyatt 准备用 McTavish 的名字单独署名出版，所以 Harriet 用钢笔刺穿了他的喉咙。
-</details>
+> [!spoiler]- 真相
+> Royce 原为实验室的实验员，帮助损坏 Lisa 的 DNA 证据以换取 Wyatt 的出版合同。Majors 在 Alice Springs 长大，和事故中遇难的孩子上同一所学校，好友被校车司机侵犯。Wolfgang 打算在火车上批判商业小说并羞辱 Wyatt，Wyatt 试图写一张支票让他封口，被 Wolfgang 拒绝。Wolfgang 而不是 Douglas 是 Erica Mathison，Erica 的书是人工智能撰写。McTavish 最新作的标题没有使用牛津逗号，其实是由 Jasper 代笔，Harriet 知晓此事，这也解释了为什么 McTavish 的房间里没有打字机。Ernie 听到 McTavish 和 Wyatt 的争吵其实是 Jasper 和 Wyatt 的争吵，Wyatt 答应出版 Jasper 的小说。Archie Bench 是“Reichenbach 瀑布”的字母重排，意即人物会像 Sherlock Holmes 一样复活。Simone 用 McTavish 的密码登录了他的 Goodreads 账号，并给五人留下 1-5 星的评价，评价语首字母连成 GHOST（代笔），用来敲诈 McTavish。Harriet 不满 McTavish 打击 Jasper 的自信心，所以用走廊的水壶煮成鸦片茶混入威士忌，并留下粉丝礼物的便条。McTavish 的死反而增加了其遗作的商业价值，Wyatt 准备用 McTavish 的名字单独署名出版，所以 Harriet 用钢笔刺穿了他的喉咙。
 
 标题致敬东方快车。文中无数 meta，出场人物会时不时跳出小说本体讨论一下故事情节。半程时某推理作家一时技痒，信誓旦旦地召集众人，要以黄金时代作风公布凶手身份，随即便被告知“凶手”死亡，令人忍俊不禁。作者在第一章公然宣告会提到凶手名字 106 次，有计数器的读者可以走偏门找出凶手。

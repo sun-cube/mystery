@@ -26,8 +26,7 @@ Tony Taylor 受 Steve 委托调查 Vivid Viral Media，与 Felicity 接触，发
 
 Bonnie 在机场办理登机时，Felicity 和 Tony 出现将她带走，后在其包内发现超一百万英镑。Amy 藏在 Gary Gough 的车后备箱前往伦敦，最终证实公司的人力资源主管 Susan Knox 是幕后黑手，长期从 Jeff 的账户补充薪水，导致亏空。她与 François Loubet 勾结，以 Max Highfield 的名义掩盖非法行为。Rosie 和 Steve 在迪拜与 Max Highfield 会面，Max 表示听过 François Loubet，会面结束后 Steve 怀疑 Max 的身份。Steve 为调查 Rob Kenna，进入桑拿房认识了金属经销商 Mickey Moody。Rob 在高尔夫球场被 Loubet 杀害。Eddie 进入 Rosie 的房间，Rosie 以为他被人雇来杀自己，但 Eddie 却说他是一名作家，只是想让 Rosie 读他的书。
 
-<details><summary>真相</summary>
-Henk 提供的文件显示网红都是由 Max Highfield 介绍给公司，Max Highfield = Joe Blow。Mickey Moody 肩胛骨上的纹身是两个名字 Elizabeth 和 Louisa，缩写为 Lou 和 Bet，Mickey Moody = François Loubet。Max Highfield 的保镖 Abby 入侵了 Mickey 家中的门铃摄像头，拍下了 Mickey 枪杀 Rob 的视频证据。
-</details>
+> [!spoiler]- 真相
+> Henk 提供的文件显示网红都是由 Max Highfield 介绍给公司，Max Highfield = Joe Blow。Mickey Moody 肩胛骨上的纹身是两个名字 Elizabeth 和 Louisa，缩写为 Lou 和 Bet，Mickey Moody = François Loubet。Max Highfield 的保镖 Abby 入侵了 Mickey 家中的门铃摄像头，拍下了 Mickey 枪杀 Rob 的视频证据。
 
 情节基本没有推理可言，也不是特别能理解作者的幽默，应该不会再看这个系列了。

@@ -50,12 +50,10 @@ Vaudrier 在 Véronique 的启发下回忆了悲惨的过去。她在十六岁�
 
 医疗团队推测 Sandrine 被囚禁了 9-14 年。Damien 注意到地下室没有时钟，所以 Sandrine 不可能知道确切的时间 8:37。Damien 在 Wernst 的信箱中找到一封农业代表 André Dubreuil 寄来的信，邀请 Wernst 参加牲畜集市。Sandrine 承认某一天 Wernst 解除了她的监禁，让她在厨房里给自己做饭。Sandrine 习惯了被囚禁的生活，选择继续和 Wernst 一起生活，每天晚上 8:37 Wernst 准时把牲畜赶回牛棚。Dubreuil 记得 Wernst 每年都来参加一年一度的农业博览会，直到 1981 年一个名为 Fabien 的小孩失踪，小孩父亲自杀，展会永久取消。警方查出 Wernst 每年大概要参加二十场集市，举行这些集市的市镇在过去十年发生过多起儿童失踪案。Antoine 意识到 Sandrine 故事中的十个小孩可能都是真实失踪的小孩，进而在 Wernst 家的马厩阁楼找到了链子、床垫、十几双鞋子等囚禁儿童的证据。
 
-<details><summary>结尾</summary>
-Sandrine 发现 Wernst 囚禁了其他小孩，所以才不再找自己发泄欲望。Wernst 淹死了囚禁的小孩，Sandrine 放 Mélanie 逃跑，用石头砸死了 Wernst。Damien 在池塘中发现了九具尸体，其中没有 Mélanie。
-</details>
+> [!spoiler]- 结尾
+> Sandrine 发现 Wernst 囚禁了其他小孩，所以才不再找自己发泄欲望。Wernst 淹死了囚禁的小孩，Sandrine 放 Mélanie 逃跑，用石头砸死了 Wernst。Damien 在池塘中发现了九具尸体，其中没有 Mélanie。
 
-<details><summary>逆转</summary>
-按照 Villemin 教授的讲解，Damien 找到了女儿 Mélanie 的尸体，陷入极度悲伤，精神变得不正常，编造出了整个故事。这个故事不是 Sandrine 的“心理避难所”，而是 Damien 的“心理避难所”。
-</details>
+> [!spoiler]- 逆转
+> 按照 Villemin 教授的讲解，Damien 找到了女儿 Mélanie 的尸体，陷入极度悲伤，精神变得不正常，编造出了整个故事。这个故事不是 Sandrine 的“心理避难所”，而是 Damien 的“心理避难所”。
 
 故事分两部分叙述。前半部是跨度 37 年的双线叙述，包括过去的儿童实验和现代的孤岛连续杀人。后半部分来到现代的几天后，警察在海滩上发现一名迷失女子，讲述在孤岛上发生的故事，表明上自圆其说，可一经推敲便可发现细节破绽。本作的强项在于说故事，气氛幽闭压抑，魔王、水、岛屿、时钟、猫、鞋子等概念设置充满意象，情节展开层层迭代，好像俄罗斯套娃，不到最后看不出真相。非常适合改编成电影。

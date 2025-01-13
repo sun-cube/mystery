@@ -55,28 +55,23 @@ Sylvester 死在湖中心的船上，凶器是厨房的一把牛排刀，夹克�
 
 Hook 查出 Thomas 有暴力前科，去年春天和一位女士结婚私奔。Victor 和“Edgemoor 扼杀者”、“Ambergate 纵火犯”一起从精神病院逃脱，Thomas 被杀，两名看守被迷晕，Victor 的医疗记录被烧毁。Spector 查找了档案柜中 M、N 开头的病历。Moncrieff 在伦敦救治病人，有不在场证明。“Edgemoor 扼杀者”的案子当年也是由 Giles 审理，他去 Giles 家报仇时被警察捕获。“Edgemoor 扼杀者”坦白收到一张神秘字条，上面写着 Giles 家的住处，笔迹鉴定与 Giles 收到的威胁信相同。Ambrose 精神崩溃，驾车逃跑，Spector 揭露 Ambrose 杀了 Jeffrey。
 
-<details><summary>密室真相</summary>
-凶手把双管猎枪放在窗外，扳机上绑了一根绳子，从窗户垂到地面，在下面拉绳子射击。猎枪在后坐力的作用下向后飞出，掉到地上，窗户受到震动落下，窗框卡条在冲击力的作用下变形，使得窗户无法打开，无意中形成密室。凶手在受害者卧室下方，通过听头顶传来的脚步声判断受害者位置，所以凶手是下方画室里的 Ambrose。（伏线：Ambrose 声称一直在画画，但画上的颜料是干的。）Arthur 收到匿名信，所以来到乡村。
-</details>
+> [!spoiler]- 密室真相
+> 凶手把双管猎枪放在窗外，扳机上绑了一根绳子，从窗户垂到地面，在下面拉绳子射击。猎枪在后坐力的作用下向后飞出，掉到地上，窗户受到震动落下，窗框卡条在冲击力的作用下变形，使得窗户无法打开，无意中形成密室。凶手在受害者卧室下方，通过听头顶传来的脚步声判断受害者位置，所以凶手是下方画室里的 Ambrose。（伏线：Ambrose 声称一直在画画，但画上的颜料是干的。）Arthur 收到匿名信，所以来到乡村。
 
 Ambrose 的汽车座椅被人连接到电池上，他下车时接触到车门触电身亡。前天夜里 Ludo 跳楼自杀，Spector 推测 Ambrose 以赌债威胁 Ludo 扮演 Arthur 逃跑，Ludo 没想到发生了真的谋杀案，负疚自杀。Ambrose 与 Leonard 竞争一个新角色，死前收到 Tapper 的信，说新角色给了别人，Tapper 却说没有写过这封信，还说别人很容易拿到公司抬头的信纸。Tapper 证实 Ruth Kessler 是 Richmond 的女儿，在父亲死后一直由叔叔 Daniel 监护，后来死于阑尾破裂。Spector 家访退休验尸官 Valentine，他当年因为无法解释下毒过程被迫提前退休。Leonard 让 Peter 用父亲书房的电话叫一辆出租车。Peter 死在房中，头被人割下，旁边地毯上掉落一把弯刀，Leonard 失踪。
 
-<details><summary>连续杀人案真相</summary>
-探险家 Byron Manderby 是 Moncrieff 的病人（伏线：M 开头的病历），他也是“悲剧家”的成员（伏线：Peter 提到探险船名叫 Shamshir，那是一种类似弯刀的波斯剑，也即“悲剧家”的标志）。Moncrieff 给 Manderby 和 Peter Nightingale 都看过病，可是 Moncrieff 在 Jeffrey 遇害之后给 Elspeth 打镇静剂，和在场的 Peter 明显不认识（伏线），说明 Peter 是有人假冒。Caroline 是 Thomas Griffin 的秘密新娘，结婚的目的是为了解救 Victor。Victor 在 Thomas 的帮助下溜出医院假冒 Peter，真正的 Peter 是海边箱子里的尸体。（伏线：假冒的 Peter 说 Ulanga 河流入大西洋，实际上流入印度洋。）Flint 在医院看到的 Victor 是他本人换回疯子的装扮（伏线：Victor 开车回到别墅，所以汽车发动机是热的）。Thomas 迷晕了两名看守，帮助制造了 Victor 越狱的假象，随后被 Caroline 杀死（伏线：Caroline 穿了男人的外套，扣子从左边系）。房中穿着 Peter 衣服的无头尸是 Leonard。结尾 Victor 将 Giles 夫妇带到 Tapper 的摄影棚，意图录下二人杀死 Gloria 的供词。
+> [!spoiler]- 连续杀人案真相
+> 探险家 Byron Manderby 是 Moncrieff 的病人（伏线：M 开头的病历），他也是“悲剧家”的成员（伏线：Peter 提到探险船名叫 Shamshir，那是一种类似弯刀的波斯剑，也即“悲剧家”的标志）。Moncrieff 给 Manderby 和 Peter Nightingale 都看过病，可是 Moncrieff 在 Jeffrey 遇害之后给 Elspeth 打镇静剂，和在场的 Peter 明显不认识（伏线），说明 Peter 是有人假冒。Caroline 是 Thomas Griffin 的秘密新娘，结婚的目的是为了解救 Victor。Victor 在 Thomas 的帮助下溜出医院假冒 Peter，真正的 Peter 是海边箱子里的尸体。（伏线：假冒的 Peter 说 Ulanga 河流入大西洋，实际上流入印度洋。）Flint 在医院看到的 Victor 是他本人换回疯子的装扮（伏线：Victor 开车回到别墅，所以汽车发动机是热的）。Thomas 迷晕了两名看守，帮助制造了 Victor 越狱的假象，随后被 Caroline 杀死（伏线：Caroline 穿了男人的外套，扣子从左边系）。房中穿着 Peter 衣服的无头尸是 Leonard。结尾 Victor 将 Giles 夫妇带到 Tapper 的摄影棚，意图录下二人杀死 Gloria 的供词。
 
-Victor 化身 Peter 混入 Drury 家，向 Leonard 提示 Sylvester 和 Elspeth 有外遇。Leonard 试图勒索 Sylvester，但 Sylvester 反击说他目击了 Leonard 在房子外面对 Giles 开枪，Leonard 于是与 Ambrose 合谋将其杀害。Caroline 偷出 Tapper 的公司信纸，Victor 假冒 Tapper 给 Ambrose 写信，通知他失去了新角色，意图挑起他与 Leonard 的矛盾。Victor 又给 Leopard 写了一封信，指控他杀死 Sylvester，Leonard 以为是 Jeffrey 所写，于是又与 Ambrose 合作杀死 Jeffrey（伏线：Leonard 要求交换房间）。Victor 杀死 Ambrose、Leonard。
-</details>
+> Victor 化身 Peter 混入 Drury 家，向 Leonard 提示 Sylvester 和 Elspeth 有外遇。Leonard 试图勒索 Sylvester，但 Sylvester 反击说他目击了 Leonard 在房子外面对 Giles 开枪，Leonard 于是与 Ambrose 合谋将其杀害。Caroline 偷出 Tapper 的公司信纸，Victor 假冒 Tapper 给 Ambrose 写信，通知他失去了新角色，意图挑起他与 Leonard 的矛盾。Victor 又给 Leopard 写了一封信，指控他杀死 Sylvester，Leonard 以为是 Jeffrey 所写，于是又与 Ambrose 合作杀死 Jeffrey（伏线：Leonard 要求交换房间）。Victor 杀死 Ambrose、Leonard。
 
-<details><summary>冰面诡计</summary>
-Ambrose 晚间早些时候割断船绳，把船推向湖中心。午夜湖面结冰，Ambrose 和 Leonard 合作在午夜之后刺死 Sylvester。Ambrose 把绳子的一头穿上板球，扔给河对岸的 Leonard。二人把绳子穿过尸体的衣袖，把尸体吊到树上，顺着绳索滑道滑到湖中央小船上方，然后解开绳子回收（伏线：尸体呈十字架形，是为了容易回收绳子）。
-</details>
+> [!spoiler]- 冰面诡计
+> Ambrose 晚间早些时候割断船绳，把船推向湖中心。午夜湖面结冰，Ambrose 和 Leonard 合作在午夜之后刺死 Sylvester。Ambrose 把绳子的一头穿上板球，扔给河对岸的 Leonard。二人把绳子穿过尸体的衣袖，把尸体吊到树上，顺着绳索滑道滑到湖中央小船上方，然后解开绳子回收（伏线：尸体呈十字架形，是为了容易回收绳子）。
 
-<details><summary>Gloria 死亡真相</summary>
-Ruth Kessler 与 Gloria Crain 在 24 小时之内去世（伏线：Ruth 的墓志铭），Ruth 死于士的宁中毒，Gloria 死于阑尾破裂，助理验尸官 Findler 调换了二人的尸检记录，制造了一桩不存在的谋杀案，迫使导师 Valentine 退休，自己得以上位。Ruth 的叔叔 Daniel 为了侵吞遗产毒死了 Ruth。
-</details>
+> [!spoiler]- Gloria 死亡真相
+> Ruth Kessler 与 Gloria Crain 在 24 小时之内去世（伏线：Ruth 的墓志铭），Ruth 死于士的宁中毒，Gloria 死于阑尾破裂，助理验尸官 Findler 调换了二人的尸检记录，制造了一桩不存在的谋杀案，迫使导师 Valentine 退休，自己得以上位。Ruth 的叔叔 Daniel 为了侵吞遗产毒死了 Ruth。
 
-<details><summary>结尾逆转</summary>
-Runcible 太太是 Esther 的母亲，Sylvester 的外婆。Becky 听到的电话是 Runcible 太太和 Sylvester 对话。Runcible 太太与 Sylvester 合谋，由 Sylvester 诱惑 Elspeth，谋杀 Giles 继承遗产。Runcible 太太杀死 Ambrose、Leonard 兄弟。她在 Ambrose 的车里制造复杂的电击装置，而不是简单地切断刹车系统，是因为她有全色盲（伏线：Sylvester 继承了母亲一支的色盲），看不到刹车线的颜色。（伏线：Runcible 太太能一个人维护别墅的灯火，说明她学习了电路知识。）Victor 在 Runcible 太太杀死 Leonard 之后割断了尸体的头伪造为 Peter，所以现场没有留下大量血迹。
-</details>
+> [!spoiler]- 结尾逆转
+> Runcible 太太是 Esther 的母亲，Sylvester 的外婆。Becky 听到的电话是 Runcible 太太和 Sylvester 对话。Runcible 太太与 Sylvester 合谋，由 Sylvester 诱惑 Elspeth，谋杀 Giles 继承遗产。Runcible 太太杀死 Ambrose、Leonard 兄弟。她在 Ambrose 的车里制造复杂的电击装置，而不是简单地切断刹车系统，是因为她有全色盲（伏线：Sylvester 继承了母亲一支的色盲），看不到刹车线的颜色。（伏线：Runcible 太太能一个人维护别墅的灯火，说明她学习了电路知识。）Victor 在 Runcible 太太杀死 Leonard 之后割断了尸体的头伪造为 Peter，所以现场没有留下大量血迹。
 
 由过去的疑似毒杀案引发的家族系列杀人案，包括一起湖中弃尸和一起密室枪击。湖中弃尸的谜面新颖：在湖中央的小船上发现尸体，死者死于午夜之后，湖面在午夜结了薄冰，不能承担两个人的重量，如果将小船推到湖中央，必将破坏冰面，所以这是一起不可能犯罪，解法与島田荘司某作品相似。结尾大量伏线回收，毒杀案真相意外，外加一层逆转。布局有些过于复杂，整体完成度高。

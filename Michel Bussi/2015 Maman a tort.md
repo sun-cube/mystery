@@ -20,8 +20,7 @@ Timo 的伤情愈发严重。Malone 认出 Alexis 是“食人妖”，躲在厕
 
 Alexis 开枪打死 Dimitri。Amanda 的孩子 Malone 小时候从楼梯摔下脑桥受损，Dimitri 于是找来第二个孩子替代，即现在的 Malone。警察追捕 Alexis、Amanda、Malone 三人。Malone 的手下找到 la Hève 海角的“城堡”和废弃海盗船。Alexis 藏在家中的赃物被盗，只有四名劫匪知道赃物所在。Amanda 在抽屉里发现两张机票和一把手枪，她开枪打死 Alexis，带着 Malone 赶赴机场。警方查出 Timo 的女伴竟是 Angélique，她也是 Malone 的妈妈。Marianne 带人去机场拦截 Amanda，但 Angélique 抢先下手打晕了 Amanda，自己带 Malone 上了飞机。警察家访老 Lukowik 夫妇。
 
-<details><summary>结尾逆转</summary>
-Amanda 的孩子 Malone 目睹劫匪策划案件，Alexis 为了防止被小孩指认，伪造病历谎称孩子时日无多，把他带到老 Lukowik 家，和 Lukowik 家的孙子交换。小说开头出现的 Malone 是 Lukowik 家的孙子，喜欢玩 Gouti 玩偶，目睹父母在枪战中被击毙。Angélique 为了不让他忘记过去，在玩偶肚子里放了 MP3 播放器。Angélique 盗取赃物，并在结尾转钱给 Amanda 的小孩治病。
-</details>
+> [!spoiler]- 结尾逆转
+> Amanda 的孩子 Malone 目睹劫匪策划案件，Alexis 为了防止被小孩指认，伪造病历谎称孩子时日无多，把他带到老 Lukowik 家，和 Lukowik 家的孙子交换。小说开头出现的 Malone 是 Lukowik 家的孙子，喜欢玩 Gouti 玩偶，目睹父母在枪战中被击毙。Angélique 为了不让他忘记过去，在玩偶肚子里放了 MP3 播放器。Angélique 盗取赃物，并在结尾转钱给 Amanda 的小孩治病。
 
 四岁小孩说自己的妈妈不是真的妈妈，引发学校注意，与此同时发生一桩抢劫案，两条线在中段交汇。关于小孩记忆的描述有些超现实，结尾逆转有欠公平。

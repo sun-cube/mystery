@@ -36,30 +36,26 @@ Jamal 借用 Mona 的汽车去了 Neufchâtel-en-Bray 的驴背客栈找 Morgane
 
 Mona 认为 Jamal 的经历都是臆想，同意和他一起找 Le Medef 和 Denise 对质，如果还没有结果就去警局自首。Jamal 给朋友打电话，得知表格的含义是“囚徒困境”。Jamal 又在车里发现一封信，是 Alina Masson 的日记。Jamal 来到 Le Medef 的住所，发现房间空无一物，而邻居说房子半年来都是空的！Jamal 又去了 Denise 住所，却发现那是一间民宿。Mona 指出 Magali Verron 是 Morgane Avril 的字母重排，所以这一切都是 Jamal 的臆想产物。Piroz 赶到，并向 Jamal 开枪，Mona 替 Jamal 挡了子弹。Jamal 开车逃进森林，又在后备箱中发现一封信。Jamal 开车来到一个教堂，眼前回放过去的种种经历。Piroz 再次追来，Jamal 心理崩溃，承认强奸杀人。
 
-<details><summary>真相</summary>
-<ul>
-“红线”协会成员为：
-<li>Carmen Avril：Morgane 母亲，会长。</li>
-<li>Frédéric Saint-Michel：Myrtille 未婚夫，副会长，扮演 Christian Le Medef（字母重排）。</li>
-<li>Océane Avril：Morgane 的双胞胎姐姐，秘书，扮演 Verron。</li>
-<li>Jeanine Dubois：Myrtille 的奶奶，代理秘书，扮演 Denise Joubain（字母重排）。</li>
-<li>Alina Masson：Myrtille 的好朋友，会计，扮演 Mona Salinas（字母重排）。</li>
-</ul>
-他们查到 Jamal 曾在2004年6月订了 Yport 的旅馆，并在2004年8月去了 Isigny-sur-Mer，所以认定他是凶手，共同上演大戏逼供，但其实 Jamal 退了 Yport 的旅馆，不是凶手。Océane 扮演 Verron 跳崖，其实是定点跳伞。（伏线：地方报纸没有报道杀人案。）狗狗 Ronald 改名为 Arnold。
+> [!spoiler]- 真相
+>  “红线”协会成员为：
+> * Carmen Avril：Morgane 母亲，会长。
+> * Frédéric Saint-Michel：Myrtille 未婚夫，副会长，扮演 Christian Le Medef（字母重排）。
+> * Océane Avril：Morgane 的双胞胎姐姐，秘书，扮演 Verron。
+> * Jeanine Dubois：Myrtille 的奶奶，代理秘书，扮演 Denise Joubain（字母重排）。
+> * Alina Masson：Myrtille 的好朋友，会计，扮演 Mona Salinas（字母重排）。
+> 
+> 他们查到 Jamal 曾在2004年6月订了 Yport 的旅馆，并在2004年8月去了 Isigny-sur-Mer，所以认定他是凶手，共同上演大戏逼供，但其实 Jamal 退了 Yport 的旅馆，不是凶手。Océane 扮演 Verron 跳崖，其实是定点跳伞。（伏线：地方报纸没有报道杀人案。）狗狗 Ronald 改名为 Arnold。
+> 
+> Piroz 查出 Jamal 的 DNA 和凶手不同，知道抓错了人，但最后一刻让 Jamal 继续配合演戏。
 
-Piroz 查出 Jamal 的 DNA 和凶手不同，知道抓错了人，但最后一刻让 Jamal 继续配合演戏。
-</details>
+> [!spoiler]- 凶手身份
+> 海边砖墙上有一块砖上刻着 M2O，其意义为 Myrtille aime Olivier = MMO = M2O（aime 是法语的“爱”，发音为“M”）。Myrtille 爱的是 Olivier，Frédéric 在一天之内往返 Yport 和 Isigny-sur-Mer，强奸并杀死了未婚妻。（伏线：Myrtille 死时穿着平时不会穿的性感裙子，是为了和 Olivier 约会。）Mona 读到砖墙里藏的笔记本，得知真相。Frédéric 刺死 Peroz，要向 Jamal 开枪时被 Océane 正当防卫打死。警察在 Frédéric 家的玻璃瓶里找到陈旧精液残留，与凶手 DNA 一致，是他用来伪造受害者的精液。（伏线：Myrtille 沾有精液的内裤在别处被发现，阴道里没有精液。）
 
-<details><summary>凶手身份</summary>
-海边砖墙上有一块砖上刻着 M2O，其意义为 Myrtille aime Olivier = MMO = M2O（aime 是法语的“爱”，发音为“M”）。Myrtille 爱的是 Olivier，Frédéric 在一天之内往返 Yport 和 Isigny-sur-Mer，强奸并杀死了未婚妻。（伏线：Myrtille 死时穿着平时不会穿的性感裙子，是为了和 Olivier 约会。）Mona 读到砖墙里藏的笔记本，得知真相。Frédéric 刺死 Peroz，要向 Jamal 开枪时被 Océane 正当防卫打死。警察在 Frédéric 家的玻璃瓶里找到陈旧精液残留，与凶手 DNA 一致，是他用来伪造受害者的精液。（伏线：Myrtille 沾有精液的内裤在别处被发现，阴道里没有精液。）
-</details>
-
-<details><summary>逆转</summary>
-Océane 嫉妒 Morgane 爱上 Alexandre Da Costa，所以杀死 Morgane，并在其阴道中留下 Alexandre 的精液，伪造强奸杀人。Océane 毒死 Alexandre，埋尸悬崖（三具尸体中的第一具）。
-
-Frédéric 模仿“红围巾杀手”杀死 Myrtille，第二天 Carmen 召集 Myrtille 的亲属开会。Océane 通过观察发现 Frédéric 是杀死 Myrtille 的凶手，与其结盟，并给了他一瓶 Alexandre 的精液。Frédéric 将精液洒在 Myrtille 的内裤上，伪装成连续杀人。Océane 毒死 Olivier Roy（第二具尸体）并拿到 Myrtille 的日记。Océane 在砖墙上留下 M2O 的记号，并在 Frédéric 家留下精液瓶线索。
-
-结尾 Océane 与 Jamal 做爱并将其毒死（第三具尸体）。Jamal 临死前给 Ophélie 发了一张在 Océane 家偷拍的照片，成为决定性证据。
-</details>
+> [!spoiler]- 逆转
+> Océane 嫉妒 Morgane 爱上 Alexandre Da Costa，所以杀死 Morgane，并在其阴道中留下 Alexandre 的精液，伪造强奸杀人。Océane 毒死 Alexandre，埋尸悬崖（三具尸体中的第一具）。
+> 
+> Frédéric 模仿“红围巾杀手”杀死 Myrtille，第二天 Carmen 召集 Myrtille 的亲属开会。Océane 通过观察发现 Frédéric 是杀死 Myrtille 的凶手，与其结盟，并给了他一瓶 Alexandre 的精液。Frédéric 将精液洒在 Myrtille 的内裤上，伪装成连续杀人。Océane 毒死 Olivier Roy（第二具尸体）并拿到 Myrtille 的日记。Océane 在砖墙上留下 M2O 的记号，并在 Frédéric 家留下精液瓶线索。
+> 
+> 结尾 Océane 与 Jamal 做爱并将其毒死（第三具尸体）。Jamal 临死前给 Ophélie 发了一张在 Océane 家偷拍的照片，成为决定性证据。
 
 主人公未能成功救下跳崖女孩，女孩坠崖身亡，脖子上却系着主人公的围巾。进一步调查发现坠崖女孩与多年前的强奸杀人受害者有着相同的成长经历，连死亡方式都如出一辙，而所有证据都指向主人公。本作的悬念设置扣人心弦，谜团层出不穷，到最后均给出合理解释，揭露真凶之后又加了一层逆转。

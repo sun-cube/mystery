@@ -47,9 +47,8 @@ Montalabert 伯爵连续收到三封威胁信，邀请退休的传奇警长 Loui
 
 所以 Montalabert 一直在勒索四人。警察在伯爵收藏武器的图书馆橱柜里找到了凶器手枪，上面没有指纹。
 
-<details><summary>密室真相</summary>
-凶手是 Moreau，他付钱让人在 10:00 给伯爵打电话，进屋用消音手枪打死了伯爵，从窗户离开。Moreau 把一本书竖立放在留声机的机械臂边上，等一曲奏完机械臂归位，自动将书打落桌子，拉动一根拉线爆竹，发出爆炸声，他从而获得不在场证明（伏线：别人听到的都是“爆炸声”，唯独 Moreau 听到“枪声”）。Moreau 知道 Forestier 腿有伤，故意让他先爬窗户，结果 Forestier 把腿扭伤（伏线），Moreau 顺理成章地第二个爬窗户，假装窗户上锁，打破玻璃解开窗锁，进屋后趁乱回收爆竹。Moreau 的杀人动机是想娶伯爵的女儿。
-</details>
+> [!spoiler]- 密室真相
+> 凶手是 Moreau，他付钱让人在 10:00 给伯爵打电话，进屋用消音手枪打死了伯爵，从窗户离开。Moreau 把一本书竖立放在留声机的机械臂边上，等一曲奏完机械臂归位，自动将书打落桌子，拉动一根拉线爆竹，发出爆炸声，他从而获得不在场证明（伏线：别人听到的都是“爆炸声”，唯独 Moreau 听到“枪声”）。Moreau 知道 Forestier 腿有伤，故意让他先爬窗户，结果 Forestier 把腿扭伤（伏线），Moreau 顺理成章地第二个爬窗户，假装窗户上锁，打破玻璃解开窗锁，进屋后趁乱回收爆竹。Moreau 的杀人动机是想娶伯爵的女儿。
 
 故事突然回归现实，原来以上都是名为 Ænigma 的真人角色扮演推理游戏。游戏玩家继续进行第二场推理游戏，故事蓝本为 📖 Agatha Christie, <i>Cards on the Table</i> (1936)，结果 Montalabert 在现实中被人刺中心脏而亡。
 
@@ -57,8 +56,7 @@ Montalabert 伯爵连续收到三封威胁信，邀请退休的传奇警长 Loui
 
 警长 Marianne 拜访了编辑 Auriane de Crécy，了解到文学评论家 Jacques Dailland 曾读过 Arthaud 的处女作《忏悔录》，对此书评价极差。Marianne 带着一份《忏悔录》的手稿拜访 Arthaud，希望调查《天空的承诺》的真实来源，然而 Arthaud 一眼就看出了手稿是赝品，令 Marianne 无功而返。Arthaud 根据自己在 Ænigma 的经历创作了纪实犯罪小说《三榆树宅邸谜案》，一经出版便引发轰动。一名酷似 Leurtillois 的文学学生 Alexandre Marchand 拜访了 Arthaud 的度假屋。二人相谈甚欢，Arthaud 邀请 Marchand 留宿家中。
 
-<details><summary>真相</summary>
-Marianne 为了揭露 Arthaud 杀死 Leurtillois 的罪行，故意让 Marchand 装扮成 Leurtillois 的样子接近他，诱骗他酒后吐露真言。
-</details>
+> [!spoiler]- 真相
+> Marianne 为了揭露 Arthaud 杀死 Leurtillois 的罪行，故意让 Marchand 装扮成 Leurtillois 的样子接近他，诱骗他酒后吐露真言。
 
 在真人角色扮演的推理游戏中发生了密室杀人，游戏结束后在现实世界中又发生了真正的杀人案。游戏中的密室解答尚可，但现实世界中的案件推理薄弱，作中作插叙有些故弄玄虚，前后两半基本脱节，结尾揭露真凶的手段也缺乏意外性，令人遗憾。

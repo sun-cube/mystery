@@ -21,8 +21,7 @@ Tess、Sarah 在农场遇见 Babette 的儿子 Martin，三人听到 Babette 在
 
 Rupert 一直在给一个叫 Truly Fletcher 的女人慈善捐款，她十一个月大的儿子 William 死于婴儿猝死综合症。Sarah 和 Tess 的同事 Jerome 上床。Jerome 怀疑 Rupert 是 William 的爸爸，替 William 作尸检的医生 Richard Johnson-Wells 承认与 Leodora 是床伴。DNA 鉴定证实 Julia 不是 Frank 的女儿，Sarah 去监狱探望被捕的 Julia，告诉了她这一事实，Julia 对此无法接受。Rita Hamer 承认之前作了伪证，Leodora 其实当晚和 Richard 在一起。Truly 有十年的毒品前科。Sarah 在 Truly 的 Facebook 上看到一张玩具熊的照片，而 Rita、Lily 家也有一样的玩具熊。Lily 回忆 Rupert 家车库里有一箱玩具熊，她偷偷拿了两个，其中一个送给了 Truly 的儿子。Jerome 在玩具熊肚子里发现隐藏的可卡因。
 
-<details><summary>真相</summary>
-Rupert 为了拿回装毒品的玩具熊杀死了 William，Truly 为了复仇杀死 Rupert，把人头藏在 Trump 人像中。Truly 的姐姐 Harriet 将 Tess 刺伤。Truly 杀死 Babette，将一把钥匙系上线，插在内侧的锁孔里，稍微拉出来一些，留出余量以便在门外用第二把钥匙锁门。她在门外锁上门后，再拉线使内侧的钥匙进入锁孔，最后将线烧掉，所以锁孔里留有灰烬。Tess 等人听到 Babette 叫 Lily 的名字，是 Truly 在隔壁放录音。
-</details>
+> [!spoiler]- 真相
+> Rupert 为了拿回装毒品的玩具熊杀死了 William，Truly 为了复仇杀死 Rupert，把人头藏在 Trump 人像中。Truly 的姐姐 Harriet 将 Tess 刺伤。Truly 杀死 Babette，将一把钥匙系上线，插在内侧的锁孔里，稍微拉出来一些，留出余量以便在门外用第二把钥匙锁门。她在门外锁上门后，再拉线使内侧的钥匙进入锁孔，最后将线烧掉，所以锁孔里留有灰烬。Tess 等人听到 Babette 叫 Lily 的名字，是 Truly 在隔壁放录音。
 
 只有一起密室杀人，手法陈旧，比系列首作相差甚远。

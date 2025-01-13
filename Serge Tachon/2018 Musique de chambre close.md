@@ -23,8 +23,7 @@ Damien 回忆 Guérin、Fernandez、Alain Determe、Clément Coureau 四人曾�
 
 Damien 发现 Florence 长期以来一直给 Christophe 戴绿帽，一怒之下用 22 口径手枪把她打死，技术员证实就是杀害 Guérin 和 Fernandez 的凶器。该手枪总共能装九发子弹，Guérin 腹部中了三枪，Fernandez 胸口中了两枪，Florence 中了一枪，弹匣里还剩三发子弹。Damien 说在书桌抽屉里找到了这把枪，但警察之前搜索他家时却没有找到。Damien 只承认杀死 Florence，不承认杀死 Guérin 和 Fernandez。
 
-<details><summary>真相</summary>
-Florence 抛弃 Guérin 转投 Christophe 和 Fernandez，让 Guérin 感到羞辱，所以他决定杀死 Fernandez 再自杀，嫁祸给 Christophe。Guérin 拜访 Damien 时偷出了 22 口径手枪。Guérin 打昏 Christophe，用他的手机给 Damien 打电话，播放了事先准备的伪造录音。Guérin 等 Fernandez 一进屋就将他打死，然后对着自己肚子开了三枪，把手枪放在 Christophe 手中，打了报警电话。Damien 第一个到达 Guérin 家（伏线：警察被火车耽搁），那时房子大门还没锁，Guérin 假装失去意识。Damien 看到 Christophe 手里拿着枪，里面射了五发子弹，以为 Christophe 杀死另外二人，为了替他开脱，戴着手套用 45 口径手枪向窗外射了五发子弹（伏线：Hariette 听到五声巨响），把 45 口径手枪留在现场，拿走了 22 口径手枪。Damien 把手枪藏到 Emma 家，想起警察一定会查出 Christophe 打电话叫他去 Guérin 家，于是再次返回现场。Guérin 等 Damien 走后爬起来锁上大门，力竭身亡。Guérin 开枪时戴了手套，所以手上没有测出硝烟反应，但警方后来在他家中找到了手套，并在子弹上找到了他的指纹。
-</details>
+> [!spoiler]- 真相
+> Florence 抛弃 Guérin 转投 Christophe 和 Fernandez，让 Guérin 感到羞辱，所以他决定杀死 Fernandez 再自杀，嫁祸给 Christophe。Guérin 拜访 Damien 时偷出了 22 口径手枪。Guérin 打昏 Christophe，用他的手机给 Damien 打电话，播放了事先准备的伪造录音。Guérin 等 Fernandez 一进屋就将他打死，然后对着自己肚子开了三枪，把手枪放在 Christophe 手中，打了报警电话。Damien 第一个到达 Guérin 家（伏线：警察被火车耽搁），那时房子大门还没锁，Guérin 假装失去意识。Damien 看到 Christophe 手里拿着枪，里面射了五发子弹，以为 Christophe 杀死另外二人，为了替他开脱，戴着手套用 45 口径手枪向窗外射了五发子弹（伏线：Hariette 听到五声巨响），把 45 口径手枪留在现场，拿走了 22 口径手枪。Damien 把手枪藏到 Emma 家，想起警察一定会查出 Christophe 打电话叫他去 Guérin 家，于是再次返回现场。Guérin 等 Damien 走后爬起来锁上大门，力竭身亡。Guérin 开枪时戴了手套，所以手上没有测出硝烟反应，但警方后来在他家中找到了手套，并在子弹上找到了他的指纹。
 
 警方接到报警电话，赶到现场后在密室中发现两名死者和一名被棒球棒打晕的嫌疑人。两名死者中间掉落一把手枪，上面有三人指纹，却不是凶器！解答算是自圆其说，但是缺乏新意，几个误导有些勉强。

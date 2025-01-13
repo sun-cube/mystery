@@ -33,8 +33,7 @@ Arnold 被杀，嘴里被人塞入十三张一美元钞票，上面找到 Eddie 
 
 Granger 身上检测出硝烟反应，而 Eddie 身上没有，证实了他的清白。警方在 Wynn 的笔记本上查出“一美元杀手”的指纹，将其逮捕。Eddie 意识到 Arnold 给自己打电话的时候已经死亡，所以电话是 Kane 冒充打来，也就是说 Arnold 怀疑的人并不是 Wynn！
 
-<details><summary>真相</summary>
-Kane 的真实身份是 64 岁的陪审员 Bradley Summers。北 Carolina 大学的校警 Russell McPartland 性侵女生被 Kane 威胁，在全校 DNA 采样时用 Kane 的 DNA 替换了 Richard Pena 的 DNA，后来化身保安 Holten 进入 Rudy 的团队，为 Kane 提供信息。Kane 劫持检察官逃跑，又在 Solomon 家劫持了及时赶来的 Eddie，特警上门将其击毙。
-</details>
+> [!spoiler]- 真相
+> Kane 的真实身份是 64 岁的陪审员 Bradley Summers。北 Carolina 大学的校警 Russell McPartland 性侵女生被 Kane 威胁，在全校 DNA 采样时用 Kane 的 DNA 替换了 Richard Pena 的 DNA，后来化身保安 Holten 进入 Rudy 的团队，为 Kane 提供信息。Kane 劫持检察官逃跑，又在 Solomon 家劫持了及时赶来的 Eddie，特警上门将其击毙。
 
 核心点子是连环杀手混入陪审团，构思之大胆前所未见。法庭辩论的突破点精彩，连环杀人的 missing link 也有一定新意，结尾猜假陪审员身份又引入新的反转。缺点是前半部节奏较为拖沓。

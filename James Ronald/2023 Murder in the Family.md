@@ -38,9 +38,8 @@ Stephen 收到律所来信，说 Octivia 的遗产结算不可能在短期完成
 
 《星期日世界报》收到 Simon 提供的小道消息，准备发表《Osborne 家族内幕》的新作，Edith 找到报社恳请不要继续炒作，遭到拒绝。Edith 回家后中毒，送去急救。警察在壁炉中找到烧焦的纸片，房间里找到药瓶和玻璃杯，上面有 Stephen 的指纹。Whipple 看到 Stephen 在花园里埋了什么东西。Stephen 承认是自己杀死了 Octavia，但 Ann 却站出来说她才是凶手。警察还原了壁炉里的烧焦纸片，发现那是 Edith 的认罪书，原来 Stephen 为了保护 Edith 的名誉，主动担下罪责。Simon 上门为 Edith 的死道歉。
 
-<details><summary>真相</summary>
-凶手是 Mimms，她长了肿瘤活不过六个月，Octavia 说每年给她一千磅是故意羞辱她时日无多，所以她杀死 Octavia 泄愤。
-</details>
+> [!spoiler]- 真相
+> 凶手是 Mimms，她长了肿瘤活不过六个月，Octavia 说每年给她一千磅是故意羞辱她时日无多，所以她杀死 Octavia 泄愤。
 
 ## 2. The Monocled Man (1931)
 
@@ -50,16 +49,14 @@ Stephen 收到律所来信，说 Octivia 的遗产结算不可能在短期完成
 
 Carponi 等人与 Hardwick 交火。主人公警察 Peter Martin 追踪 Carponi 来到黑帮窝点，遇到特勤局的女孩 Madge Evans。Peter 一进屋便被打晕捆绑，关进壁橱，Madge 偷偷溜进来解开了他的绳子，还塞给他一把手枪。Peter 制服歹徒，把手枪交给走进来的 Madge，好给歹徒搜身，Madge 却调转枪口指向 Peter。原来 Peter 认识的 Madge 是 Sadie 假扮！Sadie 给 Peter 出示的护照是从真的 Madge 手中偷来。Hardwick 再次和 Carponi 等人交火，Peter 趁机打伤 Shorty，Sadie 假装昏倒再次骗过 Peter，Carponi 夺下 Peter 的枪。Hardwick 中弹晕厥，但身上没有找到钻石。Carponi 把 Peter 绑在椅子上，Peter 奋力用火铲烧断绳子，夺下 Shorty 的枪，将歹徒制服。真 Madge 和后援警察姗姗来迟。
 
-<details><summary>真相</summary>
-Madge 丢失证件，无法自证身份，所以把 Peter 塞入壁橱，后来又解开他的绳子，给了他一把手枪。钻石是 Hardwick 单片眼镜后面的假眼。
-</details>
+> [!spoiler]- 真相
+> Madge 丢失证件，无法自证身份，所以把 Peter 塞入壁橱，后来又解开他的绳子，给了他一把手枪。钻石是 Hardwick 单片眼镜后面的假眼。
 
 ## 3. The Second Bottle (1945)
 
 主人公在一个寒冷夜晚走进一家小酒馆，老板给了他一份夜工。深夜进来一个老头，点了一杯咖啡，然后趴在桌上号啕大哭，喃喃自语：“她不该那样唠叨我”，“她躺在地上，脑袋被炸掉了一半”。外面又进来一个警察，主人公紧张地跟警察说老头身上有枪，杀死了一个女人。
 
-<details><summary>真相</summary>
-老头二十年前杀死了自己的妻子，坐了十五年监狱。老头只有两瓶酒的酒量，喝第一瓶会哭闹，觉得妻子躺在地上，脑袋被打烂，等着他回家，喝完第二瓶就不在乎了。主人公看到老头身上的“枪”是第二瓶酒。
-</details>
+> [!spoiler]- 真相
+> 老头二十年前杀死了自己的妻子，坐了十五年监狱。老头只有两瓶酒的酒量，喝第一瓶会哭闹，觉得妻子躺在地上，脑袋被打烂，等着他回家，喝完第二瓶就不在乎了。主人公看到老头身上的“枪”是第二瓶酒。
 
 一个同名中篇和两个短篇。中篇 <i>Murder in the Family</i> (1931) 真相相对简单，但出场人物活灵活现，尤其是各家族成员之间的互动让人感动，结尾真凶动机意外，是一篇佳作。短篇 <i>The Monocled Man</i> (1931) 是标准的枪战文，主人公有勇无谋。短篇 <i>The Second Bottle</i> (1945) 气氛绝佳。

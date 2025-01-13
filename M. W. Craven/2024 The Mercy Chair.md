@@ -22,12 +22,10 @@ Poe 家访 Nathan Rose，其妻子 Virginia 接待。Nathan 借口上楼拿教�
 
 Poe 告诉 Lang 医生自己观看了 Cobb 的拷问录像，心理受到了巨大的创伤。2007 年 Aaron 的父母发现他偷拿了 Bethany 的内衣，要求 Cornelius 对他进行心理辅导。Cobb 和 Cornelius 把 Bethany 绑在“宽恕椅”上，逼迫 Aaron 向她丢石头。录像中的 Cobb 与 Cornelius 发生短暂争吵，随后走向“宽恕椅”，拔刀割破了 Bethany 的喉咙，血溅四方。Cornelius 为 Bethany 准备了第六个坟墓，但 Cobb 没有使用它。Poe 带领 Nightingale 警督团队在“约伯之子”地下室找到了一面新砌的墙，打破后在里面找到了“宽恕椅”。Poe 去 Eve 家查找 Aaron 小时候的照片。
 
-<details><summary>真相</summary>
-Bethany 是 Grace 与 Cobb 的私生子，所以受到父母的精神虐待。Eve 偷偷将 Grace 的内衣藏在 Aaron 的房间。Cobb 为了保护 Bethany 的性命，把刀尖缩回，假装划破 Bethany 的喉咙，但其实只是划破表层。Bethany 杀死了 Noah、Grace 报仇，但没有杀死 Aaron。Thomas 的真实身份是 Aaron，Eve 与自己的弟弟乱伦结婚。Eve 试图杀死 Poe，Bethany 现身将 Eve、Aaron (Thomas)、Poe 电晕捆绑，杀死 Eve、Aaron 后又试图杀死 Poe。Cobb 在看守所自杀。Linus 推荐军情五处将 Bradshaw 调走。
-</details>
+> [!spoiler]- 真相
+> Bethany 是 Grace 与 Cobb 的私生子，所以受到父母的精神虐待。Eve 偷偷将 Grace 的内衣藏在 Aaron 的房间。Cobb 为了保护 Bethany 的性命，把刀尖缩回，假装划破 Bethany 的喉咙，但其实只是划破表层。Bethany 杀死了 Noah、Grace 报仇，但没有杀死 Aaron。Thomas 的真实身份是 Aaron，Eve 与自己的弟弟乱伦结婚。Eve 试图杀死 Poe，Bethany 现身将 Eve、Aaron (Thomas)、Poe 电晕捆绑，杀死 Eve、Aaron 后又试图杀死 Poe。Cobb 在看守所自杀。Linus 推荐军情五处将 Bradshaw 调走。
 
-<details><summary>叙述性诡计逆转</summary>
-Lang = Bethany，她有双重人格，Poe 与她的对话发生在精神病院，目的是为了让她的两种人格交汇，恢复神智。
-</details>
+> [!spoiler]- 叙述性诡计逆转
+> Lang = Bethany，她有双重人格，Poe 与她的对话发生在精神病院，目的是为了让她的两种人格交汇，恢复神智。
 
 一个坟墓被獾挖开，露出新的白骨尸体，某教团首领被人用石块砸死，由此引发连续杀人案。悬念设置主要靠短章节停顿，多线切换过于频繁，导致叙事不够顺畅。结尾连续逆转略感乏力，唯独最后的叙述性诡计逆转有些意外，寻常套路仍然被骗。

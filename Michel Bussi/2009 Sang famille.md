@@ -30,8 +30,7 @@ Colin 在海边见到父亲，他果然还活着。父亲说他留给公证员 S
 
 Colin 和小伙伴惊讶地发现父亲和 Valerino 竟然是同伙，Valernio 越狱是为了阻止 Colin 拿到文件。Valerino 把 Colin、Madi、d’Armand 三人关进酒窖，但所幸 d’Armand 私藏手机，报警获救。Gabriel 怀疑海上找到的自杀尸体是 Maxime Prieur。舅舅 Thierry 告诉 Colin 当年的事故真相，父亲违规施工造成工人死亡，为了逃避责任伪装自杀，留给公证员的文件夹里其实什么都没有，但 Colin 对此并未轻信。Serge 告诉 Simon 他要找的 Colin 就在岛上参加夏令营。Thierry 到夏令营强行带走 Colin，Colin 临走时向 d’Armand 扔硬币留下暗号。Thierry 和 Valerino 带 Colin 来到地下隧道，逼迫他回想宝藏的线索。Colin 谎称自己记得一幅画，在窗户上留下给 d’Armand 的线索。Simon、Clara、Madi、d’Armand 等人及时赶到……
 
-<details><summary>诡计</summary>
-Colin 以为是父亲的人其实是 Maxime，伸手摸 Jessica 屁股的也是 Maxime。Maxime 擅长修图，做了四百张照片，把 Jean 的照片逐渐变形为 Maxime。Brigitte 每三天更换一次 Colin 床头的父亲照片，在三年半的时间里把 Colin 对父亲的记忆换成了 Maxime。Valerino、Maxime、Thierry 三人联手策划了吊车事故。“疯狂 Mazarin”的秘密是岛上的土地非常适合种植葡萄。
-</details>
+> [!spoiler]- 诡计
+> Colin 以为是父亲的人其实是 Maxime，伸手摸 Jessica 屁股的也是 Maxime。Maxime 擅长修图，做了四百张照片，把 Jean 的照片逐渐变形为 Maxime。Brigitte 每三天更换一次 Colin 床头的父亲照片，在三年半的时间里把 Colin 对父亲的记忆换成了 Maxime。Valerino、Maxime、Thierry 三人联手策划了吊车事故。“疯狂 Mazarin”的秘密是岛上的土地非常适合种植葡萄。
 
 少年冒险题材的悬疑小说。篡改记忆的诡计不错，连续几次逆转扣人心弦，还是靠双线切换、悬念停顿的技法吸引读者，但 Simon 线相对较弱。

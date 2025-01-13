@@ -34,14 +34,12 @@ Pip 动员几十名志愿者搜索 Jamie 最后有可能去过的地方，有人
 
 Ravi 向 Pip 表白。Pip 与父母发生争执，外出散心，遇到邻居 Charlie Green 倒垃圾，Charlie 鼓励她继续调查。Pip 为了发泄，去 Max 家砸碎了六扇窗户。Pip 向 Ravi 道歉，并接受他的爱意。Nat 决定与 Luke 分手，并给 Pip 看了 Luke 和 Layla 的对话记录。原来 Layla 也在网上钓了 Luke，还曾约他在公园停车场见面。Pip 和 Ravi 找到 Luke，答应一周内替 Jamie 偿还 900 块，Luke 交代在案发当晚去停车场与 Layla，结果来的却是 Jamie。Jamie 显得十分紧张，说了几句胡言乱语“child broomstick”之后便匆匆离开。Pip 认为 Jamie 之后便去了废弃农场，但 Luke 对此一无所知。Pip 和 Ravi 分析是 Layla 打电话安排 Jamie 与 Luke 见面，所谓的“child broomstick”多半是 Luke 误听。Pip 在网上搜索“child broomstick”，查到“Child Brunswick”（小 Brunswick），是臭名昭著的连环杀手 Brunswick 的儿子，曾帮助父亲诱骗受害者上钩，因犯案时未满 18 岁所以身份保密。Pip 继续搜索，有人在网上说他的亲戚关在 Grendon 监狱，其室友认得小 Brunswick。
 
-<details><summary>Pip 采取行动</summary>
-Pip 联想起毒贩 Howie Bowers 关在 Grendon 监狱，又想起曾目睹 Stanley 塞给 Howie 一个信封（第一本书中的伏线！），怀疑 Stanley 就是小 Brunswick，受到 Howie 的勒索。
+> [!spoiler]- Pip 采取行动
+> Pip 联想起毒贩 Howie Bowers 关在 Grendon 监狱，又想起曾目睹 Stanley 塞给 Howie 一个信封（第一本书中的伏线！），怀疑 Stanley 就是小 Brunswick，受到 Howie 的勒索。
 
-Pip 以 Layla 的身份约 Stanley 在废弃农场见面，与此同时 Conner 和 Ravi 摸进 Stanley 家中解救 Jamie，但 Jamie 跟 Stanley 有交易在身，不愿跟二人离去。Pip 告诉 Stanley 自己不是 Layla，Stanley 则说他关押 Jamie 是因为 Jamie 受了 Layla 的指使刺杀自己，如今二人已联手合作。
-</details>
+> Pip 以 Layla 的身份约 Stanley 在废弃农场见面，与此同时 Conner 和 Ravi 摸进 Stanley 家中解救 Jamie，但 Jamie 跟 Stanley 有交易在身，不愿跟二人离去。Pip 告诉 Stanley 自己不是 Layla，Stanley 则说他关押 Jamie 是因为 Jamie 受了 Layla 的指使刺杀自己，如今二人已联手合作。
 
-<details><summary>结尾逆转</summary>
-就在 Pip 和 Stanley 即将离开废弃农场之时，Charlie Green 忽然现身，原来他才是真正的 Layla！他的妻子帮他用女声打电话。Charlie 的双胞胎姐姐为老 Brunswick 所杀，他要替姐姐复仇，所以一直在追踪小 Brunswick。Jamie 在网上对 Layla 产生迷恋，Charlie 萌生诡计让他替自己杀死 Stanley，为了测试其忠诚度，让他筹措 1200 块钱为自己“治疗癌症”，并让他闯入家中偷表。Charlie 说有变态一直跟踪自己，让 Jamie 测试谁对“小 Brunswick”这个名字有反应，便用刀将其杀死。Stanley 向 Charlie 道歉，但 Charlie 仍对他连开数枪，扬长而去。Pip 试图给 Stanley 急救，但为时已晚。
-</details>
+> [!spoiler]- 结尾逆转
+> 就在 Pip 和 Stanley 即将离开废弃农场之时，Charlie Green 忽然现身，原来他才是真正的 Layla！他的妻子帮他用女声打电话。Charlie 的双胞胎姐姐为老 Brunswick 所杀，他要替姐姐复仇，所以一直在追踪小 Brunswick。Jamie 在网上对 Layla 产生迷恋，Charlie 萌生诡计让他替自己杀死 Stanley，为了测试其忠诚度，让他筹措 1200 块钱为自己“治疗癌症”，并让他闯入家中偷表。Charlie 说有变态一直跟踪自己，让 Jamie 测试谁对“小 Brunswick”这个名字有反应，便用刀将其杀死。Stanley 向 Charlie 道歉，但 Charlie 仍对他连开数枪，扬长而去。Pip 试图给 Stanley 急救，但为时已晚。
 
 小镇继续发生失踪案，但这次失踪的是成年男子。核心谜题是谁在网上假扮身份教唆犯罪（catfish），因此有许多通过网络的调查。主人公 Pip 继首作一战成名后拉了许多粉丝，忽然间可以调动大量人力资源，令人艳羡。结尾突然揭露跨作伏线，真凶身份相当意外。整体比第一部更加精彩。

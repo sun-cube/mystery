@@ -46,8 +46,7 @@ Holger 质问 Agneta 为什么前一天晚上和 Magnus 过夜。Loanna 说 Eivo
 
 Jeanette 承认案发当晚和 Sören 见面，回家时二人将汽车熄火偷偷亲热，看到 Magnus 推着自行车上了陡坡。Holger 与 Magnus 发生争执，Magnus 说他的偷情对象不是 Agneta，而是 Eivor。警察在 Fredner 的房间里发现稻草，只有 Magnus 家的仓库才有稻草。Eivor 承认午夜与 Magnus 在他家的阁楼幽会，回家后用打字机留了假的遗言，拿了 Fredner 的枪想要行凶，并但一直没有等到他回家。Eivor 后来把手枪给了 Magnus。Lars 看到的脖子受伤的猫竟然还活着，将 Eivor 抓伤。Magnus 承认夜里 11:30 骑自行车去了鳗鱼箱，路上捡到一个装鳗鱼的袋子。他试图用钥匙打开鳗鱼箱的挂锁，发现打不开，随后注意到尸体，吓得赶紧回家，但半路自行车爆胎，所以很晚才走回家，与 Jeanette 的约会也迟到了。Magnus 后来将装鳗鱼的袋子放在仓库的饲料架上。仓库着火。
 
-<details><summary>真相</summary>
-凶手是 Jaques。Frender 晚上接到三通短电话，分别由 Eivor、Roland、Jaques 打来，Loanna 以为他接了一短一长两通电话，是因为没有看到第二通电话结束。Jaques 打电话给 Fredner 约他到鳗鱼箱所在地抓鳗鱼小偷，Fredner 遇到 Ulla 误以为是 Jaques，所以道歉。Fredner 给鳗鱼箱换了新的挂锁。Jaques 用撬棍打死 Fredner，把尸体连同撬棍装入一个大塑料袋，用尼龙线扎紧袋口投入水中，袋子随着水流从入水口进入鳗鱼箱。Jaques 事先把尼龙线的一端绑在猫的脖子上，猫入水后拼命游向检查孔的光亮，Jaques 拿出猫，将尼龙线暂时固定，然后关闭入水阀，使鳗鱼箱再次干涸，最后往上拉袋子，袋子因承受不住尸体重量而破裂，得以从检查孔拉出。Jaques 不知道 Fredner 换了挂锁，制造密室的动机是为了陷害 Magnus。
-</details>
+> [!spoiler]- 真相
+> 凶手是 Jaques。Frender 晚上接到三通短电话，分别由 Eivor、Roland、Jaques 打来，Loanna 以为他接了一短一长两通电话，是因为没有看到第二通电话结束。Jaques 打电话给 Fredner 约他到鳗鱼箱所在地抓鳗鱼小偷，Fredner 遇到 Ulla 误以为是 Jaques，所以道歉。Fredner 给鳗鱼箱换了新的挂锁。Jaques 用撬棍打死 Fredner，把尸体连同撬棍装入一个大塑料袋，用尼龙线扎紧袋口投入水中，袋子随着水流从入水口进入鳗鱼箱。Jaques 事先把尼龙线的一端绑在猫的脖子上，猫入水后拼命游向检查孔的光亮，Jaques 拿出猫，将尼龙线暂时固定，然后关闭入水阀，使鳗鱼箱再次干涸，最后往上拉袋子，袋子因承受不住尸体重量而破裂，得以从检查孔拉出。Jaques 不知道 Fredner 换了挂锁，制造密室的动机是为了陷害 Magnus。
 
 全书只有一起杀人案，一人死在密闭的鳗鱼箱中，尸体干燥说明入水口没有打开，顶舱口上了挂锁，唯一的钥匙在死者身上。密室诡计非常硬核，作为 1960 年代的古老作品十分惊艳。作者不愧号称为“瑞典的 John Dickson Carr”。

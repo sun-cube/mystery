@@ -58,8 +58,7 @@ Jeremy 带 Crew 回了家。Lowen 在监视器中看到 Verity 爬到地上，�
 
 七个月后，怀孕的 Lowen 和 Jeremy、Crew 一起搬到北卡，开始了新的生活。Lowen 回到旧居准备将房子出售，在卧室地板里发现了一封 Verity 的信。
 
-<details><summary>真相</summary>
-Verity 遭遇写作瓶颈，编辑建议她尝试“对抗性写作”，即在手记中写下与真实相反的想法，这是为什么 Verity 能够塑造出如此可怕的角色。Harper 的死亡是意外。Jeremy 发现手记后将 Verity 掐晕，并试图制造 Verity 车祸死亡的假象，但没能成功。Verity 隐瞒了自己恢复健康的事实，计划带着 Crew 逃跑。Verity 目睹 Jeremy 和 Lowen 在卧室内做爱，给 Jeremy 写下了这封信。Lowen 读后将信销毁。
-</details>
+> [!spoiler]- 真相
+> Verity 遭遇写作瓶颈，编辑建议她尝试“对抗性写作”，即在手记中写下与真实相反的想法，这是为什么 Verity 能够塑造出如此可怕的角色。Harper 的死亡是意外。Jeremy 发现手记后将 Verity 掐晕，并试图制造 Verity 车祸死亡的假象，但没能成功。Verity 隐瞒了自己恢复健康的事实，计划带着 Crew 逃跑。Verity 目睹 Jeremy 和 Lowen 在卧室内做爱，给 Jeremy 写下了这封信。Lowen 读后将信销毁。
 
 在女儿的推荐下读了这本书，算是 horror romance，主要人物只有三个，用词也十分简单，阅读体验流畅。结尾的暗黑逆转意外性十足，说服力稍欠，适合拍成电影。

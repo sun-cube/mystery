@@ -28,10 +28,9 @@ Gilbert Givrette 为了赎回自己的侦探执照与警察合作，设计套 Fe
 
 Sabine 和 Patrick 终于找到当晚和 Feuillard 跳舞的红发女子，但女子否认参加舞会。Feuillard 被从天而降的屋檐击中，临死前在医院承认自己当晚在 Esbly 杀人。红发女子承认自己瞒着丈夫参加舞会，所以不肯出面作证。小屋酒窖里挖出另外一具女尸，经牙齿化验竟然是空难中丧生的 Elisabeth Scheffer！
 
-<details><summary>真相</summary>
-1979年11月14日 Elisabeth 约 Feuillard 在小屋见面，Feuillard 开枪打死 Elisabeth，并打电话让 Lise 带铁锹到小屋，二人一起将尸体埋在小屋酒窖里。Lise 冒充 Elisabeth 上了空难飞机，在起飞前一刻冲下飞机，逃过一劫。
+> [!spoiler]- 真相
+> 1979年11月14日 Elisabeth 约 Feuillard 在小屋见面，Feuillard 开枪打死 Elisabeth，并打电话让 Lise 带铁锹到小屋，二人一起将尸体埋在小屋酒窖里。Lise 冒充 Elisabeth 上了空难飞机，在起飞前一刻冲下飞机，逃过一劫。
 
-一年后的11月14日，Lise 又约 Feuillard 在小屋见面，Feuillard 没有赴约，职业杀手 Marchandeau 按 Lise 要求冒充 Feuillard 开枪打死 Lise，留下偷来的打火机和扣子陷害 Feuillard。Lise 如此安排的动机是替 Elisabeth 复仇。Feuillard 承认自己11月14日在小屋杀人，其实是在一年前的11月14日杀人，他口中的 Lise 是 Elisabeth 的昵称（叙述性诡计！）。
-</details>
+> 一年后的11月14日，Lise 又约 Feuillard 在小屋见面，Feuillard 没有赴约，职业杀手 Marchandeau 按 Lise 要求冒充 Feuillard 开枪打死 Lise，留下偷来的打火机和扣子陷害 Feuillard。Lise 如此安排的动机是替 Elisabeth 复仇。Feuillard 承认自己11月14日在小屋杀人，其实是在一年前的11月14日杀人，他口中的 Lise 是 Elisabeth 的昵称（叙述性诡计！）。
 
 挑战二重身（doppelgänger）和预言杀人的不可能犯罪。证人目击凶手在小屋开枪杀死女子，同一时间凶手却在距案发现场40公里的舞会跳舞！凶手枪杀女子的手法竟与女子从水晶球里看到的场景一模一样！凶手服下“真话药片”之后坦承杀人事实，警方却无法攻破其不在场证明。谜面华丽，布局优雅，节奏明快，解答简洁而富有说服力，双重叙述性诡计巧妙。强烈推荐。

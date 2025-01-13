@@ -32,16 +32,13 @@ Runestam 早上交给房东一个写着“Max”的信封，吩咐他交给 9 �
 
 Nina 的女佣证实 Nina 不是在 3:00 出门，而是在 2:30 出门，当时桌子里的一个抽屉被拉开，锁孔里插着一把钥匙，牌子上写着“餐柜”，不是 Fabian 平时使用的抽屉钥匙。警察在石臼碎片上找到了 Nina 的指纹。Runestam 在旅馆房间去世，表面上像是死于心力衰竭，但不排除有人下毒。Runestam 晚上 7:00 曾接待过一位红发绅士，其夹克里找到 Asta 的小银盒，里面有一些债务票据，口袋里找到 Asta 的戒指。Asta 手臂上的指纹确认为 Runestam 留下。Carring 认为 Asta 家柴堆中找到的 Runestam 的手枪是有人故意栽赃，因为那把枪用枪油清理过，而 Runestam 家没有发现枪油。有人给 Helena 寄了一封 Smirno 写给 Asta 的情书，Helena 怒不可遏，取消婚约。Smirno 意识到自己烧掉的情书是有人伪造。
 
-<details><summary>伪解答</summary>
-Nina 在 3:30 开枪打死 Asta，受惊晕倒。Runestam 第二次返回 Asta 家，看到地上的尸体和晕倒的 Nina，猜出事情经过，不小心在 Asta 尸体上留下指纹。Runestam 找到保险箱的钥匙，打开保险箱取走银盒。Nina 苏醒，看到 Runestam 盗窃，二人决定互相掩护。Runestam 向钟开了第二枪，伪造不在场证明，把石臼碎片放在 Nina 的包里。Nina 拿走了自己的枪和 Runestam 的枪，事后把 Runestam 的手枪放回柴堆栽赃。
-</details>
+> [!spoiler]- 伪解答
+> Nina 在 3:30 开枪打死 Asta，受惊晕倒。Runestam 第二次返回 Asta 家，看到地上的尸体和晕倒的 Nina，猜出事情经过，不小心在 Asta 尸体上留下指纹。Runestam 找到保险箱的钥匙，打开保险箱取走银盒。Nina 苏醒，看到 Runestam 盗窃，二人决定互相掩护。Runestam 向钟开了第二枪，伪造不在场证明，把石臼碎片放在 Nina 的包里。Nina 拿走了自己的枪和 Runestam 的枪，事后把 Runestam 的手枪放回柴堆栽赃。
 
-<details><summary>真相</summary>
-Smirno 给 Nina 打了匿名电话，等 Fabian 离开后，用 Asta 藏在柴堆下面的 Runestam 的手枪射杀 Asta，并用时钟表盘制造了不在场证明。Smirno 撬开了小银盒，却没有找到情书。警察为了夸大事件，说 2:20 和 Smirno 发生争执，真正的时间其实是 3:30。Smirno 验尸时谎称 Asta 死于 3:00 左右，故意推迟了死亡时间。Smirno 在 Nina 家检查手枪时将 Runestam 的枪和 Fabian 的枪调换，并把石臼碎片丢入 Fabian 家中的壁炉。Smirno 给 Fabian 的枪上了油，但和 Runestam 的枪油不同，露出破绽。Smirno 是红发绅士，Runestam 死于心力衰竭。Smirno 在 Asta 家门口看到的 Helena 是 Carring 让女侦探假扮，烧掉的信也是 Carring 伪造。Carring 早在信封里写了 Smirno 的名字。
-</details>
+> [!spoiler]- 真相
+> Smirno 给 Nina 打了匿名电话，等 Fabian 离开后，用 Asta 藏在柴堆下面的 Runestam 的手枪射杀 Asta，并用时钟表盘制造了不在场证明。Smirno 撬开了小银盒，却没有找到情书。警察为了夸大事件，说 2:20 和 Smirno 发生争执，真正的时间其实是 3:30。Smirno 验尸时谎称 Asta 死于 3:00 左右，故意推迟了死亡时间。Smirno 在 Nina 家检查手枪时将 Runestam 的枪和 Fabian 的枪调换，并把石臼碎片丢入 Fabian 家中的壁炉。Smirno 给 Fabian 的枪上了油，但和 Runestam 的枪油不同，露出破绽。Smirno 是红发绅士，Runestam 死于心力衰竭。Smirno 在 Asta 家门口看到的 Helena 是 Carring 让女侦探假扮，烧掉的信也是 Carring 伪造。Carring 早在信封里写了 Smirno 的名字。
 
-<details><summary>叙述性诡计</summary>
-日记作者 Smirno 医生是犯人。
-</details>
+> [!spoiler]- 叙述性诡计
+> 日记作者 Smirno 医生是犯人。
 
 发表于 1917 年的瑞典幻之名作，足以改写世界侦探小说史。时钟诡计、多重解答均领先时代，弹道分析领先 📖 S. S. Van Dine, <i>The Benson Murder Case</i> (1926)，核心叙述性诡计领先某教科书样本近十年，甚至还包括了微物证据。

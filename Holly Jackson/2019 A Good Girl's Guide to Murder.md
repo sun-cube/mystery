@@ -34,14 +34,12 @@ Emma 和 Laura 都证实有多名女孩在家庭派对上被人下药迷奸。Pi
 
 Pip 深夜遛狗，狗消失不见，第二天收到威胁短信。Pip 按照后续短信的指示独自来到停车场，销毁了存有调查进展的硬盘，满心以为能找回狗狗，却得到狗在河中溺死的悲报。Pip 暗中留了案情备份，化悲痛为力量和 Ravi 继续追查。Naomi 的手机坏了，用一个临时手机给 Pip 打电话，Pip 意识到来电号码在 Andie 的时间表上出现过，得知它本属于 Naomi 的父亲——历史老师 Elliot。Pip 在 Cara 家调出打印机的存档记录，发现最后一次打印的内容为“最终警告”。Elliot 一周做三次家教，但 Pip 怀疑他是在和 Andie 秘密会面。Pip 把手机藏在 Elliot 的汽车后座里，通过定位查到他去了 Gravesend 路，而不是家教的地址。Pip 追至 Gravesend，路上打电话通知了警察。
 
-<details><summary>自白</summary>
-Elliot 和 Andie 在旅馆上床。Elliot 一度想要分手，但 Andie 威胁要在教室张贴裸照，所以未能如愿。星期五晚上 Andie 来找 Elliot，不慎头撞在桌子上神智不清，Elliot 去拿急救包，回来发现 Andie 消失不见。Elliot 得知 Andie 失踪，为了洗脱嫌疑决定嫁祸给 Sal。Elliot 偷看了 Naomi 的日记得知 Max 开车撞人，以此要挟四人做伪证。Elliot 逼迫 Sal 服下过量安眠药，并用他的手机发送了假的自白短信。
+> [!spoiler]- 自白
+> Elliot 和 Andie 在旅馆上床。Elliot 一度想要分手，但 Andie 威胁要在教室张贴裸照，所以未能如愿。星期五晚上 Andie 来找 Elliot，不慎头撞在桌子上神智不清，Elliot 去拿急救包，回来发现 Andie 消失不见。Elliot 得知 Andie 失踪，为了洗脱嫌疑决定嫁祸给 Sal。Elliot 偷看了 Naomi 的日记得知 Max 开车撞人，以此要挟四人做伪证。Elliot 逼迫 Sal 服下过量安眠药，并用他的手机发送了假的自白短信。
 
-Elliot 在 7 月底见到了失忆的 Andie，把她带到 Gravesend 房子阁楼。Pip 问起狗狗的事情，Elliot 却说不知。Pip 来到阁楼，见到被囚禁的女孩。女孩自称是 Andie，但 Pip 却发现她不是！
-</details>
+> Elliot 在 7 月底见到了失忆的 Andie，把她带到 Gravesend 房子阁楼。Pip 问起狗狗的事情，Elliot 却说不知。Pip 来到阁楼，见到被囚禁的女孩。女孩自称是 Andie，但 Pip 却发现她不是！
 
-<details><summary>结尾逆转</summary>
-Elliot 误将另一名走失女孩认作 Andie，囚禁在 Gravesend 阁楼。Pip 注意到威胁短信有两种不同的口吻，一种称其为 Pip，一种称其为“蠢猪”，所以真凶除了 Elliot 之外另有其人。Max 在 2014 年下药迷奸了 Becca。当晚 Becca 从 Andie 留在家中的廉价手机上得知是她给 Max 提供了迷药，导致自己被迷奸，于是在 Andie 回家后与其发生激烈争执。Andie 脑部本有损伤，被 Becca 推倒后呕吐不止，直至死亡。Becca 将 Andie 的尸体藏在化粪池中。
-</details>
+> [!spoiler]- 结尾逆转
+> Elliot 误将另一名走失女孩认作 Andie，囚禁在 Gravesend 阁楼。Pip 注意到威胁短信有两种不同的口吻，一种称其为 Pip，一种称其为“蠢猪”，所以真凶除了 Elliot 之外另有其人。Max 在 2014 年下药迷奸了 Becca。当晚 Becca 从 Andie 留在家中的廉价手机上得知是她给 Max 提供了迷药，导致自己被迷奸，于是在 Andie 回家后与其发生激烈争执。Andie 脑部本有损伤，被 Becca 推倒后呕吐不止，直至死亡。Becca 将 Andie 的尸体藏在化粪池中。
 
 头一次和女儿一起看书，作为 young adult 还是暗黑了些。对西方高中各种复杂的人际关系描绘得淋漓尽致，人物心理活动刻画细腻。女主角玩转各种电脑设置，有勇有谋，有血有肉，一方面正义感爆棚，一方面也背负说假话的负罪感。全程悬念包袱不断，结尾逆转令人惊讶，但凶手身份随机。
