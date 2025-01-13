@@ -36,7 +36,7 @@ Pip 深夜遛狗，狗消失不见，第二天收到威胁短信。Pip 按照后
 
 > [!spoiler]- 自白
 > Elliot 和 Andie 在旅馆上床。Elliot 一度想要分手，但 Andie 威胁要在教室张贴裸照，所以未能如愿。星期五晚上 Andie 来找 Elliot，不慎头撞在桌子上神智不清，Elliot 去拿急救包，回来发现 Andie 消失不见。Elliot 得知 Andie 失踪，为了洗脱嫌疑决定嫁祸给 Sal。Elliot 偷看了 Naomi 的日记得知 Max 开车撞人，以此要挟四人做伪证。Elliot 逼迫 Sal 服下过量安眠药，并用他的手机发送了假的自白短信。
-
+> 
 > Elliot 在 7 月底见到了失忆的 Andie，把她带到 Gravesend 房子阁楼。Pip 问起狗狗的事情，Elliot 却说不知。Pip 来到阁楼，见到被囚禁的女孩。女孩自称是 Andie，但 Pip 却发现她不是！
 
 > [!spoiler]- 结尾逆转

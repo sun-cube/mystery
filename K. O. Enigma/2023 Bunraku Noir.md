@@ -20,7 +20,7 @@ Royham "Roy" Malone 是一名武士，迷恋网络主播 Osamu Rako，经常给�
 
 > [!spoiler]- 伪推理
 > 凶手破坏了 Anna 的笔记本电脑，说明知道她在视频聊天，而知道这件事的只有 Roy 和 Irene 两个人。凶手是 Irene，她杀人后用降落伞离开。Irene 检查阳台门的时候悄悄用脚锁住地板插销。
-
+> 
 > 这个推理不对，因为 Pinocchio 检查了 Irene 的手机 GPS，显示她没有离开家，而且 Roy 在谋杀前后给她打过电话。
 
 Roy 和 Irene 调查 Anna 的邻居 Quincy Hall 和同学 Ellen Punch、Rosa Lacey。Quincy 在 Anna 死亡当晚听到了碰撞和尖叫声，第二天下午再次听到她的公寓里传来砰砰的声音。Roy 从 Ellen 那里了解到 Anna 生前曾在一家名为 Bazza’s Grill 的餐厅打工，店主为 Basil Hunter Fisher。Ellen 和 Rosa 一起向警方举报 Roy 为跟踪狂。在 Anna 死前几天，Basil 偷拍了一个叫 Allan Doore 的男人毒品交易的过程，并以此勒索，结果在办公室被 Allan 用霰弹枪打死，Allan 则在逃跑时被一辆路过小货车撞死。案发时餐馆里只有 Basil、Allan、女服务员 Sharon Owle、在餐馆用餐的卡车司机 Henry Corvo 四人。Henry 点餐后趴在桌子上小睡，直到被一声巨响惊醒，随后听到外面车辆碰撞的声音。Henry 说是 Sharon 给自己上的菜，但他眼睛不好，看不清楚。
@@ -33,7 +33,7 @@ Roy 和 Irene 调查 Anna 的邻居 Quincy Hall 和同学 Ellen Punch、Rosa Lac
 
 > [!spoiler]- 真相
 > Anna 偷了 Allan 的霰弹枪打死 Basil，后坐力导致肩膀脱臼（伏线：女服务员用一只手上了餐具），晚上洗澡时滑倒（伏线：Quincy 听到碰撞和尖叫声），把毛巾架都扯了下来，进而导致手臂摔断（伏线：尸体手臂摔断不是因为坠楼）。Anna 为了避免杀人嫌疑，无法去看医生，绝望之下跳楼自杀。
-
+> 
 > Irene = Rako，她把 Anna 的手机 SIM 卡换成 Rako 的卡，所以上面留下了 Rako 登录的历史。Irene 在自家直播欺骗 Roy，目的是把 Roy 陷害成跟踪狂，因为 Roy 在网上匿名发布了自己的睡觉照片。Irene 为了激发 Roy 对密室的兴趣，在 Anna 家假装检查阳台门，伪造了阳台密室。
 
 某宅男主人公与网红视频聊天时目睹有人闯入，第二天得知网红坠楼身亡，现场为密室。主人公与女性朋友联手查出网红曾在某餐馆打工，餐馆老板几天前被人开枪打死，凶手逃跑时被车撞死，不知这两起案件有无关联。结尾多重解答，用到了一个视频老梗，动机奇葩。

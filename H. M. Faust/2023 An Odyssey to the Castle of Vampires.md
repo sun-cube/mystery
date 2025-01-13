@@ -52,7 +52,7 @@ Dagon Hill 镇上的牧师 Bauchmann 失踪。晚间，其女儿 Gretel 看到�
 
 > [!spoiler]- Robin 解释第二起无足迹杀人
 > 凶手爬树逃脱（如图）。
-
+> 
 > <img src=images/2023b_jump_on_trees.jpg width=300/>
 
 <img src=images/2023b_otto_house.jpg width=300/>
@@ -163,7 +163,7 @@ Gretel 将父亲的头冷冻保存，又让同伙把头放在斗篷外面，制�
 
 > [!spoiler]- Lucile 解释 Robin 无足迹杀人
 > Beth 给 Robin 展示了她在 Dallinger 家的照片，Robin 看到照片里的 Alice (Theresa)，回忆起过去的痛苦，在家中上吊自杀。Gretel 从森林方向踩着“银线”的地砖来到城堡前面，用一路上拾起的地砖搭了一个和城墙一样高的台阶，用一块木板搭在城墙和台阶上，形成一座临时的桥，然后在桥中央垂下一根绳子。Gretel 回到城堡后面的森林，穿上 Robin 的鞋，抱着 Robin 的尸体走到发现尸体的地方，踩在尸体身上给他重新穿回鞋子，然后爬绳子回到桥上，走台阶回到“银线”上，并回收桥和台阶。
-
+> 
 > <img src=images/2023b_circle.jpg width=350/>
 > <img src=images/2023b_steps.jpg width=350/>
 > <img src=images/2023b_bridge.jpg width=350/>
@@ -173,14 +173,14 @@ Gretel 将父亲的头冷冻保存，又让同伙把头放在斗篷外面，制�
 
 > [!spoiler]- Lucile 解释 Carr 密室
 > Gretel 为了取代 Oberon，找到首字母为 C.P. 的下一代“不朽” Carmichael Palmer。Gretel 派 Cynthia 当 Carr 的精神顾问，将其洗脑。Oberon 化名 Bruce Lowell 来到 Carr 家中，用子弹反弹的方式从浴室将其射杀（伏线：窗户玻璃防弹）。Oberon 的枪藏在胃里，所以能躲过搜身。他用尖锐工具切开腹部取出枪，再用“不朽”能力修复伤口，并在“手术”期间用纸巾控制流血量（伏线：垃圾桶里有沾满血的纸巾）。
-
+> 
 > <img src=images/2023b_reflection.jpg width=450/>
 
 Gretel 指控 Lucile 才是所有案件的真凶。
 
 > [!spoiler]- Gretel 解释系列不可能犯罪
 > Theresa 就是女仆，不是 Alice。Lucile 杀死 Owens，破门后把钥匙插在门内侧。Dallinger 的谋杀是凶手利用秘道。Erik 的谋杀是汽车炸弹，警方掩盖了炸弹痕迹。Issac 从楼梯滑倒。凶手杀死 Oberon 之后将石头沿着房间内墙放置，造出一个壁龛，藏身其中。Cynthia 杀死 Bruce Lowell 之后把他从热气球上扔下。Cynthia 杀死 Darian，踩在尸体身上换鞋，倒退走回森林。Cynthia 混在发现者当中（所有人穿着长袍，戴着面具），谎称离开时的足迹是发现者的足迹。
-
+> 
 > <img src=images/2023b_alcove.jpg width=350/>
 
 ## Part IV. The Castle of Vampires
@@ -189,7 +189,7 @@ Faye 阅读 Graham 留下的日记，认为儿子被 Gretel 害死，驱车来�
 
 > [!spoiler]- 图书馆密室解答
 > 房间拐角的书架接缝处有空隙，凶手可以从顶上进入，藏在里面。
-
+> 
 > <img src=images/2023b_bookshelves.jpg width=300/>
 
 城堡被怪物围攻，Alice 和主人公用火焰抵御。女主人躺在床上被人斩首。主人公望向天空，星星仿佛在燃烧。小说结束。

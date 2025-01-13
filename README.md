@@ -1,2 +1,1 @@
-# mystery
-Fang's Mystery Blog
+# Fang's Mystery Blog

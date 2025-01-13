@@ -66,12 +66,12 @@ Sparrow 和 Chariot 在“红皇后”妇女群居所见到 Cassandra。
 
 > [!spoiler]- 真相
 > Hesse 是 Cosmigrove 家的孩子，Mundus 不是，二人在出生时对调。蓝眼睛父母的孩子有 1% 的几率为绿眼睛，99% 的几率为蓝眼睛，但 Mundus 是棕眼睛（伏线）。DNA 鉴定表明死去的四个孩子有相同父亲，所以客厅里的死者不是 Mundus 而是 Hesse。Mundus 杀死了所有 Cosmigrove 家的人。
-
+> 
 > Joseph 的四名妻子是 Mundus 的母亲 Cassandra 和“红皇后”的三名死者，也即照片中的四个红裙子女人。“红皇后”案和 Cosmigrove 家的杀人案发生在 1985 年，手稿中说“红皇后”案发生在“三年前”，所以 Hesse 在 1985 年写的手稿讲的是 <b>未来</b> 1988 年的事情。（伏线：手稿中 Joseph 因生病而搬家，但 1985 年他还没有生病。Sophia 结婚是 Hesse 的想象。）Hesse 预见到自己会被 Mundus 杀死，<b>整份手稿是死亡留言</b>，意在揭露杀死自己的凶手，故事开头在花园里挖出来的骷髅是 Hesse 自己。沙漠里的新家并不是手稿里 Joseph 搬去的新家（伏线：手稿里提到下雪，但沙漠不可能下雪）。收藏室密室是因为 Mundus 有钥匙。Mundus 化名 Jim Doyle，和 Morini 一起进入 Ishmael 的密室，<b>在凶案发生的两年后将钥匙丢回现场</b>，伪造密室。Mundus 一直致力于拍出最炫的恐怖电影。
 
 > [!spoiler]- 叙述性诡计
 > 花园不是在地面，而是在屋顶，由屋顶游泳池改建而成。Mundus 挖出游泳池里的土露出骷髅，是因为池底的反面是 Joseph 的卧室。他在池底钻了个孔，让一根绳子穿过孔垂入下方卧室，然后进入卧室，在绳子上绑上匕首，靠在吊灯上。他在池底回收绳子，让卧室里的匕首从高处掉落刺入 Joseph 的心脏，完成密室杀人。
-
+> 
 > <img src=images/2023_floors2.jpg width=400/>
 > <img src=images/2023_roof.jpg width=400/>
 

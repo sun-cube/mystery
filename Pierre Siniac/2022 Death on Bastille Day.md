@@ -30,7 +30,7 @@ Sabine 和 Patrick 终于找到当晚和 Feuillard 跳舞的红发女子，但�
 
 > [!spoiler]- 真相
 > 1979年11月14日 Elisabeth 约 Feuillard 在小屋见面，Feuillard 开枪打死 Elisabeth，并打电话让 Lise 带铁锹到小屋，二人一起将尸体埋在小屋酒窖里。Lise 冒充 Elisabeth 上了空难飞机，在起飞前一刻冲下飞机，逃过一劫。
-
+> 
 > 一年后的11月14日，Lise 又约 Feuillard 在小屋见面，Feuillard 没有赴约，职业杀手 Marchandeau 按 Lise 要求冒充 Feuillard 开枪打死 Lise，留下偷来的打火机和扣子陷害 Feuillard。Lise 如此安排的动机是替 Elisabeth 复仇。Feuillard 承认自己11月14日在小屋杀人，其实是在一年前的11月14日杀人，他口中的 Lise 是 Elisabeth 的昵称（叙述性诡计！）。
 
 挑战二重身（doppelgänger）和预言杀人的不可能犯罪。证人目击凶手在小屋开枪杀死女子，同一时间凶手却在距案发现场40公里的舞会跳舞！凶手枪杀女子的手法竟与女子从水晶球里看到的场景一模一样！凶手服下“真话药片”之后坦承杀人事实，警方却无法攻破其不在场证明。谜面华丽，布局优雅，节奏明快，解答简洁而富有说服力，双重叙述性诡计巧妙。强烈推荐。

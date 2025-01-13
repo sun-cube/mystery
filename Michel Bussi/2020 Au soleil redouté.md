@@ -159,7 +159,7 @@ wordpress_id: 6310
 
 > [!spoiler]- 叙述性诡计
 > 漂流瓶手记看似为 Clémence 一人所写，但其实是由五人分别写下：
-
+> 
 > 1. 1-4 节：Clémence Novelle
 > 2. 5-7 节：Martine Van Ghal
 > 3. 8-17 节：Farèyne Mörssen

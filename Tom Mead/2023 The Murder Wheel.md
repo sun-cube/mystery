@@ -43,7 +43,7 @@ Pilgrim 指控 Ibbs 杀死 Paolini，但 Ibbs 坚决否认。Pilgrim 否认杀�
 
 > [!spoiler]- 舞台尸体真相
 > Varga 捡到 Carla 掉落的手套，知道 Carla 是真凶。Pilgrim 指使 Draper 除掉 Varga。Draper 杀死 Varga 之后将尸体吊到空中，如果被人看到，Draper 可以谎称正在吊起替身 Toomey。Ned 剪错绳子，Varga 的尸体掉落，Draper 只好将尸体藏进木箱。他选用舞台木箱而不是备用木箱是为了扰乱局面，不然如果备用木箱里发现尸体，自己的嫌疑更大。Fabris 穿上盔甲进入木箱A，中间还和 Ned 打了个招呼。后来 Ned 从高处下来，Draper 交换木箱B和木箱A，利用 Varga 的尸体重新表演了 Fabris 进入木箱（B）的一幕（所以 Varga 的尸体上有三件护臂），并假冒 Fabris 的声音和 Ned 打招呼。Fabris 和 Ned 的口供一致，但两个人的经历其实发生在不同的时间点！
-
+> 
 > <img src=images/2023_crate_illusion_2.jpg width=500/>
 
 > [!spoiler]- 更衣室密室伪解答
@@ -51,7 +51,7 @@ Pilgrim 指控 Ibbs 杀死 Paolini，但 Ibbs 坚决否认。Pilgrim 否认杀�
 
 > [!spoiler]- 更衣室密室真相
 > Paolini 受到 <i>The Problem of Thor Bridge</i> 启发，认为 Dominic Dean 开枪自杀，陷害 Carla。Paolini 叫了报社记者来，准备在更衣室戏剧性地重现摩天轮密室的场景，目的是赢得报社奖金。Paolini 打晕 Ibbs 后装死。Paolini 的更衣室墙上的弹孔其实是偷窥孔（伏线：剧院老板有偷窥黑历史）。Martha 卸下通往隔壁空屋的房门活页进入空屋，把隔壁的 Paolini 叫到偷窥孔附近，从偷窥孔开枪射杀 Paolini。子弹从墙上的弹孔（偷窥孔）射入，而不是射出。Ned 打开窗户，伸入撬棍调整 Paolini 的尸体姿势，并将晕倒的 Ibbs 拉到窗口，把手枪粘到 Ibbs 手上，再让 Ibbs 躺回 Paolini 身边。Ned 用快干胶将窗户重新封上。屋内到处都找不到胶水，反而让 Spector 确认 Ibbs 是无辜的。
-
+> 
 > <img src=images/2023_dressing_room.jpg width=500/>
 
 三起不可能犯罪。一、妻子在摩天轮中听见枪响，丈夫中弹身亡。二、魔术表演“盔甲走路”，舞台上突然掉出尸体。三、主人公与魔术师会面，一转头被打晕，醒来发现魔术师近距离中弹身亡，自己手里粘了一把手枪，屋门自内上锁，外面有人敲门。三起案件环环相扣，人物关系复杂，诡计与布局深度结合，读出巅峰 Carr 的味道。强烈推荐！

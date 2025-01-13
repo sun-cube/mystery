@@ -25,7 +25,7 @@ wordpress_id: 5792
 
 > [!spoiler]- 真相
 > Adolph Perl 的棺材里藏有价值一百万美元的珠宝。当年 Adolph 在棺材里未死，起身将 Hans Blucher 打晕，和珠宝一起放入自己的棺材。不明所以的 Eberhardt 将棺材钉死，还以为里面关的是 Adolph。Hans 在棺材中醒来，但无法脱身，惨遭活埋。Adolph 回到纽约后因其他罪行入狱，多年后出狱，化名 Harrman 回来挖棺材中的珠宝。因为 Harrman 不知道棺材具体埋在何处，Coolidge、Marcelline 等人洗劫了 Eberhardt 的医院，寻找记有埋尸地点的死亡记录。
-
+> 
 > Harrman 尸体消失是被 Kavanaugh 藏在壁橱里。Marcelline 和 Brown 来到死亡记录上的地点挖出 Adolph 的棺材，却发现里面误埋了 Sou 的尸体，只好继续去 Sou 的埋尸地点掘墓，以此类推。Marcelline 把刀子绑在长竹竿一端，从窗户刺杀 Harrman，后来又用同样手法隔着灌木刺伤了 Schlitz 教授。Marcelline 骑马飞驰，马脚不慎陷入地沟，将其甩出，身体插入竹竿身亡。
 
 > 最后 Coolidge、Kavanaugh、Brown 均被打死。John 揭露珠宝在 Schlitz 教授身上。

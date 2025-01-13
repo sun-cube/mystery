@@ -36,7 +36,7 @@ Ravi 向 Pip 表白。Pip 与父母发生争执，外出散心，遇到邻居 Ch
 
 > [!spoiler]- Pip 采取行动
 > Pip 联想起毒贩 Howie Bowers 关在 Grendon 监狱，又想起曾目睹 Stanley 塞给 Howie 一个信封（第一本书中的伏线！），怀疑 Stanley 就是小 Brunswick，受到 Howie 的勒索。
-
+> 
 > Pip 以 Layla 的身份约 Stanley 在废弃农场见面，与此同时 Conner 和 Ravi 摸进 Stanley 家中解救 Jamie，但 Jamie 跟 Stanley 有交易在身，不愿跟二人离去。Pip 告诉 Stanley 自己不是 Layla，Stanley 则说他关押 Jamie 是因为 Jamie 受了 Layla 的指使刺杀自己，如今二人已联手合作。
 
 > [!spoiler]- 结尾逆转

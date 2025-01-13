@@ -58,7 +58,7 @@ Grand-Duc 为 Nicole 也做了 DNA 检测，所以 Nicole 也在三年前知道�
 
 > [!spoiler]- 真相
 > 两份报告的结果都是 DNA 不符合，所以 Lylie 既不是 Vitral 家的孩子，也不是 de Carville 家的孩子！Grand-Duc 在笔记中记述自己 1982年11月7日 在土耳其看到内政部的官员带着妻小在海边玩耍，但那天正值土耳其大选，所以他在撒谎。Grand-Duc 那天其实在法国，受 Léonce 委托造成 Vitral 家煤气泄漏，害死了 Pierre。Grand-Duc 在家中与 Nazim 发生争执，开枪打死 Nazim，把尸体伪装成自己，后来又杀死了寻找丈夫的 Ayla。Mathilde 杀死 Léonce 后自杀。
-
+> 
 > 在 1980年12月23日 的《东部共和报》头版上除了空难新闻，还刊登了一则十八岁少女 Mélanie Belvoir 的寻人启事，而 Mélanie 长得和十八岁的 Lylie 一模一样！Mélanie 十八岁时在恐怖峰做实习生，怀了 Grégory Morez 的孩子后被抛弃。Mélanie 生下婴儿后与 Georges 一起住在小木屋。空难当晚，Mélanie 给自己的女儿换上在空难中死亡的婴儿的衣服，确认她被消防员带走，并把死婴埋在石堆下。Georges 扯下了死婴手腕上的手链。Mélanie 后来当上了护士，每年去恐怖峰给死婴扫墓，1987年 发现石堆被人动过，于是清空坟墓，转移死婴。
 
 > 结尾 Grand-Duc 想要杀死 Marc 灭口，被及时赶到的 Malvina 一枪打死。Lylie 怀上了 Marc 的孩子，在医院堕胎，Marc 说服她生下小孩。

@@ -46,12 +46,12 @@ Harry 找到郡警 Skai，当年 Tony 就是为了他的女儿和人干架。Ska
 
 > [!spoiler]- 凶手身份
 > 凶手是 Ole，他受伤后重新开始，获得了一份体面的工作。他有一天认识了 Adele，两人在废弃工厂做爱，又一起上山滑雪，晚上住在 Håvass 小屋。小屋里当时已有五人，包括 Marit、Elias、Borgny、Charlotte、Iska，Adele 迟迟未睡，Tony 很晚来到小屋，与 Adele 在屋子后面做爱，被 Ole 认出。Ole 受到二次伤害，心里燃起极度恨意，决意复仇。第二天他撕下写有他名字的房客登记簿，回到废弃工厂建立了犯罪总部。他在废弃工厂杀死 Adele，沉尸湖中，然后前往 Leipzig 付钱给妓女 Juliana，让她飞到卢旺达，制造 Adele 还活着的假象，并从刚果买回“Leopold 苹果”，意图陷害常去刚果的 Tony。Ole 用苹果杀死 Juliana，沉尸河中，接下来又连续杀害了 Borgny、Charlotte、Marit。Ole 潜入 Tony 家的地下室，用座机给 Elias 打了电话，之后杀死 Elias。这时 Ole 收到一封勒索信，对方说知道他杀了人。因为 Iska 已经回到澳大利亚，所以只能是 Tony 寄来。Ole 跟踪 Tony 的雪地摩托，来到一座断崖附近的小屋，在那里杀害了 Tony，弃尸山谷。
-
+> 
 > Ole 的真实身份是麻醉医生 Sigurd Altman。有人在雪崩后给 Bristol 旅馆打电话，问 Iska 是否住在那里（伏线），Harry 起先以为是记者打探消息，后来才意识到他告诉过 Altman 说 Iska 住在 Bristol，那是澳大利亚地名而非旅馆名。废弃工厂电脑的用户名为 Nashville（伏线），电影 <i>Nashville</i> 的导演名为 Altman。
 
 > [!spoiler]- 逆转
 > 山谷断臂的 DNA 不是 Tony，而是 Odd Utmo，他也有严重的关节炎。警方在雪地里找到了 Odd 老婆的遗骸，她被 Odd 杀害。Tony 是 Odd 的儿子，小时候被母亲藏起来，跟着祖父长大。Harry 在一个山坡木墩上找到了切断中指的刀，刀柄上有一枚指纹。
-
+> 
 > Ole 冒充 Adele 给 Tony 写了一封勒索信，说怀了 Tony 的孩子，又冒充 Tony 给 Adele 写了一封信，约她出来见面。出乎 Ole 的意外，Tony 杀死 Adele 灭口，这一切被 Ole 拍下。Ole 希望警方能逮捕 Tony，所以不断用别的小屋旅客名字威胁 Tony，刺激他继续犯案，但警方迟迟未能破案，导致受害人数量不断增加。Tony 切断自己的中指留给 Harry，制造死亡假象。
 
 > Lene 的母亲是家里的清洁工。Harry 从小报上看到 Lene 要把头发染成砖红色（伏线），想起 Juliana 的头发就是砖红色，意识到 Lene 要用 Juliana 的护照逃跑。Lene 取出银行账户的钱去刚果资助 Tony，Harry 和 Kaja 追随在后。Harry 被注射麻醉剂。Tony 向 Lene 坦承杀人经过，逼 Lene 戴上金色的“Leopold 苹果”。Harry 醒来，发现自己全身赤裸，嘴里被放入一颗“Leopold 苹果”，引线连在门上，一有人进屋就会触发机关。Harry 意识到 Tony 利用苹果获得了 Borgny、Charlotte 两个案子的不在场证明，因为他不需要亲自动手，受害人自己就会在合适的时间拉开引线，触发死亡机关。Harry 把头猛力敲响一根墙上的钉子，直至晕厥，恢复意识后发现下巴脱臼。Kaja 收到 Harry 发来的短信，赶到囚禁地点就要开门，最后一刻想起 Harry 从不发短信，迟疑之间被 Tony 手下劫持。Tony 派了两名雇佣兵来给 Harry 收尸。Harry 靠着呕吐的力量成功吐出苹果，逃入地下室，获得武器将两名雇佣兵打死，又一路追至火山口，用 16mm 子弹将 Lene 和 Tony 双双打死，救出 Kaja。Hagen 获得 Bellman 的黑历史，二人达成制衡。

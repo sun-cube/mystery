@@ -87,12 +87,12 @@ Pierrette 不记得在灯塔房间里看到油桶之类的东西。警察在海�
 
 > [!spoiler]- 密室诡计
 > 犯人用绳子把一把弓绷紧，夹在墙和锁的按钮之间，两个触点用有黏性的小花印章垫住，然后把一张涂有鞭炮粉的皱纸放在绳子中间，点燃引线，迅速从门缝离开。鞭炮纸点燃后烧断绳子，弓弹开之后自动将锁锁上。犯人在锁的按钮处只垫了一个印章，在墙上垫了三四个印章。印章非常柔软，可以容易地压缩到一半的厚度，所以留下了足够的开门余地。
-
+> 
 > <img src=images/2024_trick.jpg width=400/>
 
 > [!spoiler]- 真相
 > Pierre 买下庄园后不久，Daniel 与 Joséphine 前去拜访，Pierre 对 Joséphine 一见倾心，于是和 Daniel 交换身份，Pierre 变身 Daniel 与 Joséphine 去了留尼汪，Daniel 则以 Pierre 的身份留在庄园。1985 年 Daniel 与 Nadine 结婚。
-
+> 
 > Daniel 与初恋旧情复燃，决定离开 Nadine，所以假装陷入疯狂，把自己锁在房间里，用密室诡计逃脱。Nadine 报了失踪，Pierre 为了避免警方搜索，假装在船难事故中死亡。Daniel 去留尼汪向 Pierre 解释了真相，遭到 Pierre 谴责。Nadine 去世后，Hélène 通知“Daniel 叔叔”（其实是 Pierre）来参加葬礼，Pierre 与 Daniel 在庄园秘密会面，二人爆发冲突，Pierre 不慎滑下悬崖摔死。Daniel 知道一旦有人发现 Pierre 的尸体，自己交换身份的事情就会曝光，所以他将身份再次由 Pierre 更换成“留尼汪的 Daniel”，参加了 Nadine 的葬礼。Daniel 假冒 Pierre 找 Christophe 占卜，故意留下“Pierre 偷偷回到村里”的假象，但被 Christophe 看穿。Daniel 将 Hélène 推下悬崖，把 Christophe 打晕后在屋里泼上汽油点火，迫使他跳下灯塔。Daniel 多次用 Pierre 留下的手机与 Joséphine 通电话，但有一次不经意用了另一个手机，被 Kervran 发现。Daniel 的现任妻子名为 Durand。
 
 > [!spoiler]- 叙述性诡计

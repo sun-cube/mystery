@@ -40,7 +40,7 @@ Gibson、Carver、Graves 走路时听到枪响，跑到草地上发现了 Philli
 
 > [!spoiler]- 红鲱鱼
 > Kittle 偷偷喂养狐狸幼崽，Edgar 是被狐狸咬死（伏线：Edgar 最先被埋）。Matilda 是正常老死。
-
+> 
 > Emma 的哥哥和爱人 Thomas Graves 在战争中丧生，所以她记恨父亲和 Graves。Gibson 提到一名德国间谍 Joachim Bauer 被 Burroughs、Davies、Walpole、Young、Bennett 五人处死（伏线），Anna 原名 Annë Bauer，是 Joachim 的女儿。Anna 是士兵目睹的去射击场的女人，她看到 Burroughs 像自己父亲一样被枪杀，第二天回去放了一束菊花悼念。
 
 > Phillip Davies 家暴，Martha 试图逃跑，Peter 请 Gurung 协助，二人在教堂会面。后来大家觉得风险太大，改由 Gurung 在中间传话。Peter 去医院找 Gibson 谈他正在写的书（伏线），把信交给 Gurung。Martha 以 Eve 胃痛为借口去医院（伏线），其实是去见 Gurung。后来又改由 Gurung 把讯息贴在公告板上，密码是简单的 homophone：
