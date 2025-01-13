@@ -165,7 +165,7 @@ wordpress_id: 6310
 > 3. 8-17 节：Farèyne Mörssen
 > 4. 18-21 节：Marie-Ambre Lantan
 > 5. 22-27 节：Eloïse Longo
-
+> 
 > 凶手是 Clémence。PYF 在市长小屋想要强奸她，她失手打死 PYF，被 Martine 目睹。小屋里的香水味道是 PYF 的情人 Marie-Ambre 留下。Clémence 杀死 Martine 灭口，并留下 Enata 石头，让人以为杀人案与 Kouaki 有关。Clémence 拿走 Martine 年轻时的照片，夹在书中以备日后使用。Clémence 不小心在 Martine 小屋中留下大量指纹。Clémence 听到 Farèyne 已经查出谁是凶手，只好杀死她灭口，并拿走她的手机。Marie-Ambre 告诉 Clémence，前一晚 Poe 和 Moana 看到 Clémence 外出，Clémence 继续杀死 Marie-Ambre 灭口。最后 Clémence 给 Eloïse 下毒。Yann 将 Clémence 罪行通知警方，Clémence 见事情败露开枪自杀。
 
 五名读者应邀来到小岛参加某畅销书作家组织的写作训练营，随后发生连续杀人案。故事以手记、小女孩日记、警察三视角第一人称叙述，结尾揭露大叙述性诡计。叙述性诡计构思尚可，但细心的读者有可能识破。本书强势击败鸡丁老师的《凛冬之棺》获得今年的日本海外本格榜冠军，略显牵强。

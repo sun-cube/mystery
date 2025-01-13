@@ -45,7 +45,7 @@ Elizabeth 和 Joyce 查出一家名为“Bramley 控股”的公司买下了养�
 > Penny 在七十年代曾调查过一起入室抢劫案，女子 Annie Madeley 死在男朋友 Peter Mercer 的怀抱中。所有人都怀疑 Peter 才是杀死 Annie 的凶手，但后来 Peter 失踪。Annie 为了不让 Peter 逃脱，把他杀死埋在墓地，而 John 为了不让 Penny 罪行曝光，所以杀死 Ian 阻止墓地迁移。
 > 
 > Bogdan 杀死 Tony，动机是因为 Tony 指派 Gianni 杀死了他的好朋友，出租车司机 Kazimir。Bogdan 在很久以前杀死了 Gianni，Steve 拿了 Gianni 的护照出国，伪造 Gianni 逃逸假象。
-
+> 
 > Joanna 说服董事成员买下 Ian 的公司，Bramley 是 Joanna 小时候毛绒玩具大象的名字。
 
 作者据说是 Agatha Christie 的粉丝，果然一波家访流。本书的人物关系确实足够错综复杂，红鲱鱼层峦叠嶂，但基本没有什么推理，线索薄弱，凶手设置偏随意。Bernard 坐长椅的一段误导感人。

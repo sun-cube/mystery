@@ -32,7 +32,7 @@ FBI 探员研究无人机的飞行轨迹，发现它经过了 Talese 的家和�
 > Pulaski 鞋子里装了追踪器，醒来后十分钟就被警方解救。Lincoln 提前在书架后面找到了注射器，把里面的芬太尼换成了蒸馏水。Hale 杀死 Gilligan 并留下一台他的电脑，然后化装为电脑专家 Arnold Levine 联系 Sachs，获取搜查令进入地下服务器中心。Gilligan 交代动机是为了用病毒修改网络时间，攻击银行账户，盗取资金。Hale 放倒第三台吊车，假装刺杀总统，是为了造成网络堵塞，方便攻击。Hale 车里的书是《纽约的鸟》。Lincoln 和 Hale 单独会面，Andy Gilligan 的兄弟 Mick 将 Hale 远程狙杀。
 > 
 > Pulaski 揪出车祸 SUV 的乘客 Natalia Baskov、Aaron Stahl，他们听从 Hale 的指示，用遥控器切换了路口的红绿灯。Aaron 长期吸毒，设法让芬太尼沾到了 Pulaski 的皮肤上。Burdick 收了 Tarr 的黑钱，和 Gilligan 串通一气，也被 Pulaski 揭发。FBI 逮捕了 Tarr。Lincoln 刊登 Hale 的讣告，希望吸引 Simone 来参加 Hale 的葬礼，但 Simone 设计让警察暴露，化装成女警在 Hale 的墓碑上留了一首爱情诗和一个时钟零件。网上流传 Cody 的邮件，赞美了对总统的暗杀行动，导致 Cody 声望大跌。
-
+> 
 > 雇佣 Hale 的人是 Marie Leppert，她让 Hale 入侵服务器中心，目的是篡改 Cody 的邮件，以便在竞选中获胜。
 
 Lincoln Rhyme 第十六弹，仍旧是熟悉的配方。纽约市连续发生三起吊车倒塌的恐怖袭击，犯人是绰号“钟表匠”的 Lincoln 宿敌，真实意图不明。Amelia Sachs、Ron Pulaski 等人悉数出场，Sachs 掉入酸雾陷阱，Pulaski 被人监禁，Lincoln 被犯人逼迫注射芬太尼，险象环生，尤其第二架吊车砸向医院的一幕最为扣人心弦。犯人身份不是秘密，但幕后大 boss 的身份和动机十分意外。
