@@ -11,7 +11,7 @@ wordpress_id: 6967
 
 # Hafeez Diwan, <i>The Impossible Murder of Headless in Houston</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 著名推理作家 George Zimaresh 死在自家书房，病理学家 Imogene Chaplin 被召去验尸。男管家 Perkins 听到 Zimaresh 用广播系统喊叫自己将被斩首，但房门从内反锁，无法打开。警察用电锯破门，发现 Zimaresh 坐在椅子上，头颅消失，脖子上的伤口平滑，地上血流成河。桌上有一封写给 Imogene 的信，奇怪的是她从不认识 Zimaresh。书房内外有两棵空心树，通过一个秘道连接，均只能从内部锁住。外面的树锁住，房内的树未锁，说明凶手没有通过树离开。书房西侧的书架上也有机关，取下一套 <i>Father Brown</i> 之后会露出一条密道，内有大号脚印，但也不是逃生线路。房间里还发现一个装满抗凝血的便器。
 

@@ -11,8 +11,8 @@ wordpress_id: 6723
 
 # Anthony Horowitz, <i>Close to Death</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
-<img src=images/2024_map.jpg width=400/>
+![[images/2024_cover.jpg|250]]
+![[images/2024_map.jpg|400]]
 
 Riverview Close 的居民：
 * Adam Strauss：国际象棋特级大师。

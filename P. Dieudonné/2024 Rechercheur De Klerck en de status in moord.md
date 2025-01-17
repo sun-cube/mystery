@@ -8,7 +8,7 @@ wordpress_id: 7280
 
 # P. Dieudonné, <i>Rechercheur De Klerck en de status in moord</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 主要出场人物：
 * Ismene Duetz：帆船爱好者，婚礼主持人。

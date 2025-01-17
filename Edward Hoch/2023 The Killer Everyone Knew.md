@@ -11,7 +11,7 @@ wordpress_id: 6546
 
 # Edward Hoch, <i>The Killer Everyone Knew and Other Captain Leopold Stories</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 ## 1. The Woman Without a Past
 

@@ -12,7 +12,7 @@ wordpress_id: 7275
 
 # K. O. Enigma, <i>Bunraku Noir</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 Royham "Roy" Malone 是一名武士，迷恋网络主播 Osamu Rako，经常给她打赏，二人约好来一次一对一的视频聊天。聊天时有人闯入 Rako 家中，Rako 与其发生激烈争斗，随即视频中断。Roy 担心 Rako 遭遇不测，慌忙给好朋友 Irene "Iri" Bluth 打电话商量对策。第二天，网络搜索显示 21 岁的大学生 Anna Hitae 在前一天晚上从公寓六楼阳台跳楼身亡。Roy 和 Irene 潜入 Anna 家调查。大门的铰链被警察闯入时扯裂，唯一的一把钥匙放在室内桌子上，所以这是一起密室坠亡。Irene 检查阳台门，发现也自内锁住。垃圾桶里的银行账单和平板电脑的登录页面均表明 Anna 就是 Rako。Irene 在浴室找到一件沾血的丝绸睡裙，墙上的毛巾架和石膏块被扯下，地板上掉落一根长金属杆，一端有微弱的血迹。Roy 偷拿了 Anna 的手机。
 

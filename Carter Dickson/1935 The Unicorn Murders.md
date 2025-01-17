@@ -12,13 +12,13 @@ wordpress_id: 6239
 
 # Carter Dickson, <i>The Unicorn Murders</i> (1935)
 
-<img src=images/1935_cover.jpg width=250/>
+![[images/1935_cover.jpg|250]]
 
 主人公 Kenwood Blake 是一名特工，在巴黎与女特工 Evelyn Cheyne 接头。巴黎的报纸都在报道超级罪犯 Flamande 和大侦探 Gaston Gasquet 夙敌相斗的故事，二人都擅长易容。Ken 和饭馆招待聊天时引起警察注意，警察查了他的护照却忘记归还。Evelyn 说 Ken 必须和她在晚 11 点之前赶到 Orleans 附近的“盲人旅店”，另一方面 George Ramsden 会带着“独角兽”从马赛坐飞机去巴黎，然后到旅店与他们会合。据说 Flamande 也会乘坐从马赛到巴黎的飞机，而 Gasquet 则试图阻止他的行动。新闻报道 Flamande 在马赛的一家公园杀死了英国律师 Gilbert Drummond，尸体两眼间有一个四英寸的深洞，不是子弹射入，仿佛被独角兽刺入。Gilbert 临死前说的最后一个词是“独角兽”。
 
 Ken 和 Evelyn 驱车去 Orleans，再次被之前在餐馆没收他护照的法国警察拦截。Ken 打倒警察，Evelyn 捡到警察的钢笔，二人驱车逃逸，结果下大雨轮胎陷入泥中，正好遇到 H.M. 乘坐出租车经过。H.M. 来法国也是为了抓 Flamande，他说这次上面派了 Cheyne 和 Harvey Drummond 共同执行任务，而他描述的 Harvey 和 Ken 打倒的警察相貌一样，Ken 这才知道误打了自己人。马赛飞巴黎的飞机因大雾迫降，Ramsden 下了飞机，与 H.M. 等人会合，大家一起去了附近的一家古堡过夜，堡主 d’Andrieu 热情迎接。d’Andrieu 昨日收到一封 Flamande 从马赛寄来的信，说他会采取措施让 Ramsden 的飞机迫降，请 d’Andrieu 做好迎接准备。与 Ramsden 同行的还有 Elsa & Owen Middleton 夫妇、美国人 Earnest Hayward、法医 Edouard Hébert、报社记者 Kirby Fowler。管家 Auguste 派人去河边将 Ken 的行李从抛锚的车里取回。一名自称为 Harvey Drummond 的乘客也来到古堡，但他和之前 Ken 打倒的警察不是同一人。Ken 给他看了有 Harvey 名字的钢笔，但他说没有见过。H.M. 指出来人乃是 Gasquet 冒充，那人承认自己是 Gasquet，并说已经知道谁是 Flamande，十五分钟后公布。Elsa 因为害怕丈夫所以和 Owen 私奔，二人尚未结婚。Elsa 看到床头一本 Balzac 的小说，吓得把书掉在地上。
 
-<img src=images/1935_mapback.jpg width=350/>
+![[images/1935_mapback.jpg|350]]
 
 楼上只有走廊、浴室、d’Andrieu 住的三间主卧有电，突然发生断电。Middleton 从浴室出来，走到走廊另一头自己的房间。与此同时，Fowler 从门缝中看到 Gasquet 关上卧房的台灯，拿着一个档案袋走到楼梯口，突然好像被什么东西抓住，大叫一声，左右摇晃着摔下楼梯。H.M. 和 Hébert 赶到楼梯下面，只见 Gasquet 头顶上刺入一个圆洞，绝气身亡，档案袋消失不见。二楼到一楼的楼梯中段有一个平台，墙上挂着一个挂毯，后面有一扇很深的窗户，没有上锁。二楼断电是因为有人拉了毛巾储物间里的电闸。有人在储物间门口扔了一个信封，里面有一封 Flamande 的信，用 Fowler 的便携打字机打印，信里说 d’Andrieu 昨天收到的信是假的，上面的签名系伪造，自己没有让飞机迫降，也没有计划来古堡。Elsa 也证实 Gasquet 摔下楼梯时周围没有别人。
 

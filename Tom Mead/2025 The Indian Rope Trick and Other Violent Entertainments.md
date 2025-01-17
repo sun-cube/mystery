@@ -12,7 +12,7 @@ wordpress_id: 7343
 
 # Tom Mead, <i>The Indian Rope Trick and Other Violent Entertainments</i> (2025)
 
-<img src=images/2025_cover.jpg width=250/>
+![[images/2025_cover.jpg|250]]
 
 ## 1. The Indian Rope Trick
 

@@ -11,7 +11,7 @@ wordpress_id: 5792
 
 # Theodore Roscoe, <i>Z Is for Zombie</i> (1937)
 
-<img src=images/1937_cover.jpg width=250/>
+![[images/1937_cover.jpg|250]]
 
 故事发生在1937年。主人公医生 John Ranier、游客 Brown、Philemon Schlitz 教授、纽约卡车司机 Joseph Collidge、金发女郎 Daisy May、爱尔兰人 Kavanaugh、海地本土绅士 Marcelline 等一行人坐游轮来到海地。丹麦人 Leo Harrman 在酒吧里身中致命刀伤，大量失血。奇怪的是在场诸人没人看到行刺过程，现场也没有找到凶器。Marcelline 看到窗外有一张脸，但外面地上没有脚印。Harrman 裤兜里有一个信封，里面纸上写着一个名字 Eberhardt 和金额一百万美元。酒吧老板 Hyacinth Lucien 说五英里外有一家医院，院长就叫 Eberhardt。大家把 Harrman 运到医院，却发现医院实验室遭到洗劫，院长消失不见。Harrman 伤重不治。
 

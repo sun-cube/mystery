@@ -8,7 +8,7 @@ wordpress_id: 7189
 
 # Richard Osman, <i>We Solve Murders</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 ## Part One
 

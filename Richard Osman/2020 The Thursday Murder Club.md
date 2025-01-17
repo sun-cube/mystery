@@ -8,7 +8,7 @@ wordpress_id: 6146
 
 # Richard Osman, <i>The Thursday Murder Club</i> (2020)
 
-<img src=images/2020_cover.jpg width=250/>
+![[images/2020_cover.jpg|250]]
 
 中译《周四推理俱乐部》（明明是“谋杀俱乐部”）。
 

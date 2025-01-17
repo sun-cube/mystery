@@ -11,7 +11,7 @@ wordpress_id: 6198
 
 # J. L. Blackhurst, <i>Three Card Murder</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 本作包含三起不可能犯罪。
 

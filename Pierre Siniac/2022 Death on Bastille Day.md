@@ -12,7 +12,7 @@ wordpress_id: 5693
 
 # Pierre Siniac, <i>Death on Bastille Day</i> (2022)
 
-<img src=images/2022_cover.jpg width=250/>
+![[images/2022_cover.jpg|250]]
 
 原著 📖 Pierre Siniac, <i>Un assassin, ça va, ça vient</i> (1981)。
 

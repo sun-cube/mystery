@@ -11,7 +11,7 @@ wordpress_id: 7269
 
 # James Ronald, <i>The Sealed Room Murder</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 ## The Sealed Room Murder (1934)
 

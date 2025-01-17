@@ -8,7 +8,7 @@ wordpress_id: 6685
 
 # Charlie Donlea, <i>Twenty Years Later</i> (2021)
 
-<img src=images/2021_cover.jpg width=250/>
+![[images/2021_cover.jpg|250]]
 
 纽约 Catskill 山脉的一幢豪宅中发现一具从二楼悬挂的裸体男尸，死者双手被绑，嘴巴堵住，疑似死前正在进行紧缚游戏。绳子系在卧室衣橱里的保险箱上，房间里找到一把带血的刀和一个有口红印迹的酒杯，厕所里有尿液和卫生纸。死者 Cameron Young 为著名小说家，主要嫌疑人 Victoria Ford 被控一级谋杀，辩护律师 Roman Manchester 认为现场的血液和尿液证据对她十分不利，但 Victoria 坚称自己无辜。Victoria 在 911 事件中丧生，纽约法医 Greg Norton 在骨头残片中成功匹配 Victoria。
 

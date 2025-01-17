@@ -12,7 +12,7 @@ wordpress_id: 7259
 
 # John Dickson Carr, <i>The Problem of the Wire Cage</i> (1939)
 
-<img src=images/1939_cover.jpg width=250/>
+![[images/1939_cover.jpg|250]]
 
 主要出场人物：
 * Hugh Rowland：年轻律师，爱上了 Brenda。
@@ -30,7 +30,7 @@ wordpress_id: 7259
 
 【故事回溯】雷雨来临之际，四人躲进一个小凉亭避雨，发现里面有一份报纸，上面报道了 Madge Sturgess 的案件，话题于是转到完美杀人，Kitty 提出可以用汽车尾气中的一氧化碳。Frank 问起 Kitty 前夫的死因，Kitty 开玩笑说自己曾被指控杀了丈夫，但她的丈夫其实是死于流感。Kitty 询问 Brenda 如果要谋杀会怎么做，Brenda 声称已有完美计划。雨停后大家分手，Frank 去 Kitty 家借一本书。Brenda 告诉 Hugh 自己决定取消婚事，让 Hugh 先行离开，晚上 9:30 再回来找自己。Hugh 依言开车离开，7:25 发现车胎被钉子扎坏，只好回 Young 医生的车库借打气筒，经过网球场的时候看到树篱小门敞开，跑过去看到 Brenda 正要关上球场的铁门，而 Frank 被围巾勒死在球场。球场泥地上留下一串 Frank 的脚印，通向尸体倒下的地方，周围还有两串 Brenda 来回的脚印，除此之外没有其他脚印。
 
-<img src=images/1939_tennis_court.jpg width=450/>
+![[images/1939_tennis_court.jpg|450]]
 
 Brenda 自述 7:20 来凉亭帮 Maria 取回野餐篮，看到 Frank 倒在球场中央，于是跑过来查看尸体，还用手拽了他脖子上的围巾，注意到上面有抓痕，过程中不小心折断了中指的指甲。Hugh 计划帮 Brenda 脱罪，用木耙弄乱地上的脚印，还指挥 Brenda 换上凉亭里的备用球鞋，把原来的鞋子藏进野餐篮中。凉亭里的报纸不见。Kitty 回到球场，说 Brenda 撞上了 Hadley 警长。Brenda 对警察谎称自己没进过球场，泥地上的脚印太深了，凶手显然比自己重，但事实是她拿了 40 磅重的野餐篮。Hugh 帮 Brenda 处理了掉在球场上的指甲碎片。Fell 博士抵达家中。
 

@@ -10,7 +10,7 @@ wordpress_id: 7130
 
 # Benjamin Stevenson, <i>Everyone This Christmas Has a Secret</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 主要人物：
 * Ernest "Ernie" Cunningham：主人公。

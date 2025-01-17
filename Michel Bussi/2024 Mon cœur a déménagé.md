@@ -8,7 +8,7 @@ wordpress_id: 6444
 
 # Michel Bussi, <i>Mon cœur a déménagé</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 小女孩 Ophélie Crochet 的妈妈 Maja 打电话向社工 Richard Vidame 求助，说自己要被丈夫杀死，Vidame 表示只负责预算，无法调停家庭事务。Ophélie 的爸爸 Josselin 要进她的房间找钱，Maja 将其打倒后逃跑，Josselin 在后面追出。Ophélie 跟着跑到外面，遇到遛狗的 Lazare，随后看到妈妈躺在天桥下的公路上身亡，周围全是警车。Josselin 在天桥上不记得发生了什么，因杀人嫌疑入狱。Ophélie 住进孤儿院，认识了朋友 Nina。Ophélie 的姥姥 Mette 前来探视。Ophélie 记得在妈妈死亡当晚，旁边的大楼有七个人家的窗户亮着灯光，她把窗户的位置记在一张方格纸上，起名为“北斗七星”。
 

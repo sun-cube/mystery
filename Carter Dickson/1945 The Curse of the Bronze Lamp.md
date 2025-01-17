@@ -11,7 +11,7 @@ wordpress_id: 6812
 
 # Carter Dickson, <i>The Curse of the Bronze Lamp</i> (1945)
 
-<img src=images/1945_cover.jpg width=250/>
+![[images/1945_cover.jpg|250]]
 
 Gilray 教授和第四代 Severn 伯爵 John Loring 领衔的英国考古学小队在埃及沙漠中发掘了一处尘封的陵墓，随行人员还包括解剖学家 Budge 博士、伯爵助手 Sandy Robertson、伯爵女儿 Helen Loring 等人。Gilray 教授第一个踏进墓室，第二年末手上被蝎子蛰了一下死亡。Helen 带着一盏青铜神灯启程返回英国，预言家 Alim Bey 预言 Helen 无法活着回到家。
 

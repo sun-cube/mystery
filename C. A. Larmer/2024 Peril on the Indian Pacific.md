@@ -11,9 +11,9 @@ wordpress_id: 7114
 
 # C. A. Larmer, <i>Peril on the Indian Pacific</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
-<img src=images/2024_route.jpg width=350/>
+![[images/2024_route.jpg|350]]
 
 谋杀书友会成员：
 * Alicia Finlay：谋杀书友会创始人，记者

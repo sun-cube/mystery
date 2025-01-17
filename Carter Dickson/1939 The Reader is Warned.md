@@ -10,7 +10,7 @@ wordpress_id: 6341
 
 # Carter Dickson, <i>The Reader is Warned</i> (1939)
 
-<img src=images/1939_cover.jpg width=250/>
+![[images/1939_cover.jpg|250]]
 
 推理小说女作家 Mina Constable 和丈夫 Sam 请了 Hilary Keen、Lawrence Chase、John Sanders 来家中观看读心术师 Pennik 的表演。Pennik 预测 Sam 活不到晚餐时间。19:45 Hilary 发出尖叫，从阳台闯入隔壁 Sanders 房间，惊恐地宣称房间里有什么东西。20:00 Sanders 目睹 Sam 身着晚宴装倚在楼梯栏杆上，一只手举在空中抽搐，身体滑倒，死于心脏衰竭。大厅里有三扇打开的门，分别通向 Mina、Sanders、Hillary 的房间，一个厨师帽滚落在 Hillary 房间的梳妆台下面。Sam 死前在卧室里更衣，Mina 也在她的房间更衣，二人中间相隔一个浴室，Chase 在卧室更衣，Hilary 在和 John 说话。厨师 Chichester 证实 Pennik 一直在楼下厨房准备便餐。Pennik 说自己用意念波杀死了 Sam，他摆放餐具时只准备了五个座位。Mina 的书架上有一本剪贴簿，上面的标签写着《新式谋杀技巧》。Chase 在 19:45 听到东西打碎的声音，打开屋门看到 Pennik 刚从 Hilary 的房间出来，关门下楼。与此同时 Mina 在给 Sam 系鞋带，也听到碎裂声，Sam 进入 Sanders 房间询问发生了什么，Sanders 回答说是台灯摔碎了。Sam 房间地板床脚处滴了一滴蜡油，五斗橱顶上有两个烛台，里面的蜡烛曾被点过。Chase 说 Sam 冲出房间时赤脚穿着拖鞋，所以 Mina 说给他系好了鞋带是在撒谎。Mina 说烧掉了《新式谋杀技巧》剪贴簿，但房子各处都找不到燃烧灰烬。
 

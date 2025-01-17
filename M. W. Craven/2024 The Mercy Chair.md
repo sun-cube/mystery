@@ -10,7 +10,7 @@ wordpress_id: 6864
 
 # M. W. Craven, <i>The Mercy Chair</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 主人公 Washington Poe 接受心理医生 Clara Lang 的治疗。Poe 和验尸官 Estelle Doyle 订婚，搭档 Tilly Bradshaw 是数学天才兼网络黑客。
 

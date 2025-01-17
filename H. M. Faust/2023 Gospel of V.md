@@ -12,7 +12,7 @@ wordpress_id: 6550
 
 # H. M. Faust, <i>Gospel of V</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 某作家 Virgil Hesse 写了一本推理小说《Cosmigrove 家族的消亡》，之后不久失踪。编辑 Sparrow 和 Chariot 负责审阅。
 
@@ -28,7 +28,7 @@ Joseph Cosmigrove 生了四个同父异母的孩子，故事发生在他搬入�
 * Roe：女仆。
 * Stoker：园丁。
 
-<img src=images/2023_floors.jpg width=400/>
+![[images/2023_floors.jpg|400]]
 
 有人在花园挖了一个矩形的大坑，里面有一具骷髅，Gray 证实骷髅是真的尸骸。Mundus 让大家把骷髅放入收藏室，并用钥匙把门锁上。大侦探 Lane Prospero 来到家中。两年前在名为“红皇后”的妇女群居所有三名老太太连续遇害，Lane 解决此案。骷髅从收藏室消失。父亲在房间尖叫，大家赶到发现他被一把尖细匕首刺中心口身亡，尖叫时 Gray 在门口监视，无人进出房间。Stoker 死在图书馆，一把厨房刀插在他的喉咙里。侦探注意到书架上有许多德国经典作品，却缺少歌德的书，由此发现书架后面的秘道，通向收藏室。Constantin 中毒身亡。Gray 吊死在风扇上，房间钥匙放在咖啡桌上。
 

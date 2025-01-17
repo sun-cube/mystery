@@ -1,6 +1,6 @@
 # John Dickson Carr, <i>The Emperor's Snuff-Box</i> (1942)
 
-<img src=images/1942_cover.jpg width=250/>
+![[images/1942_cover.jpg|250]]
 
 伊娃·奈尔和内德·阿特伍德离婚
 "贝特西·布尔梅尔-史密斯，"内德说，"她是一头母牛，一个妓女。我也不知道事情怎么会变成那样。

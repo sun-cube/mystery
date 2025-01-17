@@ -11,7 +11,7 @@ wordpress_id: 7171
 
 # Pierre Véry, <i>Les Veillées de la tour pointue</i> (1937)
 
-<img src=images/1937_cover.jpg width=250/>
+![[images/1937_cover.jpg|250]]
 
 英译：<i>The Secret of the Pointed Tower</i> (2023)。
 

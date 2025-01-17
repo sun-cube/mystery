@@ -11,7 +11,7 @@ wordpress_id: 6820
 
 # Tom Mead, <i>Cabaret Macabre</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 出场人物：
 * Giles Drury 爵士：法官。
@@ -37,9 +37,9 @@ wordpress_id: 6820
 * Jerome Hook：Flint 的副手。
 * Joseph Spector：魔术师，侦探。
 
-<img src=images/2024_family.jpg width=500/>
-<img src=images/2024_floor_plan.jpg width=600/>
-<img src=images/2024_floor_plan_2.jpg width=350/>
+![[images/2024_family.jpg|500]]
+![[images/2024_floor_plan.jpg|600]]
+![[images/2024_floor_plan_2.jpg|350]]
 
 1938 年 12 月 13 日，两个小孩在海边发现一个行李箱，里面有一具男尸，脸被人打烂。Caroline Silvius 小姐求见 Flint 督察，说有人要杀他的哥哥 Victor。十年前，Victor 的未婚妻 Gloria Crain 是法官 Giles Drury 的女秘书，随 Giles 去了一个乡间别墅过圣诞节，突然在那里死于士的宁中毒，官方判定为自杀，但 Victor 偏执地认为 Gloria 与 Giles 有私情，是被 Giles 谋杀。Victor 袭击 Giles 未遂，后被关进 Moncrieff 医生的疯人院。Moncrieff 医生和 Giles 都隶属于一个叫做“悲剧家”的俱乐部，标志是一对交叉的弯刀。
 

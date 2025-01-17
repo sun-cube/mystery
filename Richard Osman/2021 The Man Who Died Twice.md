@@ -8,7 +8,7 @@ wordpress_id: 6912
 
 # Richard Osman, <i>The Man Who Died Twice</i> (2021)
 
-<img src=images/2021_cover.jpg width=250/>
+![[images/2021_cover.jpg|250]]
 
 Elizabeth Best、Joyce Meadowcroft、Ibrahim Arif、Ron Ritchie 在周四谋杀俱乐部讨论了一桩悬案。Elizabeth 收到署名 Marcus Carmichael 的一封信，让她抽空拜访，但 Marcus 是 Elizabeth 为军情五处工作时杜撰的一个假身份。警察 Donna De Freitas 和 Chris Hudson 在 Fairhaven 的海滨度假胜地监视“毒品女王”Connie Johnson，Connie 主动上前打招呼，还拿出一张警察团队的照片。Elizabeth 拜访信中地址，遇到前夫 Douglas Middlemiss，其所在公寓被用作安全屋。Douglas 透露老人院新来的女服务生 Poppy 也是军情五处的特工，他们最近在调查一个叫做 Martin Lomax 的洗钱犯，Douglas 和特工 Lance James 一起潜入了 Martin 的房子。Joyce 给 Elizabeth 和她的朋友 Bogdan Jankowski 制作了手链。一个年轻人 Ryan 骑自行车撞倒 Ibrahim，还抢走了他的手机，警察认为可能是惯犯 Ryan Baird。Douglas 告诉 Elizabeth 他从 Martin 那里偷了价值两千英镑的钻石，Martin 给军情五处发了一张 Douglas 的照片，让他交出钻石，不然就让黑手党发出最后通牒。Douglas 打算在 Antwerp 出售钻石，然后逃往百慕大。Elizabeth 同意保护 Douglas，但要求军情五处提供关于 Ryan Baird 的信息。
 

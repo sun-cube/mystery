@@ -10,7 +10,7 @@ wordpress_id: 6244
 
 # Robin Stevens, <i>The Guggenheim Mystery</i> (2017)
 
-<img src=images/2017_cover.jpg width=250/>
+![[images/2017_cover.jpg|250]]
 
 故事主人公是十二岁小男孩 Ted Spark 和他的姐姐 Kat、表哥 Salim。Salim 的妈妈 Gloria 阿姨在博物馆工作，带三人参观博物馆。10:28 入口处涌出浓烟，人群被迫疏散。工作人员在门口集合，包括：
 

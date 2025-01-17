@@ -11,7 +11,7 @@ wordpress_id: 6428
 
 # Anne van Doorn, <i>Het Delfts blauw mysterie</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 Gilbert DeRoos 的妻子 Philippa 是某家族企业总裁，在一次滑雪事故中下肢瘫痪并失明，将企业交由 Gilbert 管理。DeRoos 家住在某公寓楼的顶楼 72-73 层。17:05 Gilbert 离家，和公司法务 Aurora Frodelius 坐飞机参加商业谈判，公寓保安 Jack O’Grady 在他离开时发了一条手机短信。
 

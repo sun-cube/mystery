@@ -8,9 +8,9 @@ wordpress_id: 6667
 
 # Benjamin Stevenson, <i>Everyone on This Train Is a Suspect</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
-<img src=images/2023_layout.jpg width=450/>
+![[images/2023_layout.jpg|450]]
 
 Ernie 在 <i>Ghan</i> 号火车上撰写他的第二本书，承诺遵循 fair play，但不一定只有一个侦探。Ernie 带女朋友 Juliette Henderson 上车时偶遇经纪人 Simone Morrison 和著名作家 Wolfgang。Ernie 希望通过 Simone 认识著名作家 Henry McTavish。火车上的床铺很窄，而且门无法锁上。Ernie 在酒吧车厢遇到了老人 Douglas Parsons、心理悬疑作家 S. F. Majors、法律推理作家 Lisa Fulton、推理小说粉丝 Jasper Murdoch、年轻女读者 Brooke、法医作家 Royce Royce。McTavish 的出版商 Wyatt Lloyd 经过，看到 Ernie 后向他主动道歉，让 Ernie 觉得莫名其妙，但没说几句便被 McTavish 打断。事后 Juliette 向 Ernie 解释 Wyatt 在 Goodreads 网站给他的第一本书打了一颗星。Royce 和 Lisa 安慰 Ernie 不要把差评放在心上。
 

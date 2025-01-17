@@ -8,7 +8,7 @@ wordpress_id: 6399
 
 # Holly Jackson, <i>As Good As Dead</i> (2021)
 
-<img src=images/2021_cover.jpg width=250/>
+![[images/2021_cover.jpg|250]]
 
 故事接前两作。Max 雇了律师起诉 Pip 诽谤自己下药强奸。Pip 从 Luke Eaton 手中买了一些非处方安眠药。有人在 Pip 家附近丢死鸽子，并给 Pip 发威胁邮件和短信，还在她家的人行道上留言。Ravi 建议 Pip 报警，但 Pip 觉得报警并无卵用。Pip 的网络直播吸引了三十万粉丝。
 
@@ -16,7 +16,7 @@ Pip 在网上搜索跟踪狂的信息，找到一个绰号“DT (Duct Tape) 杀�
 
 Pip 不断收到没有来电显示的匿名电话，决定购买 CallTrapper 服务追踪号码。Pip 查知前作中的警察 Daniel Da Silva 也曾为“绿景”工作。Pip 与“DT 杀手”受害者妹妹 Harriet Hunter 见面，Harriet 证实见到死鸽子和人行道上的留言。Harriet 姐姐死后 Andie 曾向她表示安慰，二人结为好友。（Andie 时间表中的“HH”不是 Howie's House 而是 Harriet Hunter。）Pip 奇怪 Andie 为什么会对“DT 杀手”感兴趣，决定侵入 Andie 的秘密邮件账户查找线索，但安全问题是 Andie 的宠物名称，只有她在狱中的妹妹 Becca 知道。侦探 Hawkins 告诉 Pip 上一部中的凶手 Charlie 已被擒获归案。Pip 向 Becca 问来宠物名称，成功进入 Andie 的邮箱。Andie 在一封未发送邮件中宣称知道“DT 杀手”的真实身份。
 
-<img src=images/2021_planner.jpg width=500/>
+![[images/2021_planner.jpg|500]]
 
 Pip 采访录取 Billy 口供的侦探 Nolan，得知 Daniel 对此案饶有兴趣。当晚，Pip 家的打印机自动印出威胁信息，音箱也自动播放音乐，这说明犯人在屋外连上了 Pip 家的 Wi-Fi。Pip 去 Nat 家询问 Daniel 的事情，在门外收到了一通匿名电话，启动 CallTrapper 追踪到了一个未知号码。Pip 打回这个号码，却听到铃声在身后响起。Pip 被人打晕。
 

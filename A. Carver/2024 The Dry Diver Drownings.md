@@ -11,9 +11,9 @@ wordpress_id: 7100
 
 # A. Carver, <i>The Dry Diver Drownings</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
-<img src=images/2024_floor_plan.jpg width=400/>
+![[images/2024_floor_plan.jpg|400]]
 
 出场人物：
 * Alex Corby：主人公，侦探。

@@ -10,7 +10,7 @@ wordpress_id: 5985
 
 # J. C. Lenehan, <i>The Tunnel Mystery</i> (1929)
 
-<img src=images/1929_cover.jpg width=250/>
+![[images/1929_cover.jpg|250]]
 
 珠宝商 David Hyde 在火车通过隧道时头部中枪而亡，车厢里的人都没有目睹案发经过。坐在死者身旁的 Reggie Robinson 偷了死者的钱包，案发后慌忙把钱包扔在椅子下面，被同车厢的男孩发现。警察向证人录口供。女孩 Freda Lowe 与做陶艺的叔叔 Dick Lowe 住在一起。死者女儿 Constance Hyde 赶到，说父亲不同意自己和恋人 Jack Davis 结婚，威胁要把她从遗嘱中去除。警察官 George Brent 访问 Lowe 家，提出 Reggie 不可能是凶手，因为他坐在死者左边，而伤口在额头右侧，Dick 却指出凶手有可能是左撇子。车厢里碎了一面玻璃，可是 Freda 没有听见玻璃碎裂的声音。
 

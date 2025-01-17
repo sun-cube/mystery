@@ -8,7 +8,7 @@ wordpress_id: 6735
 
 # James Ronald, <i>Murder in the Family</i> (2023)
 
-<img src=images/2023b_cover.jpg width=250/>
+![[images/2023b_cover.jpg|250]]
 
 ## 1. Murder in the Family (1931)
 

@@ -11,11 +11,11 @@ wordpress_id: 6073
 
 # James Scott Byrnside, <i>Monkey See, Monkey Murder</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 富豪 Steven Rinehardt 和未婚妻一起去马来亚玩，惨遭猕猴袭击毁容。Rinehardt 认为是黑老大 Ivan Florkowski 雇人训练猕猴，委托侦探 Rowan Manory 调查。Rinehardt 家被一个穿防护服，戴口罩的男人侵入，管家发现后报警，男人逃脱。Rowan 在车站附近的药店查到男人行踪，药店的伙计听到男人自称 Arturo Venal，给一个名为 Lulu Raspin 的女人打电话，说“没有找到东西。”Rinehardt 家有三幅伦勃朗的画像最近送去装框。管家 Terrence Scott 说 Venal 离开时鸣枪示警，Rinehardt 从楼梯下来时大叫“不要”。事件发生后 Rinehardt 雇佣了新的 Pinkerton 安保团队。女秘书 Robin Banks 生病在家休息。Rinehart 的哥哥 David 负责房子的装修，但 Rinehart 对他的工作很不满意。Rinehart 本来与名媛 Gloria Cooke 订婚，但在单身派对上认识了舞女 Lulu，随后悔婚和 Lulu 重新订婚。Lulu 由家庭律师 Benji Sullivan 雇佣，Benji 后来被 Florkowski 挖走。Rinehardt 的书房里有一个三女神像。Rowan 猜测 Venal 侵入 Rinehardt 是为了偷画，但因为画拿去装框不在家，无功而返。
 
-<img src=images/2023_floor_plan.jpg width=400/>
+![[images/2023_floor_plan.jpg|400]]
 
 三名 Florkowski 手下带着一只猕猴进攻 Rinehardt，被保安剿灭。Rowan 奇怪猕猴为什么只袭击 Rinehardt 一人。酒吧女 Victoria Davenport 证实 Lulu 有一个金发女朋友，二人听说 Venal 失手后大怒。警察发现 Lulu 的尸块，头从中间切成对称的两半，手臂和腿切除，用水泥封在三个木桶里，这是 Florkowski 黑帮的常见手法。Benji 和 Robin Banks 的丈夫 Raymond 是好友，Raymond 长年虐待 Robin，不久前失踪，Benji 怀疑已被 Robin 杀死。Venal 被人开枪射杀。Rinehardt 约 Florkowski 下午 15:00 在家中见面，中午有人来搬走钢琴，之后房子便处在完全监视之下。
 

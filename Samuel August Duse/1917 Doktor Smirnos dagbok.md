@@ -10,7 +10,7 @@ wordpress_id: 6989
 
 # Samuel August Duse, <i>Doktor Smirnos dagbok</i> (1917)
 
-<img src=images/1917_cover.jpg width=250/>
+![[images/1917_cover.jpg|250]]
 
 英译 <i>Doctor Smirno's Diary</i>，私人侦探 Leo Carring 系列。
 

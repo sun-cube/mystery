@@ -11,7 +11,7 @@ wordpress_id: 6600
 
 # Steve Cavanagh, <i>Thirteen</i> (2018)
 
-<img src=images/2018_cover.jpg width=250/>
+![[images/2018_cover.jpg|250]]
 
 Joshua Kane 躺在纽约曼哈顿刑事法院外，趁邮件车关门的时候将手伸入被碾伤，司机 Elton 载他去医院。Kane 在车里用刀割开邮件袋，看清法院传票上的人名与地址，杀死 Elton 后离开。
 
@@ -19,7 +19,7 @@ Joshua Kane 躺在纽约曼哈顿刑事法院外，趁邮件车关门的时候�
 
 监视画面拍到 Solomon 在晚上 9:02 拿着一个 iPod 进入家门，这和 Solomon 所说的半夜回家时间不符。Ariella 死于胸口刺伤，Carl 被放在门口的一支棒球棒打死，球棒上检测出 Solomon 的指纹。Carl 嘴里塞入一张叠成蝴蝶形状的一美元钞票，上面也检测出 Solomon 的指纹和 DNA，星星、橄榄枝、箭头的部分被涂黑。
 
-<img src=images/2018_pattern.jpg width=300/>
+![[images/2018_pattern.jpg|300]]
 
 Kane 生下来患有罕见的无痛症，无法感觉到疼痛。Kane 抵达 Wally Cook 家，戳破轮胎把他引出来杀死。Rudy 介绍钞票上除了 Solomon 的 DNA 还检测出连环杀手“教堂山绞杀手” Richard Pena 的 DNA，但他在印钞时已死了十二年！Eddie 认为鉴证人员伪造证据。Kane 冒充 Cook 参加陪审员筛选，排在一个名为 Brenda Kowolski 的女生后面成为候补。FBI 特派员 Harper 和 Eddie 查到历史上的三起杀人案，现场均留下一美元纸钞，警方每次都根据纸钞上的指纹找到凶手结案。Kane 收到线人的电话，说警方已发现他遗弃的 Cook 的尸体，但尸体鉴定尚需时间。Eddie 的前妻 Christine 提出和他正式分手，并交还结婚戒指。Granger 派人将 Eddie 打晕，报复 Eddie 让他在法庭上出丑。Eddie 认为凶手计划在十三颗星星代表的十三个州连环杀人，三名受害者只是其中的一部分。Kane 开车撞死 Brenda，递补进入陪审团。陪审团专家 Arnold Novoselic 为每位陪审员做出投票技术分析。
 

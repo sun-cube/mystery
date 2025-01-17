@@ -8,7 +8,7 @@ wordpress_id: 6636
 
 # Jill McGown, <i>The Stalking Horse</i> (1987)
 
-<img src=images/1987_cover.jpg width=250/>
+![[images/1987_cover.jpg|250]]
 
 出场人物：
 * Bill Holt：主人公。

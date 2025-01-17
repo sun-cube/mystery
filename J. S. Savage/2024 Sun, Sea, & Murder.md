@@ -11,7 +11,7 @@ wordpress_id: 7175
 
 # J. S. Savage, <i>Sun, Sea, & Murder</i> (2024)
 
-<img src=images/2024b_cover.jpg width=250/>
+![[images/2024b_cover.jpg|250]]
 
 旅馆住客名单：
 * 101 房：Penelope "Penny" Haylestone

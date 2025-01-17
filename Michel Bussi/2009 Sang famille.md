@@ -8,13 +8,13 @@ wordpress_id: 6113
 
 # Michel Bussi, <i>Sang famille</i> (2009)
 
-<img src=images/2009_cover.jpg width=250/>
+![[images/2009_cover.jpg|250]]
 
 中译《家族血缘》。
 
 故事发生在 Mornesey 岛，以小男孩 Colin Remy 和公路管理员 Simon Casanova 的视角双线叙述。
 
-<img src=images/2009_map.jpg width=400/>
+![[images/2009_map.jpg|400]]
 
 警察 Jérémy 开车押送抢劫犯 Jonas Nowakoski 和即将在两个月后刑满释放的税务诈骗犯 Jean-Louis Valerino。Nowakoski 假装癫痫发作，击伤 Jérémy，与 Valerino 越狱。Colin 从小在 Mornesey 岛长大，六岁时父亲 Jean 和母亲 Anne 先后因事故去世，从此与舅舅 Thierry、舅妈 Brigitte 生活，不再记得父母之事。市政府秘书 Clara 告诉 Simon 有逃犯越狱，叫他快回市政府。Colin 曾在家中发现署名 Jean 的明信片，还曾在 Thierry 的口袋中发现 Brigitte 写的字条“给 Jean 回电话”。他怀疑父亲没死，和同伴 Madi、d’Armand 一起报名参加了 Mornesey 岛的帆船夏令营。Colin 在岛上看到一名酷似父亲的男子驾驶卡车一闪而过。Simon 和 Candice 在沙滩上听到枪声。传说岛上有一个名为“疯狂 Mazarin”的宝藏。
 

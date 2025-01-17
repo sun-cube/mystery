@@ -12,7 +12,7 @@ wordpress_id: 7194
 
 # Pierre Véry, <i>Les quatre vipères</i> (1934)
 
-<img src=images/1934_cover.jpg width=250/>
+![[images/1934_cover.jpg|250]]
 
 中译《四蛇案》。
 

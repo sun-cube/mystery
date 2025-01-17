@@ -10,7 +10,7 @@ wordpress_id: 7094
 
 # J. S. Savage, <i>The Riddle of the Ravens</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 主要出场人物：
 * Peter Standford：伦敦塔管理员

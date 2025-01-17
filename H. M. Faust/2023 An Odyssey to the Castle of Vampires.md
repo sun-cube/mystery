@@ -12,7 +12,7 @@ wordpress_id: 7031
 
 # H. M. Faust, <i>An Odyssey to the Castle of Vampires</i> (2023)
 
-<img src=images/2023b_cover.jpg width=250/>
+![[images/2023b_cover.jpg|250]]
 
 出场人物：
 * Bruce Lowell：实验员。
@@ -45,8 +45,8 @@ wordpress_id: 7031
 
 Dagon Hill 镇上的牧师 Bauchmann 失踪。晚间，其女儿 Gretel 看到天上有什么东西移动。镇上居民聚集在森林边界，一个外来男子死在新鲜的泥地上，从森林方向延伸出一条脚印，在距离尸体十几英尺的地方中断，不是人类能够跳过的距离。医生证实男子死于颈静脉的致命伤，脖子上有两个小孔，类似人类咬痕。从死者来的方向发现一组新的脚印，通向第二具陌生尸体，死因为颈骨折断，尸体周围同样只有一条足迹，且和死者的鞋子不符。
 
-<img src=images/2023b_forest.jpg width=350/>
-<img src=images/2023b_forest2.jpg width=300/>
+![[images/2023b_forest.jpg|350]]
+![[images/2023b_forest2.jpg|300]]
 
 天空中出现一个火球，一个身影从 Mishra 城堡脚下跑过，瞬间燃烧爆炸。“国王”出现在城堡上，全体居民臣服在“国王”脚下。Gretel 成为大祭司。Robin 在书架上看到一本 Gretel 留下的小说，Oberon Brahms 著《染污的莲花》。
 
@@ -55,14 +55,14 @@ Dagon Hill 镇上的牧师 Bauchmann 失踪。晚间，其女儿 Gretel 看到�
 > 
 > <img src=images/2023b_jump_on_trees.jpg width=300/>
 
-<img src=images/2023b_otto_house.jpg width=300/>
-<img src=images/2023b_otto_floor_plan.jpg width=300/>
+![[images/2023b_otto_house.jpg|300]]
+![[images/2023b_otto_floor_plan.jpg|300]]
 
 Otto 半夜给 Lucile 打电话，说听到奇怪的声音。Lucile 去了 Otto 家，从工作间的窗户看到他吊死在卧室天花板的灯上，卧室门内被什么东西卡住。Lucile 撞开门，发现卧室的两扇窗户自内锁住，第三扇窗户一直由对面的 Gottlieb 监视，确定无人走出，所以现场为密室。Robin 也看到 Lucile 进了 Otto 家，之后没有别人出来。Gretel、Gottlieb、Robin、Lucile 一起走到工作室，确认里面没人，工作室和走廊的窗户均自内锁住。Lucile 怀疑是不是“国王”制造了密室，与 Gretel 发生冲突，被逐出小镇。镇上的居民定期饮用“国王”的血，变得更有活力。Robin 拒绝喝血，但 Gretel 命令他如果想留下来就必须喝，Robin 只好从命。
 
 十年后，Lucile 改姓 Osborne，有了丈夫和两个孩子。数学教授 Isaac Dove 对 Dagon Hill 产生兴趣，采访 Lucile。Lucile 提到 Alice 沉迷于 Robin，她的父亲重建了教堂。Isaac 邀请 Lucile 参加军人 Ronald Dallinger 家的社交派对。Lucile 来到 Dallinger 家，三名客人 Edvard、Carr、Victor 围坐在桌旁，讨论商业飞艇和发生在 Dagon Hill 的不可能犯罪。
 
-<img src=images/2023b_dallinger_home.jpg width=450/>
+![[images/2023b_dallinger_home.jpg|450]]
 
 > [!spoiler]- Victor 解释不可能犯罪
 > 凶手在下雨地面泥泞之前杀人，然后倒退离开现场。凶手在第一起杀人案中穿着和受害者相同的鞋子，在第二起杀人案中穿着和受害者不同的鞋子，让人以为凶手放下尸体后离开。天空燃烧是烟花，人体自燃是炸弹。
@@ -72,7 +72,7 @@ Otto 半夜给 Lucile 打电话，说听到奇怪的声音。Lucile 去了 Otto 
 
 女佣 Theresa 带 Lucile 去书房拜见了 Dallinger，二人交谈完毕，Lucile 在外面的图书室与 Issac 说了几句话，前后不超过几分钟时间，随即便看到书房门下冒出黑烟。Lucile 与 Issac 闯入书房，只见满屋黑烟，雕像翻倒，地上有血迹，Dallinger 凭空消失，三面窗户均自内锁住。Victor 和 Issac 移开雕像，在下面发现一个压扁的 Dallinger 的头，又在烟囱里找到了他的无头焦尸，但躯干上没有四肢。大家打开房间里未上锁的保险箱，里面掉出 Jacob Gottlieb 的尸体，保险箱背面有三个通气小孔。
 
-<img src=images/2023b_study.jpg width=400/>
+![[images/2023b_study.jpg|400]]
 
 Issac 和 Beth 秘密结婚。书房里一个标注“Bruce Lowell”的文件夹里面的内容被人拿走，Beth 记得 Lowell 曾和 Darian 一起来访。Darian 有个弟弟 Erik，一周前被人潜入家中偷走了一样东西，但他拒绝报案。Erik 的朋友 Oberon 给他讲了一桩有趣的案件：飞行员 Bertram O'Hare 有一名女乘客，每天坐他的飞机空中游览，降落后便从机舱消失，有如鬼魂。Victor、Lucile 给 Oberon、Erik 讲了 Dallinger 家的密室案。
 
@@ -87,9 +87,9 @@ Beth 调查 Dagon Hill 的“Mishra 城堡”的由来，查到 1810-1816 年间
 
 Victor、Issac、Lucile、Beth、Oberon 五人坐火车来到 Dagon Hill。大祭司 Gretel 还在给镇上的居民喂“国王”的血，唯独 Cynthia 不需要服用血液。Lucile 意识到女仆 Theresa 就是失踪的 Alice，戴太阳镜是为了化装。Beth 见到 Robin，Robin 说他从收音机接收到了 5MHz 和 18MHz 两种来自月球的信号。Robin 进入银绳边界内的禁区，被勒死在堡垒前的泥地上，尸体周围只有他本人的足迹。Gretel 解释说“国王”会杀死擅自闯入禁地的人。
 
-<img src=images/2023b_silver_line.jpg width=350/>
-<img src=images/2023b_fort_floor1.jpg width=450/>
-<img src=images/2023b_fort_floor2.jpg width=400/>
+![[images/2023b_silver_line.jpg|350]]
+![[images/2023b_fort_floor1.jpg|450]]
+![[images/2023b_fort_floor2.jpg|400]]
 
 Victor 等五人进入城堡，在餐厅见到解下 Theresa 伪装的 Alice。
 
@@ -109,7 +109,7 @@ Oberon 晚上去 Alice 房间，发现她被人斩首，身体躺在地板上，
 
 大家把 Oberon 锁在房间里。Lucile 和 Victor 在 Alice 的尸体上找到通向地下室的钥匙，在地下室病房的角落里发现一具腐烂的无头尸。房间中央有一个和 Dallinger 书房地上一样的红色 Tumault 符号，显示有人曾在这里施行“不朽”仪式。门口的桌子上放了一本《冬之女的最后定理》，似乎证实了有人绑架了 Alice 做实验，但她在仪式中幸存。书的前言记述俄罗斯魔术师 Maxim Zabbarov 通过施行 Tumault 的仪式，达到了“不朽”。Oberon 被人用刀从后面刺入心脏，死在床上，房间钥匙一直在 Issac 手中，这又是一起密室杀人。
 
-<img src=images/2023b_fort_basement.jpg width=300/>
+![[images/2023b_fort_basement.jpg|300]]
 
 > [!spoiler]- Issac 解释 Alice 密室
 > Lucile 从窗户出去，从南区经过中心塔回到北区，上楼杀死 Alice，然后再从窗户返回卧室。Lucile 故意在门上夹纸，误导大家以为没有人从南区进入北区。
@@ -139,11 +139,11 @@ Lucile 刺死 Victor。
 
 Lucile 邀请 Graham 当助手。Graham 把 Lucile 的故事写成名为《疯狂城堡》的小说，作为推理竞赛的题目发表。Graham 更换了出场人物的姓名，唯独忠实保留了 Robin 的电波论文，引发了 Robin 弟弟 Carr 的不满，打电话要求他删掉论文。Carr 向苏联宇航员 Kuzma Antonov 购买了两把用月球石头制成的剑。Carr 和 Kuzma 在客厅谈判，保镖在大门口和收藏室门口监视。中途 Carr 的朋友 Edvard Koch、鉴定专家 Bruce Lowell、精神顾问 Cynthia (Mama) 三人来访，保镖对他们进行了搜身，证实无人携带武器。Cythia 和 Bruce 发生争吵，Koch 从中调解，Bruce 去洗手间冷静一下，Cythia 去厨房倒了杯水，Carr 突然背后中弹，滑下椅子死去。客厅的一角有一个垃圾桶，里面有一团沾血的纸巾。Koch 有些感冒，在垃圾桶扔了好几次纸巾，证实谋杀发生的五分钟前，垃圾桶里还没有纸巾。Bruce 失踪。
 
-<img src=images/2023b_carr.jpg width=450/>
+![[images/2023b_carr.jpg|450]]
 
 Lucile 带着 Graham 来到飞机库调查了一架旧飞机，到 Erik 家的地下室收集了一些文件，最后来到 Dagon Hill 向 Gretel 解释真相。当年Bruce Lowell 和 Darian Van Helsing 对 Robin 的论文《宇宙循环原理》和 Mischa Bauchmann 的魔法书《冬之女的最后定理》十分痴迷，找到同样痴迷永生的 Ronald Dallinger 协助研究。Maxim Zabbarov 告诉他的学生 Mischa，Tumault 把永生法则藏在一首歌中，只有从地球上的某个地方才能听到它的旋律，而且只有能听见月球唱歌的人才能听到。Mischa 最终找到了这个地点，即 Dagon Hill。Dallinger 挖到了 Mischa 的旅行记录，出资让德国医生 Jacob Gottlieb 带领 Bruce、Darian 在 Mishra 城堡建造了一个人体实验基地。研究人员最终发现，如果把无线电发射机对准月球，可以收到在两个频率之间交替的无线电信号，把频率编码为字母，则可以得到 N 和 A。最初的“不朽” Maxim Zabbarov 首字母是 M.Z.，向上移动一位便会变成 N.A.，但研究人员用 N.A. 名字的人做实验未能成功，改用 A.N. 首字母的 Alice Neumann 做实验也看似失败，于是 Otto 和 Darian 又绑架了 Gottlieb 牧师做实验，导致 Gottlieb 死亡。Alice Neumann 的仪式其实没有失败，是 Darian 担心实验成功后 Dallinger 切除资金，故而谎称失败。Alice 从森林回到堡垒，逼迫 Lowell 说出真相。
 
-<img src=images/2023b_letters.jpg width=300/>
+![[images/2023b_letters.jpg|300]]
 
 > [!spoiler]- Lucile 解释无足迹杀人
 > Darian 乘坐热气球逃离，Alice 冒充 Lowell 示意热气球在森林空地上降落，登上热气球杀死 Darian，把他的尸体扔下气球，造成尸体发现时的场景：一串脚印通向气球，鞋子与受害者穿的不一样。Lowell 跑过森林，试图找到天上的热气球。Alice 操纵热气球靠近 Lowell，抓住他的喉咙拖上热气球杀害，再将尸体丢到地上。因为热气球在 Lowell 被杀死之前仍然向前飞了一会儿，所以尸体和脚印中断的地方有一段距离。Cynthia 乘坐热气球时不慎将其点燃，导致 Cythina 脸部烧伤，从远处看上去像是天上的火球。有人在城堡脚下爆炸是踩到地雷。

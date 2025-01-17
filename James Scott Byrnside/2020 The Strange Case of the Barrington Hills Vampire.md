@@ -12,13 +12,13 @@ wordpress_id: 5731
 
 # James Scott Byrnside, <i>The Strange Case of the Barrington Hills Vampire</i> (2020)
 
-<img src=images/2020_cover.jpg width=250/>
+![[images/2020_cover.jpg|250]]
 
 Thomas Browning 想把 Barrington Hills 地区变成度假胜地，但他的生意伙伴 Hådd Mades 不同意，原因是通灵师 Cuchla 预言该地区有吸血鬼出没。Browning 高价雇佣私家侦探 Rowan Manory 与助手 Walter Williams 揭穿 Cuchla 的骗局。
 
-<img src=images/2020_ground_floor.jpg width=350/>
-<img src=images/2020_upstairs.jpg width=350/>
-<img src=images/2020_attic.jpg width=300/>
+![[images/2020_ground_floor.jpg|350]]
+![[images/2020_upstairs.jpg|350]]
+![[images/2020_attic.jpg|300]]
 
 吉普赛管家 Belby 接待 Rowan 和 Walter 入住 Thomas 家。Thomas 的第二任老婆 Madelaine 有夜游症，家庭医生 Sinclair 帮助治疗。女儿 Gertrude 还在读书。作家 Howard Amorartis 正在撰写一本 Thomas 的传记，整天在房间打字。
 
@@ -26,17 +26,17 @@ Thomas Browning 想把 Barrington Hills 地区变成度假胜地，但他的生�
 
 Hådd 和 Thomas 在家里给时尚杂志 Style 拍家具照片。Cuchla 问了 Walter 的生日，随后准确预言他膝盖上有伤疤，小时候从树上掉下来，还读出他拒绝了一个名为 Margie 的女孩。大家握着手坐成一圈，黑暗中的天花板上突然出现吸血鬼的脸。Rowan 破解通灵戏法。
 
-<img src=images/2020_seance.jpg width=350/>
+![[images/2020_seance.jpg|350]]
 
 > [!spoiler]- 通灵真相
 > 猜出膝盖伤疤是概率，在报出女孩名字 Margie 之前还试了好几个M开头的名字。用手点蜡烛是火焰延迟剂。天花板上用磷粉画了吸血鬼的脸，用可燃纸盖住，硝酸爆炸点燃纸，露出天花板上的鬼脸。Gertrude 感觉到的 Cuchla 的脚是增重鞋，Cuchla 其实可以自由移动。传说中瘦男孩尸体变胖是尸体胀气。
 
 Hådd 听了 Rowen 的解释，不再相信通灵术。Manory 请警察 Grady 帮忙调查 Madelaine 的身世。Madelaine 在阳台上照的照片出现吸血鬼身影。大家听到外面传来尖叫，在厨房门口看到两行雪地足迹，一行是 Thomas 的足迹通向车库，另一行是 Madelaine 的足迹通向森林，Thomas 的足迹压在 Madelaine 的足迹上面。Thomas 穿着睡衣睡裤倒在车库汽车边，手腕上有割伤，一把刀掉在轮胎旁，脖子上有两个齿印。Madelaine 在森林中失去意识，苏醒后一直说“他的血”。车库后面有走向后窗和离开后窗的足迹，车库天窗边上有两个清晰的足印。
 
-<img src=images/2020_footprints.jpg width=200/>
-<img src=images/2020_footprints_back.jpg width=200/>
-<img src=images/2020_footprints_big.jpg width=200/>
-<img src=images/2020_skylight.jpg width=200/>
+![[images/2020_footprints.jpg|200]]
+![[images/2020_footprints_back.jpg|200]]
+![[images/2020_footprints_big.jpg|200]]
+![[images/2020_skylight.jpg|200]]
 
 时间线整理如下：5:00-5:30 Thomas 大声训斥 Belby 在名贵家具上刻了雏菊轮辟邪图案。6:05-6:20 下雪。6:25 Madeline 离开卧室进入森林。6:45 Thomas 觉得胸闷，到车库架子上找药，不知为何上了屋顶。车库梯子的一根栏杆损坏，下面有血迹。Thomas 可能从梯子摔下，醒来后看到凶手。Thomas 手里握着一张纸条，上面列着十个房间的名字。凶手割腕可能是为了拿走纸条，在争抢过程中 Thomas 心脏病发作死亡。
 

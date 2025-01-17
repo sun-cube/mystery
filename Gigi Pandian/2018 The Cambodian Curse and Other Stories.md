@@ -11,7 +11,7 @@ wordpress_id: 5940
 
 # Gigi Pandian, <i>The Cambodian Curse and Other Stories</i> (2018)
 
-<img src=images/2018_cover.jpg width=250/>
+![[images/2018_cover.jpg|250]]
 
 ## 1. The Cambodian Curse
 

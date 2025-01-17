@@ -11,10 +11,10 @@ wordpress_id: 5687
 
 # Jim Noy, <i>The Red Death Murders</i> (2022)
 
-<img src=images/2022_cover.jpg width=250/>
+![[images/2022_cover.jpg|250]]
 
-<img src=images/2022_floor_plan.jpg width=400/>
-<img src=images/2022_floor_plan_1.jpg width=400/>
+![[images/2022_floor_plan.jpg|400]]
+![[images/2022_floor_plan_1.jpg|400]]
 
 发生在中世纪城堡中的连续密室杀人。Oswin 死在厕所中，厕所门和门框在一半的高度各有一根钉子，从里面缠线可以把两根钉子拴在一起，从而把门锁住。门和门框顶端也有一对钉子，但没有缠线。Oswin 两个手腕上均有利刃划痕，地上掉落凶刀，还有一根烧尽的蜡烛。Oswin 是左撇子，如果自杀的话右手腕伤痕应比左手腕更深，但实际伤痕与此相反，所以应为谋杀。不久，Oswin 的尸体消失。
 

@@ -11,7 +11,7 @@ wordpress_id: 6972
 
 # J. L. Blackhurst, <i>Smoke and Murders</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 Lewes 街举行年度篝火庆典，一群人焚烧 Donald Trump 的塑像，灰烬中竟发现烧毁的人头。尸检表明死者为 Rupert Millington 议员，不久前刚在会议上反对篝火庆典，被一个名为 Donovan 的女人诅咒。Rupert 的妻子 Leodora 当晚与闺蜜在一起，第二天才回来。女警 Tess Fox 查案。Tess 同父异母的妹妹 Sarah Jacobs 来开罗寻找失联的母亲 Lillian (Lily) Dowse，见到亲姐姐 Julian。Julian 涉嫌谋杀父亲 Frank Jacobs，正在逃亡中。Tess 查明 Donovan 的真实身份就是 Lily Dowse，与继母相认。
 

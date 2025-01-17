@@ -12,7 +12,7 @@ wordpress_id: 6801
 
 # Paul Halter, <i>La Tour du passé</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 * Pierre Levasseur：著名物理学家。
 * Nadine：Pierre 的妻子。
@@ -43,7 +43,7 @@ Nadine 在遗嘱中讲述 Pierre 的故事。Pierre 本是著名物理学家，�
 
 【支线】我告诉 Jeannot 想要再次见到 Isabelle，Jeannot 答应问一下 Raymond。
 
-<img src=images/2024_room.jpg width=400/>
+![[images/2024_room.jpg|400]]
 
 房间里一片狼籍，地上到处都是烧焦的纸，门对面挂了一面大镜子，桌上搭了一个纸牌城堡，门口倒了一尊希腊女神像，旁边有一张断了弦的弓和一些透明的小印章，上面装饰着花卉。地上散落的塔罗牌中有一张“高塔”。
 

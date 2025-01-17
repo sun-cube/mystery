@@ -8,7 +8,7 @@ wordpress_id: 6292
 
 # Michel Bussi, <i>Un avion sans elle</i> (2012)
 
-<img src=images/2012_cover.jpg width=250/>
+![[images/2012_cover.jpg|250]]
 
 中译《直到那一天》，英译 <i>After the Crash</i>。
 

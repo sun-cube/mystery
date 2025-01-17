@@ -8,7 +8,7 @@ wordpress_id: 6138
 
 # Michel Bussi, <i>Maman a tort</i> (2015)
 
-<img src=images/2015_cover.jpg width=250/>
+![[images/2015_cover.jpg|250]]
 
 中译《她不是我妈妈》，英译 <i>The Other Mother</i>、<i>The Double Mother</i>。
 

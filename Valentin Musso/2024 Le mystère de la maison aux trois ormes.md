@@ -11,7 +11,7 @@ wordpress_id: 7264
 
 # Valentin Musso, <i>Le mystère de la maison aux trois ormes</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 游戏出场人物：
 * Louis Forestier：退休的警察局长。

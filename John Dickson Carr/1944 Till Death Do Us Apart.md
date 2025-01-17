@@ -11,7 +11,7 @@ wordpress_id: 6710
 
 # John Dickson Carr, <i>Till Death Do Us Part</i> (1944)
 
-<img src=images/1944_cover.jpg width=250/>
+![[images/1944_cover.jpg|250]]
 
 Lesley Grant 进帐篷算命，男友 Richard (Dick) Markham 和朋友 Horace Price 在外面等候。全村的女人都想撮合 Dick 和 Cynthia Drew，但 Dick 说自己对 Cynthia 没感觉。算命师是著名犯罪学家 Harvey Gilman 爵士。Hugh Middlesworth 医生加入 Dick 和 Horace 的谈话，Lesley 突然面色惊惧冲出帐篷。Dick 进帐篷询问 Harvey 爵士对 Lesley 到底说了什么，Harvey 还不及细说，Lesley 在帐篷外开枪走火，Harvey 中弹倒在桌上。
 

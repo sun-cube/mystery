@@ -10,7 +10,7 @@ wordpress_id: 6090
 
 # Michel Bussi, <i>Nymphéas noirs</i> (2011)
 
-<img src=images/2011_cover.jpg width=250/>
+![[images/2011_cover.jpg|250]]
 
 中译《黑色睡莲》，英译 <i>Black Water Lilies</i>。
 

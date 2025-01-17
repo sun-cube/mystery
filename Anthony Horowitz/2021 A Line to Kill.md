@@ -8,11 +8,11 @@ wordpress_id: 6417
 
 # Anthony Horowitz, <i>A Line to Kill</i> (2021)
 
-<img src=images/2021_cover.jpg width=250/>
+![[images/2021_cover.jpg|250]]
 
 中译《一行杀人的台词》。
 
-<img src=images/2021_map.jpg width=500/>
+![[images/2021_map.jpg|500]]
 
 主人公 Anthony Horowitz 和前警探 Daniel Hawthorne 应邀参加在 Alderney 岛上举办的文学节，同时出席的还有：
 * 组织者 Judith Matheson

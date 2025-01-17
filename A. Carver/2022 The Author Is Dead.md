@@ -12,9 +12,9 @@ wordpress_id: 5680
 
 # A. Carver, <i>The Author Is Dead</i> (2022)
 
-<img src=images/2022_cover.jpg width=250/>
+![[images/2022_cover.jpg|250]]
 
-<img src=images/2022_floor_plan.jpg width=400/>
+![[images/2022_floor_plan.jpg|400]]
 
 推理小说家 Adam Carver 系列作 <i>Castles in the Sky</i> 付梓，邀请了一群推理小说爱好者在家中聚会，包括主人公 Alex Corby、Colin West、Vi Malik、Yva Dysart、Cornelia Crow，以及妻子 Victoria Carver、经纪人 Maria Bole、书评人 Franny Smythe、插画家 Quinn Shillerdyce。
 

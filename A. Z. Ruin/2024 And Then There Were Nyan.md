@@ -12,7 +12,7 @@ wordpress_id: 7204
 
 # A. Z. Ruin, <i>And Then There Were Nyan</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 出场的猫：
 

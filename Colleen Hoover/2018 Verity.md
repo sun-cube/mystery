@@ -8,7 +8,7 @@ wordpress_id: 6697
 
 # Colleen Hoover, <i>Verity</i> (2018)
 
-<img src=images/2018_cover.jpg width=250/>
+![[images/2018_cover.jpg|250]]
 
 主人公 Lowen Ashleigh 在纽约街头目睹一男子被卡车撞倒，陌生人 Jeremy Crawford 主动上前关怀，Lowen 对 Jeremy 心生好感。Jeremy 的女儿五个月前溺水身亡，Lowen 的母亲上周因癌症去世，二人同病相怜。Lowen 收到前男友兼文学代理 Corey 的通知，需要参加一个与出版商的会议，结果发现 Jeremy 也来参加同一个会议。出版商邀请 Lowen 完成 Jeremy 妻子 Verity Crawford 的系列作品，她因健康问题无法继续写作。Jeremy 介绍 Verity 在六个月内失去了两个女儿，后来又遭遇车祸。Jeremy 说服 Lowen 签下合同。
 

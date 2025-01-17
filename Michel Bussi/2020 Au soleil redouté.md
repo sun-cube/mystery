@@ -10,9 +10,9 @@ wordpress_id: 6310
 
 # Michel Bussi, <i>Au soleil redouté</i> (2020)
 
-<img src=images/2020_cover.jpg width=250/>
+![[images/2020_cover.jpg|250]]
 
-<img src=images/2020_map.jpg width=400/>
+![[images/2020_map.jpg|400]]
 
 巴黎的 Servane Astine 出版社组织活动，邀请五名读者在 Hiva Oa 岛参加为期一周的写作训练营，接受著名畅销书作家 Pierre-Yves François（PYF）的指导。五位获奖者包括：
 * Clémence Novelle

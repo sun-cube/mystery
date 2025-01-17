@@ -11,7 +11,7 @@ wordpress_id: 6777
 
 # Jan Ekström, <i>Ålkistan</i> (1967)
 
-<img src=images/1967_cover.jpg width=250/>
+![[images/1967_cover.jpg|250]]
 
 出场人物：
 * Bruno Fredner：大亨，拥有农场、土地、森林。

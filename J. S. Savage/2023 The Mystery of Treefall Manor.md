@@ -11,7 +11,7 @@ wordpress_id: 6581
 
 # J. S. Savage, <i>The Mystery of Treefall Manor</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 故事发生在 1926 年，“落树庄园”的家主 Alexander 有一个儿子 John 和一个女儿 Ruth，家里有秘书 George Campbell、管家 Sukhbir Singh、清洁女工 Elsie Barter 等人。律师 Edmond (Ed) Osborn 收到 Alexander Grimbourne 的邀请参加 Ruth 与 Frederick Taylor 勋爵的婚礼。村子里有一个“蓝野猪酒吧”，老板 Samuel Mason 对 Alexander 颇有微词。Ed 在小木屋外听到一个女人声音：“只有父亲死后我才能得到自由。”Alexander 突然宣布要修改遗嘱。Alexander 和 Ed 在外面散步，突然从高处飞下来一块大石，幸亏 Ed 迅速把 Alexander 推开。Elsie 发现匕首不见，随后发现 Alexander 倒在书房地上，胸口被刺身亡。现场门和三扇窗户均上锁，门钥匙放在书桌上，窗户外侧的把手多年没有转动，只有内侧的把手可以使用。地毯上掉落一张吸墨纸，上面有写字的压痕。Alexander 身旁掉落一枚硬币，手中握着一本书 📖 Geoffrey Chaucer, <i>The Cantebury Tales</i>，其作者首字母与 George Campbell 相同。侦探 Graves 查案。
 

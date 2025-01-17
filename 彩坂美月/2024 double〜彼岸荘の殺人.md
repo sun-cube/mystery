@@ -11,7 +11,7 @@ wordpress_id: 6485
 
 # 彩坂美月『double〜彼岸荘の殺人』(2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 主要登场人物：
 * 山本ひなた：图书馆兼职。

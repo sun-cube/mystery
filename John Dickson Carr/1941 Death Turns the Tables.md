@@ -10,7 +10,7 @@ wordpress_id: 6286
 
 # John Dickson Carr, <i>Death Turns the Tables</i> (1941)
 
-<img src=images/1941_cover.jpg width=250/>
+![[images/1941_cover.jpg|250]]
 
 又名 <i>The Seat of the Scornful</i>，中译《逆转死局》。
 

@@ -8,7 +8,7 @@ wordpress_id: 6331
 
 # Anthony Horowitz, <i>The Twist of a Knife</i> (2022)
 
-<img src=images/2022_cover.jpg width=250/>
+![[images/2022_cover.jpg|250]]
 
 主人公 Anthony Horowitz 写的新剧《心智游戏》在剧院上映。评论家 Harriet Throsby 观看了首映，并和女儿 Olivia 参加了演出后的首映派对。在休息室参加派对的其他人还包括：
 * Ahmet Yurdakul：土耳其制片人。

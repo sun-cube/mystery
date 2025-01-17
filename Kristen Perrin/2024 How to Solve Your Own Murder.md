@@ -8,7 +8,7 @@ wordpress_id: 6740
 
 # Kristen Perrin, <i>How to Solve Your Own Murder</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 * Anabelle (Annie) Adams：主人公。
 * Frances Adams：Annie 的姑姥姥。

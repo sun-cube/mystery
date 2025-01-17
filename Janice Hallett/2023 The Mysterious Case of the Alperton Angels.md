@@ -8,7 +8,7 @@ wordpress_id: 6793
 
 # Janice Hallett, <i>The Mysterious Case of the Alperton Angels</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 故事发生在一个名为 Alperton 的伦敦西北郊区。邪教首领 Gabriel 自称为“大天使”，诱骗 17 岁男女青年 Jonah、Holly 加入邪教。警察接到 Holly 的紧急电话，说她有个婴儿。两名警察赶到邪教所在的废弃仓库，接上 Holly 去了急诊室，这才发现她的塑料袋里装了一个一两月大的婴儿。警察 Aileen Forsyth 带 Holly 回仓库接 Jonah，将 Holly 交给黑人女警 Marie-Claire 暂时照看，自己进入仓库，在地下室发现了集体自杀的教众尸体，均遭到严重破坏，受到精神创伤的 Jonah 紧紧抱住其中一具不肯撒手。新闻对死者的报道较为混乱，一开始说是四具尸体，后来又改为三具尸体，原本说三具尸体为邪教成员 Michael、Elemiah、Gabriel，后来发现 Gabriel 其实在逃，以为是 Gabriel 的尸体其实是 Raphael（真名 Christopher Shenk）。一天前，年轻服务生 Harpinder Singh 在公寓被杀，地上的一张邪教传单上留下 Gabriel 的指纹。最后 Gabriel 因涉嫌杀害三名教众和 Singh 被判处无期监禁。
 

@@ -11,7 +11,7 @@ wordpress_id: 5629
 
 # Tom Mead, <i>Death and the Conjuror</i> (2022)
 
-<img src=images/2022_cover.jpg width=250/>
+![[images/2022_cover.jpg|250]]
 
 心理医生 Anselm Rees 在家庭诊所为三名病人咨询心理问题，他把诊疗史用代号记录在小本本上。病人A是音乐家 Floyd Stenhouse，病人B是明星女演员 Della Cookson，病人C是推理小说作家 Claude Weaver。医生和女儿 Lidia、女儿未婚夫 Marcus Bowman 一起去看 Della 的舞台演出，中场休息时制片人 Benjamin Teasel 邀请医生参加几日后的家庭派对，但医生推脱。Della 约医生演出后在后台休息室见面，说有要事相商。
 

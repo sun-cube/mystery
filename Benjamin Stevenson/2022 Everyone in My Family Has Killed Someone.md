@@ -8,7 +8,7 @@ wordpress_id: 7209
 
 # Benjamin Stevenson, <i>Everyone in My Family Has Killed Someone</i> (2022)
 
-<img src=images/2022_cover.jpg width=250/>
+![[images/2022_cover.jpg|250]]
 
 主人公 Ernie 的哥哥 Michael 打电话来说他开车撞死了一个人。当 Ernie 赶到现场，发现 Michael 的车里不仅有一具尸体，还有一个装满 26 万美元的旅行袋。
 

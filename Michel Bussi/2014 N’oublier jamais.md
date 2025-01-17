@@ -8,7 +8,7 @@ wordpress_id: 6098
 
 # Michel Bussi, <i>N’oublier jamais</i> (2014)
 
-<img src=images/2014_cover.jpg width=250/>
+![[images/2014_cover.jpg|250]]
 
 中译《永远不要忘记》，英译 <i>Never Forget</i>。
 
@@ -20,7 +20,7 @@ Jamal 收到一封匿名信，寄信人显然知道美人鱼客栈的地址，�
 
 警方查出坠崖女孩名叫 Magali Verron，是某药品公司职员。Jamal 在一家青少年治疗中心工作。Jamal 在 Piroz 桌上看到一个表格，里面有奇怪的数字。Jamal 在警署留下精液样本，遇到申请鹅卵石开采证的女孩 Mona Salinas。
 
-<img src=images/2014_square.jpg width=100/>
+![[images/2014_square.jpg|100]]
 
 Jaml 收到新的信。在 Morgane 遇害后的三天之内，警察采取了 Yport 地区 90% 男性的 DNA 样本，无人与凶手吻合。多人证实 Morgane 在案发当晚趁着酒兴在海滩上跳脱衣舞，一个戴围巾的男人和她走得很近，还将围巾留给 Morgane 当纪念品。
 

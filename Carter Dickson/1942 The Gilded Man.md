@@ -10,7 +10,7 @@ wordpress_id: 6828
 
 # Carter Dickson, <i>The Gilded Man</i> (1942)
 
-<img src=images/1942_cover.jpg width=250/>
+![[images/1942_cover.jpg|250]]
 
 又名：<i>Death and the Gilded Man</i>。
 

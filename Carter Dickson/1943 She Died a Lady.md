@@ -12,7 +12,7 @@ wordpress_id: 6620
 
 # Carter Dickson, <i>She Died a Lady</i> (1943)
 
-<img src=images/1943_cover.jpg width=250/>
+![[images/1943_cover.jpg|250]]
 
 主人公 Luke Croxley 医生的医疗工作大部分由儿子 Tom 接替。Rita Wainright 38 岁，有一个大二十岁的丈夫 Alec。Rita 告诉 Luke 她最近爱上了美国人 Barry Sullivan，二人已经上过床，但是不想跟 Alec 离婚。Luke 在 6 月 13 日星期六傍晚去 Wainright 家玩牌，一起参加的还有律师的小女儿 Molly Grange、农场画家 Paul Ferrars。H.M. 大脚趾骨折，住在 Ferrars 家的农场。Alec 经济上吃紧，但没有告诉 Rita。Alec 告诉 Luke 其实他早知道 Rita 和 Barry 有一腿。Wainright 家的后门通向一个名为“爱人之跃”的悬崖，21:30 Luke 看到一串 Rita 和 Barry 的脚印通向悬崖尽头，没有折返，厨房桌子上留下一张字条。Luke 告诉 Alec 二人不见，Alec 慌忙上楼查看，带着一把小钥匙下楼，证实 Rita 确已不见踪迹。有人剪断了家中的电话线，Alec 和 Luke 打算开车报警，但 Alec 还没走到车里便晕倒过去。Luke 把 Alec 搬回楼上，发现有人放光了车里的汽油，只好走到警察局报案。
 

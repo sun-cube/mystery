@@ -11,7 +11,7 @@ wordpress_id: 7248
 
 # Arturo Pérez-Reverte, <i>El problema final</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 酒店客人：
 * "Hoppy" Ormond Basil：退休演员，因扮演 Sherlock Holmes 名声大噪。
@@ -35,7 +35,7 @@ Karabin 在房间闭门不出，Foxá 透过钥匙孔看不见屋内状况，认
 
 Klemmer 在酒店阅览室被人打碎头骨，脸朝下死在地上。凶器是大厅时钟的钟摆，上面留有轻微的干血痕。Ormond 在死者身上发现了一张从《巴黎竞赛画报》撕下的剪报，报道了一名二战时期纳粹战犯的照片，桌上发现一张奇怪的手写纸条，上面写着“S. M. 218-219 = 228”，指向 Strand Magazine 的 218-219 页，<i>The Adventure of the Speckled Band</i>（Sherlock Holmes 的著名密室短篇）。
 
-<img src=images/2023_message.jpg width=250/>
+![[images/2023_message.jpg|250]]
 
 > [!spoiler]- 第一起密室解答
 > 凶手把围巾绕在椅子腿上，从门缝下方拉出，从门外把椅子拉到门背后，最后回收围巾，所以门槛上没有沙子。

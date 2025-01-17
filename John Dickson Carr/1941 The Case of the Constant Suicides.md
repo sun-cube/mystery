@@ -6,7 +6,7 @@ publication_year: 1941
 
 # John Dickson Carr, <i>The Case of the Constant Suicides</i> (1941)
 
-<img src=images/1941_cover_2.jpg width=250/>
+![[images/1941_cover_2.jpg|250]]
 
 历史教授亚伦·坎贝尔
 K.I.坎贝尔 二人论战 学术宿敌

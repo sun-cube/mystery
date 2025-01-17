@@ -11,9 +11,9 @@ wordpress_id: 7219
 
 # Michel Bussi, <i>Les assassins de l'aube</i> (2024)
 
-<img src=images/2024b_cover.jpg width=250/>
+![[images/2024b_cover.jpg|250]]
 
-<img src=images/2024b_map.jpg width=400/>
+![[images/2024b_map.jpg|400]]
 
 大富豪 Jacob Santamaria 在 Guadeloupe 岛上遇害，尸体弃置在“奴隶阶梯”顶部，身上留下一张解放奴隶 Anatole Cegnevane 的卡片，警察指挥官 Valéric Kancel 带领手下 Jolène Dos Santos、Amiel Ouassou 查案。流浪汉 Évariste Pigeon 自称有“恶魔之眼”，在 Jacob 的尸体发现之前正确预测了他死在台阶顶部，被 Valéric 逮捕关押。Évariste 的孙女 Célanie Le Cram 是一名律师，出面为他免费辩护。
 

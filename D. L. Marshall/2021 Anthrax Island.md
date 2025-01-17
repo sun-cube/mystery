@@ -11,7 +11,7 @@ wordpress_id: 5798
 
 # D. L. Marshall, <i>Anthrax Island</i> (2021)
 
-<img src=images/2021_cover.jpg width=250/>
+![[images/2021_cover.jpg|250]]
 
 主人公技工 John Taylor 上岛修理防污染的隔门，发现保险丝消失。岛上飘浮着致命的炭疽孢子，必须穿B级防护服。前任技工 Andy Kyle 在岛上暴毙，John 在其膝盖上发现伤痕。John 在焚烧炉里发现 Kyle 的茶罐，忽然有人从外面把焚烧炉锁上试图将其烧死，所幸 John 及时阻断了点火器逃生。John 请 Ingrid 测试土壤样本是否遭受污染，Ingrid 测出新品种病毒，认为与 Kyle 的死相关。John 判断 Kyle 是被人谋杀。
 

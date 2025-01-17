@@ -10,7 +10,7 @@ wordpress_id: 6158
 
 # Michel Bussi, <i>Trois vies par semaine</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 46 岁男子 Renaud Duval 从 Meuse 河上方的观景台跳崖自杀，女警长 Katel Marelle 带队调查。在 Ranaud 身上发现三张驾照，上面的照片为同一人，生日也都是 1997年1月29日：
 * Renaud Duval 出生于 Charleville-Mézières。

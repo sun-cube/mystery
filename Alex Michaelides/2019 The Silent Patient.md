@@ -10,7 +10,7 @@ wordpress_id: 6123
 
 # Alex Michaelides, <i>The Silent Patient</i> (2019)
 
-<img src=images/2019_cover.jpg width=250/>
+![[images/2019_cover.jpg|250]]
 
 ## 第一部分
 

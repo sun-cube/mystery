@@ -10,7 +10,7 @@ wordpress_id: 6607
 
 # Michel Bussi, <i>Rien ne t’efface</i> (2022)
 
-<img src=images/2022_cover.jpg width=250/>
+![[images/2022_cover.jpg|250]]
 
 中译《替身》。
 

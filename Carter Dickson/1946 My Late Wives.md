@@ -11,7 +11,7 @@ wordpress_id: 6752
 
 # Carter Dickson, <i>My Late Wives</i> (1946)
 
-<img src=images/1946_cover.jpg width=250/>
+![[images/1946_cover.jpg|250]]
 
 Roger Bewlay 先后娶了三任妻子 Angela Phipps、Elizabeth Mosnar、Andree Cooper，三人接连失踪，银行账户被人提空，Andree 的前男友向警方报案。Roger 化名为 R. Benedict 与新任妻子在海滨度假地租下一间平房。7 月 6 日 Roger 打电话让打字员 Mildred Lyons 打了几封信件，付给她十先令假钞，Mildred 晚上发现钞票有假，回小屋说理，却只看到 “Benedict 太太”被扼死在沙发上，Roger 站在房间中央吸烟。第二天早上 Roger 躲开警员监视，溜去伦敦。从 6 日晚到 7 日早上，有两名警官一直在监视那座房子，可以证实除了 Roger 以外无人进出，但等他们进屋时没有发现尸体。这起谜案过去已 11 年，Roger 仍然在逃。
 

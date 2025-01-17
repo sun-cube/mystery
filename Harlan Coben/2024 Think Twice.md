@@ -8,7 +8,7 @@ wordpress_id: 6950
 
 # Harlan Coben, <i>Think Twice</i> (2024)
 
-<img src=images/2024_cover.jpg width=250/>
+![[images/2024_cover.jpg|250]]
 
 【杀手】你向她的胸口开了两枪，留下纸巾的 DNA 证据。你把奥迪车开回他的房子，这将“证明”他在案发时去过现场。你把手枪留在他家。
 

@@ -11,7 +11,7 @@ wordpress_id: 6873
 
 # Serge Tachon, <i>Musique de chambre close</i> (2018)
 
-<img src=images/2018_cover.jpg width=250/>
+![[images/2018_cover.jpg|250]]
 
 警察接到 Mont-de-Marsan 的男子 William Guérin 报案，说自己中了三枪，Federico Fernandez 被打死，Christophe Garnier 被打昏，通话随即中断。警官 Régis Carrère 带着手下赶到 Guérin 家，中途因为等火车经过耽误了几分钟，抵达时 Christophe 的女友 Florence Coustey、弟弟 Damien Garnier 正在院子里等待。院子里停了 Christophe、Florence、Damien 的三辆车，Christophe 是一名政客，正在当地出差。整个房子的门窗均自内锁住，大门钥匙从内部插在锁孔里，车库门锁没有钥匙孔，只能从内部开关。警察破门而入，只见 Fernandez 和 Guérin 分别死在房间两头，两具尸体之间掉落一把左轮手枪，Christophe 被人用一根棒球棒打昏，球棒丢在旁边地上。房间里摆放着录音器材，显示三人不久前正在录制音乐。Christophe 被送去医院抢救。上级指派女警 Sabine Évano 和主人公 Daniel Moore 查案。
 

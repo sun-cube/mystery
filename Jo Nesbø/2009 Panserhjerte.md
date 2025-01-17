@@ -10,11 +10,11 @@ wordpress_id: 6745
 
 # Jo Nesbø, <i>Panserhjerte</i> (2009)
 
-<img src=images/2009_cover.jpg width=250/>
+![[images/2009_cover.jpg|250]]
 
 英译：<i>The Leopard</i>，中译《猎豹》。标题的挪威语原意是“铁石心肠”，似乎比“猎豹”更准确，原版的封面也更对路。
 
-<img src=images/2009_map.jpg width=500/>
+![[images/2009_map.jpg|500]]
 
 女子 Borgny Stem-Myhre 被拘禁在市中心办公大楼的地下室，嘴里塞入一颗金属球，上面系了一根线。男子警告 Borgny 不要碰球上的一根引线，但她禁不住痛苦还是拉了线，结果从金属球内射出 24 根细针，射穿她的双颊、鼻窦、鼻腔、下巴、气管、左右眼，使她被自己流出的血液堵住气管溺死。
 

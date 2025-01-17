@@ -12,10 +12,10 @@ wordpress_id: 6379
 
 # A. Carver, <i>The Christmas Miracle Crimes</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
-<img src=images/2023_floor_plan_1f.jpg width=350/>
-<img src=images/2023_floor_plan_2f.jpg width=350/>
+![[images/2023_floor_plan_1f.jpg|350]]
+![[images/2023_floor_plan_2f.jpg|350]]
 
 Alex Corby 和大姑妈 Cornelia Crow 圣诞夜受风雪所困，在 Whitefell 家暂住。Whitefell 家包括以下人物：
 
@@ -29,7 +29,7 @@ Alex Corby 和大姑妈 Cornelia Crow 圣诞夜受风雪所困，在 Whitefell �
 * Rudy：Carol 的儿子。
 * Butler：管家。
 
-<img src=images/2023_study.jpg width=400/>
+![[images/2023_study.jpg|400]]
 
 【第一起密室案件】Forrest 仰面倒在书房中央，胸口中弹身亡。房门自内上锁，Robin 用铲子撬开窗户进屋。Estelle 被锁在书房橱柜中，出来后说父亲让他藏在橱柜里等圣诞老人，他从小洞中看到圣诞老人从烟囱走来，随即传来一声巨响，圣诞老人受到惊吓跑回烟囱。全家人都有不在场证明。凶器应为挂在画廊中央的一把猎枪，死者衣服上没有火药烧伤，从伤口情形推测应在几秒钟之内死亡。书房地下散落许多礼物，没有找到门钥匙。Alex 在书房窗户内侧贴上胶带，如果再有人从窗户闯入便会撕开胶带。
 

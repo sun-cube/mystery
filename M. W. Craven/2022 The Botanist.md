@@ -11,7 +11,7 @@ wordpress_id: 7041
 
 # M. W. Craven, <i>The Botanist</i> (2022)
 
-<img src=images/2022_cover.jpg width=250/>
+![[images/2022_cover.jpg|250]]
 
 导游带一群外国游客在日本的西表岛上参观战争遗留建筑，在里面发现了可怕的事物。
 

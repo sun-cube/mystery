@@ -11,7 +11,7 @@ wordpress_id: 6570
 
 # Tito A. Spagnol, <i>La notte impossibile</i> (1937)
 
-<img src=images/1937_cover.jpg width=250/>
+![[images/1937_cover.jpg|250]]
 
 出场人物：
 * Nick Ponds：豪宅主人。
@@ -30,9 +30,9 @@ wordpress_id: 6570
 * Teresa Badouin：女仆。
 * Amelia Dieudonné：厨师。
 
-<img src=images/1937_map.jpg width=350/>
-<img src=images/1937_first_floor.jpg width=350/>
-<img src=images/1937_second_floor.jpg width=350/>
+![[images/1937_map.jpg|350]]
+![[images/1937_first_floor.jpg|350]]
+![[images/1937_second_floor.jpg|350]]
 
 Ponds 家举办宴会，中途女主人 Natalia 去楼上办公室拿留声机的唱片，发现衣柜的抽屉被人翻开，首饰盒中的一条名贵的翡翠项链消失不见。两名仆人 Giacomo、Teresa 被锁在仆人房间里，钥匙放在送餐电梯小窗户下面的架子上。厨房窗户玻璃被人划碎，有小偷侵入的痕迹，花园里的石板路上留下小偷的足迹，在一棵山毛榉树下消失。厨师 Amelia 手艺不错，但一直要求加薪，平时住在哥哥 Enrico 家里，不久前 Natalia 曾给她看过项链。
 

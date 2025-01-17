@@ -8,13 +8,13 @@ wordpress_id: 6385
 
 # Holly Jackson, <i>A Good Girl's Guide to Murder</i> (2019)
 
-<img src=images/2019_cover.jpg width=250/>
+![[images/2019_cover.jpg|250]]
 
 小镇女孩 Andie (Andrea Bell) 失踪，媒体认为是其男友 Sal (Salil Singh) 所为。主人公女孩 Pip (Pippa Fitz-Amobi) 认为 Sal 无辜，在网络上记录日志重查此案。Andie 的妹妹 Becca 在 2014年4月18日 星期五晚 22:30 最后一次见到她，她本该在凌晨 0:45 接上她的父母，却始终没有出现，其父亲 Jason 在凌晨 3:00 报了失踪。
 
 Pip 从社交媒体上查到 Andie 的好朋友 Chloe Burch、Emma Hutton。案发当晚 Sal 和朋友 Naomi Ward、Jake Lawrence、Millie Simpson 一起在 Max Hastings 家参加派对。Sal 声称他 0:15 离开 Max 家，他的父亲也证实他 0:50 回到家。Max 的四名同学起先向警方证实 Sal 有不在场证明，但在星期二翻供说 Sal 要求他们做伪证，其实他早在 22:30 便已离开。星期二晚上 Sal 在树林里服用过量安眠药自杀，身上发现 Andie 的手机，指甲里和车里均发现 Andie 的血。警方把 Sal 当作犯人结案。
 
-<img src=images/2019_map.jpg width=400/>
+![[images/2019_map.jpg|400]]
 
 Pip 家访 Sal 的弟弟 Ravi。Ravi 说 Andie 和她父亲关系不好，有可能故意跑掉。Pip 问 Naomi 当晚在 Max 家发生了什么，Naomi 说 Sal 似乎和 Andie 起了争执，很早便离开了派对。Max 说 Naomi 当晚一个人上楼呆了很长时间，Pip 怀疑 Naomi 是不是中间偷偷溜了出去。Sal 的历史老师 Elliot Ward 在星期二请了病假。Ravi 提出和 Sal 联手查案，主动献出 Sal 的旧手机。Sal 在星期六给失踪的 Andie 打了一百多次电话。星期二早上 Sal 给他父亲发了一条自白短信，但里面用了他平时从来不用的标点，所以有可能是别人代发。Andie 失踪的两天前，Sal 在手机上记录了一个车牌号 009KKJ。
 

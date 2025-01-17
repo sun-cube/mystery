@@ -12,9 +12,9 @@ wordpress_id: 7213
 
 # Antoine Chollier, <i>Dossier n° 7</i> (1946)
 
-<img src=images/1946_cover.jpg width=250/>
+![[images/1946_cover.jpg|250]]
 
-<img src=images/1946_map.jpg width=400/>
+![[images/1946_map.jpg|400]]
 
 Alfred Margeval 在书房工作，他的妻子 Hélène 晚 11:30 和他道了晚安，关上了卧房和书房之间的门，刚上床便听到书房传出惨叫，她立刻赶回书房，发现 Alfred 倒在血泊中。屋里没有其他人，通向前厅的门上了锁，窗户也都从内侧关闭，所以这是一起密室杀人。凶器是一把 Alfred 几天前丢失的匕首，插在橡木桌面上，书房钥匙消失不见。Hélène 叫来男仆 Justin、厨娘 Anna、秘书 Philippe Lebel，Justin 叫来 René Gaudret 医生。通往阳台的玻璃窗虽然关闭，但铁百叶窗半开，Justin 记得晚上 6 点左右曾经关上。餐厅柱廊下面找到书房的钥匙，法式窗门的一扇玻璃打破。下午 3 点，de Brives 夫人前来拜访，和 Alfred 聊到 4 点。Justin 在下午 5 点接到一个打给 Alfred 的电话，对方自称是编辑 Abel Michin，但编辑办公室否认打过电话。下午 5:30 Hélène 和 Alfred 吵了一架，争吵内容可能与 de Brives 夫人有关。Gaudret 6:30 来家中吃饭。Alfred 的钱包里本来有两万法郎，如今消失不见。Phil 晚上和人吃饭，有不在场证明。书房露台上找到橡胶鞋跟的印迹，阳台窗户上找到 Alfred 抽的烟灰，推测是在他被谋杀之前自己关窗时掉落，所以穿橡胶底鞋的男人多半无辜。
 

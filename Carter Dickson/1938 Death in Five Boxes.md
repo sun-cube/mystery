@@ -11,7 +11,7 @@ wordpress_id: 6186
 
 # Carter Dickson, <i>Death in Five Boxes</i> (1938)
 
-<img src=images/1938_cover.jpg width=250/>
+![[images/1938_cover.jpg|250]]
 
 年轻女子 Marcia Blystone 半夜一点向 John Sanders 求助，说她的父亲 Dennis Blystone 参加朋友家的深夜派对迟迟未归。Sanders 和 Marcia 登上公寓四层，在楼梯间发现一把剑伞，进屋后发现四人围坐在餐桌旁，每人面前一只玻璃杯，其中三名客人 Dennis Blystone、Bonita Sinclair、Bernard Schumann 因阿托品中毒陷入昏迷，主人 Felix Haye 被剑伞刺中后背死亡。Marcia 说父亲出门前带了四块手表。Schumann 在二层有一家埃及进口公司，公司职员 Peter Ferguson 听到楼上响动走出。
 

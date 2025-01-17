@@ -10,7 +10,7 @@ wordpress_id: 6116
 
 # Michel Bussi, <i>On la trouvait plutôt jolie</i> (2017)
 
-<img src=images/2017_cover.jpg width=250/>
+![[images/2017_cover.jpg|250]]
 
 中译《原以为她很美》，英译 <i>The Red Notebook</i>。
 

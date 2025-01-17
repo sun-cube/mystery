@@ -11,7 +11,7 @@ wordpress_id: 6266
 
 # Paul Halter, <i>Le Spectre d'Eurydice</i> (2023)
 
-<img src=images/2023_cover.jpg width=250/>
+![[images/2023_cover.jpg|250]]
 
 男主人公 Alain Gauthier 是一名吉他手，与女孩 Chantal 结婚。Alain 经常在周末夜场演出，直到清晨才回家，引发 Chantal 怀疑。Alain 在聚会上经 Chantal 介绍认识了有波兰血统的比利时女孩 Magda Zamoski，二人很快在一个周末发生私情。Magda 说二人不应该再见面，因为自己会给 Alain 带来不幸。Alain 回家后被 Chantal 识破谎言，无奈接受离婚，再回去找 Magda 时发现她已搬家。
 
@@ -21,7 +21,7 @@ Alain 无意中在报纸头条上看到那不勒斯的海滩上发现了 Magda �
 
 【爱丁堡】Magda 曾在 Francis 爵士家当女佣，因偷窃银器被辞退。灵媒师 Rachel Sims 介绍两百年前有一个名为 Jane Kyle 的女子嫁给 Francis 的祖先，后来在密室中割腕自杀，从此家中便时常出现 Jane 的幽灵，会在走到楼道尽头的时候消失。Jane 自杀用的匕首放在一个玻璃柜中。Rachel 组织通灵会，参加者有 Alain、Lorna & Alison Dyce 双胞胎姐妹、Van Leeuwen 太太、Bond 医生。Rachel 忘了匕首，让 Alain 去取，Alain 发现玻璃柜的匕首不见。Rachel 通灵失败。Lorna 在房间里没有出来，大家破门而入，只见她倒在地毯上身亡，眼睛有匕首刺伤，脸上满是血迹。匕首掉落尸体旁，被旁边的一块手帕擦拭过，没有找到指纹。房间紧邻一间储藏室，屋内唯一的窗户和两扇门均自内上锁，为密室。Rachel 和 Alain 早上用肥皂水仔细清洁了地板并打了蜡，在入口左侧约一米的圆形区域内有一些微小的水滴残留，东部有切断痕迹（见图）。Alain 因为在通灵会中途离开了二十分钟，成为主要嫌疑人，但后来因证据不足被释放。
 
-<img src=images/2023_bedroom.jpg width=400/>
+![[images/2023_bedroom.jpg|400]]
 
 【卢森堡】Magda 曾在某保险公司任职，因篡改支票诈骗被开除。前老板 Carl Rudolf 无可救药地爱上了她，不惜为她开脱。
 
@@ -31,7 +31,7 @@ Alain 无意中在报纸头条上看到那不勒斯的海滩上发现了 Magda �
 
 【加德满都】Kim 中尉说 Magda 在 Singh 夫妇家住了三个星期，经常外出画画。当地某日来了一个半盲的乞丐 Shashikar，从此连续发生多起影子袭击人的案件。Alain 和 Kim 目睹一名行人从左侧小巷走出，影子映在墙上，突然影子抬起手臂将其摔倒在地。两人赶过去只见行人脸上鲜血淋漓，周围没有其他人。Kim 试验让第二个人扮演影子，但那样的话会看到四个剪影（两个人、两个影子）。
 
-<img src=images/2023_passage.jpg width=400/>
+![[images/2023_passage.jpg|400]]
 
 【加尔各答】Alain 住在导游 Lin Wu 的公寓，Lin 半夜走错房间，与 Alain 发生暧昧一幕。Alain 在酒吧探访，得知 Magda 被大亨 Wân Kamsing 买走。司机 Myria 与 Alain、Lin 分手后一人在前面走路，一个灯笼从远处接近 Myria，Myria 缓缓倒下，灯笼飘走。Alain 与 Lin 赶到 Myria 身前，只见她面色苍白，绝气身亡，身上没有伤口。Lin 裸体走入 Alain 的房间。Alain 爬绳子进入 Kamsing 家，从钥匙孔里窥见 Kamsing 虐待一个年轻女孩。Alain 闯入一间办公室，在保险箱里发现四本护照，其中有一本是 Magda 的。Alain 将保险箱中的物品收入囊中，离开时听见女孩的啜泣声，结果被保镖发现。Alain 打倒保镖并夺得他的枪，意外地发现啜泣女孩竟然是 Magda！Alain 带 Magda 逃出 Kamsing 家。Magda 坦白自己受 Chantal 委托测试 Alain 的婚姻忠诚度，Alain 没有通过测试，所以 Chantal 和他离婚。
 

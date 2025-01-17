@@ -8,7 +8,7 @@ wordpress_id: 7089
 
 # Jérôme Loubry, <i>Les refuges</i> (2019)
 
-<img src=images/2019_cover.jpg width=250/>
+![[images/2019_cover.jpg|250]]
 
 【2019 年】François Villemin 打开大学教室的门，邀请学生们在阶梯教室就坐。 
 

@@ -10,7 +10,7 @@ wordpress_id: 5590
 
 # 相沢沙呼『invert II 覗き窓の死角』(2022)
 
-<img src=images/2022_cover.jpg width=250/>
+![[images/2022_cover.jpg|250]]
 
 ## 1. 生者の言伝
 

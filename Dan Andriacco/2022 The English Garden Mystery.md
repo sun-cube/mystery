@@ -11,8 +11,8 @@ wordpress_id: 6411
 
 # Dan Andriacco, <i>The English Garden Mystery</i> (2022)
 
-<img src=images/2022_cover.jpg width=250/>
-<img src=images/2022_map.jpg width=350/>
+![[images/2022_cover.jpg|250]]
+![[images/2022_map.jpg|350]]
 
 大富翁 Ezra Bainbridge 有三个异卵三胞胎女儿，均以 Shakespeare 剧中的人物命名：Portia、Desdemona (Des)、Ophelia，她们的母亲 Juliet 在生产时去世，Erza 后来又娶了新的妻子 Fleur。Erza 年事已高，整日坐在轮椅上，由 Fleur 照顾起居。Des 生了一个女儿 Marigold (Goldie)。Fleur 的前夫 Rory Campbell 本是一名医生，因为酗酒丢了工作，现在花店工作。Des 邀请知名艺术家 Gamaliel Taylor 到小镇参加活动。
 
