@@ -12,6 +12,8 @@ wordpress_id: 7503
 
 ![[images/1991_cover.jpg|250]]
 
+中译《第七重解答》，英译 <i>The Seventh Hypothesis</i>。
+
 出场人物：
 - Marcus 医生：神秘的“犯罪医生”，戴高顶礼帽，穿黑色斗篷。
 - Ross 医生：戴着鸟嘴面具的“瘟疫医生”之一，身材较矮壮，肩披黑色短披肩。
