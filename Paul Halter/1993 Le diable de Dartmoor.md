@@ -11,9 +11,9 @@ wordpress_id: 7583
 
 # Paul Halter, <i>Le diable de Dartmoor</i> (1993)
 
-中译《达特穆尔的恶魔》，英译 <i>The Demon of Dartmoor</i>。
-
 ![[images/1993_cover.jpg|250]]
+
+中译《达特穆尔的恶魔》，英译 <i>The Demon of Dartmoor</i>。
 
 出场人物：
 - Victor Sitwell：斯泰普尔福德村的哲学教师，备受尊敬的人物。
