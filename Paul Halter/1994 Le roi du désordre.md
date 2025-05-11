@@ -12,7 +12,7 @@ wordpress_id: 7587
 
 # Paul Halter, <i>Le roi du désordre</i> (1994)
 
-中译《混乱之王》。
+中译《混乱之王》，英译 <i>The Lord of Misrule</i>。
 
 ![[images/1994_cover.jpg|250]]
 
@@ -81,7 +81,7 @@ Edwin 死亡当晚的时间线：
 Harry Nichols 在村里石桥下遇袭，身中数刀，但尚存活，遇袭时间为傍晚 6:15。案发期间除了 Nicholas 以及基本可以排除的 Sibyl、Daphne、Catherine，其余的 Mansfield、Morganstone、Forbes 都有作案嫌疑。凌晨 1 点，Achilles 被风声和铃铛声惊醒，看到窗外雪地里一个黑影向北移动，他立刻穿衣追了出去。在湖边，他看到那个穿着斗篷戴着帽子的人影移动到湖面上。Achilles 记起湖冰不坚固，大声呼喊示警。人影受惊，试图跑回岸边，脚下冰层碎裂，险些落水，最终踉跄地爬上岸，瘫倒在雪中。Achilles 上前扯下面具，惊骇地发现是 Sibyl。第二天一早，Achilles 向 Owen 讲述了夜间的发现，Owen 让他对 Sibyl 梦游并假扮“混乱之王”一事保密。
 
 > [!spoiler]- Owen 揭露凶手
-在 Mansfield 府邸的起居室，Owen 突然踩了 Edgar Forbes 的脚尖，指出 Forbes 的靴子不合脚，而且明显被染过色，是为了掩盖他在袭击 Harry Nichols 时留下的脚印。Edgar Forbes 承认了袭击 Harry Nichols 未遂，以及策划借 Harry Nichols 之手杀害 Samuel Piggott。Forbes 利用 Harry 对 Piggott 的怨恨，煽动他去行凶，并承诺事成后给予报酬。他通过在降神会上用膝盖撞击桌子来传递信息，安排 Piggott 在湖边与“灵魂”会面，实则是为 Harry 创造机会。然而在最后一次降神会上，桌子的剧烈晃动超出了 Forbes 的控制，并且“灵魂”的信息变成了要向 Piggott 揭示“全部真相”，这让 Forbes 以为自己的计划败露，真实灵魂介入要揭发他。他惊慌失措地尾随 Piggott 前往湖边，企图在真相暴露前干掉 Piggott，但中途因看到令他恐惧的“混乱之王”幻像而逃回。Piggott 在湖边看到 Forbes 接近，绝望之下用随身携带的匕首自杀。Forbes 担心 Harry 供出自己，才决定杀人灭口。
+> 在 Mansfield 府邸的起居室，Owen 突然踩了 Edgar Forbes 的脚尖，指出 Forbes 的靴子不合脚，而且明显被染过色，是为了掩盖他在袭击 Harry Nichols 时留下的脚印。Edgar Forbes 承认了袭击 Harry Nichols 未遂，以及策划借 Harry Nichols 之手杀害 Samuel Piggott。Forbes 利用 Harry 对 Piggott 的怨恨，煽动他去行凶，并承诺事成后给予报酬。他通过在降神会上用膝盖撞击桌子来传递信息，安排 Piggott 在湖边与“灵魂”会面，实则是为 Harry 创造机会。然而在最后一次降神会上，桌子的剧烈晃动超出了 Forbes 的控制，并且“灵魂”的信息变成了要向 Piggott 揭示“全部真相”，这让 Forbes 以为自己的计划败露，真实灵魂介入要揭发他。他惊慌失措地尾随 Piggott 前往湖边，企图在真相暴露前干掉 Piggott，但中途因看到令他恐惧的“混乱之王”幻像而逃回。Piggott 在湖边看到 Forbes 接近，绝望之下用随身携带的匕首自杀。Forbes 担心 Harry 供出自己，才决定杀人灭口。
 
 两年后，Achilles 在报纸上看到 Sibyl Mansfield 与一位伦敦贫困教区的牧师结婚，情绪低落。Edgar Forbes 因罪行被判处数年监禁。Catherine Piggott 在哥哥死后数月变卖家产移居美国。Julius Morganstone 的灵媒生意更加兴隆。Mansfield 府邸已出售，Nicholas 和 Mary 夫妇被新主人留用。Charles Mansfield 的经济状况因 Piggott 之死而恶化。Achilles 和 Sibyl 曾有过一段恋情，但因 Sibyl 全身心投入救世军事业而逐渐疏远。Owen Burns 和 Daphne Mansfield 也曾有过一段恋情，但 Daphne 后来去了法国，在一场火灾中丧生。
 
