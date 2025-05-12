@@ -1,3 +1,14 @@
+---
+author: John Dickson Carr
+title: The Crooked Hinge
+publication_year: 1938
+category: English mystery
+tags:
+  - impossible_crime
+  - locked_room
+wordpress_id: 7597
+---
+
 # John Dickson Carr, <i>The Crooked Hinge</i> (1938)
 
 ![[images/1938_cover.jpg|250]]
