@@ -12,25 +12,24 @@ wordpress_id: 7604
 
 ![[images/1996_cover.jpg|250]]
 
-中译《隐形圈》。
+中译《隐形圈》，英译 <i>The Invisible Circle</i>。
 
 出场人物：
 - Madge Pearson：女主角，孤儿，Colin Pearson 的养女。
 - Bill Page：Madge 的未婚夫，自称百科全书推销员。
-- Gerry Pearson：Madge 的“叔叔”，Colin 的同父异母弟弟，Tincastle 的主人。
+- Gerry Pearson：Madge 的叔叔，Colin 的同父异母弟弟，Tincastle 的主人。
 - Colin Pearson：Madge 的养父，Archibald Pearson 的儿子。
 - Archibald Pearson：Gerry 和 Colin 的父亲。
 - Ruth Pearson：Archibald 的第二任妻子，Gerry 的母亲，Horatio 的母亲。
-- Horatio：Ruth 与前夫的儿子，Gerry 的同母异父哥哥，精神病患者，被称为“疯狂的霍拉肖”。
-- Peter Cobb：自称是 Tincastle 的看守兼杂工。
-- Gail Blake：康沃尔诗人，本地人。
-- Josiah Hallahan：历史学教授，研究凯尔特和中世纪英国，被称为“梅林”。
-- Frank Dunbar：记者，酗酒，Ursula Brown 的前男友。
+- Horatio：Ruth 与前夫的儿子，Gerry 的同母异父哥哥，精神病患者，被称为“疯狂的 Horatio”。
+- Peter Cobb：Tincastle 的看守兼杂工。
+- Gail Blake：诗人，本地人。
+- Josiah Hallahan：历史学教授，研究凯尔特和中世纪英国。
+- Frank Dunbar：记者，Ursula Brown 的前男友。
 - Ursula Brown：Gerry Pearson 和 Frank Dunbar 的前女友，红发美女。
 - Charles Jerrold：伦敦精神病医生。
-- Alice Jerrold：Charles 的妻子。
-- Roy 探长：自称来自博德明警察局。
-- Hunt 警官：自称是 Roy 探长的下属。
+- Roy 探长：来自博德明警察局。
+- Hunt 警官：Roy 探长的下属。
 
 1936 年 4 月下旬，伦敦。22 岁的 Madge Pearson 向刚认识一个月的男友 Bill Page 讲述了她童年时在康沃尔 Tincastle 的叔叔 Gerry Pearson 家度过的两个恐怖暑假，Gerry 是她养父 Colin 的同父异母弟弟。Gerry 的母亲 Ruth 据说有些精神失常，Ruth 与前夫的儿子 Horatio 因精神病被送进了精神病院。Madge 回忆起 Gerry 性格扭曲，以她的恐惧为乐。Gerry 寄来一封信，邀请 Madge 周末去 Tincastle 参加一个重要的聚会，Bill 主动提出陪她一起去。历史学教授 Josiah Hallahan、诗人 Gail Blake、 记者 Frank Dunbar、精神病医生 Charles Jerrold 也收到了 Gerry Pearson 的邀请函。Dunbar 回忆起与 Gerry 的前女友 Ursula Brown 的恋情，Ursula 曾向他描述 Gerry 是个变态。Dunbar 在火车上意外遇到了 Ursula。
 
@@ -44,19 +43,13 @@ Madge 和 Bill 到达 Tincastle 村。城堡坐落在一个饱受海浪冲击的
 
 警察局的 Roy 探长和 Hunt 警官到达，声称收到匿名电报，说城堡今晚会发生谋杀案。Bill 被派去 Tincastle 村报警。Roy 探长检查现场，确认了凶器上无指纹，剑的护手无法通过窗户栅栏。他指出凶手点燃斗篷，覆盖尸体头部，是为了毁去死者面容。Roy 探长随后宣布了一个惊人消息：Gerry Pearson 其实在一年前就已经自然死亡，众人意识到他们遇到的 Gerry 是个冒名货。
 
-深夜，Peter Cobb 找到 Madge，声称看到一个穿着红色长袍、拿着剑的“亚瑟王”在高处悬崖边杀了一个人，然后像魔法一样消失了。众人赶到现场，发现死者是 Hunt 警官，头部被重击，制服上有剑伤，尸体旁边的石窟空无一物。Roy 探长和塔楼房间里的尸体一起消失不见。Bill 去 Tincastle 村报警，发现村里根本没有警察局，而且村民确认 Gerry Pearson 上周还活着。众人意识到 Roy 探长也是冒牌货，很可能就是 Gerry Pearson 本人假扮的。此时城堡与外界连接的木桥也已断裂，形成“隐形圈”，将所有人困在岛上。Peter Cobb 留下字条说因怪事太多离开，但人已失踪，大家怀疑他也被杀害。Madge 提到 Horatio 喜欢戏剧，Jerrold 突然想起曾有一个绰号“疯狂 Horatio”的杀人狂魔在八年前的剧院演出中发狂，用道具剑杀伤多名演员。
-
-Blake 搜查了整个小岛，没有找到其他人。Bill 在塔楼房间窗户上方的椽梁上发现了一个坚固的挂钩。Bill 给出一个密室解答。
+深夜，Peter Cobb 找到 Madge，声称看到一个穿着红色长袍、拿着剑的“亚瑟王”在高处悬崖边杀了一个人，然后像魔法一样消失了。众人赶到现场，发现死者是 Hunt 警官，头部被重击，制服上有剑伤，尸体旁边的石窟空无一物。Roy 探长和塔楼房间里的尸体一起消失不见。Bill 去 Tincastle 村报警，发现村里根本没有警察局，而且村民确认 Gerry Pearson 上周还活着。众人意识到 Roy 探长也是冒牌货，很可能就是 Gerry Pearson 本人假扮的。此时城堡与外界连接的木桥也已断裂，形成“隐形圈”，将所有人困在岛上。Peter Cobb 留下字条说因怪事太多离开，但人已失踪，大家怀疑他也被杀害。Madge 提到 Horatio 喜欢戏剧，Jerrold 突然想起曾有一个绰号“疯狂 Horatio”的杀人狂魔在八年前的剧院演出中发狂，用道具剑杀伤多名演员。Blake 搜查了整个小岛，没有找到其他人。Bill 在塔楼房间窗户上方的椽梁上发现了一个坚固的挂钩。Bill 给出一个密室解答。
 
 > [!spoiler]- 密室伪解答
 > 
 > Horiato 与同伙进行了身份互换，锁入密室的是 Horiato 的同伙。Horatio 通过绳索爬到窗外，里面的同伙按指示来到窗边并背过身去，Horiato 隔着铁栅栏用剑刺杀了同伙，用浸过酒精的 Ursula 的斗篷包裹其头部，点燃以毁坏面容，然后将尸体推入房间中央。
 
-城堡内怪事频发，门窗在风中摇晃，似乎有人潜入，窗户玻璃被人从外部打碎。Blake 在去地窖查看时失踪。不久后，重伤的 Blake 手持石中剑跌跌撞撞地回到休息室，腹部中剑，随即死亡。
-
-Bill 向众人解释了石中剑和圣杯的诡计，以及第一个密室谋杀案的真相。然后提出设一个陷阱引诱凶手（假定为 Horatio）进入塔楼并将其锁住。Bill 和 Madge 扮演 Lancelot 和 Guinevere 在塔楼房间争吵，引诱扮演“复仇亚瑟王”的凶手现身。
-
-在塔楼房间内，Bill 向 Madge 揭示了最终真相。
+城堡内怪事频发，门窗在风中摇晃，似乎有人潜入，窗户玻璃被人从外部打碎。Blake 在去地窖查看时失踪。不久后，重伤的 Blake 手持石中剑跌跌撞撞地回到休息室，腹部中剑，随即死亡。Bill 向众人解释了石中剑和圣杯的诡计，以及第一个密室谋杀案的真相，然后提出设一个陷阱，引诱凶手进入塔楼并将其锁住。Bill 和 Madge 扮演 Lancelot 和 Guinevere 在塔楼房间争吵，引诱扮演“复仇亚瑟王”的凶手现身。在塔楼房间内，Bill 向 Madge 揭示了最终真相。
 
 > [!spoiler]- 密室诡计
 > 
