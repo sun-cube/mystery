@@ -96,7 +96,7 @@ https://time.com/collection/best-mystery-thriller-books/
 92. Laila Lalami, *The Other Americans* (2019)  
 93. Ruth Ware, *The Turn of the Key* (2019)  
 94. Steph Cha, *Your House Will Pay* (2019)  
-95. S.A. Cosby, *Blacktop Wasteland* (2020)  
+95. S. A. Cosby, *Blacktop Wasteland* (2020)  
 96. Deepa Anappara, *Djinn Patrol on the Purple Line* (2020)  
 97. Silvia Moreno-Garcia, *Mexican Gothic* (2020)  
 98. Alyssa Cole, *When No One Is Watching* (2020)  
