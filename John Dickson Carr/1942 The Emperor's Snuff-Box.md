@@ -1,3 +1,11 @@
+---
+author: John Dickson Carr
+title: The Emperor's Snuff-Box
+publication_year: 1942
+category: English mystery
+wordpress_id: 7754
+---
+
 # John Dickson Carr, <i>The Emperor's Snuff-Box</i> (1942)
 
 ![[images/1942_cover.jpg|250]]
