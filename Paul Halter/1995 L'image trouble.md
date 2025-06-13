@@ -20,7 +20,7 @@ wordpress_id: 7766
   - John Braid：因一张旧照片而烦恼的年轻人。
   - Andrea：John 美丽的妻子。
   - Graham Morris：神秘的古董商，擅长催眠术。
-  - Mr. and Mrs. Gideon Braid：John 的养父母。
+  - Amelia and Gideon Braid：John 的养父母。
   - David Braid：John 的义兄。
   - Charles Hamer：John 和 Andrea 的邻居，园艺爱好者。
   - Mr. Merlin：John 和 Andrea 的另一位邻居。
@@ -30,7 +30,7 @@ wordpress_id: 7766
   - Jonas Jacobs：在母亲被谋杀后失踪的年轻人。
   - Paula：被 Jacobs 家收养的美丽女孩，Jonas 的未婚妻。
   - Jack Atmore：神秘的看手相者。
-  - Mr. and Mrs. Gideon Jacobs：Jonas 和 Adam 的父母。
+  - Amelia and Gideon Jacobs：Jonas 和 Adam 的父母。
   - Adam Jacobs：Jonas 的兄弟，浪子。
   - Charles Haarman：“Alice 公主”酒馆的老板。
   - Walter Donovan：警督。
@@ -65,9 +65,22 @@ John Braid 在书店被一本名为《小庄园里的贵妇人》的书的封面
 
 【过去】Donovan 警督发现，Atmore 在利物浦被拘留期间，他在伦敦的店铺仍在营业，证明有人冒充他。
 
-【现在】Andrea 在伦敦找到了 John 的义兄 David Braid，他是一个潦倒的演员。David 透露，“甜美的旋律”来自一个音乐盒，而 John 只是在“继承家族生意”(?)。Sullivan 警督发现 John 藏在 Gray's Inn Road 的一家酒店。Merlin 先生的真实身份是 Twist 博士，他带着 Andrea 来到酒店对面，通过望远镜让她看到 John 正在打字。Twist 博士揭示 John 的真实身份是著名推理小说家 Yvan Highlander，他继承了父亲 Gideon Braid 的笔名和事业，照片上的老人其实是他的父亲。
+【现在】Andrea 在伦敦找到了 John 的义兄 David Braid，他是一个潦倒的演员。David 透露，John 反复提到的“甜美的旋律”来自母亲 Amelia 送给父亲 Gideon 的音乐盒，而 John 的秘密职业只是在“继承家族生意”。Sullivan 警督发现 John 藏在 Gray's Inn Road 的一家酒店。Merlin 先生的真实身份是 Twist 博士，他带着 Andrea 来到酒店对面，通过望远镜让她看到 John 正在打字。Twist 博士揭示 John 的真实身份是著名推理小说家 Yvan Highlander，他继承了父亲 Gideon Braid 的笔名和事业，照片上的老人其实是他的父亲。
 
 众人齐聚一堂。John 解释，他误以为 Andrea 和 Morris 有私情，所以玩失踪报复二人。Hurst 总督察赶到，准备逮捕“酸浴杀手”。
+
+> [!spoiler]- 过去和现在的人物对应
+>
+> “过去的故事”是 John 根据自身经历写的小说。
+>
+> | 现在的真实人物 | 过去的小说人物 | 说明 |
+> |---|---|---|
+> | Gideon Braid | Gideon Jacobs | 父亲 |
+> | Amelia Braid | Amelia Jacobs | 母亲 |
+> | John Braid | Jonas Jacobs | 善良的主角 |
+> | David Braid | Adam Jacobs   | 反派 |
+> | Andrea Braid | Paula | 女主角 |
+> | Graham Morris (David Braid 的伪装) | Jack Atmore | |
 
 > [!spoiler]- John 密室诡计
 >
