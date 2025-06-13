@@ -70,7 +70,7 @@ John Braid 在书店被一本名为《小庄园里的贵妇人》的书的封面
 众人齐聚一堂。John 解释，他误以为 Andrea 和 Morris 有私情，所以玩失踪报复二人。Hurst 总督察赶到，准备逮捕“酸浴杀手”。
 
 > [!spoiler]- 过去和现在的人物对应
->
+> 
 > “过去的故事”是 John 根据自身经历写的小说。
 >
 > | 现在的真实人物 | 过去的小说人物 | 说明 |
@@ -80,7 +80,7 @@ John Braid 在书店被一本名为《小庄园里的贵妇人》的书的封面
 > | John Braid | Jonas Jacobs | 善良的主角 |
 > | David Braid | Adam Jacobs   | 反派 |
 > | Andrea Braid | Paula | 女主角 |
-> | Graham Morris (David Braid 的伪装) | Jack Atmore | |
+> | Graham Morris（David Braid 的伪装） | Jack Atmore | |
 
 > [!spoiler]- John 密室诡计
 >
