@@ -10,6 +10,8 @@ wordpress_id: 7822
 
 # Christopher Bush, <i>Cut Throat</i> (1932)
 
+![[images/1932_cover.jpg|250]]
+
 伦敦两大报业巨头 Sir William Griffiths 和 Lord Zyon 积怨已久。Lord Zyon 正准备发起一场名为“全民就业十字军”的政治运动，反对“无限制倾销”。运动集会前，Zyon 收到消息，称 Sir William 已转向支持他，并寄来一个装有“倾销”罪证的柳条筐。然而，当柳条筐送到 Zyon 府上，里面装的并非罪证，而是 Sir William 的尸体，喉咙上有一道深深的伤口，从一耳割至另一耳。
 
 Travers 立即致电苏格兰场的 Wharton 警司。一位名叫 Sanders 的记者凭小聪明混入现场，为 Zyon 的《晚间记录报》抢到了独家新闻。Wharton 和他的团队迅速展开调查，发现发给 Zyon 的消息是假的，而 Sir William 当时本应在他位于西 Somerset 郡 Mulberton 的乡间别墅 Combe 小屋。柳条筐是从 Paddington 车站由一辆出租车运至 Covent 花园，再由另一辆出租车运送的。法医 Menzies 推断死亡时间是前一晚 8-10 点之间。Wharton 推测 Sir William 是在离开 Combe 小屋的路上，在自己的车里遇害的。Travers 从朋友 Pendry 那里得知，Sir William 的侄子 Tim Griffiths 也在 Combe 小屋，于是他和 Wharton 连夜驱车前往 Mulberton。他们来到 Combe 小屋，面色不佳的 Tim 和管家 Daniels 声称 Sir William 在前一晚 9 点左右独自驾车外出，之后再未归来，Tim 已经报了失踪。记者 Sanders 也在此地出现。Travers 拜访了 Sir William 的财务秘书 Bland 和他的妻子，Bland 案发当晚 6-11 点一直在和当地牧师 Cross 下棋。
