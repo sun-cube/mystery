@@ -9,7 +9,9 @@ wordpress_id: 7857
 ---
 # Paul Halter, <i>La ruelle fantôme</i> (2005)
 
-中译《幻影小巷》。
+![[images/2005_cover.jpg|250]]
+
+中译《幻影小巷》，英译 <i>The Phantom Passage</i>。
 
 主要出场人物：
 - Owen Burns：侦探，审美家。
