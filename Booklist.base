@@ -1,0 +1,19 @@
+filters:
+  and:
+    - "!title.isEmpty()"
+properties:
+  file.name:
+    displayName: link
+views:
+  - type: table
+    name: Table
+    order:
+      - author
+      - title
+      - publication_year
+      - file.name
+    columnSize:
+      note.author: 149
+      note.title: 314
+      note.publication_year: 74
+    sort: []
