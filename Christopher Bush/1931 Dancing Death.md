@@ -62,6 +62,6 @@ Wharton 警司等人抵达庄园，比对指纹时发现凶器匕首上的指纹
 
 > [!spoiler]- Ransome 死亡真相
 > 
-> Ransome 偶然发现了 Braishe 和 Brenda 的私情，将此事告诉了 Mirabel。Mirabel 与 Brenda 长期不睦，听后幸灾乐祸，送给了 Ransome 一枚戒指以示奖励。Ransome 以此勒索 Brenda，Braishe 为了保护 Brenda 和自己，找机会从背后扼杀了 Ransome，并将尸体从楼梯窗户扔进雪地。
+> Ransome 偶然发现了 Braishe 和 Brenda 的私情，将此事告诉了 Mirabel。Mirabel 与 Brenda 长期不睦，听后幸灾乐祸，赏给了 Ransome 一枚戒指。Ransome 借此勒索 Brenda，Braishe 为了保护 Brenda 和自己，找机会从背后扼杀了 Ransome，并将尸体从楼梯窗户扔进雪地。
 
 连续三起谋杀案，包括一起被密室圣经遗漏的雪地无足迹杀人。人物关系和动机复杂。
