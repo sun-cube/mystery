@@ -15,7 +15,7 @@ https://mysteryfile.com/Locked_Rooms/Library.html
 11. Ellery Queen, <i>The King Is Dead</i> (1952)
 12. Helen McCloy, <i>Through a Glass, Darkly</i> (1950)
 13. Carter Dickson, <i>He Wouldn't Kill Patience</i> (1944)
-14. Randall Garrett, <i>Too Many Magicians</i> (1967)
+14. [[/Randall Garrett/1966 Too Many Magicians|📖]] Randall Garrett, <i>Too Many Magicians</i> (1967)
 15. John Sladek, <i>Invisible Green</i> (1977)
 
 # 99 Novels for a Locked Room Library
@@ -59,7 +59,7 @@ https://mysteryfile.com/Locked_Rooms/Library.html
 37. Carter Dickson, <i>The Night at the Mocking Widow</i> (1950)
 38. Ulf Durling, <i>Pour un bout de fromage</i> (1972)
 39. Richard Forrest, <i>A Child's Garden of Death</i> (1975)
-40. Randall Garrett, <i>Too Many Magicians</i> (1967)
+40. [[/Randall Garrett/1966 Too Many Magicians|📖]] Randall Garrett, <i>Too Many Magicians</i> (1967)
 41. A. Gensoul & C. Grenier, <i>La Mort vient de nulle part</i> (1945)
 42. Alexis Gensoul, <i>L’Énigme de Téfaha</i> (1945)
 43. Alan Green, <i>What a Body!</i> (1949)
@@ -106,7 +106,7 @@ https://mysteryfile.com/Locked_Rooms/Library.html
 84. Pierre Siniac, <i>Le Mystère de la sombre zone</i> (1999)
 85. John Sladek, <i>Black Aura</i> (1974)
 86. John Sladek, <i>Invisible Green</i> (1977)
-87. Derek Smith, <i>Whistle Up the Devil !</i> (1953)
+87. Derek Smith, <i>Whistle Up the Devil!</i> (1953)
 88. S. A. Steeman, <i>L’Ennemi sans visage</i> (1934)
 89. Hake Talbot, <i>The Hangman's Handyman</i> (1942)
 90. [[/Hake Talbot/1944 Rim of the Pit|📖]] Hake Talbot, <i>Rim of the Pit</i> (1944)

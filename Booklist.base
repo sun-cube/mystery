@@ -12,8 +12,8 @@ views:
       - title
       - publication_year
       - file.name
+    sort: []
     columnSize:
       note.author: 149
       note.title: 314
       note.publication_year: 74
-    sort: []
