@@ -14,7 +14,7 @@ https://mysteryfile.com/Locked_Rooms/Library.html
 10. [[/Carter Dickson/1937 The Ten Teacups|📖]] Carter Dickson, <i>The Peacock Feather Murders</i> (1937)
 11. Ellery Queen, <i>The King Is Dead</i> (1952)
 12. Helen McCloy, <i>Through a Glass, Darkly</i> (1950)
-13. Carter Dickson, <i>He Wouldn't Kill Patience</i> (1944)
+13. [[/Carter Dickson/1944 He Wouldn't Kill Patience|📖]] Carter Dickson, <i>He Wouldn't Kill Patience</i> (1944)
 14. [[/Randall Garrett/1966 Too Many Magicians|📖]] Randall Garrett, <i>Too Many Magicians</i> (1967)
 15. John Sladek, <i>Invisible Green</i> (1977)
 
@@ -54,7 +54,7 @@ https://mysteryfile.com/Locked_Rooms/Library.html
 32. [[/Carter Dickson/1935 The Unicorn Murders|📖]] Carter Dickson, <i>The Unicorn Murders</i> (1935)
 33. [[/Carter Dickson/1937 The Ten Teacups|📖]] Carter Dickson, <i>The Peacock Feather Murders</i> (1937)
 34. [[/Carter Dickson/1938 The Judas Window|📖]] Carter Dickson, <i>The Judas Window</i> (1938)
-35. Carter Dickson, <i>He Wouldn't Kill Patience</i> (1944)
+35. [[/Carter Dickson/1944 He Wouldn't Kill Patience|📖]] Carter Dickson, <i>He Wouldn't Kill Patience</i> (1944)
 36. [[/Carter Dickson/1945 The Curse of the Bronze Lamp|📖]] Carter Dickson, <i>The Curse of the Bronze Lamp</i> (1945)
 37. Carter Dickson, <i>The Night at the Mocking Widow</i> (1950)
 38. Ulf Durling, <i>Pour un bout de fromage</i> (1972)
