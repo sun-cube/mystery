@@ -40,7 +40,7 @@ https://mysteryfile.com/Locked_Rooms/Library.html
 18. [[/John Dickson Carr/1938 The Crooked Hinge|📖]] John Dickson Carr, <i>The Crooked Hinge</i> (1938)
 19. [[/John Dickson Carr/1941 The Case of the Constant Suicides|📖]] John Dickson Carr, <i>The Case of the Constant Suicides</i> (1941)
 20. [[/John Dickson Carr/1944 Till Death Do Us Apart|📖]] John Dickson Carr, <i>Till Death Do Us Part</i> (1944)
-21. John Dickson Carr, <i>He Who Whispers</i> (1946)
+21. [[/John Dickson Carr/1946 He Who Whispers|📖]] John Dickson Carr, <i>He Who Whispers</i> (1946)
 22. John Dickson Carr, <i>Dead Man’s Knock</i> (1958)
 23. Agatha Christie, <i>Murder in Mesopotamia</i> (1936)
 24. Agatha Christie, <i>Murder for Christmas</i> (1938)
