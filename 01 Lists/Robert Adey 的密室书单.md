@@ -7,7 +7,7 @@
 5. S. S. Van Dine, _The Canary Murder Case_ (1927)
 6. Horatio Winslow and Leslie Quirk, _Into Thin Air_ (1928)
 7. George Limnelius, _The Medbury Fort Murder_ (1929)
-8. Virgil Marham, _The Devil Drives_ (1932)
+8. Virgil Markham, _The Devil Drives_ (1932)
 9. Jonathan Latimer, _Murder in a Madhouse_ (1934)
 10. Theodore Roscoe, _Murder on the Way!_ (1935)
 11. John Dickson Carr, _The Hollow Man_ (1935)

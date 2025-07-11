@@ -16,7 +16,7 @@ https://mysteryfile.com/Locked_Rooms/Library.html
 12. Helen McCloy, <i>Through a Glass, Darkly</i> (1950)
 13. [[/Carter Dickson/1944 He Wouldn't Kill Patience|📖]] Carter Dickson, <i>He Wouldn't Kill Patience</i> (1944)
 14. [[/Randall Garrett/1966 Too Many Magicians|📖]] Randall Garrett, <i>Too Many Magicians</i> (1967)
-15. John Sladek, <i>Invisible Green</i> (1977)
+15. [[/John Sladek/1977 Invisible Green|📖]] John Sladek, <i>Invisible Green</i> (1977)
 
 # 99 Novels for a Locked Room Library
 
@@ -96,7 +96,7 @@ https://mysteryfile.com/Locked_Rooms/Library.html
 74. Ellery Queen, <i>The Door Between</i> (1937)
 75. Ellery Queen, <i>The King is Dead</i> (1952)
 76. [[/Clayton Rawson/1938 Death from a Top Hat|📖]] Clayton Rawson, <i>Death from a Top Hat</i> (1938)
-77. Clayton Rawson, <i>The Footprints on the Ceiling</i> (1939)
+77. [[../Clayton Rawson/1939 The Footprints on the Ceiling|📖]] Clayton Rawson, <i>The Footprints on the Ceiling</i> (1939)
 78. Clayton Rawson, <i>No Coffin for the Corpse</i> (1942)
 79. Helen Reilly, <i>Dead Man Control</i> (1936)
 80. René Réouven, <i>Les Humeurs fatales</i> (1968)
@@ -105,7 +105,7 @@ https://mysteryfile.com/Locked_Rooms/Library.html
 83. [[/James Ronald/2024 They Can't Hang Me|📖]] James Ronald, <i>They Can’t Hang Me!</i> (1938)
 84. Pierre Siniac, <i>Le Mystère de la sombre zone</i> (1999)
 85. John Sladek, <i>Black Aura</i> (1974)
-86. John Sladek, <i>Invisible Green</i> (1977)
+86. [[/John Sladek/1977 Invisible Green|📖]] John Sladek, <i>Invisible Green</i> (1977)
 87. Derek Smith, <i>Whistle Up the Devil!</i> (1953)
 88. S. A. Steeman, <i>L’Ennemi sans visage</i> (1934)
 89. Hake Talbot, <i>The Hangman's Handyman</i> (1942)
