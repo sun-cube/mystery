@@ -8,6 +8,7 @@ tags:
   - locked_room
 wordpress_id: 7983
 ---
+
 # Clayton Rawson, <i>The Footprints on the Ceiling</i> (1939)
 
 ![[images/1939_cover.jpg|250]]

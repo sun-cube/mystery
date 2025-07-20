@@ -8,6 +8,7 @@ tags:
   - locked_room
 wordpress_id: 79
 ---
+
 # John Dickson Carr, <i>He Who Whispers</i> (1946)
 
 ![[images/1946_cover.jpg|250]]

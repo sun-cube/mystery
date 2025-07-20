@@ -8,6 +8,7 @@ tags:
   - locked_room
 wordpress_id: 7948
 ---
+
 # Paul Halter, <i>Le cri de la sirène</i> (1998)
 
 ![[images/1998_cover.jpg|250]]

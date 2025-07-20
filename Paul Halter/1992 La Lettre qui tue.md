@@ -7,6 +7,7 @@ tags:
   - narrative_trick
 wordpress_id: 7955
 ---
+
 # Paul Halter, <i>La Lettre qui tue</i> (1992)
 
 ![[images/1992_cover.jpg|250]]

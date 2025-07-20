@@ -7,6 +7,7 @@ tags:
   - impossible_crime
 wordpress_id: 7857
 ---
+
 # Paul Halter, <i>La ruelle fantôme</i> (2005)
 
 ![[images/2005_cover.jpg|250]]

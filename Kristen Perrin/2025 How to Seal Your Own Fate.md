@@ -5,6 +5,7 @@ publication_year: 2025
 category: English mystery
 wordpress_id: 8015
 ---
+
 # Kristen Perrin, <i>How to Seal Your Own Fate</i> (2025)
 
 ![[images/2025_cover.jpg|250]]

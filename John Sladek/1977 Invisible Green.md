@@ -8,6 +8,7 @@ tags:
   - locked_room
 wordpress_id: 7978
 ---
+
 # John Sladek, <i>Invisible Green</i> (1977)
 
 ![[images/1977_cover.jpg|250]]

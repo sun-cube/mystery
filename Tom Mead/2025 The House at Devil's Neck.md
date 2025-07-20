@@ -9,6 +9,7 @@ tags:
   - locked_room
 wordpress_id: 8029
 ---
+
 # Tom Mead, <i>The House at Devil's Neck</i> (2025)
 
 ![[images/2025b_cover.jpg|250]]

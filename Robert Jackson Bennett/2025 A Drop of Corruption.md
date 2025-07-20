@@ -8,6 +8,7 @@ tags:
   - locked_room
 wordpress_id: 7988
 ---
+
 # Robert Jackson Bennett, <i>A Drop of Corruption</i> (2025)
 
 ![[images/2025_cover.jpg|250]]

@@ -8,6 +8,7 @@ tags:
   - locked_room
 wordpress_id: 7604
 ---
+
 # Paul Halter, <i>Le cercle invisible</i> (1996)
 
 ![[images/1996_cover.jpg|250]]

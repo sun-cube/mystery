@@ -8,6 +8,7 @@ tags:
   - locked_room
 wordpress_id: 7503
 ---
+
 # Paul Halter, <i>La septième hypothèse</i> (1991)
 
 ![[images/1991_cover.jpg|250]]

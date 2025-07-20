@@ -8,6 +8,7 @@ tags:
   - locked_room
 wordpress_id: 7680
 ---
+
 # Clayton Rawson, <i>Death from a Top Hat</i>（1938）
 
 ![[images/1938_cover.jpg|250]]
