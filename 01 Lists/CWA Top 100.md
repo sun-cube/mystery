@@ -2,7 +2,6 @@
 source: https://pastoffences.wordpress.com/the-cwa-top-100/
 ---
 
-
 | Rank | Author                     | Title                                                  | Year      |
 | ---- | -------------------------- | ------------------------------------------------------ | --------- |
 | 1    | Josephine Tey              | The Daughter of Time                                   | 1951      |

@@ -1,6 +1,8 @@
-# The 100 Best Mystery and Thriller Books of All Time
+---
+source: https://time.com/collection/best-mystery-thriller-books/
+---
 
-https://time.com/collection/best-mystery-thriller-books/
+# The 100 Best Mystery and Thriller Books of All Time
 
 1. Wilkie Collins, *The Woman in White* (1860)  
 2. Fyodor Dostoevsky, *Crime and Punishment* (1867)  

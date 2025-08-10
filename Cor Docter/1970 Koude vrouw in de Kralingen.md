@@ -13,11 +13,11 @@ wordpress_id: 8119
 
 ![[images/1970_cover.jpg|250]]
 
-在一个暴风雨的夜晚，致力于方言研究的学生 Aart van der Linzen 正在 's-Gravenweg 拜访园丁 Harm Jispen，用录音机录下 Jispen 用 Boertange 方言讲述的民间故事。访谈结束时， Aart 问及 Jispen 的家人，Jispen 的态度变得冷淡和回避。Aart 离开后，在他的雪铁龙汽车里瞥见一个闪闪发光的人影在 Jispen 的住宅旁晃动，如同传说中的“白色夫人”，吓得迅速驾车离开。Jispen 听到温室玻璃破碎的声音，出门查看，在房屋拐角处被人用刀刺死。次日清晨，报童 Leen Wagteland 发现了尸体，警督 Daan Vissering 和助手 Grijphand 抵达现场。屋内发现了不属于死者的橡胶鞋印，Vissering 注意到温室的玻璃被打破，推断凶手是借此将 Jispen 引出屋外。报童 Wagteland 透露曾每周卖给 Jispen 四十个鸡蛋，但他某次好奇地询问鸡蛋的用途，Jispen 勃然大怒，从此不再购买。案发当晚，他看到一个年轻人开着一辆雪铁龙，带着一个手提箱，在黄昏时分拜访了 Jispen。
+在一个暴风雨的夜晚，致力于方言研究的学生 Aart van der Linzen 正在 's-Gravenweg 拜访园丁 Harm Jispen，用录音机录下 Jispen 用 Boertange 方言讲述的民间故事。访谈结束时， Aart 问及 Jispen 的家人，Jispen 的态度变得冷淡和回避。Aart 离开后，在他的雪铁龙汽车里瞥见一个闪闪发光的人影在 Jispen 的住宅旁晃动，如同传说中的“白色夫人”，吓得迅速驾车离开。Jispen 听到温室玻璃破碎的声音，出门查看，在房屋拐角处被人用刀刺死。次日清晨，报童 Leen Wagteland 发现了尸体。警督 Daan Vissering 和助手 Grijphand 抵达现场，在屋内发现了不属于死者的橡胶鞋印，Vissering 推断凶手打破温室玻璃，将 Jispen 引出屋外。Wagteland 透露曾每周卖给 Jispen 四十个鸡蛋，但他某次好奇地询问鸡蛋的用途，Jispen 勃然大怒，从此不再购买。案发当晚，他看到一个年轻人开着一辆雪铁龙，带着一个手提箱，在黄昏时分拜访了 Jispen。
 
 地区警探 Karel Voetstraat 走访 Jispen 的邻居。Vissering 和 Grijphand 推断，凶手进入室内，在一个小五斗柜里迅速找到了他想要的东西，说明凶手很熟悉 Jispen 的住处。现场的橡胶靴印尺寸偏小，表明凶手身材不高，脚印绕开了一架靠在墙上的梯子。邻居 Hemmel 证实，他的妻子每周只卖给 Jispen 十个鸡蛋，而非四十个。Hemmel 还提到，Jispen 每周一都有一个固定的访客，此人总是戴着蒙面的养蜂人帽子。Stoepie 随后从另外两户邻居处得知，他们也各自每周卖给 Jispen 十个鸡蛋。Aart van der Linzen 回到现场，承认昨晚来过，同意随警方回去调查。
 
-Grijphand 在新闻发布会上透露了凶手绕过梯子的足迹，媒体因此将凶手描绘为“迷信的凶手”，因为迷信的人忌讳从梯子底下走过。Vissering 指出，凶手朝着有光的方向行走，理应能及早发现梯子，但足迹显示他在最后一刻才绕开。Aart 描述了他看到“白色夫人”的经历。警方播放了 Aart 的录音带，里面有座钟敲响八点的声音。通过计算录音时长，他们精确地推断出 Aart 在当晚 8:20 离开。Vissering 推断，Aart 看到的“白色夫人”正是凶手，闪光是一件风中飘动的塑料雨衣反射光线。凶手穿着不习惯的、臃肿的雨衣，最后一刻才意识到无法钻过梯子下方，从而留下了不自然的足迹。Jispen 在录音中自称是“家中三个儿子中的长子”，根据传统，长子理应继承家里的农场，但 Jispen 却在 19 岁时离开了家乡 Boertange。Vissering 决定派 Voetstraat 前往 Boertange 调查 Jispen 的过去。
+Grijphand 在新闻发布会上透露了凶手绕过梯子的足迹，媒体因此将凶手描绘为“迷信的凶手”，因为迷信的人忌讳从梯子底下走过。Vissering 指出，凶手朝着有光的方向行走，理应能及早发现梯子，但足迹显示他在最后一刻才绕开。Aart 描述了他看到“白色夫人”的经历。警方播放了 Aart 的录音带，里面有座钟敲响 8 点的声音。通过计算录音时长，他们精确地推断出 Aart 在当晚 8:20 离开。Vissering 推断，Aart 看到的“白色夫人”正是凶手，闪光是一件风中飘动的塑料雨衣反射光线。凶手穿着不习惯的、臃肿的雨衣，最后一刻才意识到无法钻过梯子下方，从而留下了不自然的足迹。Jispen 在录音中自称是“家中三个儿子中的长子”，根据传统，长子理应继承家里的农场，但 Jispen 却在 19 岁时离开了家乡 Boertange。Vissering 决定派 Voetstraat 前往 Boertange 调查 Jispen 的过去。
 
 社团“珍贵的 Kralingen”在女主人 Magda Quarz 的家中聚会，成员 Herbert Allacht 提到了报纸上关于 Jispen 被谋杀的新闻。聚会按惯例进行，由成员 Wanten 发表了一场关于 Kralingen 历史建筑的冗长演讲。演讲期间，女主人 Magda Quarz 离开了房间，之后便再未出现。聚会结束后，众人聚集在 Magda 的卧室门口，一把钥匙突然从门缝下被推了出来。Wanten 捡起钥匙打开门，众人发现 Magda 倒在梳妆台前，颈部有明显的勒痕，已经死亡。房间的窗户从内部锁闭，Wanten 快速搜查了房间，没有发现第二个人，凶手从密室里推出钥匙之后便凭空消失了。众人担心报警会暴露他们社团和各自的秘密，Wanten 提议大家自己找出凶手。Magda 的儿子 Harold 失踪，Wanten 怀疑他杀人潜逃，尤其是 Magda 能从梳妆台的镜子看到凶手走近，却未惊慌，说明她完全信任来者。
 
