@@ -50,6 +50,24 @@ Moon 与 Harry 开车出发，Harry 坚持先去了 Norman Sheridan 的家。She
 > 
 > Rand 太太、Sheridan、Claude、Alamado、Harry 共同经营一个贩毒集团，Rand 太太和 Sheridan 是头目，Banner 利用去墨西哥出差的机会负责走私，Alamado 是分销商，Harry 是打杂的仆从。Martha Banner 发现了这个贩毒集团，威胁要揭发他们，Claude Banner 亲手开枪杀死了自己的妻子，Sheridan 和 Harry 作伪证证实 Banner 离开茶会后直接前往机场，一直和他们在一起，伪造了不在场证明。Vivian 知道 Rand 太太也是瘾君子，要求阿姨给她一针，否则就向 Moon 揭发一切。Rand 太太决定杀人灭口，假意答应，却给 Vivian 注射了氰化物。她让 Harry 在窗外搭好梯子，故意将自己通往 Vivian 房间的门虚掩，钥匙也留在锁孔里，制造出外部凶手闯入的假象。Moon 叫醒 Rand 太太后，第一次看到她没戴眼镜的样子，注意到她瞳孔收缩，与 Vivian 吸毒后的状态完全一样，从而识破了她的瘾君子身份。（伏线：Vivian 在 Rand 太太的房间里翻找，已经成功偷到了一针吗啡。Rand 太太知道 Moon 肯定会追查毒品来源，为了转嫁提供毒品的罪名，故意让律师 Carson 单独探望 Vivian。只有 Mrs. Rand 知道 Moon 要去抓 Alamado，因此一定是她打电话向 Sheridan 通风报信。）
 
+## 4. No Pockets In a Shroud
+
+私家侦探 Manville Moon 先后接待了黑帮头目 Louis Bagnell 和他的竞争对手 Byron Wade 两位访客。两人都想雇佣 Moon 做保镖，以应对即将到来的地盘争夺战，但 Moon 均予以回绝，表示将保持中立。Wade 提出一个奇怪的委托，由他预付一千美元，请 Moon 在自己“看似自然死亡”后调查真相。Wade 与他年轻的保镖 Danny 在 Moon 的公寓逗留，共进晚餐，为自己制造了晚上 7:30-9:15 的不在场证明。期间，Moon 接到凶杀科探长 Warren Day 的电话，得知 Bagnell 刚刚在 8 点钟左右被枪杀于自己的赌场 El Patio 中。Moon 押着 Wade 和 Danny 前往案发现场。Bagnell 死在自己反锁的办公室里，头部中弹。Wade 的妻子 Eleanor 当时和 Bagnell 在一起，她正准备离开时，一声枪响，Bagnell 中弹，她随即吓晕过去。警方初步判定，凶手从装有铁栏杆的浴室窗外开枪，子弹穿过敞开的浴室门射杀了办公室里的 Bagnell。警方在 Eleanor 的手袋里发现了一把 .45 口径的手枪，但她声称这是赢钱后用于防身的，事后弹道学检测也证明并非凶器。Moon 在现场勘查时，注意到浴室的洗脸池里有几颗油状的微小气泡。
+
+Eleanor 聘请 Moon 调查此案，她怀疑丈夫 Byron 出于嫉妒或商业竞争而杀害了 Bagnell。她还透露自己的第一任丈夫 Arthur O'Conner 也是在自己和 Wade 纠缠不清时，死于一场可疑的事故。Wade 手下所有的枪手都有完美的不在场证明。警方在河里发现一具名叫 Margaret O'Conner 的女尸，但很快警方查明是意外死亡。Moon 前往 El Patio 调查，遇到了 Bagnell 的另一位情人 Gloria Horne，Gloria 坚称是她嫉妒心极强的丈夫 Amos Horne 杀害了 Bagnell。Moon 勘查了赌场外围，在通往赌场的公路旁树林边上发现了一行防滑轮胎印。Moon 与前未婚妻 Fausta Moreni 交谈，得知 Bagnell 的遗嘱将 El Patio 赌场和十万美元留给了她。Amos Horne 承认案发当晚 7-9 点曾离开过工作岗位，开车经过 El Patio，但否认行凶，其轮胎与现场的轮胎印不符。
+
+当晚，Eleanor 开车送 Moon 去和 Fausta 约会。Moon 等候时独自进入 Bagnell 的办公室，在浴室里再次检查洗脸池时，有人从窗外朝他连开两枪，Moon 迅速还击，但凶手驾车逃离。Moon 与 Fausta 前往 Wade 新开的俱乐部，Gloria 也开着丈夫的车跟了过来。Gloria 无意中提到，她丈夫的车以前装的正是防滑轮胎，但就在案发第二天早上换掉了。Moon 与 Gloria 一同回到她家，逼迫 Amos 承认，案发当晚，他出于嫉妒，将车停在公路旁的树林边监视 El Patio，未看到任何人进出，当警车赶到时害怕逃离。Moon 随即报警将 Amos 逮捕。当晚，Moon 回到自己的公寓，遭到 Danny 偷袭。Danny 将 Moon 劫持到河边，准备杀人灭口。Moon 用言语激将 Danny 与他进行一次“公平”的对决，抢先开枪将其击毙。
+
+第二天，Eleanor 再次来到 Moon 的公寓，对 Amos Horne 被捕一事显得十分满意，刻意引导两人一同前往 El Patio。Moon 意识到 Eleanor 执意要回到 Bagnell 的办公室，必定是为了取回某样东西。
+
+> [!spoiler]- 密室诡计
+> 
+> 真凶是 Eleanor Wade。Bagnell 并非死于密室，也非被从窗外射杀。Eleanor 进入与办公室相连的浴室，从敞开的门向办公室里的 Bagnell 开枪。她使用了一个精巧的弹道学诡计来为自己脱罪。她准备了两根 .45 手枪的枪管，作案后立刻在浴室内将手枪分解，把留有膛线痕迹的枪管拆下，扔进装满水的洗脸池里迅速降温，然后换上事先准备好的另一根未发射过的枪管，重新组装好手枪。当警察搜查时，找到的是一把看起来从未发射过的手枪。（伏线：洗脸池中发现的油状气泡是枪管上的枪油，而非 Day 探长以为的润发油。）Eleanor 将作案用的枪管用一根细铁丝挂在洗脸池的排水口滤网下方，藏匿在排水管中。她后来执意要和 Moon 一起回到 El Patio，就是为了取回枪管。从窗外朝 Moon 射击的也是 Eleanor，目的是为了阻止他发现洗脸池里的秘密。Amos Horne 的证词是真实的，因为凶手 Eleanor 早已在室内，无需从外部进入。
+
+> [!spoiler]- 动机
+> 
+> Eleanor 才是 Wade 犯罪组织的真正大脑。她杀害 Bagnell 的动机并非情杀，而是纯粹的商业行为，目的是为了消灭竞争对手，垄断全城的非法生意。她事先安排丈夫 Byron 去找 Moon，故意利用 Moon 制造不在场证明，为了将 Moon 这位城里最厉害的私家侦探卷入案件中。她的最终计划是除掉自己懦弱无能的丈夫 Byron（伏线：Byron 的“消化不良”其实是 Eleanor 长期投毒，所以 Byron 委托 Moon 调查自己“可能发生的自然死亡”），然后扶植 Moon 成为组织的新头目。
+
 ## 结尾评价
 
 《The Juarez Knife》是一部融合了黄金时代古典解谜元素与硬汉派风格的短篇杰作。故事以一位断腿的、愤世嫉俗的私家侦探为主角，充满了硬汉小说的氛围和节奏感。然而，案件的核心诡计却是一个典型的、基于物理和机械原理的“不在场证明”诡计，其精巧程度堪比约翰·狄克森·卡尔的作品。作者巧妙地将复杂的密室逻辑（通过前后门的证人链条锁死空间）与一个声学诡计相结合，解答过程逻辑清晰，伏线公平。小说成功地将两种不同风格的推理元素无缝对接到一个紧凑的故事中，既有硬汉派的紧张情节和爽快打斗，又有本格推理的智慧与公平，是一次非常成功的类型融合。
