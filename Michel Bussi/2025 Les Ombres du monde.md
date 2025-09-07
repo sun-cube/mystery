@@ -58,7 +58,7 @@ Aline 与 Jean-Bosco 驱车前往 Kibeho，途中被一个伪装的警察检查�
 
 【日记】Espérance 记录了女儿 Aline 的成长点滴，包括学会走路，说的第一个词是“gagi”（大猩猩）。过去几个月，在国际社会的压力下，Hutu 族政府与 Tutsi 族叛军签署了旨在实现和平的《Arusha 协定》。她的挚友 Agathe Uwi 被任命为联合政府的总理，让民主派备受鼓舞。法国利用协定漏洞，继续以“合作”为名，向卢旺达政府军提供武器，保留了 Jorik 所在的军事顾问团。
 
-绑匪头目 Clovis Munezero 告诉 Jorik，索要 5 万美元只是一个幌子。他说出一连串神秘的词语：“Akazu”、“Silver Back”、“黑匣子”、“你妻子的日记”，暗示后面有一个更大的阴谋。Jorik 观察到当地的大猩猩家族，注意到一只名叫 Plume 的年轻银背大猩猩身上有新伤。在废弃的茶叶仓库内，Xaverine 正式向 Aline 提出交换条件：用 Espérance 的日记和一架“隼50”飞机的黑匣子来换取 Jorik 的自由。Aline 对这两样东西一无所知，陷入困境。Jean-Bosco 突然用一把藏匿的小刀向 Protogène Gatete 发动攻击，两人在混战中都受了伤，鲜血染红了地面。
+绑匪头目 Clovis Munezero 告诉 Jorik，索要 5 万美元只是一个幌子。他说出一连串神秘的词语：“Akazu”、“Silver Back”、“黑匣子”、“你妻子的日记”，暗示后面有一个更大的阴谋。Jorik 观察当地的大猩猩家族，注意到一只名叫 Plume 的年轻银背大猩猩身上有新伤。在废弃的茶叶仓库内，Xaverine 正式向 Aline 提出交换条件，用 Espérance 的日记和一架“隼50”飞机的黑匣子来换取 Jorik 的自由，Aline 对这两样东西一无所知，陷入困境。Jean-Bosco 突然用一把藏匿的小刀向 Protogène Gatete 发动攻击，两人在混战中都受了伤，鲜血染红了地面。
 
 【日记】1993 年 10 月，和平协定的执行陷入僵局。与此同时，一个名为“千丘自由广播电台”（RTLM）的 Hutu 族极端主义电台开始广播，用侮辱性词汇“蟑螂”和“蛇”来指代 Tutsi 族，大肆煽动种族仇恨。Agathe Uwi 向法国大使抗议，但大使馆无人通晓 Kinya 卢旺达语，轻视了她的警告。
 
@@ -106,7 +106,7 @@ Clovis 及其手下因“紧急事务”离开了好几天，Jorik 独自被囚�
 
 Charly 告诉 Aline，她的 DNA 与在 Kibeho 遇害的 Camir Ngabo 和 Audace Urujeni 夫妇完全匹配，她不是 Espérance 和 Jorik Arteta 的女儿，而是 Astérie Ingabire。
 
-【日记】Espérance 带着 Aline 在森林中逃亡时，发现了侄女 Astérie 穿着那件“M.A.G.I.C.”球衣，躺在地上一动不动。她走近时因极度的悲伤和疲惫而昏了过去，醒来时发现 Aline 坐在身边，已自行穿上了 Astérie 的球衣，而 Astérie 已没了生命迹象。
+【日记】Espérance 带着 Aline 在森林中逃亡时，发现侄女 Astérie 穿着那件“M.A.G.I.C.”球衣，躺在地上一动不动。她走近时因极度的悲伤和疲惫而昏了过去，醒来时发现 Aline 坐在身边，已自行穿上了 Astérie 的球衣，而 Astérie 已没了生命迹象。
 
 Aline 瞬间明白了为何对 Kigali 毫无记忆，却对 Kibeho 有着莫名的熟悉感。她意识到 Espérance 和 Jorik 是为了救她的性命，才让她顶替了 Aline 的身份，从而使她能以法国公民之女的名义被带离卢旺达。她的手机收到一条来自 Xaverine 和 Primien 的短信：“欢迎来到 Kibeho，给我打电话。”
 
