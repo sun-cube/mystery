@@ -15,7 +15,7 @@ wordpress_id: 8225
 
 人物列表：
 - Charlotte Blood：报社记者。
-- J H Fulman：报社主编。
+- J. H. Fulman：报社主编。
 - Mrs. C：Charlotte 的房东，犯罪小说作家。
 - Charles Ravenswick：Ravenswick 家族的长子和继承人，一年前在电梯中被枪杀。
 - Lord Melhuish Ravenswick：Ravenswick 家族的族长，报业巨头，因中风卧床不起。
@@ -46,11 +46,11 @@ Charlotte 质问 Heskins 在通灵会上行窃，Heskins 反过来指责 Charlot
 
 > [!spoiler]- 密室真相
 > 
-> Nicodemus Bligh 在 Lady Ravenswick 的默许下，出售伪造的古籍手稿，以挽救家族的财务危机。Charles 反对这一欺诈行为，在顶楼的占星塔与父亲 Lord Ravenswick 争吵，被父亲开枪击中。为了保护父亲和家族声誉，濒死的 Charles 与母亲 Lady Ravenswick 共同策划了“密室谋杀”。Charles 带着一把单发 Colt Derringer 手枪忍痛进入电梯，Lady Ravenswick 在顶楼操作控制面板，在电梯上升途中切断电源，制造了停电假象（伏线：Celeste 的日记记载，在所谓的“停电”期间，她仍能使用电铃叫仆人、用食品升降机取得可可，说明庄园没有发生全面停电）。Charles 在黑暗的电梯中大喊“不！”，然后朝电梯井的墙壁开了一枪，将枪扔到地板中央，倒地身亡（伏线：Charlotte 在电梯轿厢顶部逃生时摸到了墙壁上的一个小洞，是 Charles 开枪时留下的弹孔）。灯光恢复后，电梯里的所有人都成为了嫌疑人。
+> Nicodemus Bligh 在 Lady Ravenswick 的默许下，为了挽救家族的财务危机，出售伪造的古籍手稿。Charles 反对欺诈，在顶楼的占星塔与父亲 Lord Ravenswick 争吵，被父亲开枪击中。为了保护家族声誉，濒死的 Charles 与母亲 Lady Ravenswick 共同策划了“密室谋杀”。Charles 带着一把单发 Colt Derringer 手枪忍痛进入电梯，Lady Ravenswick 在顶楼操作控制面板，在电梯上升途中切断电源，制造了停电假象（伏线：Celeste 的日记记载，在所谓的“停电”期间，她仍能使用电铃叫仆人、用食品升降机取得可可，说明庄园没有发生全面停电）。Charles 在黑暗的电梯中大喊“不！”，然后朝电梯井的墙壁开了一枪，将枪扔到地板中央，倒地身亡（伏线：Charlotte 在电梯轿厢顶部逃生时摸到了墙壁上的一个小洞，是 Charles 开枪时留下的弹孔）。灯光恢复后，电梯里的所有人都成为了嫌疑人。
 
 > [!spoiler]- 其他真相
 > 
-> Mary 察觉到案件背后另有隐情，但又不敢直接反抗家族，于是模仿她喜欢的侦探小说情节，在各处刻下单词和教乌鸦说话，向 Charlotte 提供线索。Charlotte Blood 多次听到乌鸦叫“See, Blood?”，误以为“Blood”是自己的姓，后来才意识到是“see blood”（看见血）。Lady Ravenswick 作证，当电梯到达顶楼时，她看到“儿子 Charles 瘫倒在角落里，衬衫上有血迹”，但 Charles 后背中枪，当电梯到达时，他背靠着墙壁瘫坐，Lady Ravenswick 不可能看到他衬衫上的血迹。这说明她从一开始就知道 Charles 被枪击了。
+> Mary 察觉到案件背后另有隐情，但又不敢直接反抗家族，于是模仿她喜欢的侦探小说情节，在各处刻下单词和教乌鸦说话，向 Charlotte 提供线索。Charlotte Blood 多次听到乌鸦叫“See, Blood?”，误以为“Blood”是自己的姓，后来才意识到是“see blood”（看见血）。Lady Ravenswick 作证，当电梯到达顶楼时，她看到“儿子 Charles 瘫倒在角落里，衬衫上有血迹”，但 Charles 后背中枪，背靠着墙壁瘫坐，Lady Ravenswick 不可能看到他衬衫上的血迹。这说明她从一开始就知道 Charles 被枪击了。
 > 
 > Heskins 作为忠诚的管家，为了阻止 Charlotte 的调查，制造了石像鬼坠落事件，还给了她错误的地图，企图让她死在沼泽里。
 > 
