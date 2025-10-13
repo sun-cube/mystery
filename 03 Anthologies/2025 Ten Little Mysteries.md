@@ -15,14 +15,14 @@ wordpress_id: 8236
 
 ## 1. J.S. Savage, <i>Deal in Death</i>
 
-叙述者（一名前警察督察）退休四年后，收到了十年前去世的叔叔 Terence 留下的一封著名侦探 Graves 写给他的信，内容是关于 1926 年发生在 Deal 镇的一桩悬案。当时，叙述者的叔叔 Terence 因中风在他家休养，正巧侦探 Graves 前来探望。三人一同前往当地的 The King's Head 酒馆，酒馆老板 Colin Whittaker 的女儿 Rose 在吧台帮忙。Rose 的弟弟 Tim 已失踪数周，她因此情绪低落，Colin 却不在意，认为儿子只是像以前一样离家出走。当晚，叙述者忘记参加每周一晚上在酒馆后屋举行的纸牌游戏，牌友包括酒馆老板 Colin、镇议员 Roger Frobisher、渔夫 Edwin Hooper、历史学家 Jack Sessions。游戏开始约 20 分钟后，Colin 去办公室拿一瓶白兰地，游戏暂停 10 分钟。在此期间，Jack 惊慌地跑来告诉叙述者和 Graves，他在 Colin 的办公室里发现了尸体。三人赶到办公室，发现 Colin 倒在地上，头部左侧太阳穴附近有致命伤，桌上放着一块沾有血迹的奶油色菊石化石，显然是凶器。办公室狭小，没有藏身之处，门半开着。Graves 判断死亡时间就在 5 分钟之内。现场没有发现指纹。Graves 注意到墙上曾挂过画的地方有一个钉子洞。叙述者和 Graves 随后对所有相关人员进行了讯问。
+叙述者（一名前警察督察）退休四年后，收到了十年前去世的叔叔 Terence 留下的一封著名侦探 Graves 写给他的信，内容是关于 1926 年发生在 Deal 镇的一桩悬案。当时，叙述者的叔叔 Terence 因中风在他家休养，正巧侦探 Graves 前来探望。三人一同前往当地的 The King's Head 酒馆，酒馆老板 Colin Whittaker 的女儿 Rose 在吧台帮忙。Rose 的弟弟 Tim 已失踪数周，她因此情绪低落，Colin 却不在意，认为儿子只是像以前一样离家出走。当晚，叙述者忘记参加每周一晚上在酒馆后屋举行的纸牌游戏，牌友包括酒馆老板 Colin、镇议员 Roger Frobisher、渔夫 Edwin Hooper、历史学家 Jack Sessions。游戏开始约 20 分钟后，Colin 去办公室拿一瓶白兰地，游戏暂停 10 分钟。在此期间，Jack 惊慌地跑来告诉叙述者和 Graves，他在 Colin 的办公室里发现了尸体。三人赶到办公室，发现 Colin 倒在地上，头部左侧太阳穴附近有致命伤，桌上放着一块沾有血迹的奶油色菊石化石，显然是凶器。办公室狭小，没有藏身之处，门半开着。Graves 判断死亡时间就在 5 分钟之内，现场没有发现指纹，墙上曾挂过画的地方有一个钉子洞。叙述者和 Graves 随后对所有相关人员进行了讯问。
 
 - Rose Whittaker：最后一次见到父亲是在他去玩牌的时候，对父亲的死一无所知，确认了菊石是父亲的镇纸。她在案发时段频繁进出储藏室和楼上，照看女儿 Mabel，行踪不定。
 - Jack Sessions：去洗手间时无意中听到 Colin 在办公室里与人激烈争吵，提到了“当局”、“骗子”、“钱藏在大厅里”、“带那孩子去”、“船”、“回苏格兰”、“Roger”等零碎词语。他从洗手间出来后发现了尸体。
 - Edwin Hooper：休息时去了煤棚，为炉子添煤，没有看到任何人进出 Colin 的办公室。最近因生意困难，将一艘渔船卖给了 Colin。
 - Roger Frobisher：休息时去了院子外的小巷抽烟，没有去过 Colin 的办公室。与 Colin 的交往仅限于公务，Colin 曾向他申请扩建酒馆。
 
-第二天，Graves 和叙述者调查发现，Colin 实际上是受 Edwin 的兄弟 Sam Hooper 的委托，买下了那艘船。Graves 还发现 Rose 的手臂上有被虐待的痕迹。他们怀疑 Jack 听到的“大厅”为教堂大厅，但搜查后一无所获。案件最终成为悬案。
+第二天，Graves 和叙述者调查发现，Colin 实际上是受 Edwin 的兄弟 Sam Hooper 的委托买下了那艘船，Rose 的手臂上有被虐待的痕迹。他们怀疑 Jack 听到的“大厅”为教堂大厅，但搜查后一无所获。案件最终成为悬案。
 
 > [!spoiler]- 真相
 > 
@@ -61,7 +61,7 @@ wordpress_id: 8236
 
 > [!spoiler]- 真相
 > 
-> Sam Dunn 并非自杀，而是被 Dorian 夫妇谋杀。浴室的门是向内推的，Dorian 夫妇知道 Jenny 对语言的理解非常直接，故意反复使用“tug”、“pull”等词语，诱导 Jenny 去“拉”门，制造了门被锁住的假象。Dorian 牧师在 Dot 赶到前破门而入，在混乱中将钥匙插入内侧锁孔。九年前，Dorian 夫妇生下的女儿体弱多病，不久便夭折。几乎同时，他们的女管家 Mavis Dunn 生下了一个健康的女婴 Robin。为了延续家族血脉，保住社会地位，Dorian 夫妇与 Mavis 合谋，将 Robin Dunn 作为“Jenny Dorian”抚养长大。案发当天，Sam 终于无法忍受，威胁要揭露真相，被 Dorian 夫妇灭口。
+> Sam Dunn 并非自杀，而是被 Dorian 夫妇谋杀。浴室的门是向内推的，Dorian 夫妇知道 Jenny 对语言的理解非常直接，故意反复使用“tug”、“pull”等词语，诱导 Jenny 去“拉”门，制造了门被锁住的假象。Dorian 牧师在 Dot 赶到前破门而入，在混乱中将钥匙插入内侧锁孔。九年前，Dorian 夫妇生下的女儿夭折，而女管家 Mavis Dunn 生下了健康的女婴 Robin。为了延续家族血脉，Dorian 夫妇与 Mavis 合谋，将 Robin Dunn 作为“Jenny Dorian”抚养长大。案发当天，Sam 终于无法忍受，威胁要揭露真相，被 Dorian 夫妇灭口。
 > 
 > 伏线：
 > - Sam 死前吃的面包没有抹黄油，桌上留下了捏成团的面包屑。Jenny 在公园喂鸭子前，紧张地将面包屑捏成团。二人都在紧张时会捏面包屑，暗示了他们的父女关系。
@@ -88,7 +88,7 @@ wordpress_id: 8236
 
 ## 7. David Hill, <i>Vaulting Ambition</i>
 
-侦探 Alistair Davenport 和助手 Dave Hill 受邀调查著名体操运动员 Jocasta Samson 的离奇死亡案。Jocasta 在自家体育馆训练时突然倒下，送医后不治身亡，现场没有明显外伤，初步怀疑为药物过量或中毒。教练 Anthony Porter 描述了发现尸体的经过。Davenport 在一台跳马器械的底部发现了一支藏匿的注射器，更坚定了中毒的猜测。当时住在家里的只有 Jocasta、她的妹妹 Eleanor、教练 Porter。Eleanor 案发时外出参加募捐活动，有不在场证明，因此嫌疑落在了 Porter 身上。Davenport 与 Eleanor 交谈得知 Jocasta 最近曾收到骚扰短信，但 Eleanor 认为短信是 Jocasta 为了博取关注自导自演。有人自称警察给 Eleanor 打电话询问案情，但没有像警察一样隐藏号码，Davenport 认为是有人假冒。Porter 提到 Jocasta 生前曾收到过骚扰邮件，但 Davenport 发现其实是短信。Davenport 推断凶手可能将装有毒药的瓶子藏在了庄园门口一个废弃的门房里，让 Porter 陪同他和 Hill 一起去搜查门房，结果一无所获。与此同时，警官 Connelly 在 Porter 的房间里搜出了几盒违禁药物“呋塞米”。Porter 因涉嫌谋杀而被捕。
+侦探 Alistair Davenport 和助手 Dave Hill 受邀调查著名体操运动员 Jocasta Samson 的离奇死亡案。Jocasta 在自家体育馆训练时突然倒下，送医后不治身亡，现场没有明显外伤，初步怀疑为药物过量或中毒。教练 Anthony Porter 描述了发现尸体的经过。Davenport 在一台跳马器械的底部发现了一支藏匿的注射器，更坚定了中毒的猜测。当时住在家里的只有 Jocasta、她的妹妹 Eleanor、教练 Porter，Eleanor 案发时外出，有不在场证明，因此嫌疑落在了 Porter 身上。Porter 提到 Jocasta 最近收到过骚扰邮件，但 Eleanor 说是短信，她认为是 Jocasta 为了博取关注而自导自演。有人自称警察给 Eleanor 打电话询问案情，但没有像警察一样隐藏号码，Davenport 认为是有人假冒。Davenport 推断凶手可能将装有毒药的瓶子藏在了庄园门口一个废弃的门房里，让 Porter 陪同他和 Hill 一起去搜查门房，结果一无所获。与此同时，警官 Connelly 在 Porter 的房间里搜出了几盒违禁药物“呋塞米”。Porter 因涉嫌谋杀而被捕。
 
 > [!spoiler]- 真相
 > 
