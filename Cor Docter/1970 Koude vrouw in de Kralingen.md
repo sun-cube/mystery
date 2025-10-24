@@ -2,7 +2,7 @@
 author: Cor Docter
 title: Koude vrouw in de Kralingen
 publication_year: 1970
-category: Japanese mystery
+category: Dutch mystery
 tags:
   - impossible_crime
   - locked_room
