@@ -38,7 +38,7 @@ wordpress_id: 8379
 
 警方找到了出租车司机，证实 Todd、Alden 在晚上 11:40 上车前往酒店，神色慌张。警方在 81 街的车库找到了那辆灰色 Chandler 跑车，存车记录为晚 11:30，存车人自称“James Austin”。方向盘上提取到了手套印痕，折叠后座里发现了大量属于“John Smith”的奇怪物品：三箱去除了标签的衣物、关于“恒定之神”的打印论文、一本圣经、一个用来煎虾的小平底锅、一堆脏寝具和发霉的明信片。Baldwin 局长回想起了 Todd 家此前发生的女儿自杀案，意识到两者可能有关联。
 
-在 Todd 家的图书室，醉醺醺的 Meredith Landers 身无分文，跑来蹭住。Artemus 认为 Landers 卷入太深，有可能向警方泄露他们连夜出海的行踪，于是强行将这位演员绑架上船。凌晨 2:30，Valcour 致电长岛地区的州警队长 Belton，通报了 Todd 案的情况，请求州警监视 Todd 住所。Belton 指出 Artemus 拥有一艘游艇，警方随即联络海岸警卫队布控。Todd 一家及其仆人在码头混乱地登上了 _Amberjack_ 号，Meredith Landers 被锁进船舱。Lydia 在最后一刻拿出了那捆四万美元现金，交由父亲锁入保险柜。船驶进公海，Artemus 终于向妻子 Veronica 坦白了 Jonathan 意外杀死 Repellen 的事实。
+在 Todd 家的图书室，醉醺醺的 Meredith Landers 身无分文，跑来蹭住。Artemus 认为 Landers 卷入太深，有可能向警方泄露他们连夜出海的行踪，于是强行将这位演员绑架上船。凌晨 2:30，Valcour 致电长岛地区的州警队长 Belton，通报了 Todd 案的情况，请求州警监视 Todd 住所。Belton 指出 Artemus 拥有一艘游艇，警方随即联络海岸警卫队布控。Todd 一家及其仆人在码头混乱地登上了 <i>Amberjack</i> 号，Meredith Landers 被锁进船舱。Lydia 在最后一刻拿出了那捆四万美元现金，交由父亲锁入保险柜。船驶进公海，Artemus 终于向妻子 Veronica 坦白了 Jonathan 意外杀死 Repellen 的事实。
 
 清晨 5:20，在纽约市以北的 Putnam，一名送奶工在色情文学出版商 Chaucer Honeydew 的庄园大门口发现了一具尸体，死者是一名小个子的灰发男子，正是纽约警方正在广播寻找的 Repellen。这构成了一个巨大的物理谜题：Jonathan、Artemus 明明在昨晚将尸体遗弃在 Manhattan 东 80 多街的巷子里，为何尸体会在短短几小时内，出现在远离市区几十英里外的 Putnam？出版商 Honeydew 声称在凌晨 3:17 听到一辆高速行驶的车在其门口刹车，抛下尸体，这一证词表明有人在此期间移动了尸体。
 
