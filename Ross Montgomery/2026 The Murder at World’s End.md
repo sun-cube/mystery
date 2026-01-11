@@ -31,7 +31,7 @@ wordpress_id: 8490
 
 > [!spoiler]- 密室真相
 > 
-> 真凶是女仆 Temperance 和管家 Stokes。两人的动机源于二十年前的旧怨：Conrad 曾目击 Stokes 的父亲误杀老子爵，以此勒索 Stokes 父子终身为奴。同时，Conrad 始乱终弃了女仆 Elsie，导致其在贫困中死去。Temperance 是 Elsie 的私生女，长大后带着当年 Stokes 写给母亲的情书回到庄园，与 Stokes 相认。两人结成同盟，Stokes 决定协助 Temperance 完成复仇。
+> 真凶是女仆 Temperance 和管家 Stokes。两人的动机源于二十年前的旧怨：Conrad 曾目击 Stokes 的父亲误杀老子爵，以此勒索 Stokes 父子终身为奴。同时，Conrad 始乱终弃了女仆 Elsie，导致其在贫困中死去。Temperance 是 Elsie 的私生女，长大后带着当年 Stokes 写给母亲的情书回到庄园，与 Stokes 相认。两人结成同盟，Stokes 决定协助 Temperance 完成复仇。（伏线：Temperance 编造律师证词，说 Conrad 带着一名“陌生男子”去修改遗嘱，是误导大家以为 Conrad 有一名私生儿子。）
 > 
 > 封锁当晚，Temperance 假装封死自己房间，实则爬出窗户，顺着烟囱潜入书房（伏线：Jarvis 手上的煤灰是在调查烟囱）。Stokes 在书房里假装帮子爵封死壁炉，实则暗中接应 Temperance。他借口“彗星有异象”，将子爵骗到壁炉前，Temperance 用偷来的十字弩近距离射穿了子爵的眼睛（伏线：Temperance 一直在林中练习射箭）。事后，Temperance 原路返回，Stokes 则留下来清理现场（伏线：门缝下的棉絮带血，是因为用来擦拭血迹），用木板将壁炉封死。Stokes 没有离开房间，而是在尸体旁守了一整夜。第二天早上，当 Stephen 和 Lowen 撞开门时，屋内一片漆黑，Stokes 端着茶盘躲在门后的阴影中。他趁众人的注意力被尸体吸引，悄无声息地滑出房间，站到了门外 Temperance 的身后。他故意摔碎手中的茶壶，假装刚刚赶到。（伏线：打碎的那壶茶没有冒出一丝热气，是因为它在前一晚泡好，早已放冷。壁炉上方的凸面镜被 Stoke 提前移除，以免破门而入的人通过镜子反光看到门后有人。Stokes 谎称早上接到了子爵的电话。）
 
