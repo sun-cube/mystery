@@ -5,7 +5,7 @@
 | 1   | [[../../Jill McGown/1987 The Stalking Horse\|The Stalking Horse]] | Jill McGown        |
 | 2   | Top Storey Murder                                                 | Anthony Berkeley   |
 | 3   | Jumping Jenny                                                     | Anthony Berkeley   |
-| 4   | [[../../Paul Halter/1987 La quatrième porte\|La quatrième porte]] | Paul Halter        |
+| 4   | [[../../Paul Halter/1987 La Quatrième Porte\|La quatrième porte]] | Paul Halter        |
 | 5   | The Vanished Man                                                  | Jefferey Deaver    |
 | 6   | The Death Collectors                                              | Jack Kerley        |
 | 7   | Murder on the Way!                                                | Theodore Roscoe    |

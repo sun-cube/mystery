@@ -69,19 +69,19 @@ source: https://mysteryfile.com/Locked_Rooms/Library.html
 | 41    | A. Gensoul & C. Grenier          | La Mort vient de nulle part                                                                        | 1945 |
 | 42    | Alexis Gensoul                   | L’Énigme de Téfaha                                                                                 | 1945 |
 | 43    | Alan Green                       | What a Body!                                                                                       | 1949 |
-| 44    | Paul Halter                      | [[/Paul Halter/1987 La quatrième porte\|La quatrième porte]]                                       | 1987 |
+| 44    | Paul Halter                      | [[../Paul Halter/1987 La Quatrième Porte\|La quatrième porte]]                                       | 1987 |
 | 45    | Paul Halter                      | Le Brouillard rouge                                                                                | 1988 |
 | 46    | Paul Halter                      | La Mort vous invite                                                                                | 1988 |
-| 47    | Paul Halter                      | [[/Paul Halter/1991 La septième hypothèse\|La septième hypothèse]]                                 | 1991 |
+| 47    | Paul Halter                      | [[../Paul Halter/1991 La Septième Hypothèse\|La septième hypothèse]]                                 | 1991 |
 | 48    | Paul Halter                      | La Tête du tigre                                                                                   | 1991 |
-| 49    | Paul Halter                      | [[/Paul Halter/1993 Le diable de Dartmoor\|Le diable de Dartmoor]]                                 | 1993 |
-| 50    | Paul Halter                      | [[/Paul Halter/1994 Le roi du désordre\|Le roi du désordre]]                                       | 1994 |
-| 51    | Paul Halter                      | [[/Paul Halter/1995 L'image trouble\|L'image trouble]]                                             | 1995 |
-| 52    | Paul Halter                      | [[/Paul Halter/1996 Le cercle invisible\|Le cercle invisible]]                                     | 1996 |
-| 53    | Paul Halter                      | [[/Paul Halter/1997 Les sept merveilles du crime\|Les sept merveilles du crime]]                   | 1997 |
+| 49    | Paul Halter                      | [[../Paul Halter/1993 Le Diable de Dartmoor\|Le diable de Dartmoor]]                                 | 1993 |
+| 50    | Paul Halter                      | [[../Paul Halter/1994 Le Roi du désordre\|Le roi du désordre]]                                       | 1994 |
+| 51    | Paul Halter                      | [[../Paul Halter/1995 L’Image trouble\|L'image trouble]]                                             | 1995 |
+| 52    | Paul Halter                      | [[../Paul Halter/1996 Le Cercle invisible\|Le cercle invisible]]                                     | 1996 |
+| 53    | Paul Halter                      | [[../Paul Halter/1997 Les Sept Merveilles du crime\|Les sept merveilles du crime]]                   | 1997 |
 | 54    | Paul Halter                      | Meurtre dans un manoir anglais                                                                     | 1998 |
 | 55    | Paul Halter                      | L’Allumette sanglante                                                                              | 2001 |
-| 56    | Paul Halter                      | [[/Paul Halter/2005 La ruelle fantôme\|La ruelle fantôme]]                                         | 2005 |
+| 56    | Paul Halter                      | [[../Paul Halter/2005 La Ruelle fantôme\|La ruelle fantôme]]                                         | 2005 |
 | 57    | Paul Harding                     | The Nightingale Gallery                                                                            | 1990 |
 | 58    | Michel Herbert & Eugene Wyl      | La Maison interdite                                                                                | 1932 |
 | 59    | Marcel Lanteaume                 | La Treizième balle                                                                                 | 1948 |
