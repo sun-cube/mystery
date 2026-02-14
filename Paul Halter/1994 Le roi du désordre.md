@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: Le roi du désordre
+title: Le Roi du désordre
 publication_year: 1994
 category: French mystery
 tags:
@@ -10,7 +10,7 @@ tags:
 wordpress_id: 7587
 ---
 
-# Paul Halter, <i>Le roi du désordre</i> (1994)
+# Paul Halter, <i>Le Roi du désordre</i> (1994)
 
 中译《混乱之王》，英译 <i>The Lord of Misrule</i>。
 

@@ -10,7 +10,7 @@ tags:
 wordpress_id: 7610
 ---
 
-# Paul Halter, <i>Les sept merveilles du crime</i> (1997)
+# Paul Halter, <i>Les Sept Merveilles du crime</i> (1997)
 
 ![[images/1997_cover.jpg|250]]
 

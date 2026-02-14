@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: L'homme qui aimait les nuages
+title: L’Homme qui aimait les nuages
 publication_year: 1999
 category: French mystery
 tags:
@@ -8,7 +8,7 @@ tags:
 wordpress_id: 7871
 ---
 
-# Paul Halter, <i>L'homme qui aimait les nuages</i> (1999)
+# Paul Halter, <i>L’Homme qui aimait les nuages</i> (1999)
 
 ![[images/1999b_cover.jpg|250]]
 

@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: Le mystère de l'Allée des Anges
+title: Le Mystère de l’Allée des Anges
 publication_year: 1999
 category: French mystery
 tags:
@@ -10,7 +10,7 @@ tags:
 wordpress_id: 7863
 ---
 
-# Paul Halter, <i>Le mystère de l'Allée des Anges</i> (1999)
+# Paul Halter, <i>Le Mystère de l’Allée des Anges</i> (1999)
 
 ![[images/1999_cover.jpg|250]]
 

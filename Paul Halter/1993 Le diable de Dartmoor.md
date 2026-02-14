@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: Le diable de Dartmoor
+title: Le Diable de Dartmoor
 publication_year: 1993
 category: French mystery
 tags:
@@ -9,7 +9,7 @@ tags:
 wordpress_id: 7583
 ---
 
-# Paul Halter, <i>Le diable de Dartmoor</i> (1993)
+# Paul Halter, <i>Le Diable de Dartmoor</i> (1993)
 
 ![[images/1993_cover.jpg|250]]
 

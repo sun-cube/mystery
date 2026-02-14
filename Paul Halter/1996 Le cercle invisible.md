@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: Le cercle invisible
+title: Le Cercle invisible
 publication_year: 1996
 category: French mystery
 tags:
@@ -9,7 +9,7 @@ tags:
 wordpress_id: 7604
 ---
 
-# Paul Halter, <i>Le cercle invisible</i> (1996)
+# Paul Halter, <i>Le Cercle invisible</i> (1996)
 
 ![[images/1996_cover.jpg|250]]
 

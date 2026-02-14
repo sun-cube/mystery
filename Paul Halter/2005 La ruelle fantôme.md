@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: La ruelle fantôme
+title: La Ruelle fantôme
 publication_year: 2005
 category: French mystery
 tags:
@@ -8,7 +8,7 @@ tags:
 wordpress_id: 7857
 ---
 
-# Paul Halter, <i>La ruelle fantôme</i> (2005)
+# Paul Halter, <i>La Ruelle fantôme</i> (2005)
 
 ![[images/2005_cover.jpg|250]]
 

@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: L'image trouble
+title: L’Image trouble
 publication_year: 1995
 category: French mystery
 tags:
@@ -9,7 +9,7 @@ tags:
 wordpress_id: 7766
 ---
 
-# Paul Halter, <i>L'image trouble</i> (1995)
+# Paul Halter, <i>L’Image trouble</i> (1995)
 
 ![[images/1995_cover.jpg|250]]
 

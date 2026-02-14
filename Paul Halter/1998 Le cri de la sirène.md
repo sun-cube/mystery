@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: Le cri de la sirène
+title: Le Cri de la sirène
 publication_year: 1998
 category: French mystery
 tags:
@@ -9,7 +9,7 @@ tags:
 wordpress_id: 7948
 ---
 
-# Paul Halter, <i>Le cri de la sirène</i> (1998)
+# Paul Halter, <i>Le Cri de la sirène</i> (1998)
 
 ![[images/1998_cover.jpg|250]]
 

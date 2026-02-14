@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: La septième hypothèse
+title: La Septième Hypothèse
 publication_year: 1991
 category: French mystery
 tags:
@@ -9,7 +9,7 @@ tags:
 wordpress_id: 7503
 ---
 
-# Paul Halter, <i>La septième hypothèse</i> (1991)
+# Paul Halter, <i>La Septième Hypothèse</i> (1991)
 
 ![[images/1991_cover.jpg|250]]
 

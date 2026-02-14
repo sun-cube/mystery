@@ -1,6 +1,6 @@
 ---
 author: Paul Halter
-title: La quatrième porte
+title: La Quatrième Porte
 publication_year: 1987
 category: French mystery
 tags:
@@ -12,7 +12,7 @@ tags:
 wordpress_id: 7778
 ---
 
-# Paul Halter, <i>La quatrième porte</i> (1987)
+# Paul Halter, <i>La Quatrième Porte</i> (1987)
 
 ![[images/1987_cover.jpg|250]]
 
