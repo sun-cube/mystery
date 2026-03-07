@@ -3,6 +3,8 @@ author: Michael Innes
 title: There Came Both Mist and Snow
 publication_year: 1940
 category: English mystery
+tags:
+  - multiple_solutions
 wordpress_id: 8597
 ---
 
