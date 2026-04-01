@@ -33,7 +33,7 @@
 | 29  | 鴉                                                                                      | 麻耶雄嵩              |
 | 30  | [[/殊能将之/1999 ハサミ男\|ハサミ男]]                                                              | 殊能将之              |
 | 30  | 人狼城の恐怖                                                                                 | 二階堂黎人             |
-| 32  | The Dutch Shoe Mystery                                                                 | Ellery Queen      |
+| 32  | [[/Ellery Queen/1931 The Dutch Shoe Mystery\|The Dutch Shoe Mystery]]                  | Ellery Queen      |
 | 33  | 匣の中の失楽                                                                                 | 竹本健治              |
 | 34  | The Second Shot                                                                        | Anthony Berkeley  |
 | 35  | 妖異金瓶梅                                                                                  | 山田風太郎             |
