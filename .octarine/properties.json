@@ -1,0 +1,82 @@
+[
+  {
+    "name": "tags",
+    "type": "tags",
+    "options": null
+  },
+  {
+    "name": "Status",
+    "type": "list",
+    "options": [
+      "Draft",
+      "In Progress",
+      "Under Review",
+      "Published"
+    ]
+  },
+  {
+    "name": "Word Count",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "Due Date",
+    "type": "date",
+    "options": null
+  },
+  {
+    "name": "Last Edited",
+    "type": "datetime",
+    "options": null
+  },
+  {
+    "name": "Published",
+    "type": "checkbox",
+    "options": null
+  },
+  {
+    "name": "Author",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "oct.related",
+    "type": "list",
+    "options": null
+  },
+  {
+    "name": "source",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "category",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "wordpress_id",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "author",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "title",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "publication_year",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "aliases",
+    "type": "list",
+    "options": null
+  }
+]
