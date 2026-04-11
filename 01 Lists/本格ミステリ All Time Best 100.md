@@ -13,7 +13,7 @@
 | 9   | And Then There Were None                                                               | Agatha Christie   |
 | 10  | The Tragedy of Y                                                                       | Ellery Queen      |
 | 11  | 虚無への供物                                                                                 | 中井英夫              |
-| 12  | 生ける屍の死                                                                                 | 山口雅也              |
+| 12  | [[/山口雅也/1989 生ける屍の死\|生ける屍の死]]                                                          | 山口雅也              |
 | 13  | The Tragedy of X                                                                       | Ellery Queen      |
 | 14  | [[/John Dickson Carr/1935 The Three Coffins\|The Three Coffins]]                       | John Dickson Carr |
 | 15  | 斜め屋敷の犯罪                                                                                | 島田荘司              |
@@ -27,7 +27,7 @@
 | 23  | The Poisoned Chocolates Case                                                           | Anthony Berkeley  |
 | 24  | 絡新婦の理                                                                                  | 京極夏彦              |
 | 24  | 名探偵の蔷薇を                                                                                | 城平京               |
-| 26  | 螢                                                                                      | 麻耶雄嵩              |
+| 26  | [[/麻耶雄嵩/2004 螢\|螢]]                                                                    | 麻耶雄嵩              |
 | 27  | 孤島パズル                                                                                  | 有栖川有栖             |
 | 28  | 人形はなぜ殺される                                                                              | 高木彬光              |
 | 29  | 鴉                                                                                      | 麻耶雄嵩              |
@@ -68,7 +68,7 @@
 | 63  | 明治断頭台                                                                                  | 山田風太郎             |
 | 63  | Tour de Force                                                                          | Christianna Brand |
 | 66  | 名探偵の掟                                                                                  | 東野圭吾              |
-| 66  | 隻眼の少女                                                                                  | 麻耶雄嵩              |
+| 66  | [[/麻耶雄嵩/2010 隻眼の少女\|隻眼の少女]]                                                            | 麻耶雄嵩              |
 | 68  | Last Seen Wearing                                                                      | Colin Dexter      |
 | 69  | Trial and Error                                                                        | Anthony Berkeley  |
 | 70  | 空飛ぶ馬                                                                                   | 北村薫               |
@@ -81,7 +81,7 @@
 | 77  | アルバトロスは羽ばたかない                                                                          | 七河迦南              |
 | 78  | [[/依井貴裕/1999 夜想曲\|夜想曲]]                                                                | 依井貴裕              |
 | 78  | How Like an Angel                                                                      | Margaret Millar   |
-| 78  | 女王国の城                                                                                  | 有栖川有栖             |
+| 78  | [[/有栖川有栖/2007 女王国の城\|女王国の城]]                                                           | 有栖川有栖             |
 | 81  | [[/Gaston Leroux/1907 Le mystère de la chambre jaune\|Le mystère de la chambre jaune]] | Gaston Leroux     |
 | 81  | しあわせの書                                                                                 | 泡坂妻夫              |
 | 83  | そして扉が閉ざされた                                                                             | 岡嶋二人              |
