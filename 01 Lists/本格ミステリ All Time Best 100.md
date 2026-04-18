@@ -32,7 +32,7 @@
 | 28  | 人形はなぜ殺される                                                                              | 高木彬光              |
 | 29  | 鴉                                                                                      | 麻耶雄嵩              |
 | 30  | [[/殊能将之/1999 ハサミ男\|ハサミ男]]                                                              | 殊能将之              |
-| 30  | 人狼城の恐怖                                                                                 | 二階堂黎人             |
+| 30  | [[/二階堂黎人/1998 人狼城の恐怖 第四部 完結編\|人狼城の恐怖]]                                                 | 二階堂黎人             |
 | 32  | [[/Ellery Queen/1931 The Dutch Shoe Mystery\|The Dutch Shoe Mystery]]                  | Ellery Queen      |
 | 33  | 匣の中の失楽                                                                                 | 竹本健治              |
 | 34  | The Second Shot                                                                        | Anthony Berkeley  |
