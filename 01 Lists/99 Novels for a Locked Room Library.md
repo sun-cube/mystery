@@ -126,7 +126,7 @@ source: https://mysteryfile.com/Locked_Rooms/Library.html
 | 98    | Dennis Wheatley                  | The Malinsay Massacre                                                                              | 1938 |
 | 99    | Horatio Winslow & Leslie Quirk   | Into Thin Air                                                                                      | 1928 |
 
-# 14 Novels not available in French
+# 12 novels not available in French
 
 | Rank | Author           | Title                     | Year |
 | ---- | ---------------- | ------------------------- | ---- |
