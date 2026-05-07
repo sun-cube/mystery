@@ -40,7 +40,7 @@
 | 35  | [[/John Dickson Carr/1937 The Burning Court\|The Burning Court]]                       | John Dickson Carr |
 | 37  | The Murder of Roger Ackroyd                                                            | Agatha Christie   |
 | 38  | The Egyptian Cross Mystery                                                             | Ellery Queen      |
-| 39  | すべてがFになる                                                                               | 森博嗣               |
+| 39  | [[/森博嗣/1996 すべてが F になる\|すべてが F になる]]                                                   | 森博嗣               |
 | 40  | 大誘拐                                                                                    | 天藤真               |
 | 41  | 叫びと祈り                                                                                  | 梓崎優               |
 | 42  | 密閉教室                                                                                   | 法月綸太郎             |
