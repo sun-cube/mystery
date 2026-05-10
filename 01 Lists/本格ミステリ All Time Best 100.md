@@ -54,8 +54,8 @@
 | 50  | 夜よ鼠たちのために                                                                              | 連城三紀彦             |
 | 51  | [[/John Dickson Carr/1942 The Emperor's Snuff-Box\|The Emperor's Snuff-Box]]           | John Dickson Carr |
 | 52  | 奇想、天を動かす                                                                               | 島田荘司              |
-| 53  | 折れた竜骨                                                                                  | 米澤穂信              |
-| 54  | 鏡の中は日曜日                                                                                | 殊能将之              |
+| 53  | [[/米澤穂信/2010 折れた竜骨\|折れた竜骨]]                                                            | 米澤穂信              |
+| 54  | [[/殊能将之/2001 鏡の中は日曜日\|鏡の中は日曜日]]                                                        | 殊能将之              |
 | 54  | [[/Carter Dickson/1938 The Judas Window\|The Judas Window]]                            | John Dickson Carr |
 | 56  | りら荘事件                                                                                  | 鮎川哲也              |
 | 57  | 11枚のとらんぷ                                                                               | 泡坂妻夫              |
