@@ -8,6 +8,8 @@ wordpress_id: 9238
 
 # Kristen Perrin, <i>How to Cheat Your Own Death</i> (2026)
 
+![[images/2026_cover.jpg|250]]
+
 主要出场人物：
 - Annie Adams：作家，主人公。
 - Frances Adams：Annie 的姑奶奶。
