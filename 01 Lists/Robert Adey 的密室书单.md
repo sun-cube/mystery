@@ -19,7 +19,7 @@
 | 15    | Max Afford                       | The Dead Are Blind                                                                     | 1937 |
 | 16    | Rupert Penny                     | Policeman’s Evidence                                                                   | 1938 |
 | 17    | Carter Dickson                   | [[/Carter Dickson/1938 The Judas Window\|The Judas Window]]                            | 1938 |
-| 18    | Clayton Rawson                   | Death From a Top Hat                                                                   | 1938 |
+| 18    | Clayton Rawson                   | [[/Clayton Rawson/1938 Death from a Top Hat\|Death from a Top Hat]]                    | 1938 |
 | 19    | Agatha Christie                  | Hercule Poirot’s Christmas                                                             | 1939 |
 | 20    | H. H. Holmes                     | [[/Anthony Boucher/1940 Nine Times Nine\|Nine Times Nine]]                             | 1940 |
 | 21    | Edmund Crispin                   | The Case of the Gilded Fly                                                             | 1944 |

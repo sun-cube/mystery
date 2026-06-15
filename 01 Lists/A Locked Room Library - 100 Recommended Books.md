@@ -8,9 +8,9 @@ source: https://theinvisibleevent.com/2022/12/10/a-locked-room-library/
 | :---- | :------------------------------------------------------ | :--- | :------------------------------- |
 | 1     | Blood on His Hands                                      | 1937 | Max Afford                       |
 | 2     | His Burial Too                                          | 1973 | Catherine Aird                   |
-| 3     | The Moai Island Puzzle                                  | 1989 | Alice Arisugawa                  |
+| 3     | 孤島パズル                                                   | 1989 | 有栖川有栖                            |
 | 4     | The Mystery of the Vanishing Treasure                   | 1966 | Robert Arthur                    |
-| 5     | The Decagon House Murders                               | 1987 | Yukito Ayatsuji                  |
+| 5     | 十角館の殺人                                                  | 1987 | 綾辻行人                             |
 | 6     | The Wintringham Mystery (Cicely Disappears)             | 1927 | Anthony Berkeley                 |
 | 7     | The Three Tiers of Fantasy                              | 1947 | Norman Berrow                    |
 | 8     | The Bishop's Sword                                      | 1948 | Norman Berrow                    |
@@ -98,7 +98,7 @@ source: https://theinvisibleevent.com/2022/12/10/a-locked-room-library/
 | 90    | Come to Paddington Fair                                 | 1954 | Derek Smith                      |
 | 91    | The Hangman’s Handyman                                  | 1942 | Hake Talbot                      |
 | 92    | Rim of the Pit                                          | 1944 | Hake Talbot                      |
-| 93    | Murder in the Crooked House                             | 1982 | Shimada Soji                     |
+| 93    | 斜め屋敷の犯罪                                                 | 1982 | 島田荘司                             |
 | 94    | The Killing of Polly Carter                             | 2015 | Robert Thorogood                 |
 | 95    | The House that Kills                                    | 1932 | Noel Vindry                      |
 | 96    | The Howling Beast                                       | 1934 | Noel Vindry                      |
