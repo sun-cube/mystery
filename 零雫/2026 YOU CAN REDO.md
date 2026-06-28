@@ -7,7 +7,7 @@ tags:
   - impossible_crime
   - locked_room
   - special_setting
-wordpress_id:
+wordpress_id: 9397
 ---
 
 # 零雫『不死侦探・冷堂紅葉04 YOU CAN REDO』(2026)
