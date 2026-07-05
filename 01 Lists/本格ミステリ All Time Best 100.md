@@ -25,7 +25,7 @@
 | 21  | [[/Ellery Queen/1932 The Greek Coffin Mystery\|The Greek Coffin Mystery]]              | Ellery Queen      |
 | 22  | Death of Jezebel                                                                       | Christianna Brand |
 | 23  | The Poisoned Chocolates Case                                                           | Anthony Berkeley  |
-| 24  | 絡新婦の理                                                                                  | 京極夏彦              |
+| 24  | [[/京極夏彦/1996 絡新婦の理\|絡新婦の理]]                                                            | 京極夏彦              |
 | 24  | 名探偵の蔷薇を                                                                                | 城平京               |
 | 26  | [[/麻耶雄嵩/2004 螢\|螢]]                                                                    | 麻耶雄嵩              |
 | 27  | 孤島パズル                                                                                  | 有栖川有栖             |
