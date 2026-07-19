@@ -20,7 +20,7 @@
 | 16  | The Innocence of Father Brown                                                          | G. K. Chesterton  |
 | 17  | 本陣殺人事件                                                                                 | 横溝正史              |
 | 17  | [[/麻耶雄嵩/1993 夏と冬の奏鳴曲\|夏と冬の奏鳴曲]]                                                        | 麻耶雄嵩              |
-| 19  | 翼ある闇                                                                                   | 麻耶雄嵩              |
+| 19  | [[/麻耶雄嵩/1991 翼ある闇 メルカトル鮎最後の事件\|翼ある闇]]                                                  | 麻耶雄嵩              |
 | 20  | [[/京極夏彦/1995 魍魎の匣\|魍魎の匣]]                                                              | 京極夏彦              |
 | 21  | [[/Ellery Queen/1932 The Greek Coffin Mystery\|The Greek Coffin Mystery]]              | Ellery Queen      |
 | 22  | Death of Jezebel                                                                       | Christianna Brand |
