@@ -35,7 +35,7 @@ Merak 赶到先前去过的 Rishemi 木屋，发现主路外藏着一辆空车�
 
 Merak 相信 Wesnechek 的供词，但 Charles Dempster 的密室死亡手法仍未解开。Merak 认为 Carol 隐瞒了内情，计划再找她问话。Merak 回到事务所，发现办公室被人翻找，保险箱锁旁打了孔，插着雷管导线。他拆除装置，确认文件没有丢失，猜测 Wesnechek 的手下听说老板已死，便不再帮他寻找文件。他决定暂不通知 Harry Grenville。
 
-深夜，Merak、Dawn 重返 Dempster 宅邸。Carol 不愿再接受盘问，Merak 表示若她拒绝回答，便申请搜查令，带她去警局，Carol 只得让两人进屋。Carol 说，Kauftmann 和 Charles 熟悉，警方检查父亲店内的保险箱时，多由 Kauftmann 负责。Merak 听后不再追问，离开前谎称 Grenville 会在次日下午 2 点召集众人到此。出门后，Merak 看见窗后有人监视，让 Dawn 走在前面防备袭击，决定先查明 Charles 的密室谜团。次日下午，Grenville 依 Merak 传达的安排，和 Kauftmann、Carol 等人来到 Dempster 宅邸，由Merak 揭露凶手。
+深夜，Merak、Dawn 重返 Dempster 宅邸。Carol 不愿再接受盘问，Merak 表示若她拒绝回答，便申请搜查令，带她去警局，Carol 只得让两人进屋。Carol 说，Kauftmann 和 Charles 熟悉，警方检查父亲店内的保险箱时，多由 Kauftmann 负责。Merak 听后不再追问，离开前谎称 Grenville 会在次日下午 2 点召集众人到此。出门后，Merak 看见窗后有人监视，让 Dawn 走在前面防备袭击，决定先查明 Charles 的密室谜团。次日下午，Grenville 依 Merak 传达的安排，和 Kauftmann、Carol 等人来到 Dempster 宅邸，由 Merak 揭露凶手。
 
 > [!spoiler]- 密室诡计
 > 
