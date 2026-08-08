@@ -42,7 +42,7 @@ Anty 赶到 <i>Herding House</i>，得知 Azalea 和 Monty 已去树林散步，
 
 > [!spoiler]- 风向标真相
 > 
-> Barking 挪用了本应用于铸造实心青铜 Hildy 的预算，实际做的是锡制风向标再镀上一层黄铜色金属。严寒和日照造成锡的热胀冷缩，外层镀层开裂脱落，因此钟楼上的“金色青铜牛”自行变回了锡色。Barking 发现后，把博物馆原来的锡牛藏了起来，制造出“青铜牛被偷，博物馆锡牛换上钟楼”的假象（伏线：Barking 一直在进行不成功的电镀试验，教堂台阶上的金色碎屑是脱落的镀层）。
+> Barking 挪用了本应用于铸造实心青铜 Hildy 的预算，实际做的是锡制风向标再镀上一层黄铜色金属。严寒和日照造成锡的热胀冷缩，外层镀层开裂脱落，钟楼上的“金色青铜牛”自行变回了锡色。Barking 发现后，把博物馆原来的锡牛藏了起来，制造出“青铜牛失窃，博物馆锡牛换上钟楼”的假象（伏线：Barking 一直在进行不成功的电镀试验，教堂台阶上的金色碎屑是脱落的镀层）。
 
 > [!spoiler]- Cosmo 鬼魂真相
 > 
@@ -50,13 +50,13 @@ Anty 赶到 <i>Herding House</i>，得知 Azalea 和 Monty 已去树林散步，
 
 > [!spoiler]- Fleming 鬼魂真相
 > 
-> Fleming 死后又去 <i>Sulky Cow</i> 并不是鬼魂，而是因为村里同时存在两个“Flaps Fleming”，其中一个是律师 Josilyn Boodle 冒充。Sally、Barking、Soaky 在过去半年内一直把 Boodle 当成 Fleming，然而，真正住在 <i>Tannery Lodge</i> 的人和酒馆里那个爱讲战争故事的“英雄”不是同一个人（伏线：尸体的眼罩在右眼，而酒馆里的冒牌 Fleming 遮的是左眼）。Boodle 对 Fleming 的财产和生活经历极为熟悉，又刻意留胡子，戴眼罩，讲他的战争故事，足以骗过那些此前根本没有见过 Fleming 的酒馆常客。真正的 Fleming 性格孤僻，主要由 Azalea、Padget 接触。Barking、Cosmo 声称去过 <i>Tannery Lodge</i>，还见过里面大量的战争纪念物，反而暴露了谎言。屋里除了那张中队合影之外，几乎没有战争纪念品。Barking 为了掩饰自己根本没认真制作 Fleming 的纪念铜像，假装曾让 Fleming 坐着供他塑像。Cosmo 为了掩饰自己传记工作毫无进展，也假装多次拜访，查看资料。
+> Fleming 死后又去 <i>Sulky Cow</i> 并不是鬼魂，而是村里同时存在两个“Flaps Fleming”，其中一个是律师 Josilyn Boodle 冒充。Sally、Barking、Soaky 在过去半年内一直把 Boodle 当成 Fleming，然而，真正住在 <i>Tannery Lodge</i> 的人和酒馆里那个爱讲战争故事的“英雄”不是同一个人（伏线：尸体的眼罩在右眼，而酒馆里的冒牌 Fleming 遮的是左眼）。Boodle 对 Fleming 的财产和生活经历极为熟悉，又刻意留胡子，戴眼罩，讲他的战争故事，足以骗过那些此前根本没有见过 Fleming 的酒馆常客。真正的 Fleming 性格孤僻，主要由 Azalea、Padget 接触。Barking、Cosmo 声称去过 <i>Tannery Lodge</i>，还见过里面大量的战争纪念物，反而暴露了谎言。屋里除了那张中队合影之外，几乎没有战争纪念品。Barking 为了掩饰自己根本没认真制作 Fleming 的纪念铜像，假装曾让 Fleming 坐着供他塑像。Cosmo 为了掩饰自己传记工作毫无进展，也假装多次拜访，查看资料。
 
-> [!spoiler]- 凶手身份
+> [!spoiler]- 无足迹杀人真相
 > 
 > 平安夜 Monty 在酒馆讲起旧事，告诉 Everett，他的父亲 Trimble 当年因为深度知觉不好，不适合当飞行员，是 Fleming 把他调去做地勤，避免他上天作战。Everett 却把这件事理解成 Fleming 因为嫉妒而压制父亲，把父亲后来死于飞机螺旋桨的意外也归咎于 Fleming。他积压多年的怨恨在刺激下爆发，当晚离开 <i>Sulky Cow</i>，沿山路去了 <i>Tannery Lodge</i>，杀死了住在那里的 Fleming。警方一直以为那串脚印是 Fleming 从家走到酒馆，再从酒馆回来留下的，于是认定死者圣诞日上午还活着。实际上方向相反，那是 Everett 从酒馆前往 <i>Tannery Lodge</i> 杀人，之后再走回酒馆的足迹。Azalea 清晨前往小屋，留下第二组脚印，发现尸体。Everett 为了制造“死者早晨仍活着”的假象，往壁炉里放了一根冻硬的木头。木头先解冻，然后才逐渐燃烧，误导警方以为火是在当天早晨新添的。他为了掩饰因此产生的异常灰烬，又顺手烧掉《战争回忆录》第一卷，将注意力转向“为什么要烧这本书”。
 > 
-> Cosmo 怀疑雪地脚印的方向反了，又在 Boodle 的版权法小册子上看到 Boodle 本人的照片（伏线），发现了冒名关系。他本想借此胁迫 Boodle 转让传记的相关权益，将这一重大发现告诉了 Everett，结果反被 Everett 灭口。
+> Anty 演唱 Padget 的诗稿，因为诗稿被水弄花，即兴唱成了“In my footsteps thou must tread”（你须踏着我的足迹前行）。Cosmo 受歌词启发，看穿了雪地脚印的真相，又在 Boodle 的版权法小册子上看到 Boodle 本人的照片（伏线），发现了冒名关系。他本想借此胁迫 Boodle 转让传记的相关权益，将这一重大发现告诉了 Everett，结果反被 Everett 灭口。
 
 > [!spoiler]- 身份真相
 > 
