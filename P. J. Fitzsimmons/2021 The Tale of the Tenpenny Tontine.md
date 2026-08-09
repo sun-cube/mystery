@@ -51,22 +51,22 @@ Anty 让 Vickers 向 Ivor 发电报，宣告已解开谜题，要求晚 7 点将
 > 
 > Hadley 所在的 Swashbucklers 俱乐部其实是个以编造英雄事迹为乐的吹嘘者社团，Hadley 的各种异国历险全是谎言，Ratcliffe、Hadley 长期使用轮椅也只是恶作剧伪装（伏线：Hadley 经常去俱乐部的楼上沙龙，需要走一段狭窄楼梯）。
 > 
-> Ratcliffe 和侄子 Lager 事先串通，想制造一场“Ratcliffe 决斗获胜后死亡”的戏。真正的决斗开始前，Ratcliffe 提前装好了自己的枪，而 Hadley 的枪不能正常发挥作用。Ratcliffe 先开枪杀死 Hadley，随后开了第二枪，制造两人互射的声音。他将 Hadley 的血抹在自己的衬衫上，在地板上用血留下“I win”的信息，证明自己比 Hadley 活得更久。Ratcliffe 曾以买地贿赂验尸官 Babbage，让他开具假的死亡证明。按照计划，Ratcliffe 只需要躺在那里一段时间装尸体，等 Babbage 宣布“死亡”，之后便可悄悄消失。这个计划既可让 Ratcliffe 逃避杀人的法律责任，也可以让 Lager 继承 Ratcliffe 的“遗产”。
+> Ratcliffe 和侄子 Lager 事先串通，想制造一场“Ratcliffe 决斗获胜后死亡”的戏。真正的决斗开始前，Ratcliffe 提前装好了自己的枪，而 Hadley 的枪不能正常发挥作用。Ratcliffe 先开枪杀死 Hadley，接着开了第二枪，制造两人互射的声音。他将 Hadley 的血抹在自己的衬衫上，在地板上用血留下“I win”的信息，证明自己比 Hadley 活得更久。Ratcliffe 曾以买地贿赂验尸官 Babbage，让他开具假的死亡证明。按照计划，Ratcliffe 只需要躺在那里一段时间装尸体，等 Babbage 宣布“死亡”，之后便可悄悄消失。这个计划既可以让 Ratcliffe 逃避杀人的法律责任，也可以让 Lager 顺位继承 Ratcliffe 继承的遗产。
 > 
-> Victoria、Brickstock 等人第一次破门进入时，Ratcliffe 只是坐在轮椅里装死。Victoria 相信两人已互相开枪毙命，她是 Hadley 一方的继承人，希望主张 Hadley 才是后死者，所以用鞋踩花了地上的血字，鞋底自然沾上了血。她送 Brickstock 到大门外，Lager 趁着这个短暂空当，从 Ratcliffe 手里的决斗手枪取下细长的通条（ramrod），将它直接刺入 Ratcliffe 的心脏。他在 Ratcliffe 的衬衫上擦掉血迹，把通条丢在地上，现场看起来像是“手枪通条掉落”，实际上那就是真正的凶器（伏线：Ratcliffe 手指上的血、Ratcliffe 衬衫上的血）。验尸官 Babbage 检查时草率敷衍，很快就填写了死亡证明离开。
+> Victoria、Brickstock 等人第一次破门进入时，Ratcliffe 只是坐在轮椅里装死。Victoria 相信两人已互相开枪毙命，看到了地上的血字。她是 Hadley 一方的继承人，希望主张 Hadley 才是后死者，所以用鞋踩花了地上的血字，鞋底自然沾上了血。她送 Brickstock 到大门外，Lager 趁着这个短暂空当，从 Ratcliffe 手里的决斗手枪取下细长的通条（ramrod），将它直接刺入 Ratcliffe 的心脏。他在 Ratcliffe 的衬衫上擦掉血迹，把通条丢在地上，现场看起来像是“手枪通条掉落”，实际上那就是真正的凶器（伏线：Ratcliffe 手指上的血、Ratcliffe 衬衫上的血）。验尸官 Babbage 检查时草率敷衍，很快就填写了死亡证明离开。
 
 > [!spoiler]- 第二起密室真相
 > 
 > Victoria 还没来得及处理沾血的鞋，Miss Belsize 就把鞋拿走了。Belsize 平时就有偷拿衣服、鞋子、雨伞转卖的习惯，将鞋塞进了赃物堆里。Brickstock 之前丢了一把雨伞，知道 Belsize 经常偷拿这些东西，于是去她的藏物处找伞，意外发现了这双带血的女鞋。Brickstock 拿鞋勒索 Victoria，Victoria 不想暴露血字的意义，使自己丢掉继承权，只好答应嫁给 Brickstock。Brickstock 为了保护证物，把鞋装进盒子里，寄给 Proctor 律所代为保管，后来落入 Chancy 手中。
 > 
-> Brickstock 注意到两声枪响相隔数秒，知道第一案并非真正互射。Ratcliffe 用 Hadley 的血在地上写字，所以鞋上沾的是 Hadley 的血。Brickstock 可以宣称是 Victoria 进入现场时，杀死了还活着的 Hadley，这样一来 Hadley 就是二人中后死的那个，Lager 将失去继承权。Lager 为了阻止这种情况发生，必须夺回血鞋。他用便条将 Brickstock 叫到 57 号大宅门厅，二人分生冲突，Lager 最终将 Brickstock 刺伤。Brickstock 逃进阅览室，反锁房门，失血而死。Lager 清理了门厅的血迹，制造出 Brickstock 在阅览室中刀的密室错觉。
+> Brickstock 注意到两声枪响相隔数秒，知道第一案并非真正互射。Ratcliffe 用 Hadley 的血在地上写字，所以鞋上沾的是 Hadley 的血。Brickstock 可以宣称 Victoria 进入现场时杀死了还活着的 Hadley，这样一来 Hadley 就变成了二人中后死的那个，Lager 将失去继承权。Lager 为了阻止这种推断，必须夺回血鞋。他用便条将 Brickstock 叫到 57 号大宅门厅，在冲突中将 Brickstock 刺伤。Brickstock 逃进阅览室，反锁房门，失血而死。Lager 清理了门厅的血迹，制造出 Brickstock 在阅览室中刀的密室错觉。
 > 
-> 第二天早上，Lager 去了 <i>Claridge's</i>，以 Brickstock 的名字订桌吃早餐，让 Chard 代读自己伪造的约见便条（伏线：Chard 记得该客人未吃完早餐离开，而真正的 Brickstock 不会放弃食物残渣）。如果上午收到的信是 Lager 伪造的，怎么可能出现在真正 Brickstock 的尸体口袋里？那是因为尸体口袋中本来就有一张相同文字的便条，二者并非同一张！出租车司机在 10:35 送到广场的“Brickstock”其实是 Lager。
+> 第二天早上，Lager 去了 <i>Claridge's</i>，以 Brickstock 的名字订桌吃早餐，让 Chard 代读自己伪造的约见便条（伏线：Chard 记得该客人未吃完早餐离开，而真正的 Brickstock 不会放弃食物残渣）。如果早上的便条是伪造的，怎么后来又会出现在 Brickstock 的尸体口袋里？那是因为尸体口袋中本来就有一张相同文字的便条，二者并非同一张！出租车司机在 10:35 送到广场的“Brickstock”其实是 Lager。
 > 
-> 众人 11:30 聚在一号宅邸时听见服务铃响，Belsize 在 3 号宅的服务区辨认出的信号来自 57 号阅览室的铃路，所以警方认为是 Brickstock 在阅览室里拉铃求救，但这只是 Lager 伪造的不在场证明。Lager 从 3 号宅邸拿走羊肉，引走狗 Lucifer，将其栓在连接铃板的绳子上。Lucifer 为吃羊肉，挣扎拉响服务铃，制造了众人皆在场的假象。（伏线：邮差当天难得地把 Quid 寄来的出生证明投进了邮箱，说明 Lucifer 虽然狂吠，却不能追赶邮差，因为它已经被 Lager 拴住了。）Lager 从警方那里听说 Anty 发现了 Lucifer 的破绽，将它困入地下室，企图用积水除掉这个“目击者”。
+> 众人 11:30 聚在一号宅邸时听见服务铃响，Belsize 在 3 号宅的服务区辨认出信号来自 57 号阅览室的铃路，所以警方认为是 Brickstock 在阅览室里拉铃求救，但这只是 Lager 伪造的不在场证明。Lager 从 3 号宅邸拿走羊肉，引走狗 Lucifer，将其拴在连接铃板的绳子上。Lucifer 为吃羊肉，挣扎拉响服务铃，制造了众人皆在场的假象。（伏线：邮差当天难得地把 Quid 寄来的出生证明投进了邮箱，说明 Lucifer 虽然狂吠，却不能追赶邮差，因为它已经被 Lager 拴住了。）Lager 从警方那里听说 Anty 发现了 Lucifer 的破绽，于是将 Lucifer 困入地下室，企图用积水除掉这个“目击者”。
 
 > [!spoiler]- 身份真相
 > 
-> Ratcliffe 认为自己能永远假死，是因为他计划回到 Gutter Folly，恢复本来身份——Quip 的父亲 Wist Keats。Quip 的祖母 Willow Willoughby 与当地牧师 Reverend Davidy Lloyd 参与了一套长期运作的骗局，将同一个男孩 Wist 的照片材料分别寄给 Terrence Tenpenny、Sir Bromley Baker、Lord Trilby、Bishop Cooley 等人，让每个人都相信自己有一个私生子，以此勒索。这解释了为什么 Gutter Folly 有那么多叫 Coleridge、Keats、Shelley、Byron、Wordsworth 的孩子。Davidy Lloyd 崇拜浪漫主义诗人，于是把这些诗人的姓氏当成“库存编号”，为 Wist 登记不同的出生记录。（伏线：Ratcliffe 的档案中缺少接种记录，是因为同一个身体只能接种一次。Anty 在 Ratcliffe 的伦敦住处看到很多他的童年照片，后来到了 Drab House，又在 Willow Willoughby 的旧写字台上看到完全相同的照片，而 Quip 一直把照片里的孩子认作自己的父亲 Wist。）
+> Ratcliffe 认为自己能永远假死，是因为他计划回到 Gutter Folly，恢复本来身份——Quip 的父亲 Wist Keats。Quip 的祖母 Willow Willoughby 与当地牧师 Reverend Davidy Lloyd 参与了一套长期运作的骗局，将同一个男孩 Wist 的照片材料分别寄给 Terrence Tenpenny、Sir Bromley Baker、Lord Trilby、Bishop Cooley 等人，让每个人都相信自己有一个私生子，以此勒索。这解释了为什么 Gutter Folly 有那么多叫 Coleridge、Keats、Shelley、Byron、Wordsworth 的孩子。Davidy Lloyd 崇拜浪漫主义诗人，把这些诗人的姓氏当成“库存编号”，为 Wist 登记不同的出生记录。（伏线：Ratcliffe 的档案中缺少接种记录，是因为同一个身体只能接种一次。Anty 在 Ratcliffe 的伦敦住处看到很多他的童年照片，后来到了 Drab House，又在 Willow Willoughby 的旧写字台上看到完全相同的照片，而 Quip 一直把照片里的孩子认作自己的父亲 Wist。）
 
 本作以遗产争夺为轴心，包含一起双尸决斗密室和一起刺杀密室。前半部分铺陈大量家族身份、海外传闻、寻宝线索，红鲱鱼虽显繁复，却在终局获得清晰的功能解释。末段进一步以身份错置与死亡顺序改写继承逻辑，结构野心尤其突出。部分行动对时机与胆量要求极高，现实感不免让位于舞台性，但作为古典本格式的双重密室遗产剧，伏线回收与多重反转仍然极具水准，阅读体验甚佳。
