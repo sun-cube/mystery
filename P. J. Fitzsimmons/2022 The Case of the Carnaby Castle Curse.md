@@ -6,7 +6,7 @@ category: English mystery
 tags:
   - impossible_crime
   - locked_room
-wordpress_id:
+wordpress_id: 9616
 ---
 
 # P. J. Fitzsimmons, <i>The Case of the Carnaby Castle Curse</i> (2022)
@@ -55,7 +55,6 @@ Ivor 探长、警员 Blewit 抵达图书室，Anty 带领他们来到二楼。Lu
 
 > [!spoiler]- 全员秘密
 > 
-> Anty 当众指出，解开案件的核心在于“伪装”：
 > - Carnaby 自称是伦敦 Juniper 俱乐部的富裕闲人，其实是那里的首席俱乐部总管，整天端茶倒水。
 > - Odd、Wandalen 假装竞争酒吧营业，其实在墓园陵墓中幽会，合谋维持两间酒吧分市经营的秘密（伏线：“巫术仪式”痕迹其实是他们野餐留下的鸡骨头和酒杯）。Cecil 取消 Kettle 的免租安排，直接触犯了二人对立分流的利益。
 > - Cecil 冒充富翁骗婚。Ludovica 是黑寡妇连环杀手。
@@ -65,6 +64,6 @@ Ivor 探长、警员 Blewit 抵达图书室，Anty 带领他们来到二楼。Lu
 
 > [!spoiler]- 密室诡计
 > 
-> Win 将 Anty 锁在地下墓穴中，潜入 Ludovica 的房间，企图销毁信件，撞见 Cecil 后将其杀害。他得以从密室中消失源于警方的疏忽。暗道是个死胡同，Win 杀人后打开暗道门，但其实未进暗道，而是躲在房间的阅读椅上（伏线：Cecil 曾藏在阅读椅里）。Ivor 探长冲进暗道追捕时，Win 走出房门，在走廊尾随 Lint 下到一楼。Anty 撞见 Lint 走进亚麻布储藏室时，Win 趁机溜回了自己的房间（伏线：Barnaby 和 Cressida 当时听到的开关门声并非储藏室的门，而是 Win 回房的声音）。
+> Win 将 Anty 锁在地下墓穴中，潜入 Ludovica 的房间，企图销毁信件，撞见 Cecil 后将其杀害。他得以从密室中消失源于警方的疏忽。暗道是个死胡同，Win 杀人后打开暗道门，但其实未进暗道，而是躲在房间的阅读椅上（伏线：Cecil 曾藏在阅读椅里）。Ivor 探长冲进暗道追捕时，Win 走出房门，在走廊尾随 Lint 下到一楼。Anty 撞见 Lint 走进亚麻布储藏室时，Win 趁机溜回了自己的房间（伏线：Barnaby、Cressida 听到的开关门声并非储藏室的门，而是 Win 回房的声音）。
 
 本作背景是古堡诅咒，谜题包括一起迷雾独自坠崖和一起密室逃脱。诡计方面不如前作，隐藏秘密和伏线设置仍见功力。
