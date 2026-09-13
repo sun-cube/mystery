@@ -6,6 +6,7 @@ category: English mystery
 tags:
   - impossible_crime
   - locked_room
+  - narrative_trick
 wordpress_id: 9693
 ---
 
