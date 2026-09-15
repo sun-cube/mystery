@@ -9,7 +9,7 @@ tags:
 wordpress_id: 9640
 ---
 
-# P. J. Fitzsimmons, <i>Foreboding Foretelling at Ficklehouse Felling</i> (2026)
+# P. J. Fitzsimmons, <i>Foreboding Foretelling at Ficklehouse Felling</i> (2023)
 
 ![[images/2023b_cover.jpg|250]]
 
