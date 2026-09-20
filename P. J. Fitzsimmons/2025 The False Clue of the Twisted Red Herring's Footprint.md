@@ -43,6 +43,12 @@ Vickers 警告烟草会让山羊严重生病，汇报 Anty 散布假消息后的
 > 
 > 杀死 Willy 的凶手是早已“死亡”的 Awfa Tichley。Awfa 把钩链抛给 Willy，让他拖过囚室，准备套上铁栏，却提前发动拖车，反复牵扯，以外力制造出仿佛在牢内遭到殴打、勒扯的伤势。警方过去从未真正见过 Awfa，却一直把他当成蠢笨副手，把频频落网的 Willy 当作首脑。
 
+> [!spoiler]- 身份真相
+> 
+> Edmund 想要逃避妻子安排的密集活动，而惯常替他顶班的儿子又在 Deauville，便让 Podberry 带着自己的证件假冒出席。那些场合没人认得 Edmund，Holly 自然找不到他。Podberry 也想逃掉 Claridge’s 的公开活动，于是 Edmund 又找来在煤窖结识的 Awfa 冒充 Podberry（伏线），200 英镑是报酬。Edmund 化名 Arthur Tichley，住进 Fray。真正的 Podberry 随后被电车撞死，Awfa 意外获得长期冒充这位学者的机会，还能领取出版社的终身津贴，唯一隐患是知情的 Edmund。于是他写信给次日即将获释的 Willy，依次取每组连续双写字母中的字母，以换行作空格，可读出“BLOKE IN FRAY CALLS HIMSELF TICHLEY GOT SWAG WORTH MILLIONS FIND IT NO MATTER WHAT”。也就是说，Willy 被指使去 Fray 找那个自称 Tichley 的男人，逼他交出价值百万的赃物。Willy 在狱中只需接收这种指令，再把内容说给警方听，便能制造自己隔墙操纵犯罪的假象。信里所谓第三者掌握罪证、警察受贿等内容，全是掩护密码的红鲱鱼。Edmund 拿不出不存在的赃物，因此在电车事故的次日被 Willy 杀害，Willy 后来的供认也就与他事故当日仍在服刑并不冲突。
+> 
+> Awfa 此后两次去停尸房。他第一次趁 Babbage 在场时，把 Edmund、Tichley 尸体的脚趾标签互换，使前来认尸的亲友确实看到 Edmund，却把他当成电车死者。第二次再由 Pendurby 接待，把标签换回，为正式验尸恢复原状，因此才被误以为在尸体上翻找遗物。Babbage 恰好离岗，让第二次换签得以顺利进行。
+
 > [!spoiler]- 遗物真相
 > 
 > Vickers 当年奉 Edmund 之命从 Canterfell Hall 偷走的只是那张旧地图，用来报复少校试图挖走管家，Canterfell 父子当日追索的也正是它。Domesday 遗物从未存在，只是后来人为制造的假线索。众人第一次听说它，都是在 Holly 替 Podberry 誊写那封询问档案机关的信之后，因此制造传言的人正是眼前的 Podberry，也即 Awfa Tichley。
@@ -50,11 +56,7 @@ Vickers 警告烟草会让山羊严重生病，汇报 Anty 散布假消息后的
 > 后来 Holly 循怀表追查旧案，Awfa 为把调查从 London 引向 Fray，又虚构出 Domesday 遗物。Willy 也信了这个寻宝故事，按 Awfa 安排主动被捕。等 Hug 离开拘留所，Awfa 开来拖车，假意帮 Willy 越狱，实则灭口，未料到会因此把 Ivor 推成唯一嫌疑人。Anty 此后给众人分别透露不同藏处，只有 Podberry 没去寻找，因为只有他知道宝物根本不存在。Cleopatra 与 Willy 谈钱不是为了遗物，而是因为 Willy 声称能取回 Edmund 留给儿子的某样东西。她派 Vickers 去交涉，自己来到 Fray，是想阻止 Anty 卷入与罪犯的交易。
 > 
 > 那张旧地图确有实际价值，它证明 Fray 的边界包含整段河流，所谓 X 其实是界石标记。Houllefort 公爵显然把界石移到河对岸，先前发现的空坑也不是藏宝穴。Fiddles 因此可以向公爵收取用水和泊船费用，缓解财政压力，得以留下 Holly、厨师、山羊，同意恢复旅店原来的低租金。Niff 总往外跑，是因为山羊是群居动物，它在寻找同伴。
-
-> [!spoiler]- 身份真相
 > 
-> Edmund 想要逃避妻子安排的密集活动，而惯常替他顶班的儿子又在 Deauville，便让 Podberry 带着自己的证件假冒出席。那些场合没人认得 Edmund，Holly 自然找不到他。Podberry 也想逃掉 Claridge’s 的公开活动，于是 Edmund 又找来在煤窖结识的 Awfa 冒充 Podberry（伏线），200 英镑是报酬。Edmund 化名 Arthur Tichley，住进 Fray。真正的 Podberry 随后被电车撞死，Awfa 意外获得长期冒充这位学者的机会，还能领取出版社的终身津贴，唯一隐患是知情的 Edmund。于是他写信给次日即将获释的 Willy，依次取每组连续双写字母中的字母，以换行作空格，可读出“BLOKE IN FRAY CALLS HIMSELF TICHLEY GOT SWAG WORTH MILLIONS FIND IT NO MATTER WHAT”。也就是说，Willy 被指使去 Fray 找那个自称 Tichley 的男人，逼他交出价值百万的赃物。Willy 在狱中只需接收这种指令，再把内容说给警方听，便能制造自己隔墙操纵犯罪的假象。信里所谓第三者掌握罪证、警察受贿等内容，全是掩护密码的红鲱鱼。Edmund 拿不出不存在的赃物，因此在电车事故的次日被 Willy 杀害，Willy 后来的供认也就与他事故当日仍在服刑并不冲突。
-> 
-> Awfa 此后两次去停尸房。他第一次趁 Babbage 在场时，把 Edmund、Tichley 尸体的脚趾标签互换，使前来认尸的亲友确实看到 Edmund，却把他当成电车死者。第二次再由 Pendurby 接待，把标签换回，为正式验尸恢复原状，因此才被误以为在尸体上翻找遗物。Babbage 恰好离岗，让第二次换签得以顺利进行。
+> Willy 杀人后拿走了 Edmund 的怀表，里面刻着 Edmund 留给儿子的话：为父子如此相像而抱歉，也为 Anty 感到骄傲，深爱着他。直到此刻，Anty 才承认父亲已经死去。
 
-核心谜题是密闭牢房中的不可能杀人，又把失踪赃物、秘密文书、身份错位、父子旧事层层叠加，表面上不断扩张谜题，红鲱鱼在不同角色手中产生不同动机和误判，仍与主谜题保持结构上的统一。密室部分的物理机制相对简洁，真正复杂的是时间线、身份、证词之间的重新排列，总体保持公平。
+核心谜题是密闭牢房中的不可能杀人，又把失踪赃物、秘密文书、身份错位、父子旧事层层叠加，表面上不断扩张谜题，海量的红鲱鱼在不同角色手中产生不同动机和误判，仍与主谜题保持结构上的统一。密室部分的物理机制相对简洁，真正复杂的是时间线、身份、证词之间的重新排列，总体保持公平。

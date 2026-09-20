@@ -11,7 +11,7 @@ wordpress_id: 9636
 
 # P. J. Fitzsimmons, <i>The Case of the Case of Kilcladdich</i> (2023)
 
-![[images/2026_cover.jpg|250]]
+![[images/2023_cover.jpg|250]]
 
 Anty、Tannin、Vickers 抵达苏格兰北部，前来接站的 Ludovic MacAlistair 宣布，Kilcladdich 首席蒸馏师 Lummy 死于厂内爆炸。众人前往 <i>Mash and Mashie</i> 旅店。10 年前，Tannin 的父亲、Anty 的父亲、富有的品酒家 Mortimer Sheercliffe 组成三人评审团，决定哪家酒厂能够冠用 <i>Glen Glennegie</i> 之名。如今 Anty、Tannin 各自继承了父亲的席位，须与 Mortimer 的继承者再次投票。两家酒厂 Kilcladdich、Kildrummy 的首席蒸馏师均独自反锁顶层蒸馏室，完成最后工序。
 
