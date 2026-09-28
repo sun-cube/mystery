@@ -59,8 +59,6 @@ Sauton 的传记重述 Four Oaks 墓室事件：唯一石门向外开，横梁�
 
 ## Part Three, The impossible crime in the Oglethorpe Crypt
 
-Le Fantôme 独自回想，他曾暗中向警方提供线索，故意让嫌疑范围缩小，再把这份名单变成铁塔陷阱的核心。铁塔案原是他的谢幕，退休后却忍不住又在城堡制造了一场小说般的密室谋杀。他想让世人记住自己的才智，却必须继续藏在受敬重的公开身份后面。
-
 Harris 向 Danvers 重问局长摔杯一事。Danvers 说，Toussante 举杯前反复望着电梯，喝下酒后才跌倒，杯子落地未碎时，他显得尤其着急。Harris 开始怀疑，自己一直把 Toussante 的举动当作中毒后的失控，是否忽略了他喝酒前的意图。Boullante 与 Dechampes 偶遇，彼此都因嫌疑而失去旧日的社交圈，却在交谈中渐生信任。Brooks 夫妇也因舆论被迫返回美国，丈夫还可能逐渐失去职位。Miyati 的病人开始接连退诊。Lacomte 为免 Louvre 再受牵连，辞去副馆长职务。Allingworth 突然不见踪影，店员和房东为他担忧。Larsan 按计划发表含糊的官方说明，引导公众接受公爵是罪犯，事后自行上吊。
 
 Harris 找到制作警方仿钻的 Fournier，确认盒中的仿品是 Toussante 委托制作的。Fournier 认出红盒底部的英国制造商标记，Harris 追查订单。英国病理专家复核尸检报告，如此大量的氰化钾应在数秒内致死，死后不可能再拾杯掷杯。Harris 想起自己亲眼看见的动作，重新审视当时的先后顺序。制造商回信证实，有人以 Toussante 的名义订过两只外形相同的盒子，一只有特别机关，一只只是普通盒子。Harris 把 Larsan 秘密请到剑桥，承认缺少足以定罪的实物证据，却认为唯一能解释两案的人正是 Larsan。
