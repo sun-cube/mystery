@@ -62,6 +62,6 @@ Bencolin 让 Jeff 比较两组物品：直接出现在桌上的书、绳、木�
 > 
 > Bencolin 宣布要把 Colette 送进监狱，把 El Moulk 送回法国受审。埃及人却狂喜地承认，药效减退后，他曾用钢绳敲门，又拿金币诱使 Teddy 把照片和罪证投入炉火。他承认杀人，却自信证据已毁，诅咒已破，起身叫嚷诸神已经死去。他向前迈了一步，踏上活板，木撑折断。他直坠了 20 英尺，固定在屋梁上的钢绳骤然绷紧，折断了他的颈骨。尸体悬在楼下的绿灯上方，Graffin 仍在桌边熟睡。
 
-British Library Crime Classics 的版本附带一个短篇 <i>The Ends of Justice</i>。
+British Library Crime Classics 的版本附带短篇 📖 [[1980 The Door to Doom and Other Detections|The Ends of Justice]]。
 
 本作三组异常串成一场限时复仇：威胁物品出现在无人进入的密室内，司机已被杀死的汽车仍在浓雾中行驶，失踪乘客将在地图上查不到的“毁灭街”遭受绞刑。密室中的物品从何而来，汽车由谁驾驶，刑场究竟在哪里，分别构成递送路径、行动主体、空间定位的谜题，又被同一场绞刑威胁紧密联结。
