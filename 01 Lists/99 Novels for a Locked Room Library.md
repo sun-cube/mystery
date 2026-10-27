@@ -56,7 +56,7 @@ source: https://mysteryfile.com/Locked_Rooms/Library.html
 | 28    | Freeman Wills Crofts             | Sudden Death                                                                                       | 1932 |
 | 29    | Peter Dickinson                  | The Poison Oracle                                                                                  | 1974 |
 | 30    | Carter Dickson                   | [[../Carter Dickson/1934 The Plague Court Murders\|The Plague Court Murders]]                      | 1934 |
-| 31    | Carter Dickson                   | The Red Widow Murders                                                                              | 1935 |
+| 31    | Carter Dickson                   | [[Carter Dickson/1935 The Red Widow Murders\|The Red Widow Murders]]                               | 1935 |
 | 32    | Carter Dickson                   | [[../Carter Dickson/1935 The Unicorn Murders\|The Unicorn Murders]]                                | 1935 |
 | 33    | Carter Dickson                   | [[../Carter Dickson/1937 The Ten Teacups\|The Peacock Feather Murders]]                            | 1937 |
 | 34    | Carter Dickson                   | [[../Carter Dickson/1938 The Judas Window\|The Judas Window]]                                      | 1938 |
