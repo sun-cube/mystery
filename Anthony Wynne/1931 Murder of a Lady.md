@@ -6,6 +6,7 @@ category: English mystery
 tags:
   - impossible_crime
   - locked_room
+  - multiple_solutions
 wordpress_id: 9888
 ---
 
@@ -61,7 +62,7 @@ Hailey 上楼确认孩子只是轻微荨麻疹，又问起水声。Oonagh 听见
 
 > [!spoiler]- 真相
 > 
-> Christina 的儿子死于白喉，Eoghan 的母亲 Kathleen 曾护理他，因此染病。Christina 把对亡子的母爱和对 Kathleen 的感恩，都倾注在 Eoghan 身上。她怨恨 Mary 害了 Kathleen，却因忠于家主 Duchlan 而继续服侍她。直到 Eoghan 的儿子 Hamish 发病，这种忠诚转为了杀意。Christina 迷信地认为，Mary 不仅在重演当年拆散夫妻的旧事，还以邪恶力量危害孩子。她反复说邪恶影响不除，孩子就不会康复，也担心 Mary 趁 Eoghan 回家，向他告发妻子与医生来往，毁掉这段婚姻。
+> Christina 的儿子死于白喉，Eoghan 的母亲 Kathleen 曾护理他，因此染病。Christina 把对亡子的母爱和对 Kathleen 的感恩，都倾注在 Eoghan 身上。她怨恨 Mary 害了 Kathleen，却因忠于家主 Duchlan 而继续服侍她。直到 Eoghan 的儿子 Hamish 发病，这种忠诚转为了杀意。Christina 迷信地认为，Mary 不仅在重演当年拆散夫妻的旧事，还以邪恶力量危害孩子，也担心 Mary 向 Eoghan 告发妻子与医生来往，毁掉这段婚姻。
 > 
 > 案发当晚，Mary 见穿蓝袍的 Oonagh 酷似当年持刀刺伤自己的 Kathleen，惊恐之下锁门关窗。她关好一扇窗后，听见 Eoghan 的汽艇声，以为援手将至，便从另一扇窗探身倾听。楼上配膳间的 Christina 正在凿冰，为 Hamish 补充冰袋。她也听见汽艇，认定 Mary 即将毁掉自己所爱的人，便把整块冰从窗口掷下。冰块撞上窗外铁钉（伏线：铁钉脱锈），碎成尖锐的冰片，其中一片刺入 Mary 肩颈，卡在伤口里。Mary 左臂失用，仍用右手关窗上栓，退到床边才死去。冰片堵住伤口，使她出血很少，后来又在酷暑中融化。凶手没有进入房间，密室是死者自己封闭的。
 > 
