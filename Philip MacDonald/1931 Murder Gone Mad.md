@@ -8,7 +8,7 @@ wordpress_id: 9909
 
 # Philip MacDonald, <i>Murder Gone Mad</i> (1931)
 
-![[images/1931_cover-1.jpg|250]]
+![[images/1931b_cover.jpg|250]]
 
 11 月 23 日傍晚，伦敦通勤列车驶入雪后的 Holmdale。这个新城镇由公司经营，住宅开发、股份收益、筹建地方议会都是居民关心的话题。George Colby 带朋友 Harvey 回家做客，夸赞当地空气让 11 岁的儿子 Lionel 更健康，成绩出众。晚饭后，Lionel 去少年俱乐部练拳。晚上 9 点，他击败了年龄体重都超过自己的对手，只遗憾父母没能看见。与此同时，剧院正在演戏，Montague Flushing 爵士在家中与其他董事谈论公司前景，地方报编辑 Ursula Finch 锁上办公室，镇民各自过着寻常的夜晚。晚上 10:15，Lionel 仍未回家。Colby 与 Harvey 出门寻找，在通往俱乐部的坡道路灯下发现孩子蜷倒在路中央，腹部遭到重创，手已冰冷。
 
