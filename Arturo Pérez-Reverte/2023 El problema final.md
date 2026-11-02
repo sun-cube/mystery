@@ -2,7 +2,7 @@
 author: Arturo Pérez-Reverte
 title: El problema final
 publication_year: 2023
-category: Spanish Mystery
+category: Spanish mystery
 tags:
   - impossible_crime
   - locked_room
