@@ -11,10 +11,10 @@
 | 7   | [[/綾辻行人/1991 時計館の殺人\|時計館の殺人]]                                                          | 綾辻行人              |
 | 8   | [[/三津田信三/2007 首無の如き祟るもの\|首無の如き祟るもの]]                                                   | 三津田信三             |
 | 9   | And Then There Were None                                                               | Agatha Christie   |
-| 10  | The Tragedy of Y                                                                       | Ellery Queen      |
+| 10  | [[/Ellery Queen/1932 The Tragedy of Y\|The Tragedy of Y]]                              | Ellery Queen      |
 | 11  | 虚無への供物                                                                                 | 中井英夫              |
 | 12  | [[/山口雅也/1989 生ける屍の死\|生ける屍の死]]                                                          | 山口雅也              |
-| 13  | The Tragedy of X                                                                       | Ellery Queen      |
+| 13  | [[/Ellery Queen/1932 The Tragedy of X\|The Tragedy of X]]                              | Ellery Queen      |
 | 14  | [[/John Dickson Carr/1935 The Three Coffins\|The Three Coffins]]                       | John Dickson Carr |
 | 15  | 斜め屋敷の犯罪                                                                                | 島田荘司              |
 | 16  | The Innocence of Father Brown                                                          | G. K. Chesterton  |
